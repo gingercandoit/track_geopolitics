@@ -2,7 +2,7 @@
 
 **报告期间**：2026年3月1日至3月28日  
 **生成日期**：2026年3月28日  
-**来源覆盖**：白宫、USTR、BIS、OFAC、中国商务部、新华社、Reuters、Bloomberg、CNBC、CFR、East Asia Forum、SCMP 等
+**来源覆盖**：白宫、USTR、BIS、OFAC、国务院、中国商务部、新华社、Reuters、Bloomberg、CNBC、WSJ、FT、Economist、SCMP、The Diplomat、War on the Rocks、Reddit r/geopolitics 等
 
 ---
 
@@ -15,6 +15,8 @@
 **第二条线是特朗普访华的反复。** 原本计划3月底的特朗普-习近平北京峰会，因为美国卷入伊朗战争而被迫推迟。3月16日特朗普本人透露推迟消息，3月25日白宫正式确认新的访问日期为5月14日至15日。这一推迟客观上给了双方更多时间敲定贸易协议的框架。
 
 **第三条线是日益升温的贸易调查对攻。** USTR在3月11日和12日连续两天发起了两轮"301调查"，以"结构性产能过剩"为由，分别涉及16个和60个经济体，中国自然是核心目标。中国的回应在月底到来——3月27日，商务部宣布对美国启动两项贸易壁垒调查，矛头指向美国限制高科技出口、阻碍绿色产品贸易等行为。这标志着中国从被动接受调查变为主动发起调查。
+
+**月底还浮现了三个新的紧张维度。** 一是台海方向急剧升温：美国跨党派参议员代表团3月28日访台敦促防卫法案，中国同日被曝在台海附近部署歼击机改装无人机，Economist发文追问伊朗战争是否扩大了中国攻台窗口。二是科技脱钩从芯片延伸到AI人才：Meta收购有中国背景的AI初创Manus后，北京限制其核心人员出境，"新加坡洗白"模式遭到质疑；同时Super Micro联合创始人因涉嫌向中国转运英伟达顶级芯片被起诉。三是伊朗战争暴露中国的地缘困境：Reuters独家报道中国头部芯片企业向伊朗军方供应了芯片制造技术，中国又在安理会谴责伊朗的投票中罕见投了弃权票——北京正在伊朗和美国之间走钢丝。
 
 ---
 
@@ -119,6 +121,15 @@
 
 **来源**：MarketMinute
 
+### 3月21日 | 出口管制 | Super Micro联合创始人被控向中国转运英伟达顶级芯片
+
+- WSJ披露Super Micro Computer联合创始人Wally Liaw的密封起诉书正式公开
+- 指控内容：涉嫌帮助中国实体获取英伟达顶级AI芯片，违反出口管制法规
+- 该案将Super Micro推到中美科技战核心——该公司是美国最大的AI服务器制造商之一
+- 案件细节表明：即使在严格出口管制下，高端芯片仍有灰色渠道流向中国
+
+**来源**：[WSJ](https://www.wsj.com/tech/the-silicon-valley-salesman-accused-of-helping-china-get-nvidias-top-chips-f1ecb1c2)
+
 ---
 
 ## 第四周：3月22日至28日
@@ -148,6 +159,100 @@
 - **核心意义**：中国从被调查方的被动角色转变为主动发起调查的一方
 
 **来源**：[新华社英文版](https://english.news.cn/20260327/4baeec1a66db464b9b7068b7303c603d/c.html); [CCTV/央视网](https://news.cctv.com/2026/03/27/ARTIsACfJ2kMQwQVMLd1BJZK260327.shtml); US News; ABC News; Agri-Pulse
+
+### 3月26日 | 政策发布 | 国务院启动"Pax Silica基金"——2.5亿美元半导体外交新工具
+
+- 美国国务院宣布将与国会合作，拨出2.5亿美元建立"Pax Silica基金"
+- 该基金旨在为盟友和合作伙伴的半导体供应链基础设施提供融资和技术支持
+- 与商务部BIS出口管制形成互补：一边限制对华芯片流向，一边帮盟友建产能
+- 名称"Pax Silica"（硅的和平）将半导体秩序上升到地缘和平架构的高度
+
+**来源**：[美国国务院官方](https://www.state.gov/releases/office-of-the-spokesperson/2026/03/department-of-state-launches-pax-silica-fund/)
+
+### 3月25日–27日 | 企业动态 | Meta收购Manus AI引发中美科技管辖权冲突
+
+- Meta完成对新加坡注册但有中国背景的AI初创Manus的收购
+- 3月25日WSJ报道：Manus核心人员已被北京限制出境，面临潜在处罚
+- 3月27日CNBC报道：北京的审查引发科技创业者和投资人恐慌，"新加坡洗白"模式遭质疑
+- 核心矛盾：中国研究人员在新加坡注册公司以规避中美壁垒——但中国政府仍主张管辖权
+- 这一案例成为中美科技人才外流争夺的标志性事件
+
+**来源**：[WSJ](https://www.wsj.com/tech/leaders-of-ai-firm-bought-by-meta-are-restricted-from-leaving-china-6b79da34); [CNBC](https://www.cnbc.com/2026/03/27/meta-manus-china-review-singapore-washing-model-regulation-.html)
+
+### 3月27日 | 媒体深度 | 中国最大芯片制造商被指向伊朗军方供应芯片制造技术
+
+- Reuters独家报道（Reddit r/geopolitics高票传播，266↑）：美国官员称中国头部芯片企业向伊朗军方供应了芯片制造技术
+- 该指控将中美科技脱钩与伊朗战争直接关联——如果证实，可能触发新一轮实体清单行动
+- 在特朗普-习近平5月峰会前夕曝光，时机高度敏感
+- 中国方面尚未公开回应
+
+**来源**：[Reuters](https://www.reuters.com/world/asia-pacific/chinas-top-chipmaker-has-supplied-chipmaking-tech-iran-military-us-officials-say-2026-03-27/)
+
+### 3月27日 | 外交动态 | 中国在安理会谴责伊朗海湾打击的投票中罕见投弃权票
+
+- Channel News Asia报道（Reddit r/geopolitics 54↑，48评论）：中国在联合国安理会谴责伊朗海湾打击的投票中投了弃权票
+- 这一外交姿态极不寻常——中国通常在涉及伊朗的安理会决议中与俄罗斯一起投否决票
+- 分析认为弃权信号表明北京正与德黑兰保持距离，为5月特朗普访华避免外交尴尬
+- 同时中方否认伊朗关于"中国支持"的说法，呼吁各方克制
+
+**来源**：[Channel News Asia](https://www.channelnewsasia.com/east-asia/china-iran-war-abstain-unsc-vote-middle-east-russia-diplomacy-6020671)
+
+### 3月27日 | 企业动态 | 奥地利可能阻止京东22亿欧元收购欧洲最大电子零售商
+
+- Bloomberg报道：奥地利当局拒绝批准京东22亿欧元收购德国Ceconomy（欧洲最大消费电子零售商）的要约
+- 这是欧洲对中国投资审查收紧的最新案例
+- 与Meta/Manus案形成镜像：中国企业出海遭遇西方审查 vs 中国人才出海遭遇北京管控
+
+**来源**：[Bloomberg](https://www.bloomberg.com/news/articles/2026-03-27/austria-declines-to-approve-jd-com-s-offer-to-buy-ceconomy)
+
+### 3月27日 | 数据发布 | 中国1-2月工业利润同比猛增15%
+
+- CNBC报道：中国工业企业利润在年初大幅增长15%，超出市场预期
+- 分析师警告：中东石油价格冲击预计将侵蚀下半年盈利能力
+- 乐观因素：得益于大规模可再生能源建设和战略石油储备，中国受能源冲击程度可能低于其他国家
+- 这一数据为中方进入5月峰会谈判提供了经济信心基础
+
+**来源**：[CNBC](https://www.cnbc.com/2026/03/27/china-industrial-profits-jan-feb-surge-oil-price-shock-threatens-outlook.html)
+
+### 3月27日 | 外交动态 | 特朗普向农民推销对华贸易"胜利"，为峰会铺路
+
+- SCMP报道：特朗普在赴北京会见习近平之前，已开始向美国农民宣传此前对华贸易协议是一场"胜利"
+- 这表明特朗普需要在中期选举前向国内农业选民展示对华贸易成果
+- 5月峰会的隐含目标：一个可以向国内"兜售"的贸易协议
+
+**来源**：[SCMP](https://www.scmp.com/news/us/diplomacy/article/3348219/trump-pitches-china-trade-win-us-farmers-ahead-xi-meeting-midterms)
+
+### 3月28日 | 外交动态 | 美国跨党派参议员代表团访台，敦促通过防卫法案
+
+- FT报道：美国跨党派参议员代表团访问台北，敦促台湾方面配合推进美国国防法案
+- 时机在特朗普确认5月访华之后——体现国会层面对台政策的独立性
+- 与行政部门对华"缓和"信号形成张力：白宫准备访华的同时，国会在强化对台安全承诺
+
+**来源**：[FT](https://www.ft.com/content/4e013aab-4e78-4368-aa06-940b3187e778)
+
+### 3月28日 | 外交动态 | 中国在台海附近部署歼击机改装无人机
+
+- Reuters报道（Reddit r/geopolitics 32↑）：中国在台湾海峡附近基地部署了由退役歼击机改装的无人机
+- 标志着解放军在台海方向的军事态势进一步升级
+- 与同日美国参议员访台形成高度对比——一边立法支持台湾防卫，一边军事压力加码
+
+**来源**：[Reuters](https://www.reuters.com/world/china/china-stations-jets-turned-drones-bases-near-taiwan-strait-report-says-2026-03-27/)
+
+### 3月28日 | 外交动态 | 北京就美驻港领事馆国安法预警召见美方特使
+
+- SCMP报道：北京召见美国驻港最高特使，抗议美领事馆就香港国安法修订向美国公民发出预警
+- 香港政府为修法辩护，称修订旨在堵塞现行法律漏洞
+- 凸显即便在峰会准备期间，中美在香港议题上的结构性分歧依然活跃
+
+**来源**：[SCMP](https://www.scmp.com/news/hong-kong/law-and-crime/article/3348234/hong-kong-government-defends-changes-national-security-law-after-us-alert)
+
+### 3月28日 | 智库分析 | 日本重新审视80年和平主义，伊朗战争扩大台海风险窗口
+
+- WSJ深度报道：日本正以前所未有的速度重新审视延续80年的和平主义，增加国防开支、增强威慑能力
+- Economist同期分析"伊朗战争是否增加了中国攻台风险"：美国军力被中东牵制，给中国创造了更大的战略窗口
+- 两篇分析指向同一趋势：印太安全架构正因伊朗战争和中国崛起而加速重组
+
+**来源**：[WSJ](https://www.wsj.com/world/asia/japan-defense-trump-china-5621e92e); [Economist](https://www.economist.com/china/2026/03/26/does-the-iran-war-increase-the-risk-of-a-chinese-attack-on-taiwan)
 
 ---
 
@@ -192,6 +297,10 @@
 | 中国对美贸易壁垒调查 | 2项 |
 | 特朗普-习近平峰会 | 5月14日至15日，北京 |
 | 3月OFAC制裁行动公告 | 至少4次 |
+| Pax Silica基金 | 2.5亿美元（半导体外交） |
+| 京东/Ceconomy收购 | 22亿欧元（被奥地利阻止） |
+| 中国1-2月工业利润增速 | +15% |
+| 中国安理会投票 | 对伊朗谴责决议投弃权票（罕见） |
 
 ---
 

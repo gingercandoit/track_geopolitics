@@ -2,7 +2,7 @@
 
 **报告期间**：2026年3月1日至3月28日  
 **生成日期**：2026年3月28日  
-**来源覆盖**：DOE、USTR、EXIM、WTO、UNCTAD、IEA、Mayer Brown、Benchmark Minerals、KPMG、Reuters、Bloomberg、TariffCenter.AI、Japan Times 等
+**来源覆盖**：DOE、USTR、EXIM、WTO、UNCTAD、IEA、国务院、Mayer Brown、Benchmark Minerals、KPMG、Reuters、Bloomberg、WSJ、CNBC、Economist、TariffCenter.AI、Japan Times、Reddit r/geopolitics 等
 
 ---
 
@@ -16,7 +16,7 @@
 
 **第三条线是供应链重构的量化信号。** 多组数据描绘出一幅"脱中国化正在发生但远未完成"的图景：美国回流投资规模达1840亿美元，墨西哥近岸外包持续加速，CHIPS Act推动的制造业建设投资激增。但与此同时，中国电池25%关税生效后，美国电池进口跌至五年低点——这揭示了一个尴尬现实：替代供应尚未就位时，关税直接压缩了进口量而非实现了替代。
 
-**第四条线是多边贸易体系的危机与重塑。** WTO第14届部长级会议在喀麦隆雅温得开幕，总干事奥孔乔-伊韦阉拉直言"我们曾经熟悉的世界秩序和多边体系已不可逆转地改变了"。UNCTAD同期发布报告警告霍尔木兹海峡航运中断正在威胁能源、化肥和脆弱经济体的贸易安全。
+**第四条线是多边贸易体系的危机与重塑。** WTO第14届部长级会议在喀麦隆雅温得开幕，总干事奥孔乔-伊韦阉拉直言"我们曾经熟悉的世界秩序和多边体系已不可逆转地改变了"。但MC14也取得了实质成果：66个成员就电子商务协定生效路径达成共识，覆盖全球70%贸易。UNCTAD同期发布报告警告霍尔木兹海峡航运中断正在威胁能源、化肥和脆弱经济体的贸易安全。伊朗战争的冲击波已远超石油——氦气（芯片制造必需）、化肥（全球三分之一经由霍尔木兹）、铝（海湾占全球20%出口）均受严重影响。
 
 ---
 
@@ -38,6 +38,15 @@
 - 经过数年的中断冲击后，企业正在从被动应对转向主动构建韧性
 
 **来源**：[KPMG](https://kpmg.com/us/en/articles/2026/march-2026-supply-chain-update.html)
+
+### 3月2日 | 外交动态 | 加拿大-印度签署19亿美元铀供应协议，深化关键矿产合作
+
+- WSJ报道：加拿大与印度签署总值19亿美元的铀供应协议，同时达成多项关键矿产和能源合作框架
+- 在加拿大与美国关系因特朗普关税威胁而紧张之际，渥太华正积极拓展盟友网络
+- 该协议具有双重战略意义：保障核能供应安全 + 构建不依赖中国的关键矿产供应链
+- 延伸到议题3：铀供应安全在霍尔木兹危机推动的核能复兴中变得更加关键
+
+**来源**：[WSJ](https://www.wsj.com/economy/canada-india-strike-1-9-billion-uranium-supply-agreement-as-they-firm-ties-b025d2ca)
 
 ### 3月6日 | 数据发布 | 2026年回流的真实成本：1840亿美元的供应链大转向
 
@@ -198,6 +207,55 @@
 - 但贸易体系面临重大不确定性：中东冲突和美国关税的双重冲击
 - WTO 争端解决机制处于瘫痪状态——102个成员未提交2025年补贴通知（仅64个提交）
 - 印度商工部长Goyal批评争端解决体系"功能失调"，剥夺了各国的有效申诉途径
+
+### 3月27日 | 国际机构 | EU对取向电工钢发起保障措施调查
+
+- WTO通报：欧盟于3月27日对进口取向电工钢（grain-oriented electrical steel）发起保障措施调查
+- 取向电工钢是变压器和电网基础设施的核心材料
+- 在欧洲推进电网升级和能源转型的背景下，该调查反映了欧盟在关键工业材料上的供应安全关切
+- 保障措施调查是WTO允许的贸易救济工具之一
+
+**来源**：[WTO](https://www.wto.org/english/news_e/news26_e/safe_eec_27mar26_348_e.htm)
+
+### 3月27日 | 媒体深度 | 伊朗战争引发氦气供应危机，俄罗斯可能渔翁得利
+
+- CNBC Tech Download深度分析：氦气已成为伊朗战争对半导体供应链的关键威胁点
+- 伊朗战争中断了经由波斯湾的氦气供应路线——氦气是芯片制造中不可替代的冷却气体
+- 俄罗斯作为全球第二大氦气来源（阿穆尔气体加工厂），可能从供应短缺中获利
+- 这揭示了半导体供应链的一个隐蔽脆弱点：不仅是芯片和设备，连生产用气体也有地缘政治风险
+
+**来源**：[CNBC](https://www.cnbc.com/2026/03/27/russia-helium-supply-crunch-iran-war.html)
+
+### 3月27日 | 企业动态 | 全球最大化肥商Yara警告：农民在价格飙升中被挤压
+
+- WSJ报道：全球最大化肥制造商Yara International的CEO发出警告
+- "投入成本显著上升，但农作物价格未同步上涨"——农民利润空间被严重压缩
+- 伊朗战争导致全球三分之一经由霍尔木兹海峡的化肥供应中断
+- 尿素价格已上涨50%，威胁北半球春播和2027年粮食供应
+
+**来源**：[WSJ](https://www.wsj.com/finance/commodities-futures/fertilizer-maker-yara-warns-farmers-are-being-squeezed-by-price-surge-amid-war-7d03d933)
+
+### 3月28日 | 国际机构 | WTO MC14达成电子商务协定路径——66个成员覆盖70%全球贸易
+
+- WTO第14届部长级会议取得实质性成果：66个WTO成员通过临时安排，为WTO电子商务协定的正式生效铺平道路
+- 这66个经济体覆盖约70%的全球贸易，使该协定成为MC14最重要的可交付成果之一
+- 同日WTO总干事称"多方临时上诉仲裁安排"（MPIA）是争端解决改革前的"信心建设桥梁"
+- 在总干事宣称"世界秩序已不可逆转地改变"的背景下，这些成果显示WTO仍有推进多边贸易规则的能力
+
+**来源**：[WTO](https://www.wto.org/english/news_e/news26_e/mc14_28mar26_341_e.htm); [WTO MPIA](https://www.wto.org/english/news_e/news26_e/mc14_28mar26_350_e.htm)
+
+### 3月28日 | 数据发布 | 中东最大铝生产商冶炼厂在伊朗导弹袭击中严重受损
+
+- Bloomberg报道：阿联酋全球铝业（EGA）最大的金属冶炼厂在伊朗的导弹和无人机袭击中"严重受损"
+- EGA是中东最大的铝生产商，海湾地区占全球原铝出口的约20%
+| WTO MC14电子商务协定 | 66成员达成路径，覆盖70%全球贸易 |
+| 加拿大-印度铀供应协议 | 19亿美元 |
+| 化肥（尿素）价格涨幅 | +50%（伊朗战争导致） |
+| 海湾铝出口占全球 | 约20%（EGA冶炼厂受损） |
+- 铝是从飞机到电缆到包装的基础工业材料——冶炼厂受损意味着供应短缺将从能源扩展到金属
+- 这是伊朗战争对实体供应链基础设施造成直接物理破坏的又一案例
+
+**来源**：[Bloomberg](https://www.bloomberg.com/news/articles/2026-03-28/emirates-global-aluminium-says-smelter-site-damaged-in-attack-mnaeo4uk)
 
 **来源**：[Reuters](https://www.reuters.com/business/wto-chief-world-order-has-irrevocably-changed-2026-03-26/); [ETV Bharat](https://www.etvbharat.com/en/business/wto-dysfunctional-dispute-settlement-system-deprives-countries-of-effective-redressal-goyal-enn26032606785)
 
