@@ -146,13 +146,6 @@
 
 **来源**：[Benchmark Minerals](https://source.benchmarkminerals.com/article/us-battery-imports-fall-to-five-year-low-after-section-301-tariffs-raised-to-25-)
 
-### 3月17日 | 国际机构 | UNCTAD 全球贸易更新（2026年3月）
-
-- UNCTAD 发布月度全球贸易更新报告
-- 主题："改革贸易规则以推动发展"
-- 在WTO部长级会议前夕发布，强调稳定和可预测的多边贸易体系对全球经济增长至关重要
-
-**来源**：[UNCTAD](https://unctad.org/publication/global-trade-update-march-2026-reforming-trade-rules-drive-development)
 
 ### 3月19日 | 企业动态 | 墨西哥近岸外包在2026年持续加速
 
@@ -191,13 +184,6 @@
 
 **来源**：[House Natural Resources Committee](https://naturalresources.house.gov/news/documentsingle.aspx?DocumentID=418689)
 
-### 3月25日 | 数据发布 | Dimerco 关税更新：全球贸易政策铺展全景
-
-- 白宫持续推出覆盖主要贸易伙伴的新全球贸易政策
-- Dimerco 汇总了最新的关税公告及其对供应链的潜在影响
-- 提供了截至3月25日的关税变化实时概览
-
-**来源**：[Dimerco](https://dimerco.com/news-press/us-tariff-update-2025/)
 
 ### 3月26日 | 国际机构 | WTO 第14届部长级会议开幕：总干事称"世界秩序已不可逆转地改变"
 
@@ -252,13 +238,6 @@
 - 这是伊朗战争对实体供应链基础设施造成直接物理破坏的又一案例
 
 **来源**：[Bloomberg](https://www.bloomberg.com/news/articles/2026-03-28/emirates-global-aluminium-says-smelter-site-damaged-in-attack-mnaeo4uk)
-
-### 3月26日 | 国际机构 | UNCTAD-WTO 联合贸易数据揭示全球趋势转变
-
-- UNCTAD 与 WTO 在部长级会议前夕联合发布贸易数据分析
-- 揭示了全球贸易格局的结构性转变趋势
-
-**来源**：[UNCTAD](https://unctad.org/news/unctad-wto-trade-data-highlights-shifting-global-trends-ahead-key-ministerial-talks)
 
 ---
 
