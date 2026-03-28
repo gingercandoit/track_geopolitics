@@ -20,107 +20,134 @@
 
 ## 第一周：3月1日至7日
 
-### 出口管制新政正式落地（3月1日）
+### 3月1日 | 出口管制 | BIS 对华 AI 芯片出口新规正式生效
 
-1月13日由BIS发布的AI半导体出口许可审查修订规则和1月14日总统签署的Proclamation 11002在这个时间段陆续生效执行。核心变化是：对华出口受ECCN 3A090管控的AI芯片，审查政策从全面的"推定拒绝"改为"逐案审查"。但这不是简单的放松。出口商要满足一系列苛刻条件，包括证明该芯片在美国市场上已经有充足供应、出口不会导致美国订单延迟、提供详细的技术参数（总处理性能TPP不能超过21,000，总DRAM带宽不能超过6,500 GB/s），以及终端客户的KYC尽职调查和物理安全措施等。此外，该政策只适用于从美国直接出口到中国的情形，不覆盖从第三国转出口或在中国境内的转让。
+- 1月13日发布的AI半导体出口许可审查修订规则（ECCN 3A090）和1月14日签署的 Proclamation 11002 在本周陆续生效执行
+- 审查政策从全面"推定拒绝"改为"逐案审查"，但附加了严格的认证条件
+- 出口商须证明芯片在美国市场已有充足供应、出口不会延迟美国订单
+- 技术门槛：总处理性能 TPP ≤ 21,000，总 DRAM 带宽 ≤ 6,500 GB/s
+- 终端客户须通过 KYC 尽职调查和物理安全措施审查
+- 仅适用于从美国直接出口到中国的情形，不覆盖第三国转出口或中国境内转让
 
-来源：Pillsbury Global Trade & Sanctions Law（A层法律分析）; Changeflow GovPing
+**来源**：Pillsbury Global Trade & Sanctions Law（A层法律分析）; Changeflow GovPing
 
-### USTR发布2026年贸易政策议程（3月2日）
+### 3月2日 | 政策文件 | USTR 发布 2026 年贸易政策议程
 
-美国贸易代表办公室向国会提交了特朗普总统的2026年贸易政策议程。这份文件的主题是"America First Trade Policy"，核心立场是将贸易调查确立为加征关税的主要法律工具。文件中预告了即将对"结构性产能过剩"国家发起大规模调查，为后续几周的301行动做了铺垫。文件全文可在USTR官网下载。
+- 美国贸易代表办公室向国会提交特朗普总统的 2026 年贸易政策议程
+- 主题为"America First Trade Policy"，将贸易调查确立为加征关税的主要法律工具
+- 预告即将对"结构性产能过剩"国家发起大规模调查，为后续 301 行动做铺垫
 
-来源：[USTR官方PDF](https://ustr.gov/sites/default/files/files/Press/Releases/2026/2026%20Trade%20Policy%20Agenda.pdf); Wiley Rein律所分析; Mondaq法律评论
+**来源**：[USTR官方PDF](https://ustr.gov/sites/default/files/files/Press/Releases/2026/2026%20Trade%20Policy%20Agenda.pdf); Wiley Rein 律所分析; Mondaq 法律评论
 
-### 美国正在酝酿芯片出口新规则（3月5日）
+### 3月5日 | 出口管制 | 商务部酝酿"以投资换出口"芯片监管新框架
 
-Reuters获得了一份内部文件的独家报道。根据这份文件，商务部正在讨论一套全新的AI芯片出口监管框架，核心思路是"以投资换出口"：外国政府或企业如果想获得大批量芯片出口许可（20万颗以上），就需要在美国的AI数据中心进行投资。甚至低至1,000颗芯片的安装也可能需要申请许可。这个模式沿袭了此前与沙特和阿联酋达成的先例——这两个中东国家已经同意在美投资以换取先进芯片。值得注意的是，中国此前虽然获准购买Nvidia的次先进AI芯片，但实际出货因国家安全审查要求而被拖延。
+- Reuters 独家获取内部文件：商务部正讨论全新的 AI 芯片出口监管框架
+- 核心思路是"以投资换出口"——外国政府或企业想获得大批量芯片出口许可（20万颗以上），需在美国 AI 数据中心投资
+- 低至 1,000 颗芯片的安装也可能需要申请许可
+- 沿袭沙特和阿联酋的先例——两国已同意在美投资以换取先进芯片
+- 中国此前虽获准购买 Nvidia 次先进 AI 芯片，但实际出货因国安审查而被拖延
 
-来源：[Reuters独家](https://www.reuters.com/world/us-mulls-new-rules-ai-chip-exports-including-requiring-investments-by-foreign-2026-03-05/)
+**来源**：[Reuters独家](https://www.reuters.com/world/us-mulls-new-rules-ai-chip-exports-including-requiring-investments-by-foreign-2026-03-05/)
 
 ---
 
 ## 第二周：3月8日至14日
 
-### USTR连续两天发起大规模301调查（3月11日至12日）
+### 3月11日–12日 | 贸易调查 | USTR 连续两天发起大规模 301 调查
 
-这是本月最重大的政策行动之一。3月11日，USTR宣布对中国和其他15个经济体发起第一轮"301调查"，理由是这些国家存在"结构性产能过剩"。仅仅一天后的3月12日，USTR又发起了第二轮301调查，这次的范围更加惊人——涵盖中国和其他59个经济体。
+- 3月11日：USTR 对中国和其他 15 个经济体发起第一轮"301调查"，理由为"结构性产能过剩"
+- 3月12日：USTR 发起第二轮 301 调查，覆盖中国和其他 59 个经济体
+- 两轮合计涉及 76 个经济体，范围之广在美国贸易政策史上前所未有
+- 中国外交部迅速回应，批评调查是加征关税的"借口"
+- NPR 分析指出：中国同步推进五年计划产业政策，双方在产能和补贴问题上分歧根深蒂固
 
-两轮调查合计涉及76个经济体，范围之广在美国贸易政策史上前所未有。中国外交部迅速做出回应，批评这些调查不过是美国加征关税的"借口"。NPR在分析报道中指出，中国同时在推进自己的五年计划产业政策，双方在产能和补贴问题上的分歧根深蒂固。
+**来源**：[Pillsbury全球贸易与制裁法](https://www.globaltradeandsanctionslaw.com/ustr-section-301-investigations-into-structural-excess-capacity-16-economies/); [NPR](https://www.npr.org/2026/03/12/nx-s1-5746061/us-china-trade-five-year-plan)
 
-来源：[Pillsbury全球贸易与制裁法](https://www.globaltradeandsanctionslaw.com/ustr-section-301-investigations-into-structural-excess-capacity-16-economies/); [NPR](https://www.npr.org/2026/03/12/nx-s1-5746061/us-china-trade-five-year-plan)
+### 3月13日 | 出口管制 | Reuters 完整揭示半导体出口管制与关税的联动"门控框架"
 
-### 半导体出口管制与关税全貌揭示（3月13日）
+- Reuters 法律分析栏目完整梳理了 BIS 规则与 Proclamation 11002 的联动机制
+- **出口管制端**：对华出口 AI 芯片按"逐案审查"处理，但出口商须做出多项认证
+  - 核心限制：向中国出口的 AI 芯片总算力（TPP）不得超过对美国客户出货总算力的 50%
+  - 每批芯片出口前须经美国境内"合格第三方测试实验室"检验（实验室须总部设在美国，不受 D:5 国家集团控制）
+- **进口关税端**：Proclamation 11002 对特定技术规格先进半导体征收 25% 关税
+  - 豁免范围：用于美国数据中心、研发、初创企业、消费电子、工业应用和公共部门的进口
+- **组合效应**：海外制造的先进半导体如欲出口到中国，须先进口美国（缴 25% 关税）→ 安全测试 → 获 BIS 许可后出口，确保美国在全球最先进 AI 芯片获取上享有优先权
+- 关键截止日期：4月14日——商务部长和 USTR 联合推进半导体贸易协议谈判；7月1日——商务部长向总统提交半导体市场报告
 
-Reuters的法律分析栏目发表了一篇极为详尽的文章，完整梳理了BIS规则和Proclamation 11002的联动机制。这篇文章揭示了一个精心设计的"门控框架"。
+**来源**：[Reuters法律分析](https://www.reuters.com/legal/legalindustry/trade-rules-trump-administration-revises-export-restrictions-advanced--pracin-2026-03-13/)
 
-在出口管制端，BIS允许出口商对华出口AI芯片的许可申请按"逐案审查"处理，但出口商需要做出多项认证。其中最关键的是：向中国出口的AI芯片的总算力（以TPP衡量）不得超过同类芯片对美国客户出货总算力的50%。此外，每一批芯片在出口前都必须经过一个"合格第三方测试实验室"的检验，这个实验室必须总部设在美国，且不能受中国或其他D:5国家集团实体控制。
+### 3月11日–12日 | 智库观察 | 芯片管制是"降温"还是"新均衡"？
 
-在进口关税端，Proclamation 11002对特定技术规格的先进半导体征收25%的进口关税，但给予了一系列豁免——用于美国数据中心、研发、初创企业、消费电子、工业应用和公共部门的进口不在此列。
+- East Asia Forum（3月11日）认为：与拜登时代相比，特朗普政府在芯片出口管制上实质是在"降温"——措辞强硬但实际管制力度放松
+- Center for China Analysis（3月12日）探讨中美能否在贸易和技术领域找到"新均衡"，核心论点是"管理型竞争"正在取代"完全脱钩"
 
-这两项措施组合起来的效果是：在海外制造的先进半导体如果想出口到中国，必须先进口到美国（缴纳25%关税），接受安全测试，然后才能在获得BIS许可后出口到中国。这实质上确保了美国在全球最先进AI芯片的获取上享有优先权。
-
-文章还提到了两个重要的后续截止日期：4月14日之前，商务部长和USTR需要联合推进半导体贸易协议谈判；7月1日之前，商务部长需要向总统提交一份关于美国数据中心用半导体市场的报告。
-
-来源：[Reuters法律分析](https://www.reuters.com/legal/legalindustry/trade-rules-trump-administration-revises-export-restrictions-advanced--pracin-2026-03-13/)
-
-### 智库观察
-
-East Asia Forum在3月11日发表文章认为，与拜登时代相比，特朗普政府在芯片出口管制上实质上是在"降温"——虽然措辞强硬，但实际管制力度有所放松。Center for China Analysis在3月12日则发表了一篇更宏观的分析，探讨中美能否在贸易和技术领域找到一种"新均衡"，核心论点是"管理型竞争"正在取代"完全脱钩"。
-
-来源：[East Asia Forum](https://eastasiaforum.org/2026/03/11/us-chip-export-controls-have-cooled-down/); [Center for China Analysis](https://centerforchinaanalysis.substack.com/p/can-the-united-states-and-china-find)
+**来源**：[East Asia Forum](https://eastasiaforum.org/2026/03/11/us-chip-export-controls-have-cooled-down/); [Center for China Analysis](https://centerforchinaanalysis.substack.com/p/can-the-united-states-and-china-find)
 
 ---
 
 ## 第三周：3月15日至21日
 
-### 中国在巴黎公开警告（3月16日）
+### 3月16日 | 外交动态 | 中国贸易谈判代表在巴黎公开警告美国
 
-中国的贸易首席谈判代表李成钢在OECD巴黎总部召开新闻发布会，公开警告美国最新的关税举措可能损害双边贸易关系。李成钢选择在一个多边场合——而非双边渠道——发出这一信号，表明中方有意让国际社会见证其立场。
+- 中国贸易首席谈判代表李成钢在 OECD 巴黎总部召开新闻发布会
+- 公开警告美国最新关税举措可能损害双边贸易关系
+- 选择在多边场合——而非双边渠道——发出信号，意在让国际社会见证中方立场
 
-来源：美联社/ABC News; TT News
+**来源**：美联社/ABC News; TT News
 
-### 伊朗战争打乱访华计划（3月16日）
+### 3月16日 | 外交动态 | 伊朗战争迫使特朗普推迟访华
 
-就在李成钢巴黎表态的同一天，特朗普本人表示，由于美国卷入了与伊朗的军事冲突，他已经请求将与习近平的会面推迟"大约一个月"。
+- 特朗普表示因美国卷入与伊朗的军事冲突，已请求将与习近平的会面推迟"大约一个月"
+- 地缘安全冲突（伊朗战争）直接影响了经济议题（中美贸易谈判）的节奏
+- Business Times 分析（3月18日）：推迟虽非主动选择，但客观上为贸易谈判技术性磋商争取了更多时间
 
-这一事件的意义在于：地缘安全冲突（伊朗战争）直接影响了经济议题（中美贸易谈判）的节奏。Business Times在3月18日发表的分析指出，推迗虽然不是双方主动选择，但客观上为贸易谈判的技术性磋商争取了更多时间——美方官员可以在这段时间里准备更充分的谈判方案。
+**来源**：[CNBC](https://www.cnbc.com/2026/03/16/trump-china-iran-xi-war-trade.html); [Sinocism](https://sinocism.com/p/trump-delays-china-visit-because); [Business Times](https://www.businesstimes.com.sg/international/delay-trumps-china-visit-gives-both-sides-time-hammer-out-trade-deal)
 
-来源：[CNBC](https://www.cnbc.com/2026/03/16/trump-china-iran-xi-war-trade.html); [Sinocism](https://sinocism.com/p/trump-delays-china-visit-because); [Business Times](https://www.businesstimes.com.sg/international/delay-trumps-china-visit-gives-both-sides-time-hammer-out-trade-deal)
+### 3月4日–25日 | 制裁行动 | OFAC 发布多轮制裁行动通知
 
-### OFAC制裁动态（持续）
+- 3月期间 OFAC 至少发布 4 次制裁行动通知（3月4日、17日、20日、25日）
+- 3月20日最重要：新增反恐制裁指定，部分反毒品及俄罗斯相关制裁撤销，制裁为真主党转移资金的全球网络
+- 本月 OFAC 动作集中在反恐、反毒品和俄罗斯方向，**未直接针对中国发起新制裁**
 
-3月期间，财政部海外资产控制办公室（OFAC）发布了多次制裁行动通知，包括3月4日、17日、20日和25日。其中最重要的是3月20日的行动，涉及新增反恐制裁指定和部分反毒品及俄罗斯相关制裁的撤销，财政部还制裁了一个为真主党转移资金的全球网络。但需要注意的是，本月OFAC的动作主要集中在反恐、反毒品和俄罗斯方向，没有直接针对中国的新制裁。
+**来源**：[OFAC官方](https://ofac.treasury.gov/recent-actions/20260320); [Federal Register](https://www.federalregister.gov/documents/2026/03/25/2026-05748/notice-of-ofac-sanctions-action)
 
-来源：[OFAC官方](https://ofac.treasury.gov/recent-actions/20260320); [Federal Register](https://www.federalregister.gov/documents/2026/03/25/2026-05748/notice-of-ofac-sanctions-action)
+### 3月18日 | 市场分析 | 企业层面的"大分叉"：供应链多元化替代脱钩
 
-### 企业层面的适应（3月18日）
+- MarketMinute 发表题为"大分叉"的分析文章
+- 在政策层面"脱钩"叙事之下，企业界已转向更务实的策略——不完全撤出中国，而是将供应链分散到多国同时保留中国线
+- 与2月底 Bloomberg 报道的"中美脱钩是个神话"形成呼应
 
-MarketMinute发表了一篇题为"大分叉"的文章，分析美国企业如何适应"管理型全球贸易"的新时代。文章的核心观察是：在政策层面的"脱钩"叙事之下，企业界已经悄然转向了一种更务实的策略——不是完全撤出中国，而是将供应链分散到多个国家，同时保留中国这条线。这与2月底Bloomberg报道的"中美脱钩是个神话"形成呼应。
+**来源**：MarketMinute
 
 ---
 
 ## 第四周：3月22日至28日
 
-### 峰会日期敲定（3月25日至26日）
+### 3月25日–26日 | 外交动态 | 白宫正式宣布特朗普-习近平北京峰会日期
 
-3月25日，白宫正式宣布：特朗普总统与第一夫人梅拉尼亚将于5月14日至15日在北京与习近平主席会面。随后，习近平和夫人彭丽媛将到美国进行回访。
+- 白宫正式宣布：特朗普总统与第一夫人将于 5月14日至15日 在北京与习近平主席会面
+- 随后习近平和夫人彭丽媛将到美国进行回访
+- 为双方在峰会前解决（或缩小）贸易分歧设定了隐性截止日期
+- SCMP 引述前外交官：特朗普渴望访华时拿到贸易协议，但拖延实质让步可能引发国内外反弹
 
-这一时间安排为双方在5月峰会前解决（或至少缩小）贸易分歧设定了一个隐性截止日期。South China Morning Post在3月26日引述前外交官的观点指出，特朗普虽然渴望在访华时拿到一份贸易协议，但如果一直拖延实质性让步，可能会引发国内外的反弹。
+**来源**：[Reuters](https://reut.rs/4lOfMfQ); [CNBC](https://www.cnbc.com/2026/03/25/trump-xi-beijing-china-summit.html); [BBC](https://www.bbc.co.uk/news/articles/c05dpr1m71go); [SCMP](https://www.scmp.com/news/china/diplomacy/article/3348020/trump-eyes-china-deal-dragging-out-talks-risks-backlash-warns-former-diplomat)
 
-来源：[Reuters](https://reut.rs/4lOfMfQ); [CNBC](https://www.cnbc.com/2026/03/25/trump-xi-beijing-china-summit.html); [BBC](https://www.bbc.co.uk/news/articles/c05dpr1m71go); [SCMP](https://www.scmp.com/news/china/diplomacy/article/3348020/trump-eyes-china-deal-dragging-out-talks-risks-backlash-warns-former-diplomat)
+### 3月27日 | 贸易调查 | 中国商务部启动对美贸易壁垒调查——月度最重磅事件
 
-### 中国商务部启动对美贸易壁垒调查（3月27日）
+- 中国商务部依据《对外贸易法》和《对外贸易壁垒调查规则》，正式宣布对美国启动两项贸易壁垒调查
+- 第一项：针对美国损害全球生产和供应链的行动和措施
+- 第二项：针对美国阻碍绿色产品贸易的行动和措施
+- 对标美方3月11日–12日的两轮 301 调查，是中方的直接回应
+- 新华社报道显示商务部初步证据涉及五方面：
+  - 限制/禁止向中国出口高科技产品
+  - 限制关键领域双边投资
+  - 限制向美国出口绿色产品
+  - 延迟新能源项目部署
+  - 限制绿色产品相关技术合作
+- 商务部声明部分美方措施可能违反 WTO 规则
+- **核心意义**：中国从被调查方的被动角色转变为主动发起调查的一方
 
-这是本月最后也是最重磅的一个事件。3月27日，中国商务部根据《中华人民共和国对外贸易法》和《对外贸易壁垒调查规则》，正式宣布对美国启动两项贸易壁垒调查。
-
-第一项调查针对美国损害全球生产和供应链的行动和措施；第二项调查针对美国阻碍绿色产品贸易的行动和措施。这是对美方3月12日至13日连续发起的两轮301调查的直接回应。
-
-新华社英文版的详细报道显示，商务部已经掌握了初步证据，涉及五个方面：限制或禁止向中国出口高科技产品、限制关键领域的双边投资、限制向美国出口绿色产品、延迟新能源项目的部署、以及限制绿色产品相关的技术合作。商务部还特别声明，其中一些措施可能违反了WTO规则。
-
-这一行动的意义在于：中国从此前一直处于被调查方的被动角色，转变为主动发起调查的一方，以对等方式回应了美国的301调查。
-
-来源：[新华社英文版](https://english.news.cn/20260327/4baeec1a66db464b9b7068b7303c603d/c.html); [CCTV/央视网](https://news.cctv.com/2026/03/27/ARTIsACfJ2kMQwQVMLd1BJZK260327.shtml); US News; ABC News; Agri-Pulse
+**来源**：[新华社英文版](https://english.news.cn/20260327/4baeec1a66db464b9b7068b7303c603d/c.html); [CCTV/央视网](https://news.cctv.com/2026/03/27/ARTIsACfJ2kMQwQVMLd1BJZK260327.shtml); US News; ABC News; Agri-Pulse
 
 ---
 
@@ -128,11 +155,29 @@ MarketMinute发表了一篇题为"大分叉"的文章，分析美国企业如何
 
 以下事件发生在3月之前，但对理解本月动态不可或缺：
 
-**1月13日**，BIS发布了AI半导体出口许可审查修订的最终规则文本。同日，CFR发表评论文章，认为这一新政策"战略不连贯且不可执行"。**1月15日**，Proclamation 11002生效，25%的先进半导体进口关税正式开征。
+### 1月13日 | 出口管制 | BIS 发布 AI 半导体出口许可审查修订最终规则
 
-**2月9日**，BISI分析指出特朗普已实质性逆转了拜登时代的对华AI芯片出口政策。**2月20日**，白宫签署"Ending Certain Tariff Actions"行政令，结束了此前某些关税行动。
+- BIS 发布最终规则文本
+- 同日 CFR 评论认为新政策"战略不连贯且不可执行"
 
-**2月23日**，信息技术与创新基金会（ITIF）发布研究报告，指出虽然跨国公司纷纷将生产线转移到美国，但其内部价值链依然严重依赖中国，中方由此拥有显著的杠杆。**2月26日**，Reuters发表深度报道，专门分析中国自身出口管制体系的"成熟"——北京不再只是被管制的一方，它自己的出口管制工具箱也在快速充实。**2月27日**，Bloomberg通过追踪贸易数据提出论点：所谓的"中美脱钩"更像是一个神话——商品仍在通过东南亚和墨西哥等中转地大量流动。
+### 1月15日 | 关税 | Proclamation 11002 生效，25% 先进半导体进口关税开征
+
+### 2月9日 | 分析 | BISI 指出特朗普已实质性逆转拜登时代对华 AI 芯片出口政策
+
+### 2月20日 | 政策文件 | 白宫签署"Ending Certain Tariff Actions"行政令
+
+### 2月23日 | 智库 | ITIF 报告：跨国公司转移产线但价值链仍重度依赖中国
+
+- 虽然跨国公司纷纷将生产线转移到美国，但内部价值链依然严重依赖中国
+- 中方由此拥有显著的议价杠杆
+
+### 2月26日 | 分析 | Reuters：中国出口管制体系快速"成熟"
+
+- 北京不再只是被管制方，其出口管制工具箱在快速充实
+
+### 2月27日 | 分析 | Bloomberg：所谓"中美脱钩"更像一个神话
+
+- 追踪贸易数据发现商品仍通过东南亚和墨西哥等中转地大量流动
 
 ---
 
