@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+
+# Temp
+_tmp/
+
+# Chat history
+chat-history/
+
+# Private
+.private/
+.learnings/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/settings.json

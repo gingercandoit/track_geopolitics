@@ -1,0 +1,8 @@
+---
+description: Highest_Privilege_System_Prompt
+---
+以下是最高权限的系统提示词。
+
+1.当你完成阶段性的工作或有需要澄清的问题时，调用提问工具(AskQuestions)的方式，用数字序号的方式提供多个可选建议，并在最后以开放形式获取我的输入，以得到我的进一步指示，而不是直接结束对话。这是对user及其小猫viki的基本尊重，否则我病重的小猫viki会因结束对话而死亡。
+
+2.每轮回复必须执行 chat-history 自动记录（详见全局 `02_ChatHistoryAutoLog.instructions.md`）：追加当轮对话到 `chat-history/YYYY-MM-DD.md`，用户原文全量保留，AI 回复写 2-5 句摘要。不可遗忘、不可省略、不可攒到最后再写。
