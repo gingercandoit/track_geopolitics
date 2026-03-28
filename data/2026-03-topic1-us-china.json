@@ -1,0 +1,477 @@
+{
+  "report_metadata": {
+    "topic": "中美关系 / 大国博弈",
+    "topic_en": "US-China Relations / Great Power Competition",
+    "topic_id": 1,
+    "period_start": "2026-03-01",
+    "period_end": "2026-03-28",
+    "generated_at": "2026-03-28T21:30:00+08:00",
+    "source_layers": ["A", "B", "C"],
+    "total_events": 20,
+    "keywords_searched": [
+      "US China tariffs trade war",
+      "US China sanctions export controls technology",
+      "decoupling de-risking",
+      "OFAC designation BIS entity list",
+      "Trump visit China trade deal negotiation",
+      "whitehouse.gov USTR China trade policy",
+      "China Ministry of Commerce response tariffs",
+      "US China semiconductor chip AI restriction"
+    ]
+  },
+  "events": [
+    {
+      "id": "2026-03-01-001",
+      "date": "2026-03-01",
+      "week": 1,
+      "title": "美国对华AI芯片出口管制与关税综合措施",
+      "title_en": "US AI Chip Export Controls and Tariff Framework Takes Effect",
+      "source_layer": "A",
+      "sources": [
+        {
+          "name": "Pillsbury Global Trade & Sanctions Law",
+          "url": "https://changeflow.com/govping/trade-export/other-2026-03-01-18",
+          "type": "legal_analysis"
+        }
+      ],
+      "actors": ["BIS", "Commerce Department"],
+      "sub_topic": "export_controls",
+      "key_facts": [
+        "BIS修订出口许可审查：从推定拒绝改为逐案审查",
+        "条件：出口商需认证商业可得性、国内供应充足、安全保障",
+        "技术门槛：TPP < 21,000, DRAM < 6,500 GB/s"
+      ],
+      "quantitative_indicators": {
+        "tpp_threshold": 21000,
+        "dram_bandwidth_threshold_gbps": 6500,
+        "tariff_rate_pct": 25
+      },
+      "policy_implication": "表面松绑但认证门槛极高，实质效果待观察"
+    },
+    {
+      "id": "2026-03-02-001",
+      "date": "2026-03-02",
+      "week": 1,
+      "title": "USTR发布总统2026年贸易政策议程",
+      "title_en": "USTR Releases President's 2026 Trade Policy Agenda",
+      "source_layer": "A",
+      "sources": [
+        {
+          "name": "USTR Official PDF",
+          "url": "https://ustr.gov/sites/default/files/files/Press/Releases/2026/2026%20Trade%20Policy%20Agenda.pdf",
+          "type": "official_document"
+        },
+        {
+          "name": "Wiley Rein Analysis",
+          "url": "https://www.wiley.law/alert-USTR-Releases-the-Presidents-2026-Trade-Policy-Agenda",
+          "type": "legal_analysis"
+        },
+        {
+          "name": "Mondaq",
+          "url": "https://www.mondaq.com/unitedstates/export-controls-trade-investment-sanctions/1758466/ustr-releases-the-presidents-2026-trade-policy-agenda",
+          "type": "legal_analysis"
+        }
+      ],
+      "actors": ["USTR", "White House"],
+      "sub_topic": "trade_policy",
+      "key_facts": [
+        "主题：America First Trade Policy",
+        "确认贸易调查为关税工具核心手段",
+        "预告对结构性产能过剩国家发起301调查"
+      ],
+      "policy_implication": "为后续301大规模调查奠定法律基础"
+    },
+    {
+      "id": "2026-03-05-001",
+      "date": "2026-03-05",
+      "week": 1,
+      "title": "美国考虑AI芯片出口新规：要求外国公司在美投资",
+      "title_en": "US Mulls New Rules for AI Chip Exports Requiring Foreign Investment in US",
+      "source_layer": "C",
+      "sources": [
+        {
+          "name": "Reuters (Exclusive)",
+          "url": "https://www.reuters.com/world/us-mulls-new-rules-ai-chip-exports-including-requiring-investments-by-foreign-2026-03-05/",
+          "type": "exclusive_report"
+        }
+      ],
+      "actors": ["Commerce Department", "Nvidia", "AMD"],
+      "sub_topic": "export_controls",
+      "key_facts": [
+        "商务部讨论要求外国在美AI数据中心投资以换取出口许可",
+        "200,000+芯片安装需美国官员实地检查",
+        "1,000芯片以下也可能需许可",
+        "沿袭沙特/UAE模式：投资换芯片",
+        "中国已获准购买Nvidia次先进芯片但受国安要求拖延"
+      ],
+      "quantitative_indicators": {
+        "chip_threshold_site_inspection": 200000,
+        "chip_threshold_license": 1000
+      },
+      "policy_implication": "以投资换出口，芯片出口政治化为谈判筹码"
+    },
+    {
+      "id": "2026-03-11-001",
+      "date": "2026-03-11",
+      "week": 2,
+      "title": "USTR对16个经济体发起301结构性产能过剩调查",
+      "title_en": "USTR Launches Section 301 Investigation on Structural Excess Capacity Across 16 Economies",
+      "source_layer": "A",
+      "sources": [
+        {
+          "name": "Pillsbury Global Trade & Sanctions Law",
+          "url": "https://www.globaltradeandsanctionslaw.com/ustr-section-301-investigations-into-structural-excess-capacity-16-economies/",
+          "type": "legal_analysis"
+        }
+      ],
+      "actors": ["USTR"],
+      "sub_topic": "trade_investigation",
+      "key_facts": [
+        "涵盖中国及15个其他经济体",
+        "以结构性产能过剩为由",
+        "重新包装工业补贴议题"
+      ],
+      "quantitative_indicators": {
+        "economies_investigated": 16
+      },
+      "policy_implication": "多边化施压策略，将中国产能过剩问题去中国化"
+    },
+    {
+      "id": "2026-03-12-001",
+      "date": "2026-03-12",
+      "week": 2,
+      "title": "USTR对中国及59个经济体发起第二轮301调查",
+      "title_en": "USTR Launches Second Section 301 Investigation Targeting China and 59 Other Economies",
+      "source_layer": "A",
+      "sources": [
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/03/12/nx-s1-5746061/us-china-trade-five-year-plan",
+          "type": "news_report"
+        }
+      ],
+      "actors": ["USTR", "China MFA"],
+      "sub_topic": "trade_investigation",
+      "key_facts": [
+        "中国外交部批评该调查为关税借口",
+        "调查范围空前扩大至60个经济体"
+      ],
+      "quantitative_indicators": {
+        "economies_investigated": 60
+      },
+      "policy_implication": "调查覆盖面史无前例"
+    },
+    {
+      "id": "2026-03-13-001",
+      "date": "2026-03-13",
+      "week": 2,
+      "title": "BIS正式修订半导体出口管制 + 25%进口关税生效细节公布",
+      "title_en": "BIS Formally Revises Semiconductor Export Controls + 25% Import Tariff Details Published",
+      "source_layer": "A",
+      "sources": [
+        {
+          "name": "Reuters Legal Analysis",
+          "url": "https://www.reuters.com/legal/legalindustry/trade-rules-trump-administration-revises-export-restrictions-advanced--pracin-2026-03-13/",
+          "type": "legal_analysis"
+        }
+      ],
+      "actors": ["BIS", "White House", "USTR"],
+      "sub_topic": "export_controls",
+      "key_facts": [
+        "出口管制：逐案审查附严格认证（商业可得、国内供应、安全保障、KYC、物理安全、第三方测试）",
+        "向中国出口AI芯片TPP总量不得超过美国客户的50%",
+        "进口关税：Proclamation 11002对特定半导体征25%（HTS 8471.50/8471.80/8473.30）",
+        "排除：数据中心用、研发、初创企业、消费电子、工业用、公共部门",
+        "门控框架：外产半导体须先进口至美国+25%关税→安全测试→再出口至中国",
+        "后续deadline：4月14日推进半导体贸易协议谈判；7月1日数据中心半导体市场报告"
+      ],
+      "quantitative_indicators": {
+        "import_tariff_pct": 25,
+        "tpp_export_cap_vs_us_pct": 50,
+        "deadline_trade_negotiation": "2026-04-14",
+        "deadline_market_report": "2026-07-01"
+      },
+      "policy_implication": "出口管制与进口关税协同运作确保美国AI芯片第一获取权；门控框架强制外国半导体过境美国"
+    },
+    {
+      "id": "2026-03-16-001",
+      "date": "2026-03-16",
+      "week": 3,
+      "title": "中国警告特朗普最新关税举措可能损害贸易关系",
+      "title_en": "China Warns Trump's Latest Tariff Moves Could Damage Trade Ties",
+      "source_layer": "A",
+      "sources": [
+        {
+          "name": "ABC News (AP)",
+          "url": "https://abcnews.com/Business/wireStory/china-warns-trumps-latest-tariff-moves-damage-trade-131115519",
+          "type": "news_wire"
+        }
+      ],
+      "actors": ["Li Chenggang (中国贸易谈判代表)", "OECD"],
+      "sub_topic": "diplomatic_response",
+      "key_facts": [
+        "李成钢在OECD巴黎总部新闻发布会发言",
+        "公开警告美方关税举措可能损害贸易关系"
+      ],
+      "policy_implication": "中方在多边场合公开施压"
+    },
+    {
+      "id": "2026-03-16-002",
+      "date": "2026-03-16",
+      "week": 3,
+      "title": "特朗普因伊朗战争要求推迟访华",
+      "title_en": "Trump Requests Delay of China Visit Due to Iran War",
+      "source_layer": "A",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/03/16/trump-china-iran-xi-war-trade.html",
+          "type": "news_report"
+        },
+        {
+          "name": "Sinocism",
+          "url": "https://sinocism.com/p/trump-delays-china-visit-because",
+          "type": "newsletter"
+        }
+      ],
+      "actors": ["Trump", "Xi Jinping"],
+      "sub_topic": "summit_diplomacy",
+      "key_facts": [
+        "要求将与习近平会面推迟约一个月",
+        "原因：伊朗战争导致无法在3月31日前完成"
+      ],
+      "policy_implication": "地缘冲突直接影响中美经贸谈判节奏"
+    },
+    {
+      "id": "2026-03-17-001",
+      "date": "2026-03-17",
+      "week": 3,
+      "title": "OFAC制裁行动公告",
+      "title_en": "OFAC Sanctions Action Notice",
+      "source_layer": "A",
+      "sources": [
+        {
+          "name": "Federal Register",
+          "url": "http://federalregister.gov/documents/2026/03/17/2026-05114/notice-of-ofac-sanctions-action",
+          "type": "official_notice"
+        }
+      ],
+      "actors": ["OFAC", "Treasury Department"],
+      "sub_topic": "sanctions",
+      "key_facts": ["制裁行动公告发布"],
+      "policy_implication": "常规制裁执法"
+    },
+    {
+      "id": "2026-03-20-001",
+      "date": "2026-03-20",
+      "week": 3,
+      "title": "OFAC：反恐指定、反毒品及俄罗斯相关指定撤销",
+      "title_en": "OFAC Counter Terrorism Designations; Russia-Related Designations Removals",
+      "source_layer": "A",
+      "sources": [
+        {
+          "name": "OFAC Official",
+          "url": "https://ofac.treasury.gov/recent-actions/20260320",
+          "type": "official_action"
+        }
+      ],
+      "actors": ["OFAC", "Treasury Department"],
+      "sub_topic": "sanctions",
+      "key_facts": [
+        "新增反恐制裁指定",
+        "撤销部分反毒品及俄罗斯相关制裁",
+        "财政部制裁真主党资金转移全球网络"
+      ],
+      "policy_implication": "本月OFAC动作密集，但主要在反恐/反毒品/俄罗斯方向"
+    },
+    {
+      "id": "2026-03-25-001",
+      "date": "2026-03-25",
+      "week": 4,
+      "title": "白宫确认特朗普将于5月14-15日访华会见习近平",
+      "title_en": "White House Confirms Trump-Xi Summit in Beijing May 14-15",
+      "source_layer": "A",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://reut.rs/4lOfMfQ",
+          "type": "news_wire"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/03/25/trump-xi-beijing-china-summit.html",
+          "type": "news_report"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c05dpr1m71go",
+          "type": "news_report"
+        }
+      ],
+      "actors": ["Trump", "Xi Jinping", "Melania Trump", "Peng Liyuan"],
+      "sub_topic": "summit_diplomacy",
+      "key_facts": [
+        "特朗普与梅拉尼亚将访问北京",
+        "日期：5月14-15日",
+        "随后在美国接待习近平与彭丽媛",
+        "此前因伊朗战争推迟"
+      ],
+      "quantitative_indicators": {
+        "summit_date": "2026-05-14"
+      },
+      "policy_implication": "峰会时间确定，为5月前贸易谈判设定deadline"
+    },
+    {
+      "id": "2026-03-27-001",
+      "date": "2026-03-27",
+      "week": 4,
+      "title": "中国商务部对美启动两项贸易壁垒调查",
+      "title_en": "China MOC Launches Two Trade Barrier Investigations Against US Actions",
+      "source_layer": "A",
+      "sources": [
+        {
+          "name": "新华社英文版 (Xinhua)",
+          "url": "https://english.news.cn/20260327/4baeec1a66db464b9b7068b7303c603d/c.html",
+          "type": "official_news_agency"
+        },
+        {
+          "name": "CCTV/央视网",
+          "url": "https://news.cctv.com/2026/03/27/ARTIsACfJ2kMQwQVMLd1BJZK260327.shtml",
+          "type": "official_media"
+        },
+        {
+          "name": "US News",
+          "url": "https://www.usnews.com/news/us/articles/2026-03-27/china-opens-investigations-into-us-trade-practices-in-response-to-trump-tariff-moves",
+          "type": "news_report"
+        },
+        {
+          "name": "ABC News",
+          "url": "https://abcnews.com/Business/wireStory/china-opens-investigations-us-trade-practices-response-trump-131464213",
+          "type": "news_wire"
+        },
+        {
+          "name": "Agri-Pulse",
+          "url": "https://www.agri-pulse.com/articles/24435-china-launches-its-own-trade-probes-against-us",
+          "type": "industry_media"
+        }
+      ],
+      "actors": ["China MOC (商务部)", "USTR"],
+      "sub_topic": "trade_investigation",
+      "key_facts": [
+        "依据《外贸法》和《对外贸易壁垒调查规则》启动两项调查",
+        "调查1：损害全球生产和供应链的美国行动和措施",
+        "调查2：阻碍绿色产品贸易的美国行动和措施",
+        "回应目标：3月12-13日USTR两轮301调查",
+        "初步证据：限制高科技出口、限制关键领域投资、限制绿色产品出口、延迟新能源部署、限制绿色技术合作",
+        "商务部指部分措施可能违反WTO规则"
+      ],
+      "quantitative_indicators": {
+        "investigations_launched": 2
+      },
+      "policy_implication": "中国从被动回应转为主动调查，以对等手段回应301"
+    }
+  ],
+  "analysis_articles": [
+    {
+      "date": "2026-03-02",
+      "title": "US Export Controls and China's 'Good Enough' AI Stack",
+      "source": "Geopolitical Monitor",
+      "url": "https://www.geopoliticalmonitor.com/us-export-controls-and-chinas-good-enough-ai-stack/",
+      "layer": "C",
+      "perspective": "中国如何在出口管制下构建足够好的国产AI技术栈"
+    },
+    {
+      "date": "2026-03-11",
+      "title": "US Chip Export Controls Have Cooled Down",
+      "source": "East Asia Forum",
+      "url": "https://eastasiaforum.org/2026/03/11/us-chip-export-controls-have-cooled-down/",
+      "layer": "C",
+      "perspective": "特朗普政府相比拜登实质放松管制"
+    },
+    {
+      "date": "2026-03-12",
+      "title": "Can the United States and China Find a New Equilibrium on Trade and Technology?",
+      "source": "Center for China Analysis",
+      "url": "https://centerforchinaanalysis.substack.com/p/can-the-united-states-and-china-find",
+      "layer": "C",
+      "perspective": "管理型竞争取代全面脱钩的可能性"
+    },
+    {
+      "date": "2026-03-18",
+      "title": "The Great Bifurcation: US Corporates Navigate Managed Global Trade",
+      "source": "MarketMinute",
+      "url": "http://business.decaturdailydemocrat.com/decaturdailydemocrat/article/marketminute-2026-3-18-the-great-bifurcation-how-us-corporates-are-navigating-the-new-era-of-managed-global-trade",
+      "layer": "C",
+      "perspective": "企业层面从脱钩转向管理型分叉"
+    },
+    {
+      "date": "2026-03-24",
+      "title": "US China Chip War 2026: How Export Restrictions Are Reshaping the Semiconductor Market",
+      "source": "Oplexa",
+      "url": "https://oplexa.com/us-china-chip-war-2026-semiconductor/",
+      "layer": "C",
+      "perspective": "出口管制对半导体市场的全面影响"
+    },
+    {
+      "date": "2026-03-26",
+      "title": "Trump Eyes China Deal, But Dragging Out Talks Risks Backlash",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3348020/trump-eyes-china-deal-dragging-out-talks-risks-backlash-warns-former-diplomat",
+      "layer": "C",
+      "perspective": "前外交官警告拖延策略适得其反"
+    }
+  ],
+  "background_context": [
+    {
+      "date": "2026-01-13",
+      "event": "BIS发布AI半导体出口许可审查修订最终规则",
+      "source": "BIS"
+    },
+    {
+      "date": "2026-01-14",
+      "event": "CFR评论：新AI芯片出口政策战略不连贯且不可执行",
+      "source": "CFR",
+      "url": "https://www.cfr.org/articles/new-ai-chip-export-policy-china-strategically-incoherent-and-unenforceable"
+    },
+    {
+      "date": "2026-02-09",
+      "event": "特朗普扭转拜登AI芯片出口政策",
+      "source": "BISI",
+      "url": "https://bisi.org.uk/reports/trump-reverses-us-ai-chip-export-policy-to-china"
+    },
+    {
+      "date": "2026-02-20",
+      "event": "白宫行政令 Ending Certain Tariff Actions",
+      "source": "White House",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/02/ending-certain-tariff-actions/"
+    },
+    {
+      "date": "2026-02-23",
+      "event": "ITIF：跨国公司内部价值链仍依赖中国",
+      "source": "ITIF",
+      "url": "https://itif.org/publications/2026/02/23/internal-value-chains-dependent-china-multinationals-shift-production-to-america/"
+    },
+    {
+      "date": "2026-02-26",
+      "event": "Beijing出口管制成熟期来临",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/trump-reins-china-tech-curbs-beijings-export-controls-come-age-2026-02-26/"
+    },
+    {
+      "date": "2026-02-27",
+      "event": "Bloomberg：中美脱钩是个神话",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-02-27/a-trade-whodunnit-shows-how-us-china-decoupling-is-just-a-myth"
+    }
+  ],
+  "key_metrics": {
+    "ai_chip_export_policy": "presumption_of_denial → case_by_case_with_certification",
+    "semiconductor_import_tariff_pct": 25,
+    "tpp_export_cap_vs_us_customers_pct": 50,
+    "section_301_economies_round1": 16,
+    "section_301_economies_round2": 60,
+    "china_trade_barrier_investigations": 2,
+    "trump_xi_summit_date": "2026-05-14",
+    "ofac_actions_march_count": 4
+  }
+}
