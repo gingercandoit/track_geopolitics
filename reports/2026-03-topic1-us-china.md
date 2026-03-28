@@ -39,7 +39,7 @@
 
 **来源**：[USTR官方PDF](https://ustr.gov/sites/default/files/files/Press/Releases/2026/2026%20Trade%20Policy%20Agenda.pdf); Wiley Rein 律所分析; Mondaq 法律评论
 
-### 3月5日 | 出口管制 | 商务部酝酿"以投资换出口"芯片监管新框架
+### 3月5日 | 媒体深度 | 商务部酝酿"以投资换出口"芯片监管新框架（Reuters独家）
 
 - Reuters 独家获取内部文件：商务部正讨论全新的 AI 芯片出口监管框架
 - 核心思路是"以投资换出口"——外国政府或企业想获得大批量芯片出口许可（20万颗以上），需在美国 AI 数据中心投资
@@ -63,7 +63,7 @@
 
 **来源**：[Pillsbury全球贸易与制裁法](https://www.globaltradeandsanctionslaw.com/ustr-section-301-investigations-into-structural-excess-capacity-16-economies/); [NPR](https://www.npr.org/2026/03/12/nx-s1-5746061/us-china-trade-five-year-plan)
 
-### 3月13日 | 出口管制 | Reuters 完整揭示半导体出口管制与关税的联动"门控框架"
+### 3月13日 | 媒体深度 | Reuters 完整揭示半导体出口管制与关税的联动"门控框架"
 
 - Reuters 法律分析栏目完整梳理了 BIS 规则与 Proclamation 11002 的联动机制
 - **出口管制端**：对华出口 AI 芯片按"逐案审查"处理，但出口商须做出多项认证
@@ -76,7 +76,7 @@
 
 **来源**：[Reuters法律分析](https://www.reuters.com/legal/legalindustry/trade-rules-trump-administration-revises-export-restrictions-advanced--pracin-2026-03-13/)
 
-### 3月11日–12日 | 智库观察 | 芯片管制是"降温"还是"新均衡"？
+### 3月11日–12日 | 智库分析 | 芯片管制是"降温"还是"新均衡"？
 
 - East Asia Forum（3月11日）认为：与拜登时代相比，特朗普政府在芯片出口管制上实质是在"降温"——措辞强硬但实际管制力度放松
 - Center for China Analysis（3月12日）探讨中美能否在贸易和技术领域找到"新均衡"，核心论点是"管理型竞争"正在取代"完全脱钩"
@@ -111,7 +111,7 @@
 
 **来源**：[OFAC官方](https://ofac.treasury.gov/recent-actions/20260320); [Federal Register](https://www.federalregister.gov/documents/2026/03/25/2026-05748/notice-of-ofac-sanctions-action)
 
-### 3月18日 | 市场分析 | 企业层面的"大分叉"：供应链多元化替代脱钩
+### 3月18日 | 企业动态 | 企业层面的"大分叉"：供应链多元化替代脱钩
 
 - MarketMinute 发表题为"大分叉"的分析文章
 - 在政策层面"脱钩"叙事之下，企业界已转向更务实的策略——不完全撤出中国，而是将供应链分散到多国同时保留中国线
@@ -160,22 +160,22 @@
 - BIS 发布最终规则文本
 - 同日 CFR 评论认为新政策"战略不连贯且不可执行"
 
-### 1月15日 | 关税 | Proclamation 11002 生效，25% 先进半导体进口关税开征
+### 1月15日 | 行政命令 | Proclamation 11002 生效，25% 先进半导体进口关税开征
 
-### 2月9日 | 分析 | BISI 指出特朗普已实质性逆转拜登时代对华 AI 芯片出口政策
+### 2月9日 | 媒体深度 | BISI 指出特朗普已实质性逆转拜登时代对华 AI 芯片出口政策
 
-### 2月20日 | 政策文件 | 白宫签署"Ending Certain Tariff Actions"行政令
+### 2月20日 | 行政命令 | 白宫签署"Ending Certain Tariff Actions"行政令
 
-### 2月23日 | 智库 | ITIF 报告：跨国公司转移产线但价值链仍重度依赖中国
+### 2月23日 | 智库分析 | ITIF 报告：跨国公司转移产线但价值链仍重度依赖中国
 
 - 虽然跨国公司纷纷将生产线转移到美国，但内部价值链依然严重依赖中国
 - 中方由此拥有显著的议价杠杆
 
-### 2月26日 | 分析 | Reuters：中国出口管制体系快速"成熟"
+### 2月26日 | 媒体深度 | Reuters：中国出口管制体系快速"成熟"
 
 - 北京不再只是被管制方，其出口管制工具箱在快速充实
 
-### 2月27日 | 分析 | Bloomberg：所谓"中美脱钩"更像一个神话
+### 2月27日 | 媒体深度 | Bloomberg：所谓"中美脱钩"更像一个神话
 
 - 追踪贸易数据发现商品仍通过东南亚和墨西哥等中转地大量流动
 
