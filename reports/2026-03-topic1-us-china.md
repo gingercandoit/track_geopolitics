@@ -214,14 +214,6 @@
 
 **来源**：[CNBC](https://www.cnbc.com/2026/03/27/china-industrial-profits-jan-feb-surge-oil-price-shock-threatens-outlook.html)
 
-### 3月27日 | 外交动态 | 特朗普向农民推销对华贸易"胜利"，为峰会铺路
-
-- SCMP报道：特朗普在赴北京会见习近平之前，已开始向美国农民宣传此前对华贸易协议是一场"胜利"
-- 这表明特朗普需要在中期选举前向国内农业选民展示对华贸易成果
-- 5月峰会的隐含目标：一个可以向国内"兜售"的贸易协议
-
-**来源**：[SCMP](https://www.scmp.com/news/us/diplomacy/article/3348219/trump-pitches-china-trade-win-us-farmers-ahead-xi-meeting-midterms)
-
 ### 3月28日 | 外交动态 | 美国跨党派参议员代表团访台，敦促通过防卫法案
 
 - FT报道：美国跨党派参议员代表团访问台北，敦促台湾方面配合推进美国国防法案
@@ -246,14 +238,6 @@
 
 **来源**：[SCMP](https://www.scmp.com/news/hong-kong/law-and-crime/article/3348234/hong-kong-government-defends-changes-national-security-law-after-us-alert)
 
-### 3月28日 | 智库分析 | 日本重新审视80年和平主义，伊朗战争扩大台海风险窗口
-
-- WSJ深度报道：日本正以前所未有的速度重新审视延续80年的和平主义，增加国防开支、增强威慑能力
-- Economist同期分析"伊朗战争是否增加了中国攻台风险"：美国军力被中东牵制，给中国创造了更大的战略窗口
-- 两篇分析指向同一趋势：印太安全架构正因伊朗战争和中国崛起而加速重组
-
-**来源**：[WSJ](https://www.wsj.com/world/asia/japan-defense-trump-china-5621e92e); [Economist](https://www.economist.com/china/2026/03/26/does-the-iran-war-increase-the-risk-of-a-chinese-attack-on-taiwan)
-
 ---
 
 ## 背景参考
@@ -267,9 +251,18 @@
 
 ### 1月15日 | 行政命令 | Proclamation 11002 生效，25% 先进半导体进口关税开征
 
+- 对中国产先进半导体征收25%进口关税正式开征，覆盖高端GPU、AI加速器等品类
+- 这是特朗普政府将半导体从出口管制扩展到进口关税的关键一步
+
 ### 2月9日 | 媒体深度 | BISI 指出特朗普已实质性逆转拜登时代对华 AI 芯片出口政策
 
+- 报道揭示特朗普政府对华AI芯片出口政策已从拜登时代的"推定拒绝"转向逐案审查
+- 核心变化：放松管制的同时附加更严格的最终用户认证要求
+
 ### 2月20日 | 行政命令 | 白宫签署"Ending Certain Tariff Actions"行政令
+
+- 终止部分此前基于IEEPA紧急权力征收的关税，标志着贸易执法从紧急令回归常规法律框架
+- 为后续的Section 301调查替代方案铺路
 
 ### 2月23日 | 智库分析 | ITIF 报告：跨国公司转移产线但价值链仍重度依赖中国
 

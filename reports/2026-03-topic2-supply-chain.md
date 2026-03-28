@@ -248,16 +248,10 @@
 
 - Bloomberg报道：阿联酋全球铝业（EGA）最大的金属冶炼厂在伊朗的导弹和无人机袭击中"严重受损"
 - EGA是中东最大的铝生产商，海湾地区占全球原铝出口的约20%
-| WTO MC14电子商务协定 | 66成员达成路径，覆盖70%全球贸易 |
-| 加拿大-印度铀供应协议 | 19亿美元 |
-| 化肥（尿素）价格涨幅 | +50%（伊朗战争导致） |
-| 海湾铝出口占全球 | 约20%（EGA冶炼厂受损） |
 - 铝是从飞机到电缆到包装的基础工业材料——冶炼厂受损意味着供应短缺将从能源扩展到金属
 - 这是伊朗战争对实体供应链基础设施造成直接物理破坏的又一案例
 
 **来源**：[Bloomberg](https://www.bloomberg.com/news/articles/2026-03-28/emirates-global-aluminium-says-smelter-site-damaged-in-attack-mnaeo4uk)
-
-**来源**：[Reuters](https://www.reuters.com/business/wto-chief-world-order-has-irrevocably-changed-2026-03-26/); [ETV Bharat](https://www.etvbharat.com/en/business/wto-dysfunctional-dispute-settlement-system-deprives-countries-of-effective-redressal-goyal-enn26032606785)
 
 ### 3月26日 | 国际机构 | UNCTAD-WTO 联合贸易数据揭示全球趋势转变
 
@@ -307,6 +301,10 @@
 | 美国回流投资规模 | 1840亿美元 |
 | WTO 成员补贴通知提交率 | 64/166（38.6%） |
 | 铜半成品进口关税 | 50%（Section 232） |
+| WTO MC14电子商务协定 | 66成员达成路径，覆盖70%全球贸易 |
+| 加拿大-印度铀供应协议 | 19亿美元 |
+| 化肥（尿素）价格涨幅 | +50%（伊朗战争导致） |
+| 海湾铝出口占全球 | 约20%（EGA冶炼厂受损） |
 
 ---
 
