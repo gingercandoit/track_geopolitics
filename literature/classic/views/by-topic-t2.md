@@ -486,7 +486,7 @@
 ---
 
 ### Dani Rodrik (2018) — Understanding Economic Policy Reform
-- **期刊**： [other]
+- **期刊**：Routledge (book chapter) [other]
 - **引用**：1283
 - **优先级**：core
 - **议题**：T2, T5

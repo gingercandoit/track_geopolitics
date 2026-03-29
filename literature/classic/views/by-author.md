@@ -27,7 +27,7 @@
 
 - [486 cites] (2018) What Do Trade Agreements Really Do? — *The Journal of Economic Perspectives* [T2] T2
 - [1708 cites] (2015) Premature deindustrialization — *Journal of Economic Growth* [T2] T2,T5
-- [1283 cites] (2018) Understanding Economic Policy Reform — ** [other] T2,T5
+- [1283 cites] (2018) Understanding Economic Policy Reform — *Routledge (book chapter)* [other] T2,T5
 - [1268 cites] (2018) Populism and the economics of globalization — *Journal of International Business Policy* [other] T2,T5
 
 ## Daron Acemoğlu (2 篇, 2938 总引用)

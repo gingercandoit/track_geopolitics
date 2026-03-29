@@ -101,7 +101,7 @@
   - 📝 研究经济胁迫与目标国货币危机的关系——经济制裁如何通过资本外逃和汇率压力触发金融不稳定。
 
 - ◆ **Robert D. Blackwill, Jennifer Harris (2016)** — War by Other Means: Geoeconomics and Statecraft
-  -  [other] | 305 citations
+  - Harvard University Press (book) [other] | 305 citations
   - DOI: [https://doi.org/10.4159/9780674545960](https://doi.org/10.4159/9780674545960)
   - 📝 '以其他手段进行的战争'：地缘经济学与治国术——系统论述经济工具（制裁、贸易、金融）如何服务于地缘政治目标。
 
@@ -278,7 +278,7 @@
   - 📝 全球化理论权威Pol Antràs分析去全球化趋势：从数据上评估全球化是否真正在逆转，区分贸易全球化与金融全球化的不同轨迹，并讨论疫情和地缘冲突对全球经济一体化前景的影响。
 
 - ★ **Dani Rodrik (2018)** — Understanding Economic Policy Reform
-  -  [other] | 1283 citations
+  - Routledge (book chapter) [other] | 1283 citations
   - DOI: [https://doi.org/10.4324/9780429498893-10](https://doi.org/10.4324/9780429498893-10)
   - 📝 Dani Rodrik论经济政策改革——全球化背景下发展中国家的政策空间、制度约束和改革路径。
 
@@ -649,7 +649,7 @@
   - 📝 研究大国如何通过管辖权扩张来动员市场权力作为经济治国工具。分析美国和欧盟在反垄断、数据保护等领域的域外管辖实践。IO。
 
 - ◆ **Robert D. Blackwill, Jennifer Harris (2016)** — War by Other Means: Geoeconomics and Statecraft
-  -  [other] | 305 citations
+  - Harvard University Press (book) [other] | 305 citations
   - DOI: [https://doi.org/10.4159/9780674545960](https://doi.org/10.4159/9780674545960)
   - 📝 '以其他手段进行的战争'：地缘经济学与治国术——系统论述经济工具（制裁、贸易、金融）如何服务于地缘政治目标。
 

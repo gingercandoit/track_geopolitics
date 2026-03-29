@@ -186,7 +186,7 @@
 ---
 
 ### Robert D. Blackwill, Jennifer Harris (2016) — War by Other Means: Geoeconomics and Statecraft
-- **期刊**： [other]
+- **期刊**：Harvard University Press (book) [other]
 - **引用**：305
 - **优先级**：recommended
 - **议题**：T1, T5

@@ -36,6 +36,7 @@
 ### maggiori_schreger_clayton_2026 — Global Imbalances and Power Imbalances
 - **Authors**: Matteo Maggiori, Jesse Schreger, Christopher Clayton
 - **Year**: 2026 | **Tier**: WP | **Cites**: 0
+- **Journal**: SocArXiv Working Paper
 - **Priority**: core
 - **议题**: T1, T5
 - **数据**: 概念性讨论论文，引用中国外国债权人地位和美国外债数据
@@ -141,6 +142,7 @@
 ### cavani_clayton_dos_santos_2026 — American Investment in Chinese Renminbi
 - **Authors**: Bruno Cavani, Christopher Clayton, Amanda Dos Santos et al.
 - **Year**: 2026 | **Tier**: WP | **Cites**: 0
+- **Journal**: SocArXiv Working Paper
 - **Priority**: recommended
 - **议题**: T1, T5
 - **数据**: SEC Form N-PORT微观数据——美国共同基金和ETF的逐基金逐持仓人民币(RMB)债券数据

@@ -1,6 +1,6 @@
 # Library B — 新文献追踪总览
 
-> 生成时间: 2026-03-29 16:53
+> 生成时间: 2026-03-29 23:31
 > 论文数量: 45
 > 覆盖期间: 2024-06 to 2026-present
 
@@ -45,6 +45,7 @@
 ### maggiori_schreger_clayton_2026 — Global Imbalances and Power Imbalances
 - **Authors**: Matteo Maggiori, Jesse Schreger, Christopher Clayton
 - **Year**: 2026 | **Tier**: WP | **Cites**: 0
+- **Journal**: SocArXiv Working Paper
 - **Priority**: core
 - **数据**: 概念性讨论论文，引用中国外国债权人地位和美国外债数据
 - **方法**: 理论讨论——分析全球经常账户失衡何时转化为地缘权力失衡的理论条件和潜在渠道
@@ -142,6 +143,7 @@
 ### cavani_clayton_dos_santos_2026 — American Investment in Chinese Renminbi
 - **Authors**: Bruno Cavani, Christopher Clayton, Amanda Dos Santos et al.
 - **Year**: 2026 | **Tier**: WP | **Cites**: 0
+- **Journal**: SocArXiv Working Paper
 - **Priority**: recommended
 - **数据**: SEC Form N-PORT微观数据——美国共同基金和ETF的逐基金逐持仓人民币(RMB)债券数据
 - **方法**: 微观实证——追踪基金层面的人民币债券持仓变化，区分'减持'与'完全退出'(exit)两种调整模式
@@ -605,6 +607,7 @@
 ### maggiori_schreger_clayton_2026 — Global Imbalances and Power Imbalances
 - **Authors**: Matteo Maggiori, Jesse Schreger, Christopher Clayton
 - **Year**: 2026 | **Tier**: WP | **Cites**: 0
+- **Journal**: SocArXiv Working Paper
 - **Priority**: core
 - **数据**: 概念性讨论论文，引用中国外国债权人地位和美国外债数据
 - **方法**: 理论讨论——分析全球经常账户失衡何时转化为地缘权力失衡的理论条件和潜在渠道
@@ -738,6 +741,7 @@
 ### cavani_clayton_dos_santos_2026 — American Investment in Chinese Renminbi
 - **Authors**: Bruno Cavani, Christopher Clayton, Amanda Dos Santos et al.
 - **Year**: 2026 | **Tier**: WP | **Cites**: 0
+- **Journal**: SocArXiv Working Paper
 - **Priority**: recommended
 - **数据**: SEC Form N-PORT微观数据——美国共同基金和ETF的逐基金逐持仓人民币(RMB)债券数据
 - **方法**: 微观实证——追踪基金层面的人民币债券持仓变化，区分'减持'与'完全退出'(exit)两种调整模式
