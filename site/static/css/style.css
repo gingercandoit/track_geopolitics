@@ -260,11 +260,12 @@ h1, h2, h3, h4 {
   line-height: 1.45;
 }
 .digest-bullets li::before {
-  content: '›';
+  content: '•';
   position: absolute;
   left: 0;
   color: var(--topic-color);
-  font-weight: 700;
+  font-size: 0.9rem;
+  line-height: 1.45;
 }
 .digest-text p {
   margin: 0 0 0.55rem 0;
