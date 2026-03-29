@@ -1,11 +1,15 @@
 """
-Generate Markdown view files from literature/new/new.json.
+Generate Markdown view files and CSV from literature/new/new.json.
 
 Outputs to literature/new/views/:
   - new-papers-overview.md (full overview grouped by topic)
   - by-topic-t1.md through by-topic-t5.md
+
+Also regenerates:
+  - literature/new/new.csv (with data_zh and method_zh columns)
 """
 import json
+import csv
 import os
 import sys
 import io
@@ -182,11 +186,46 @@ def gen_topic_view(data, topic_id):
     return '\n'.join(lines)
 
 
+def gen_csv(data):
+    """Regenerate new.csv with all fields including data_zh and method_zh."""
+    csv_path = 'literature/new/new.csv'
+    fieldnames = ['id','title','authors','year','journal','journal_tier','doi',
+                  'citations','topics','priority','notes_zh','data_zh','method_zh',
+                  'nber_wp','read_status','added_date']
+    with open(csv_path, 'w', encoding='utf-8-sig', newline='') as f:
+        writer = csv.writer(f)
+        writer.writerow(fieldnames)
+        for p in data['papers']:
+            writer.writerow([
+                p.get('id',''),
+                p.get('title',''),
+                '; '.join(p.get('authors',[])),
+                p.get('year',''),
+                p.get('journal',''),
+                p.get('journal_tier',''),
+                p.get('doi',''),
+                p.get('citations',''),
+                ', '.join(f'T{t}' for t in p.get('topics',[])),
+                p.get('priority',''),
+                p.get('notes_zh',''),
+                p.get('data_zh',''),
+                p.get('method_zh',''),
+                p.get('nber_wp',''),
+                p.get('read_status',''),
+                p.get('added_date',''),
+            ])
+    return csv_path
+
+
 def main():
     os.makedirs(VIEWS_DIR, exist_ok=True)
     data = load_db()
 
     print(f"Loaded {len(data['papers'])} papers from {DB_PATH}")
+
+    # Regenerate CSV
+    csv_path = gen_csv(data)
+    print(f"  Regenerated {csv_path} (16 columns)")
 
     # Overview
     content = gen_overview(data)
