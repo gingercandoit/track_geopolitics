@@ -21,11 +21,15 @@ track_geopolitics/
 ├── .claude/          # AI 记忆与规则
 │   ├── CLAUDE.md
 │   └── rules/
-├── data/             # 抓取结果（JSON/CSV）
+├── data/             # 结构化数据
+│   ├── raw/          # fetch_sources.py 原始拉取结果
+│   └── *.json        # 报告对应的结构化 JSON
 ├── prompts/          # Prompt 模板存档
 ├── reports/          # 生成的简报产出
-├── chat-history/     # 对话历史
-└── _tmp/             # 临时文件
+├── scripts/          # 自动化脚本（fetch_sources.py）
+├── config/           # 工具配置（mcporter.json）
+├── chat-history/     # 对话历史（.gitignore 排除）
+└── _tmp/             # 临时文件（.gitignore 排除）
 ```
 
 ## 核心工作流

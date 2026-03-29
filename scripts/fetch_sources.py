@@ -376,7 +376,7 @@ def fetch_reddit(days_back=7):
 def generate_output(items, topic_filter=None, output_dir=None):
     """Generate JSON data file and Markdown summary."""
     if output_dir is None:
-        output_dir = Path(__file__).parent.parent / "data"
+        output_dir = Path(__file__).parent.parent / "data" / "raw"
     else:
         output_dir = Path(output_dir)
 

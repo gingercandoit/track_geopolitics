@@ -181,7 +181,7 @@ https://www.ft.com/world?format=rss                   # FT World
 --days N          # 时间范围（天数），默认7
 --topic 1|2|3     # 按议题过滤输出（不影响拉取，仅影响输出文件）
 --source rss|reddit|all  # 信息源选择，默认all
---output DIR      # 输出目录，默认data/
+--output DIR      # 输出目录，默认data/raw/
 
 # 示例
 python scripts/fetch_sources.py --days 3 --topic 1    # 近3天，Topic 1
