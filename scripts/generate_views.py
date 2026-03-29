@@ -37,6 +37,15 @@ PRIORITY_LABELS = {
     'reference': '参考文献 (Reference)',
 }
 
+TIER_ORDER = {'T1': 0, 'T2': 1, 'T3': 2, 'WP': 3, 'other': 4}
+
+def sort_by_tier_year(papers):
+    """Sort papers by journal tier (asc=best first) then year (desc=newest first)."""
+    return sorted(papers, key=lambda p: (
+        TIER_ORDER.get(p.get('journal_tier', 'other'), 4),
+        -(p.get('year', 0))
+    ))
+
 
 def load_db():
     with open(DB_PATH, 'r', encoding='utf-8') as f:
@@ -80,8 +89,7 @@ def format_paper(p, show_topics=False):
 def gen_topic_view(data, topic_id):
     """Generate by-topic-tN.md"""
     papers = [p for p in data['papers'] if topic_id in p.get('topics', [])]
-    papers.sort(key=lambda x: (-PRIORITY_ORDER.index(x.get('priority', 'reference')),
-                                -x.get('citations', 0)))
+    papers = sort_by_tier_year(papers)
     
     lines = []
     lines.append(f"# T{topic_id} {TOPIC_NAMES[topic_id]} — 阅读清单")
@@ -92,11 +100,15 @@ def gen_topic_view(data, topic_id):
     lines.append("---")
     lines.append("")
     
-    for priority in PRIORITY_ORDER:
-        group = [p for p in papers if p.get('priority') == priority]
+    # Group by tier, within each tier sort by year desc
+    tier_order_list = ['T1', 'T2', 'T3', 'WP', 'other']
+    for tier in tier_order_list:
+        group = [p for p in papers if p.get('journal_tier', 'other') == tier]
         if not group:
             continue
-        lines.append(f"## {PRIORITY_LABELS[priority]} ({len(group)} 篇)")
+        group.sort(key=lambda x: -(x.get('year', 0)))
+        tier_label = TIER_NAMES.get(tier, tier)
+        lines.append(f"## {tier} — {tier_label} ({len(group)} 篇)")
         lines.append("")
         for p in group:
             lines.append(format_paper(p, show_topics=True))
@@ -122,7 +134,7 @@ def gen_priority_view(data):
         group = [p for p in papers if p.get('priority') == priority]
         if not group:
             continue
-        group.sort(key=lambda x: -x.get('citations', 0))
+        group = sort_by_tier_year(group)
         
         lines.append(f"## {PRIORITY_LABELS[priority]} ({len(group)} 篇)")
         lines.append("")
@@ -182,7 +194,7 @@ def gen_author_view(data):
     
     for author in multi_authors[:80]:  # Cap at 80 authors
         plist = author_papers[author]
-        plist.sort(key=lambda x: -x.get('citations', 0))
+        plist.sort(key=lambda x: (TIER_ORDER.get(x.get('journal_tier','other'),4), -(x.get('year',0))))
         total_cites = author_cites[author]
         
         lines.append(f"## {author} ({len(plist)} 篇, {total_cites} 总引用)")

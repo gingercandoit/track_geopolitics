@@ -11,6 +11,8 @@ from collections import defaultdict
 LIT_DIR = Path(__file__).parent.parent / "literature" / "classic"
 JSON_PATH = LIT_DIR / "classic.json"
 
+TIER_ORDER = {"T1": 0, "T2": 1, "T3": 2, "WP": 3, "other": 4}
+
 TOPIC_NAMES = {
     1: "制裁与经济管制",
     2: "贸易与产业竞争",
@@ -102,7 +104,7 @@ def generate_csv(papers):
             "id", "authors", "year", "title", "journal", "tier",
             "citations", "doi_url", "topics", "subtopic", "priority", "notes"
         ])
-        for p in sorted(papers, key=lambda x: x.get("citations", 0), reverse=True):
+        for p in sorted(papers, key=lambda x: (TIER_ORDER.get(x.get('journal_tier','other'),4), -(x.get('year',0)))):
             authors = "; ".join(p.get("authors", [])[:3])
             if len(p.get("authors", [])) > 3:
                 authors += " et al."
@@ -227,19 +229,18 @@ def generate_reading_roadmap(papers):
         for subtopic, p in tp:
             subtopic_groups[subtopic].append(p)
 
-        # Sort subtopics by total citations
+        # Sort subtopics by best tier then newest year
         sorted_subtopics = sorted(
             subtopic_groups.items(),
-            key=lambda x: sum(p.get("citations", 0) for p in x[1]),
-            reverse=True,
+            key=lambda x: min(TIER_ORDER.get(p.get('journal_tier','other'),4) for p in x[1]),
         )
 
         for subtopic_name, sub_papers in sorted_subtopics:
-            # Sort within subtopic by priority then citations
+            # Sort within subtopic by tier then year
             sub_papers.sort(
                 key=lambda p: (
-                    priority_order.get(p.get("priority", "reference"), 9),
-                    -p.get("citations", 0),
+                    TIER_ORDER.get(p.get('journal_tier', 'other'), 4),
+                    -(p.get('year', 0)),
                 )
             )
             lines.append(f"### {subtopic_name}")
