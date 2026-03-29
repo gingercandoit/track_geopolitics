@@ -37,10 +37,18 @@ track_geopolitics/
 │   └── topic5-geopolitics/     # T5 报告
 ├── file/                       # 文档与参考资料
 ├── literature/                 # Prompt 3 文献库（与 reports 同级）
-│   ├── literature-classic.json   # 经典库主数据库（460篇）
-│   ├── literature-new.json       # 追踪库主数据库
-│   ├── views/                    # 自动生成的阅读视图
-│   └── pdf/                      # 用户下载的PDF（.gitignore排除）
+│   ├── classic/                # Library A: 经典文献（一次性建库）
+│   │   ├── classic.json        # 主数据库（460篇）
+│   │   ├── classic.csv         # CSV 结构化索引
+│   │   ├── references.bib      # BibTeX 引用文件
+│   │   ├── reading-roadmap.md  # 阅读路线图
+│   │   └── views/              # 自动生成的阅读视图
+│   ├── new/                    # Library B: 新文献追踪（月度更新）
+│   │   ├── new.json            # 主数据库
+│   │   ├── new.csv             # CSV 索引
+│   │   ├── references.bib      # BibTeX
+│   │   └── views/              # 视图
+│   └── pdf/                    # 用户下载的PDF（.gitignore排除）
 ├── prompts/                    # Prompt 模板存档
 ├── scripts/                    # 自动化脚本（fetch_sources.py）
 ├── config/                     # 工具配置（mcporter.json）
@@ -79,8 +87,8 @@ track_geopolitics/
 ### Prompt 3：文献搜集
 - 双库架构：Library A（经典文献一次性建库 ~150-250篇）+ Library B（月度新论文追踪 5-20篇/月）
 - 质量线：Tier 1-3 期刊白名单 + NBER/CEPR WP + 知名作者追踪
-- 文件结构：`literature/` 目录（与 reports 同级），单一 JSON 主数据库 + 自动生成视图
-- 产出：`literature-classic.json` + `literature-new.json` + `views/*.md`
+- 文件结构：`literature/` 目录（与 reports 同级），classic/ + new/ 完全独立子目录
+- 产出：`literature/classic/` (classic.json + CSV + BibTeX + roadmap + views) + `literature/new/` (new.json + CSV + BibTeX + views)
 - SOP：`.claude/rules/02_LiteratureSOP.instructions.md`
 
 ## 技术约定

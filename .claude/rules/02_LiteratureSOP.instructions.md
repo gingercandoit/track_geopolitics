@@ -16,7 +16,7 @@ description: LiteratureSOP - 地缘政治经济学文献搜集与管理标准操
 - **建设方式**：一次性建库 → 偶尔补充（发现遗漏经典时）
 - **质量线**：field top journal 发表 或 NBER Working Paper 级别
 - **规模**：每 topic 20-50 篇，总计 ~150-250 篇
-- **产出**：`literature/` 下按 topic 分类
+- **产出**：`literature/classic/` 下（classic.json + classic.csv + references.bib + views/）
 
 ### Library B：新文献追踪库
 
@@ -27,7 +27,7 @@ description: LiteratureSOP - 地缘政治经济学文献搜集与管理标准操
   - NBER/CEPR/SSRN 新工作论文（按相关性筛选）
   - 知名领域内作者的最新挂网论文（即使非 top venue）
 - **规模**：每月新增 5-20 篇
-- **产出**：`literature/` 下按月归档
+- **产出**：`literature/new/` 下（new.json + new.csv + references.bib + views/）
 
 ---
 
@@ -393,29 +393,44 @@ international monetary system reform
 
 ## 七、文件结构
 
-> **设计原则**：学术文献天然跨议题（一篇制裁论文可能同时涉及 T1 制裁 + T2 贸易 + T5 地缘政治），不适合像 Prompt 1 那样按 topic 独立分文件夹。因此采用**单一主数据库 + 多视图**架构。
+> **设计原则**：经典库（Library A）和新文献追踪库（Library B）完全独立，各自有自己的 JSON/CSV/BibTeX/视图。学术文献天然跨议题，因此采用**单一主数据库 + 多视图**架构（而非按 topic 分文件夹）。
 
 ```
 literature/                             # 与 reports/ 同级
-├── literature-classic.json         # 经典库主数据库（所有论文，单一文件）
-├── literature-new.json             # 追踪库主数据库（所有新论文，单一文件）
-├── views/                          # 自动生成的阅读视图（按需刷新）
-│   ├── by-topic-t1.md              # T1 相关论文视图
-│   ├── by-topic-t2.md              # T2 相关论文视图
-│   ├── by-topic-t3.md              # T3 相关论文视图
-│   ├── by-topic-t4.md              # T4 相关论文视图
-│   ├── by-topic-t5.md              # T5 相关论文视图
-│   ├── by-priority.md              # 按阅读优先级排列
-│   ├── by-author.md                # 按作者索引
-│   └── new-papers-2026-03.md       # 2026年3月新论文速览
+├── classic/                        # Library A: 经典文献（一次性建库）
+│   ├── classic.json                # 主数据库（所有论文，单一文件）
+│   ├── classic.csv                 # CSV 结构化索引（可在 Excel 中浏览）
+│   ├── references.bib              # BibTeX 引用文件（可导入 Zotero）
+│   ├── reading-roadmap.md          # 阅读路线图（议题→子主题→优先级）
+│   ├── _build_summary.md           # 构建摘要
+│   └── views/                      # 自动生成的阅读视图（按需刷新）
+│       ├── by-topic-t1.md          # T1 相关论文视图
+│       ├── by-topic-t2.md          # T2 相关论文视图
+│       ├── by-topic-t3.md          # T3 相关论文视图
+│       ├── by-topic-t4.md          # T4 相关论文视图
+│       ├── by-topic-t5.md          # T5 相关论文视图
+│       ├── by-priority.md          # 按阅读优先级排列
+│       └── by-author.md            # 按作者索引
+├── new/                            # Library B: 新文献追踪（月度更新）
+│   ├── new.json                    # 主数据库（月度新论文）
+│   ├── new.csv                     # CSV 索引
+│   ├── references.bib              # BibTeX
+│   └── views/                      # 视图
+│       └── new-papers-YYYY-MM.md   # 按月新论文速览
 └── pdf/                            # 用户手动下载的 PDF（.gitignore 排除）
 ```
 
 **关键点**：
-- 每篇论文只在 JSON 中存一次，通过 `topics` 数组关联多个议题
+- classic/ 和 new/ 完全独立，各有自己的 JSON/CSV/BibTeX/views
+- 每篇论文只在对应库的 JSON 中存一次，通过 `topics` 数组关联多个议题
 - `views/` 下的 Markdown 文件是从 JSON 自动生成的**只读视图**，不手动编辑
 - 更新 JSON 后运行视图生成脚本即可刷新所有视图
 - `pdf/` 目录加入 `.gitignore`（PDF 体积大，不入版本库）
+
+**自动化脚本**：
+- `scripts/build_literature.py` — OpenAlex API 建库（Phase A）
+- `scripts/build_phase2.py` — 从 JSON 生成 CSV/BibTeX/阅读路线图（Phase 2）
+- `scripts/generate_views.py` — 从 JSON 生成 Markdown 视图
 
 ---
 
@@ -448,7 +463,7 @@ literature/                             # 与 reports/ 同级
 
 如果用户使用 Zotero：
 - 可从 JSON 数据库生成 BibTeX 文件，用户一键导入 Zotero
-- BibTeX 输出路径：`literature/export/literature.bib`
+- BibTeX 输出路径：`literature/classic/references.bib`（经典库）、`literature/new/references.bib`（新文献）
 - 生成命令：由 AI 在输出阶段自动附加
 
 ---
