@@ -10,7 +10,7 @@
 ### maggiori_schreger_clayton_2026 — Global Imbalances and Power Imbalances
 - **Authors**: Matteo Maggiori, Jesse Schreger, Christopher Clayton
 - **Year**: 2026 | **Tier**: WP | **Cites**: 0
-- **Journal**: NBER Working Paper
+- **Journal**: National Bureau of Economic Research
 - **Priority**: core
 - **议题**: T1, T5
 - **数据**: 概念性讨论论文，引用中国外国债权人地位和美国外债数据
@@ -91,8 +91,8 @@
 - **Journal**: National Bureau of Economic Research
 - **Priority**: core
 - **议题**: T2, T5
-- **数据**: 经济思想史文献（具体数据待读全文确认——无摘要）
-- **方法**: 经济思想史分析（具体方法待读全文确认——无摘要）
+- **数据**: 经济思想史文献：重商主义、汉密尔顿/李斯特保护主义、普雷维什/辛格进口替代理论、东亚出口导向工业化模型
+- **方法**: 经济思想史综述分析——梳理从斯密批评重商主义到当代发展主义的政策思想演变脉络，提炼三条核心主张
 - **简评**: Rodrik重新评估被主流经济学否定的重商主义思想——哪些在当今地缘经济竞争和产业政策回归语境下是正确的？3引用。无摘要——需阅读全文。
 - **DOI**: [10.3386/w34353](https://doi.org/10.3386/w34353)
 
@@ -155,7 +155,7 @@
 ### cavani_clayton_dos_santos_2026 — American Investment in Chinese Renminbi
 - **Authors**: Bruno Cavani, Christopher Clayton, Amanda Dos Santos et al.
 - **Year**: 2026 | **Tier**: WP | **Cites**: 0
-- **Journal**: NBER Working Paper
+- **Journal**: National Bureau of Economic Research
 - **Priority**: recommended
 - **议题**: T1, T5
 - **数据**: SEC Form N-PORT微观数据——美国共同基金和ETF的逐基金逐持仓人民币(RMB)债券数据

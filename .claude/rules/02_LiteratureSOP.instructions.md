@@ -463,11 +463,17 @@ international monetary system reform
    ↓
 9. 为每篇新论文填写 `data_zh`（数据来源）和 `method_zh`（方法论），基于摘要手写；无摘要者标"待读全文确认"
    ↓
-10. 输出 new-papers-YYYY-MM.md + 更新 JSON
+10. **WP 发表状态复查**：用 OpenAlex API 批量检查库中所有 `journal_tier: "WP"` 的论文
+    - 是否已被期刊接收/发表？（检查 locations 中是否新增 journal source）
+    - 是否有新版本？（SocArXiv → NBER → journal 的升级路径）
+    - 无摘要论文（"待读全文确认"）是否现在有摘要可用？
+    - 发现更新后：更新 journal/doi/journal_tier 字段，重新生成视图
+   ↓
+11. 输出 new-papers-YYYY-MM.md + 更新 JSON
     ↓
-11. 运行 `scripts/generate_views_new.py` 刷新 Markdown 视图 + CSV
+12. 运行 `scripts/generate_views_new.py` 刷新 Markdown 视图 + CSV
     ↓
-12. Git 提交
+13. Git 提交
 ```
 
 ---

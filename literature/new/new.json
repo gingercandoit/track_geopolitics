@@ -298,7 +298,7 @@
       "webvpn_url": null,
       "nber_wp": "w34416",
       "ssrn_id": null,
-      "abstract": null,
+      "abstract": "In a paper 20 years ago, we analyzed the evolution of the international monetary system over the preceding 20 years and projected its evolution 20 years into the future, on the assumption of unchanged transition probabilities. Here we compare those projections with outcomes and provide new projections, again 20 years into the future. Although the world as a whole has seen financial opening and movement away from intermediate exchange rate regimes, as projected, movement has been slower than projected on the basis of observed transition probabilities in the 20 years preceding our forecast. New projections again based on unchanged transition probabilities but allowing countries to shift between advanced, emerging and developing country groupings and reclassifying exchange rate regimes to accord with current practice again suggest that policy regimes will be modestly different in 2045 than today. There will be a continued decline in intermediate exchange rate arrangements, and gains for hard pegs, as emerging markets move in this direction, and for more freely floating rates, driven by developing countries. There will be a further increase in the share of countries with open capital accounts, driven by emerging markets and developing countries.",
       "jel_codes": [],
       "topics": [
         1
@@ -314,8 +314,8 @@
       "notes_zh": "Eichengreen回访其20年前对国际货币体系的预测，评估哪些准确、哪些偏差，展望未来20年美元地位与体系演变。无摘要——需阅读全文。",
       "added_date": "2026-03-29",
       "read_status": "unread",
-      "data_zh": "历史国际货币体系数据（具体数据待读全文确认——无摘要）",
-      "method_zh": "综述与前瞻分析（具体方法待读全文确认——无摘要）"
+      "data_zh": "历史国际货币体系数据：各国汇率制度分类（钉住/中间/浮动）、资本账户开放程度、国家分组变迁（发达/新兴/发展中），跨越40年",
+      "method_zh": "转移概率矩阵预测——基于过去20年观察到的汇率制度转换概率，允许国家在发达/新兴/发展中分组间移动，比较2005年预测与实际结果后重新投射至2045年"
     },
     {
       "id": "mcleay_tenreyro_2025",
@@ -373,7 +373,7 @@
       "webvpn_url": null,
       "nber_wp": null,
       "ssrn_id": null,
-      "abstract": null,
+      "abstract": "States increasingly outsource coercion to the market, using sanctions to deter private actors from dealing with blacklisted entities. Despite the key role of such intermediaries, research on economic statecraft is ambiguous about the effect and boundaries of such actions on market participants. We analyze the impact of the Trump administration's actions against Chinese tech giant Tencent. Leveraging an event-study, we find that sanctions negatively impact targets and spread to co-nationals. We also test a novel spillover mechanism: firm interdependence through ownership and supply-chain linkages transmits sanction effects to non-targeted firms across borders.",
       "jel_codes": [],
       "topics": [
         1
@@ -389,8 +389,8 @@
       "notes_zh": "Newman继weaponized interdependence(2019)后研究金融制裁沿企业间关联网络的溢出效应——制裁如何通过供应链/金融关系传导至非目标企业和非目标国。JOP发表。无摘要——需阅读全文确认方法论。",
       "added_date": "2026-03-29",
       "read_status": "unread",
-      "data_zh": "企业间关联网络数据+金融制裁事件数据（具体数据待读全文确认——无摘要）",
-      "method_zh": "待确认——可能使用网络分析识别制裁沿企业间供应链/金融关联的溢出效应（无摘要）"
+      "data_zh": "特朗普政府对腾讯制裁事件数据 + 全球上市公司股权/供应链关联网络 + 股票市场数据",
+      "method_zh": "事件研究法（event study）——利用对腾讯制裁的外生冲击，检验制裁对目标企业、同国企业及通过所有权/供应链关联的跨国企业的溢出效应"
     },
     {
       "id": "chachko_newman_2025",
@@ -481,7 +481,7 @@
         "Jesse Schreger"
       ],
       "year": 2026,
-      "journal": "NBER Working Paper",
+      "journal": "National Bureau of Economic Research",
       "journal_tier": "WP",
       "volume": null,
       "issue": null,
@@ -521,7 +521,7 @@
         "Christopher Clayton"
       ],
       "year": 2026,
-      "journal": "NBER Working Paper",
+      "journal": "National Bureau of Economic Research",
       "journal_tier": "WP",
       "volume": null,
       "issue": null,
@@ -914,7 +914,7 @@
       "webvpn_url": null,
       "nber_wp": "w34353",
       "ssrn_id": null,
-      "abstract": null,
+      "abstract": "Economics students today learn about mercantilism through Smith's prism, as a series of logical and policy errors that Smith clarified and settled for good. But far from settled doctrine, mercantilism encapsulated a variety of pragmatic practices that survived Smith's critique, often to good effect. It found echo in a continuous tradition of what later came to be called 'developmentalism,' running from Alexander Hamilton and Friedrich List's advocacy of trade protection to Hans Singer and Raul Prebisch's ideas on import-substitution and, more recently, to East Asian models of export-oriented industrialization. Three of its core tenets hold continued appeal: the primacy of production and jobs (and of their composition) over consumption; preference for close, collaborative relationship between business and government over an arms' length relationship; and the need for contextual, pragmatic, and often unorthodox policies over universal remedies and 'best-practices.'",
       "jel_codes": [],
       "topics": [
         2,
@@ -931,8 +931,8 @@
       "notes_zh": "Rodrik重新评估被主流经济学否定的重商主义思想——哪些在当今地缘经济竞争和产业政策回归语境下是正确的？3引用。无摘要——需阅读全文。",
       "added_date": "2026-03-29",
       "read_status": "unread",
-      "data_zh": "经济思想史文献（具体数据待读全文确认——无摘要）",
-      "method_zh": "经济思想史分析（具体方法待读全文确认——无摘要）"
+      "data_zh": "经济思想史文献：重商主义、汉密尔顿/李斯特保护主义、普雷维什/辛格进口替代理论、东亚出口导向工业化模型",
+      "method_zh": "经济思想史综述分析——梳理从斯密批评重商主义到当代发展主义的政策思想演变脉络，提炼三条核心主张"
     },
     {
       "id": "schmitt_grohe_uribe_2025",

@@ -1,6 +1,6 @@
 # Library B — 新文献追踪总览
 
-> 生成时间: 2026-03-29 23:36
+> 生成时间: 2026-03-29 23:56
 > 论文数量: 45
 > 覆盖期间: 2024-06 to 2026-present
 
@@ -35,8 +35,8 @@
 - **Year**: 2026 | **Tier**: T3 | **Cites**: 0
 - **Journal**: The Journal of Politics
 - **Priority**: core
-- **数据**: 企业间关联网络数据+金融制裁事件数据（具体数据待读全文确认——无摘要）
-- **方法**: 待确认——可能使用网络分析识别制裁沿企业间供应链/金融关联的溢出效应（无摘要）
+- **数据**: 特朗普政府对腾讯制裁事件数据 + 全球上市公司股权/供应链关联网络 + 股票市场数据
+- **方法**: 事件研究法（event study）——利用对腾讯制裁的外生冲击，检验制裁对目标企业、同国企业及通过所有权/供应链关联的跨国企业的溢出效应
 - **简评**: Newman继weaponized interdependence(2019)后研究金融制裁沿企业间关联网络的溢出效应——制裁如何通过供应链/金融关系传导至非目标企业和非目标国。JOP发表。无摘要——需阅读全文确认方法论。
 - **DOI**: [10.1086/740171](https://doi.org/10.1086/740171)
 
@@ -45,7 +45,7 @@
 ### maggiori_schreger_clayton_2026 — Global Imbalances and Power Imbalances
 - **Authors**: Matteo Maggiori, Jesse Schreger, Christopher Clayton
 - **Year**: 2026 | **Tier**: WP | **Cites**: 0
-- **Journal**: NBER Working Paper
+- **Journal**: National Bureau of Economic Research
 - **Priority**: core
 - **数据**: 概念性讨论论文，引用中国外国债权人地位和美国外债数据
 - **方法**: 理论讨论——分析全球经常账户失衡何时转化为地缘权力失衡的理论条件和潜在渠道
@@ -143,7 +143,7 @@
 ### cavani_clayton_dos_santos_2026 — American Investment in Chinese Renminbi
 - **Authors**: Bruno Cavani, Christopher Clayton, Amanda Dos Santos et al.
 - **Year**: 2026 | **Tier**: WP | **Cites**: 0
-- **Journal**: NBER Working Paper
+- **Journal**: National Bureau of Economic Research
 - **Priority**: recommended
 - **数据**: SEC Form N-PORT微观数据——美国共同基金和ETF的逐基金逐持仓人民币(RMB)债券数据
 - **方法**: 微观实证——追踪基金层面的人民币债券持仓变化，区分'减持'与'完全退出'(exit)两种调整模式
@@ -169,8 +169,8 @@
 - **Year**: 2025 | **Tier**: WP | **Cites**: 1
 - **Journal**: National Bureau of Economic Research
 - **Priority**: recommended
-- **数据**: 历史国际货币体系数据（具体数据待读全文确认——无摘要）
-- **方法**: 综述与前瞻分析（具体方法待读全文确认——无摘要）
+- **数据**: 历史国际货币体系数据：各国汇率制度分类（钉住/中间/浮动）、资本账户开放程度、国家分组变迁（发达/新兴/发展中），跨越40年
+- **方法**: 转移概率矩阵预测——基于过去20年观察到的汇率制度转换概率，允许国家在发达/新兴/发展中分组间移动，比较2005年预测与实际结果后重新投射至2045年
 - **简评**: Eichengreen回访其20年前对国际货币体系的预测，评估哪些准确、哪些偏差，展望未来20年美元地位与体系演变。无摘要——需阅读全文。
 - **DOI**: [10.3386/w34416](https://doi.org/10.3386/w34416)
 
@@ -293,8 +293,8 @@
 - **Year**: 2025 | **Tier**: WP | **Cites**: 3
 - **Journal**: National Bureau of Economic Research
 - **Priority**: core
-- **数据**: 经济思想史文献（具体数据待读全文确认——无摘要）
-- **方法**: 经济思想史分析（具体方法待读全文确认——无摘要）
+- **数据**: 经济思想史文献：重商主义、汉密尔顿/李斯特保护主义、普雷维什/辛格进口替代理论、东亚出口导向工业化模型
+- **方法**: 经济思想史综述分析——梳理从斯密批评重商主义到当代发展主义的政策思想演变脉络，提炼三条核心主张
 - **简评**: Rodrik重新评估被主流经济学否定的重商主义思想——哪些在当今地缘经济竞争和产业政策回归语境下是正确的？3引用。无摘要——需阅读全文。
 - **DOI**: [10.3386/w34353](https://doi.org/10.3386/w34353)
 
@@ -607,7 +607,7 @@
 ### maggiori_schreger_clayton_2026 — Global Imbalances and Power Imbalances
 - **Authors**: Matteo Maggiori, Jesse Schreger, Christopher Clayton
 - **Year**: 2026 | **Tier**: WP | **Cites**: 0
-- **Journal**: NBER Working Paper
+- **Journal**: National Bureau of Economic Research
 - **Priority**: core
 - **数据**: 概念性讨论论文，引用中国外国债权人地位和美国外债数据
 - **方法**: 理论讨论——分析全球经常账户失衡何时转化为地缘权力失衡的理论条件和潜在渠道
@@ -681,8 +681,8 @@
 - **Year**: 2025 | **Tier**: WP | **Cites**: 3
 - **Journal**: National Bureau of Economic Research
 - **Priority**: core
-- **数据**: 经济思想史文献（具体数据待读全文确认——无摘要）
-- **方法**: 经济思想史分析（具体方法待读全文确认——无摘要）
+- **数据**: 经济思想史文献：重商主义、汉密尔顿/李斯特保护主义、普雷维什/辛格进口替代理论、东亚出口导向工业化模型
+- **方法**: 经济思想史综述分析——梳理从斯密批评重商主义到当代发展主义的政策思想演变脉络，提炼三条核心主张
 - **简评**: Rodrik重新评估被主流经济学否定的重商主义思想——哪些在当今地缘经济竞争和产业政策回归语境下是正确的？3引用。无摘要——需阅读全文。
 - **DOI**: [10.3386/w34353](https://doi.org/10.3386/w34353)
 
@@ -741,7 +741,7 @@
 ### cavani_clayton_dos_santos_2026 — American Investment in Chinese Renminbi
 - **Authors**: Bruno Cavani, Christopher Clayton, Amanda Dos Santos et al.
 - **Year**: 2026 | **Tier**: WP | **Cites**: 0
-- **Journal**: NBER Working Paper
+- **Journal**: National Bureau of Economic Research
 - **Priority**: recommended
 - **数据**: SEC Form N-PORT微观数据——美国共同基金和ETF的逐基金逐持仓人民币(RMB)债券数据
 - **方法**: 微观实证——追踪基金层面的人民币债券持仓变化，区分'减持'与'完全退出'(exit)两种调整模式
