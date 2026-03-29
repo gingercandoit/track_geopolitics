@@ -264,9 +264,11 @@ def build_site(clean=False):
         if not data:
             continue
         topics_data[topic_slug] = data
-        # Extract digest (first 1-2 sentences) for homepage
-        overview = load_report_overview(topic_slug, topic_months[0])
-        digest = extract_first_sentence(overview)
+        # Extract digest: prefer digest_zh from JSON, else fall back to markdown overview
+        digest = data.get("report_metadata", {}).get("digest_zh", "")
+        if not digest:
+            overview = load_report_overview(topic_slug, topic_months[0])
+            digest = extract_first_sentence(overview)
         topic_digests.append({
             "slug": topic_slug,
             "name_zh": topic_info["name_zh"],
