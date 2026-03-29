@@ -157,8 +157,13 @@
     {
       "date": "2026-03-06",
       "type": "智库分析",
-      "title_zh": "CFR（美国外交关系委员会，Council on Foreign Relations）：人民币跨境流动如何削弱美国制裁",
-      "summary_zh": "作者Benn Steil（CFR国际经济主任）和Yuma Schuster分析中国CIPS（人民币跨境支付系统，Cross-Border Interbank Payment System）和人民币跨境流动对美国制裁效力的侵蚀。核心论点：随着人民币跨境结算规模增长，绕过SWIFT（环球银行金融电信协会，Society for Worldwide Interbank Financial Telecommunication）和美元体系的交易通道正在扩大，美国制裁的覆盖面和执行力面临长期稀释。",
+      "title_zh": "CFR：人民币跨境流动如何削弱美国制裁",
+      "summary_zh": "作者Benn Steil（CFR国际经济主任）和Yuma Schuster分析中国CIPS系统和人民币跨境流动对美国制裁效力的侵蚀。核心论点：随着人民币跨境结算规模增长，绕过SWIFT和美元体系的交易通道正在扩大，美国制裁的覆盖面和执行力面临长期稀释。",
+      "footnotes": [
+        "CFR = Council on Foreign Relations（美国外交关系委员会）",
+        "CIPS = Cross-Border Interbank Payment System（人民币跨境支付系统）",
+        "SWIFT = Society for Worldwide Interbank Financial Telecommunication（环球银行金融电信协会）"
+      ],
       "source_tier": "C",
       "sources": [
         {

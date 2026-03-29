@@ -33,6 +33,13 @@
       {% endfor %}
     </div>
     {% endif %}
+    {% if event.footnotes and event.footnotes | length > 0 %}
+    <div class="event-footnotes">
+      {% for note in event.footnotes %}
+      <span class="footnote-item">{{ loop.index }}. {{ note }}</span>
+      {% endfor %}
+    </div>
+    {% endif %}
     </div>
   </div>
 </div>
