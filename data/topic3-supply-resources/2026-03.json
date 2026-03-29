@@ -1,0 +1,838 @@
+{
+  "report_metadata": {
+    "topic": "topic3-supply-resources",
+    "topic_name_zh": "供应链与关键资源",
+    "period_start": "2026-03-01",
+    "period_end": "2026-03-28",
+    "generated_at": "2026-03-29T12:00:00+08:00",
+    "version": "1.0"
+  },
+  "events": [
+    {
+      "date": "2026-03-01",
+      "type": "数据发布",
+      "title_zh": "油价暴涨10-13%，伊朗首轮攻击商船",
+      "summary_zh": "美以空袭后数小时内，布伦特原油跳涨10-13%，分析师警告可能触及100美元/桶。同日IRGC攻击至少四艘油轮，包括MT Skylight（两名印度船员死亡）。主要航运公司暂停霍尔木兹海峡及红海航线。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/energy/oil-jumps-10-iran-conflict-could-spike-100-barrel-analysts-say-2026-03-01"
+        },
+        {
+          "name": "NYT",
+          "url": "https://www.nytimes.com/2026/03/01/business/energy-environment/iran-war-oil-prices.html"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/3/1/how-us-israel-attacks-on-iran-threaten-the-strait-of-hormuz-oil-markets"
+        }
+      ],
+      "metrics": {
+        "oil_price_jump_pct": "10-13"
+      },
+      "week": 1
+    },
+    {
+      "date": "2026-03-01",
+      "type": "政策发布",
+      "title_zh": "DOE 开放5亿美元关键矿产加工与电池制造资金",
+      "summary_zh": "美国能源部和国防工业基地联盟联合开放重大新资金通道，5亿美元用于国内关键矿产加工、电池材料制造和回收，旨在减少对中国加工环节的依赖。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "DLA Piper",
+          "url": "https://www.dlapiper.com/en-us/insights/publications/2026/03/doe-critical-minerals-funding"
+        },
+        {
+          "name": "Holland & Knight",
+          "url": "https://www.hklaw.com/en/insights/publications/2026/03/doe-opens-500m-funding-opportunity-for-battery-materials-processing"
+        }
+      ],
+      "metrics": {
+        "funding_usd": 500000000
+      },
+      "week": 1
+    },
+    {
+      "date": "2026-03-02",
+      "type": "外交动态",
+      "title_zh": "IRGC正式宣布封锁霍尔木兹海峡，卡塔尔停产天然气",
+      "summary_zh": "伊朗革命卫队高级官员正式确认海峡关闭，威胁任何通过的船只。同日卡塔尔能源停止天然气生产，油轮AIS信号显示海峡内交通量降至零。欧洲天然气价格暴涨45%，从€30/MWh跃至€46/MWh。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/energy/hormuz-shutdown-worsens-after-us-hits-iranian-warship-tankers-stranded-fifth-day-2026-03-04/"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/business/2026/03/02/european-gas-prices-jump-by-as-much-as-45-as-qatar-stops-lng-production"
+        }
+      ],
+      "metrics": {
+        "eu_gas_price_jump_pct": 45,
+        "eu_gas_price_eur_mwh": 46
+      },
+      "week": 1
+    },
+    {
+      "date": "2026-03-02",
+      "type": "外交动态",
+      "title_zh": "加拿大-印度签署19亿美元铀供应协议，深化关键矿产合作",
+      "summary_zh": "加拿大与印度签署总值19亿美元的铀供应协议，同时达成多项关键矿产和能源合作框架。该协议具有双重战略意义：保障核能供应安全+构建不依赖中国的关键矿产供应链。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "WSJ",
+          "url": "https://www.wsj.com/economy/canada-india-strike-1-9-billion-uranium-supply-agreement-as-they-firm-ties-b025d2ca"
+        }
+      ],
+      "metrics": {
+        "uranium_agreement_usd": 1900000000
+      },
+      "week": 1
+    },
+    {
+      "date": "2026-03-03",
+      "type": "国际机构",
+      "title_zh": "IEA准备稳定石油市场，伊拉克关闭鲁迈拉油田",
+      "summary_zh": "IEA向成员国发出准备信号，准备动用战略储备。同日伊拉克因储存空间耗尽开始关闭世界最大油田之一的鲁迈拉油田（产能约150万桶/日）。欧洲天然气价格继续飙升至€60/MWh。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-03/iea-ready-to-stabilize-oil-market-roiled-by-iran-war-document"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-03/iraq-starts-shutting-oil-output-at-rumaila-as-storage-fills-up"
+        }
+      ],
+      "metrics": {
+        "rumaila_capacity_bpd": 1500000,
+        "eu_gas_price_eur_mwh": 60
+      },
+      "week": 1
+    },
+    {
+      "date": "2026-03-03",
+      "type": "智库分析",
+      "title_zh": "KPMG 半年度供应链报告：五大趋势重塑经济格局",
+      "summary_zh": "KPMG发布2026年3月供应链更新报告，核心判断：美国供应链正从“间歇性中断“进入“持续性风险管理“新阶段。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "KPMG",
+          "url": "https://kpmg.com/us/en/articles/2026/march-2026-supply-chain-update.html"
+        }
+      ],
+      "metrics": {},
+      "week": 1
+    },
+    {
+      "date": "2026-03-04",
+      "type": "外交动态",
+      "title_zh": "伊朗仅允许中国船只通过海峡，卡塔尔宣布天然气不可抗力",
+      "summary_zh": "伊朗宣布仅允许中国船只通过霍尔木兹海峡，理由是中国对伊朗的“支持性立场“。散货船Iron Maiden广播“CHINA OWNER”信号成功通过。同日QatarEnergy正式宣布天然气合同不可抗力。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "NDTV",
+          "url": "https://www.ndtv.com/world-news/iran-to-allow-only-chinese-vessels-through-strait-of-hormuz-sources-11167611"
+        },
+        {
+          "name": "FT",
+          "url": "https://www.ft.com/content/be122b17-e667-478d-be19-89d605e978ea"
+        }
+      ],
+      "metrics": {},
+      "week": 1
+    },
+    {
+      "date": "2026-03-05",
+      "type": "数据发布",
+      "title_zh": "普京暗示中断供应，欧洲天然气再跳涨8%；太阳能100%+关税",
+      "summary_zh": "普京在电视讲话中暗示可能中断对欧洲天然气供应，引发价格跳涨8%。同日美国商务部最终裁定对印度、印尼、老挝太阳能电池板征收100%以上关税。欧洲面临双重能源危机。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Novinite",
+          "url": "https://www.novinite.com/articles/237324/European+Gas+Prices+Jump+8+After+Putin+Hints+at+Halting+Supplies"
+        },
+        {
+          "name": "Solar Power World",
+          "url": "https://now.solar/2026/03/04/commerce-decides-on-100-tariffs-for-solar-panels-from-india-indonesia-laos-solar-power-world/"
+        }
+      ],
+      "metrics": {
+        "eu_gas_price_jump_pct": 8,
+        "solar_tariff_pct": "100+"
+      },
+      "week": 1
+    },
+    {
+      "date": "2026-03-06",
+      "type": "数据发布",
+      "title_zh": "2026年回流的真实成本：1840亿美元的供应链大转向",
+      "summary_zh": "Fynqo分析：美国制造业回流投资总额达1840亿美元。“哪里生产、哪里交付“的全球化模式已在贸易保护主义重压下断裂。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Fynqo",
+          "url": "https://fynqo.org/2026/03/06/the-true-cost-of-reshoring-2026-a-184-billion-supply-chain-pivot/"
+        }
+      ],
+      "metrics": {
+        "reshoring_investment_usd": 184000000000
+      },
+      "week": 1
+    },
+    {
+      "date": "2026-03-08",
+      "type": "数据发布",
+      "title_zh": "原油价格突破100美元/桶，四年来首次",
+      "summary_zh": "布伦特原油突破100美元/桶关口，日内最高触及126美元。科威特、巴林宣布不可抗力并削减产量。伊拉克南部三个主要油田产量较战前下降70%。加州汽油价格突破5美元/加仑。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/03/08/crude-oil-prices-today-iran-war.html"
+        },
+        {
+          "name": "Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/mar/09/california-gas-prices-iran-war"
+        }
+      ],
+      "metrics": {
+        "brent_peak_usd": 126,
+        "iraq_south_output_decline_pct": 70
+      },
+      "week": 2
+    },
+    {
+      "date": "2026-03-10",
+      "type": "国际机构",
+      "title_zh": "UNCTAD 警告霍尔木兹海峡航运中断危及全球贸易",
+      "summary_zh": "UNCTAD发布报告，因美伊冲突导致的霍尔木兹海峡航运中断正在威胁能源、化肥和脆弱经济体。全球约20%的石油运输和大量LNG贸易经过该海峡。",
+      "source_tier": "B",
+      "sources": [
+        {
+          "name": "UNCTAD",
+          "url": "https://unctad.org/node/51538"
+        },
+        {
+          "name": "UN Geneva Newsroom",
+          "url": "https://www.unognewsroom.org/story/en/3061/unog-news-strait-of-hormuz-report-unctad-19mar2026"
+        }
+      ],
+      "metrics": {
+        "hormuz_oil_share_pct": 20
+      },
+      "week": 2
+    },
+    {
+      "date": "2026-03-11",
+      "type": "国际机构",
+      "title_zh": "IEA 32国释放4亿桶战略石油储备——史上最大规模",
+      "summary_zh": "IEA 32个成员国一致同意释放4亿桶战略石油储备。美国同时暂停对19M桶俄罗斯原油的制裁（30天窗口）。OPEC+承诺增产206,000桶/日以缓解短缺。400M桶储备仅相当于全球约4天消费量。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "NYT",
+          "url": "https://www.nytimes.com/2026/03/11/business/energy-environment/iran-oil-reserves-release.html"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/03/12/iea-oil-stockpile-release-middle-east-war-brent-hormuz.html"
+        },
+        {
+          "name": "Reuters/OPEC",
+          "url": "https://polling.reuters.com/business/energy/opec-confirms-big-saudi-oil-production-hike-ahead-iran-war-holds-forecasts-2026-03-11/"
+        }
+      ],
+      "metrics": {
+        "strategic_reserves_released_barrels": 400000000,
+        "iea_member_countries": 32,
+        "opec_increase_bpd": 206000
+      },
+      "week": 2
+    },
+    {
+      "date": "2026-03-11",
+      "type": "政策发布",
+      "title_zh": "欧盟关键原材料法案分析：目标宏大但矿山缺位",
+      "summary_zh": "Materials Dispatch分析：欧盟CRMA设定2030供应目标，但许可延迟、资金缺口和对中国/刚果（金）极端依赖意味着EU难以弥合战略材料赤字。与美国Project Vault形成对比。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Materials Dispatch",
+          "url": "https://www.materialsdispatch.com/en/blog/europe-s-critical-raw-materials-act-big-targets"
+        }
+      ],
+      "metrics": {},
+      "week": 2
+    },
+    {
+      "date": "2026-03-12",
+      "type": "国际机构",
+      "title_zh": "IEA月报：史上最大石油供应中断，全球供应骤降800万桶/日",
+      "summary_zh": "IEA 3月石油市场报告确认“全球石油市场历史上最大的供应中断“。海湾国家原油产量被迫削减至少800万桶/日。全球可观察石油库存8,210百万桶。IEA下调2026年全球石油需求增长预期210千桶/日至640千桶/日。",
+      "source_tier": "B",
+      "sources": [
+        {
+          "name": "IEA Oil Market Report",
+          "url": "https://www.iea.org/reports/oil-market-report-march-2026"
+        },
+        {
+          "name": "Insurance Journal",
+          "url": "https://www.insurancejournal.com/news/international/2026/03/12/861599.htm"
+        }
+      ],
+      "metrics": {
+        "supply_disruption_bpd": 8000000,
+        "condensate_ngl_disruption_bpd": 2000000,
+        "global_oil_inventories_mb": 8210,
+        "demand_growth_revision_kbpd": -210
+      },
+      "week": 2
+    },
+    {
+      "date": "2026-03-12",
+      "type": "政策发布",
+      "title_zh": "DOE发布UPRISE计划：2029年前增加5GW核电容量",
+      "summary_zh": "DOE发布UPRISE（Upgrade and Restart Initiative for Strategic Energy）计划，目标通过核电站升级和重启在2029年前增加5GW核电容量，聚焦压水堆升级和已关闭核电站重启。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Power Magazine",
+          "url": "https://www.powermag.com/doe-unveils-initiative-to-add-5-gw-of-nuclear-capacity-through-uprates-and-restarts/"
+        },
+        {
+          "name": "GlobeNewsWire/Lightbridge",
+          "url": "https://www.globenewswire.com/news-release/2026/03/16/3256188/0/en/Lightbridge-Commends-U-S-Department-of-Energy-s-Launch-of-UPRISE-Initiative-to-Accelerate-U-S-Nuclear-Energy-Expansion.html"
+        }
+      ],
+      "metrics": {
+        "uprise_target_gw": 5,
+        "uprise_target_year": 2029
+      },
+      "week": 2
+    },
+    {
+      "date": "2026-03-12",
+      "type": "外交动态",
+      "title_zh": "美国、EU、日本推进关键矿产贸易协定以对抗中国",
+      "summary_zh": "核心机制：价格下限框架（border-adjustable price floors），确保盟国生产商能够与中国补贴供应竞争。延续2025年10月与澳大利亚和日本签署的双边框架。USTR同时就关键矿产贸易谈判征求公众意见。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Bloomberg Law",
+          "url": "https://news.bloomberglaw.com/environment-and-energy/us-critical-minerals-talks-advance-with-eu-japan-on-price-floor"
+        },
+        {
+          "name": "Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/03/13/critical-mineral-talks-us/"
+        },
+        {
+          "name": "TT News",
+          "url": "https://www.ttnews.com/articles/us-eu-japan-minerals-china"
+        }
+      ],
+      "metrics": {},
+      "week": 2
+    },
+    {
+      "date": "2026-03-12",
+      "type": "政策发布",
+      "title_zh": "Project Vault：120亿美元美国战略关键矿产储备全解",
+      "summary_zh": "EXIM提供100亿美元直接贷款（92年历史上最大一笔）+约20亿美元私人资本。覆盖所有60种USGS 2025关键矿产清单矿物。政府入股7家矿业公司，最大单笔USA Rare Earth 16亿美元/10%股权。双边框架已与11国签署，另有17国谈判中。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Mayer Brown",
+          "url": "https://www.mayerbrown.com/en/insights/publications/2026/03/critical-minerals-project-vault-and-the-new-us-critical-minerals-playbook"
+        }
+      ],
+      "metrics": {
+        "project_vault_total_usd": 12000000000,
+        "exim_loan_usd": 10000000000,
+        "private_capital_usd": 2000000000,
+        "critical_minerals_covered": 60,
+        "bilateral_frameworks_signed": 11,
+        "bilateral_frameworks_negotiating": 17
+      },
+      "week": 2
+    },
+    {
+      "date": "2026-03-13",
+      "type": "数据发布",
+      "title_zh": "沙特减产20%至800万桶/日",
+      "summary_zh": "沙特在两个海上油田关闭后，产量从1000万降至800万桶/日。中东石油出口从2500万暴跌60%至约1000万桶/日。沙特正通过东西管道转运至红海亚布港，但管道容量有限。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/energy/saudi-arabia-cuts-oil-output-20-8-million-bpd-amid-iran-war-sources-say-2026-03-13/"
+        },
+        {
+          "name": "OilPrice.com",
+          "url": "https://oilprice.com/Energy/Energy-General/The-Disappearance-of-Arab-Heavy-and-Medium-Crude-Hits-Asian-Refineries-Hard.html"
+        }
+      ],
+      "metrics": {
+        "saudi_output_bpd": 8000000,
+        "saudi_cut_pct": 20,
+        "mideast_export_decline_pct": 60
+      },
+      "week": 2
+    },
+    {
+      "date": "2026-03-16",
+      "type": "企业动态",
+      "title_zh": "Lynas 签署9600万美元稀土承购协议与价格下限承诺",
+      "summary_zh": "澳大利亚稀土企业Lynas与美国国防部签署具有约束力的意向书，9600万美元/4年期，购买Lynas美国子公司的轻稀土和重稀土氧化物。这是Project Vault价格下限机制的具体落地。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Benchmark Minerals",
+          "url": "https://source.benchmarkminerals.com/article/lynas-rare-earths-signs-us-96m-rare-earth-offtake-and-price-floor-commitment-with-dow"
+        }
+      ],
+      "metrics": {
+        "lynas_offtake_usd": 96000000,
+        "offtake_years": 4
+      },
+      "week": 3
+    },
+    {
+      "date": "2026-03-17",
+      "type": "政策发布",
+      "title_zh": "联邦公报评估太阳能电池板进口救济有效性",
+      "summary_zh": "联邦公报发布对晶硅光伏电池进口救济措施有效性的评估通知。叠加Section 301对中国清洁能源产品的调查，太阳能供应链面临全方位关税压力。美国关税使印度太阳能出口下降35%。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "Federal Register",
+          "url": "https://www.federalregister.gov/documents/2026/03/17/2026-05170/crystalline-silicon-photovoltaic-cells-whether-or-not-partially-or-fully-assembled-into-other"
+        },
+        {
+          "name": "Down to Earth",
+          "url": "https://www.downtoearth.org.in/energy/us-tariffs-slash-indias-solar-exports-by-35-report"
+        }
+      ],
+      "metrics": {
+        "india_solar_export_decline_pct": 35
+      },
+      "week": 3
+    },
+    {
+      "date": "2026-03-17",
+      "type": "数据发布",
+      "title_zh": "美国电池进口跌至五年低点",
+      "summary_zh": "Section 301关税从25%提高后，美国锂电池进口降至2021年以来最低。2026年美国锂电池总需求预计达182GWh，其中37%来自储能（BESS）。关税制约了进口但替代产能尚不到位。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Benchmark Minerals",
+          "url": "https://source.benchmarkminerals.com/article/us-battery-imports-fall-to-five-year-low-after-section-301-tariffs-raised-to-25-"
+        }
+      ],
+      "metrics": {
+        "us_battery_demand_gwh": 182,
+        "bess_share_pct": 37
+      },
+      "week": 3
+    },
+    {
+      "date": "2026-03-18",
+      "type": "企业动态",
+      "title_zh": "企业层面的“大分叉“：供应链多元化替代脱钩",
+      "summary_zh": "MarketMinute分析：企业界已转向更务实策略——不完全撤出中国，而是将供应链分散到多国同时保留中国线。与Bloomberg报道的“中美脱钩是个神话“形成呼应。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "MarketMinute",
+          "url": ""
+        }
+      ],
+      "metrics": {},
+      "week": 3
+    },
+    {
+      "date": "2026-03-18",
+      "type": "政策发布",
+      "title_zh": "津巴布韦禁止关键矿产出口",
+      "summary_zh": "津巴布韦宣布关键矿产出口禁令，加入全球资源民族主义浪潮。该国拥有非洲最大的锂矿储量之一，出口禁令旨在推动国内加工增值。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "African Climate Wire",
+          "url": "https://africanclimatewire.org/2026/03/export-restrictions-on-critical-minerals-what-zimbabwes-recent-ban-tells-us/"
+        }
+      ],
+      "metrics": {},
+      "week": 3
+    },
+    {
+      "date": "2026-03-19",
+      "type": "企业动态",
+      "title_zh": "墨西哥近岸外包在2026年持续加速",
+      "summary_zh": "企业将更多制造和仓储转移到墨西哥的趋势在2026年加速。驱动因素：关税波动性和远洋运输时间过长。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "3PL Center",
+          "url": "https://3plcenter.com/nearshoring-to-mexico-2026/"
+        }
+      ],
+      "metrics": {},
+      "week": 3
+    },
+    {
+      "date": "2026-03-19",
+      "type": "国际机构",
+      "title_zh": "QatarEnergy对4国LNG合同宣布不可抗力，迪拜原油创$166历史纪录",
+      "summary_zh": "QatarEnergy正式对意大利、比利时、韩国和中国的LNG长期合同宣布不可抗力。迪拜原油价格创166美元/桶历史纪录。卡塔尔占全球LNG出口约20%，欧洲12-14%的LNG来自卡塔尔。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Energy News Beat",
+          "url": "http://energynewsbeat.co/qatarenergy-declares-force-majeure-on-lng-contracts-to-italy-belgium-south-korea-and-china-shockwaves-for-global-markets-and-a-major-boost-for-u-s-lng-producers/"
+        },
+        {
+          "name": "BBC",
+          "url": "http://www.bbc.com/news/articles/c24de9e97vno"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/03/19/166-a-barrel-middle-east-oil-gives-clue-to-where-all-prices-could-be-headed-if-iran-war-drags-on.html"
+        }
+      ],
+      "metrics": {
+        "dubai_crude_record_usd": 166,
+        "qatar_lng_global_share_pct": 20,
+        "force_majeure_countries": 4
+      },
+      "week": 3
+    },
+    {
+      "date": "2026-03-19",
+      "type": "政策发布",
+      "title_zh": "USTR 征求关键矿产复边协定设计意见",
+      "summary_zh": "CTA等行业组织向USTR提交公开评论，涉及复边关键矿产贸易协定的设计、价格下限机制覆盖矿种等核心问题。评论截止日期3月19日。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "CTA评论PDF",
+          "url": "https://www.cta.tech/media/x3gf3esm/cta-comments-to-ustr-on-design-of-plurilateral-agreements-on-critical-minerals.pdf"
+        }
+      ],
+      "metrics": {},
+      "week": 3
+    },
+    {
+      "date": "2026-03-20",
+      "type": "外交动态",
+      "title_zh": "美日关键矿产伙伴关系进入下一阶段",
+      "summary_zh": "USTR宣布美日关键矿产伙伴关系新进展，该倡议旨在对抗中国在关键矿产领域的主导地位。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "E&E News / Politico",
+          "url": "https://www.eenews.net/articles/us-japan-take-next-step-on-critical-minerals-partnership-to-counter-china/"
+        },
+        {
+          "name": "Japan Times",
+          "url": "https://beta.japantimes.co.jp/business/2026/03/16/economy/us-mineral-supply-chain/"
+        }
+      ],
+      "metrics": {},
+      "week": 3
+    },
+    {
+      "date": "2026-03-20",
+      "type": "智库分析",
+      "title_zh": "CGEP：美中贸易紧张与第三国清洁能源投资",
+      "summary_zh": "CGEP分析：中国清洁能源企业正通过东南亚等第三国规避美国关税。政策制定者面临“能源安全 vs 气候目标 vs 贸易保护“的三难困境。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "CGEP via Renewable Energy Asia Portal",
+          "url": "https://www.renewableenergyasia.org/2026/03/us-china-trade-tensions-and-clean.html"
+        }
+      ],
+      "metrics": {},
+      "week": 3
+    },
+    {
+      "date": "2026-03-22",
+      "type": "智库分析",
+      "title_zh": "”关键矿产北约“概念浮现，伊朗冲击波加速矿产地缘重组",
+      "summary_zh": "InvestorNews提出“关键矿产北约“概念——由美国及其盟友构建的矿产供应联盟。霍尔木兹危机暴露美国国防工业对海峡过境硫磺的“近乎完全“依赖。化肥（尿素）价格上涨50%，威胁北半球春播。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "InvestorNews",
+          "url": "https://investornews.com/critical-minerals-rare-earths/the-critical-minerals-report-03-22-2026-building-a-critical-minerals-nato-iran-shockwaves-and-cobalt-tungsten-uranium-as-barometers-of-global-turbulence/"
+        }
+      ],
+      "metrics": {
+        "urea_price_increase_pct": 50
+      },
+      "week": 4
+    },
+    {
+      "date": "2026-03-25",
+      "type": "立法动态",
+      "title_zh": "美国众议院自然资源委员会：“释放美国矿产潜力”",
+      "summary_zh": "发布题为“Unleashing America's Mineral Potential”的声明，推动加快国内矿产开采许可和审批流程。与行政部门的Project Vault形成立法-行政协同。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "House Natural Resources Committee",
+          "url": "https://naturalresources.house.gov/news/documentsingle.aspx?DocumentID=418689"
+        }
+      ],
+      "metrics": {},
+      "week": 4
+    },
+    {
+      "date": "2026-03-26",
+      "type": "国际机构",
+      "title_zh": "IEA发布2026年能源危机政策响应追踪器",
+      "summary_zh": "IEA将当前危机定义为“历史上最大的供应中断“。同日伊朗外交部宣布允许中国、俄罗斯、印度、伊拉克和巴基斯坦五国船只通过海峡。IRGC开始对通过海峡的船只征收通行费（以人民币计价）。",
+      "source_tier": "B",
+      "sources": [
+        {
+          "name": "IEA",
+          "url": "https://www.iea.org/data-and-statistics/data-tools/2026-energy-crisis-policy-response-tracker"
+        },
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/india-among-five-nations-granted-passage-through-strait-of-hormuz-by-tehran/article70786984.ece"
+        },
+        {
+          "name": "AP",
+          "url": "https://apnews.com/article/iran-hormuz-shipping-tolls-china-de5159966cde7de7b964b3c2c67eec07"
+        }
+      ],
+      "metrics": {
+        "hormuz_passage_countries": 5
+      },
+      "week": 4
+    },
+    {
+      "date": "2026-03-27",
+      "type": "数据发布",
+      "title_zh": "美以轰炸伊朗核设施和钢铁设施",
+      "summary_zh": "美国和以色列轰炸伊朗的核设施和钢铁设施。伊朗在波斯湾地区进行报复，据报击中沙特一处军事基地。核设施打击标志着军事行动从常规目标扩展到战略性核基础设施。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-27/us-israel-hit-iran-s-nuclear-facilities-as-tehran-attacks-gulf"
+        }
+      ],
+      "metrics": {},
+      "week": 4
+    },
+    {
+      "date": "2026-03-27",
+      "type": "媒体深度",
+      "title_zh": "伊朗战争引发氦气供应危机，俄罗斯可能渔翁得利",
+      "summary_zh": "氦气是芯片制造中不可替代的冷却气体，伊朗战争中断了波斯湾氦气供应路线。俄罗斯作为全球第二大氦气来源可能从供应短缺中获利。揭示半导体供应链隐蔽脆弱点。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/03/27/russia-helium-supply-crunch-iran-war.html"
+        }
+      ],
+      "metrics": {},
+      "week": 4
+    },
+    {
+      "date": "2026-03-27",
+      "type": "企业动态",
+      "title_zh": "全球最大化肥商Yara警告：农民在价格飙升中被挤压",
+      "summary_zh": "伊朗战争导致全球三分之一经由霍尔木兹海峡的化肥供应中断。尿素价格已上涨50%，威胁北半球春播和2027年粮食供应。投入成本显著上升，但农作物价格未同步上涨。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "WSJ",
+          "url": "https://www.wsj.com/finance/commodities-futures/fertilizer-maker-yara-warns-farmers-are-being-squeezed-by-price-surge-amid-war-7d03d933"
+        }
+      ],
+      "metrics": {
+        "urea_price_increase_pct": 50,
+        "hormuz_fertilizer_share_pct": 33
+      },
+      "week": 4
+    },
+    {
+      "date": "2026-03-28",
+      "type": "数据发布",
+      "title_zh": "中东最大铝生产商冶炼厂在伊朗袭击中严重受损",
+      "summary_zh": "EGA最大金属冶炼厂在伊朗导弹和无人机袭击中“严重受损“。海湾地区占全球原铝出口约20%。伊朗战争经济冲击已从能源扩展到金属。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-28/emirates-global-aluminium-says-smelter-site-damaged-in-attack-mnaeo4uk"
+        }
+      ],
+      "metrics": {
+        "gulf_aluminum_export_global_share_pct": 20
+      },
+      "week": 4
+    },
+    {
+      "date": "2026-03-28",
+      "type": "智库分析",
+      "title_zh": "东盟能源冲击催生区域电网互联计划加速",
+      "summary_zh": "伊朗战争引发的能源冲击正在复活东盟长期搁置的区域电力互联计划。区域电网互联被视为减少对化石燃料进口依赖的结构性解决方案。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "SCMP",
+          "url": "https://www.scmp.com/week-asia/health-environment/article/3348186/iran-war-energy-shock-revives-aseans-power-grid-plans-its-way-go"
+        }
+      ],
+      "metrics": {},
+      "week": 4
+    }
+  ],
+  "background_context": [
+    {
+      "date": "2026-02-28",
+      "type": "行政命令",
+      "title_zh": "”史诗之怒行动“：美以联合空袭伊朗，击杀最高领袖哈梅内伊",
+      "summary_zh": "本月所有能源危机的起点。CENTCOM宣布对伊朗发动“Operation Epic Fury”空袭行动。数小时内IRGC宣布对海湾国家和商船发动报复行动，霍尔木兹海峡危机随即爆发。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "U.S. CENTCOM",
+          "url": "https://www.centcom.mil/MEDIA/STATEMENTS/Statements-View/Article/4418396/us-forces-launch-operation-epic-fury/"
+        }
+      ],
+      "metrics": {},
+      "week": null
+    },
+    {
+      "date": "2026-02-02",
+      "type": "政策发布",
+      "title_zh": "特朗普宣布 Project Vault——美国战略关键矿产储备",
+      "summary_zh": "白宫仪式上宣布，规模120亿美元（EXIM 100亿 + 私人20亿）。美国首次建立OEM需求驱动的公私合营矿产储备。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "White House",
+          "url": "https://www.whitehouse.gov/videos/introducing-project-vault-a-critical-mineral-stockpile-for-american-businesses"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/02/03/trump-stockpile-critical-minerals-reserve-project-vault.html/"
+        }
+      ],
+      "metrics": {
+        "project_vault_total_usd": 12000000000
+      },
+      "week": null
+    },
+    {
+      "date": "2026-02-04",
+      "type": "政策发布",
+      "title_zh": "特朗普政府提议建立关键矿产优惠贸易区",
+      "summary_zh": "在关键矿产部长级会议上提出，核心机制：可执行的公平市场价格标准（price floors）。为后续3月美日EU三方价格下限谈判奠定框架。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "State Department",
+          "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/02/2026-critical-minerals-ministerial"
+        }
+      ],
+      "metrics": {},
+      "week": null
+    },
+    {
+      "date": "2026-02-04",
+      "type": "外交动态",
+      "title_zh": "国务卿 Rubio 主持关键矿产部长级会议",
+      "summary_zh": "与阿根廷、库克群岛、厄瓜多尔等11国签署双边框架协议，另有17国谈判中。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "State Department",
+          "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/02/2026-critical-minerals-ministerial"
+        }
+      ],
+      "metrics": {
+        "bilateral_frameworks_signed": 11,
+        "bilateral_frameworks_negotiating": 17
+      },
+      "week": null
+    },
+    {
+      "date": "2025-03-01",
+      "type": "行政命令",
+      "title_zh": "特朗普签署行政令加速国内矿产开采",
+      "summary_zh": "授权政府直接入股7家矿业公司，最大单笔：USA Rare Earth 16亿美元/10%股权。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "White House (2025 EO)",
+          "url": "https://www.whitehouse.gov/presidential-actions/2025/03/immediate-measures-to-increase-american-mineral-production/"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/us-inject-16-billion-into-rare-earths-miner-10-stake-ft-reports-2026-01-25/"
+        }
+      ],
+      "metrics": {
+        "usa_rare_earth_investment_usd": 1600000000,
+        "equity_stake_pct": 10,
+        "mining_companies_invested": 7
+      },
+      "week": null
+    },
+    {
+      "date": "2026-02-23",
+      "type": "智库分析",
+      "title_zh": "ITIF 报告：跨国公司转移产线但价值链仍重度依赖中国",
+      "summary_zh": "虽然跨国公司纷纷将生产线转移到美国，但内部价值链依然严重依赖中国。中方由此拥有显著的议价杠杆。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "ITIF",
+          "url": "https://itif.org/publications/2026/02/23/internal-value-chains-dependent-china-multinationals-shift-production-to-america/"
+        }
+      ],
+      "metrics": {},
+      "week": null
+    }
+  ],
+  "key_metrics": {
+    "iea_strategic_reserves_released": "4亿桶（32国协调，史上最大）",
+    "global_oil_supply_disruption": "800万桶/日",
+    "mideast_oil_export_decline": "60%（2500万→约1000万桶/日）",
+    "brent_crude_price_range": "$92-$126/桶",
+    "dubai_crude_record": "$166/桶（3月19日）",
+    "eu_gas_price": "€30→€60+/MWh（翻倍）",
+    "qatar_force_majeure": "覆盖意大利、比利时、韩国、中国",
+    "hormuz_passage_allowed": "仅限中俄印伊巴5国 + 马来西亚/泰国",
+    "project_vault_total": "120亿美元（EXIM 100亿 + 私人20亿）",
+    "critical_minerals_covered": "60种（USGS 2025清单全覆盖）",
+    "doe_battery_funding": "5亿美元",
+    "lynas_offtake": "9600万美元/4年",
+    "bilateral_mineral_frameworks": "11国已签 + 17国谈判中",
+    "us_reshoring_investment": "1840亿美元",
+    "us_battery_imports": "跌至2021年以来最低",
+    "us_lithium_battery_demand_2026": "182GWh（37%来自BESS）",
+    "uprise_nuclear_target": "5GW新增容量（2029年前）",
+    "canada_india_uranium_agreement": "19亿美元",
+    "solar_tariff": "100%+（印度/印尼/老挝）",
+    "urea_price_increase": "+50%",
+    "gulf_aluminum_export_share": "约20%（EGA冶炼厂受损）"
+  }
+}

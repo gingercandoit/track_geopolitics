@@ -1,0 +1,268 @@
+{
+  "report_metadata": {
+    "topic": "topic2-trade-industrial",
+    "topic_name_zh": "贸易与产业竞争",
+    "period_start": "2026-03-01",
+    "period_end": "2026-03-28",
+    "generated_at": "2026-03-29T12:00:00+08:00",
+    "version": "1.0"
+  },
+  "events": [
+    {
+      "date": "2026-03-02",
+      "type": "政策发布",
+      "title_zh": "USTR 发布 2026 年贸易政策议程",
+      "summary_zh": "美国贸易代表办公室向国会提交特朗普总统的2026年贸易政策议程，主题为“America First Trade Policy”，将贸易调查确立为加征关税的主要法律工具。预告即将对“结构性产能过剩“国家发起大规模调查。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "USTR官方PDF",
+          "url": "https://ustr.gov/sites/default/files/files/Press/Releases/2026/2026%20Trade%20Policy%20Agenda.pdf"
+        }
+      ],
+      "metrics": {},
+      "week": 1
+    },
+    {
+      "date": "2026-03-09",
+      "type": "智库分析",
+      "title_zh": "CHIPS Act 是否引发了制造业建设投资热潮？",
+      "summary_zh": "Skanda Amarnath在Briefing Book / Factory Settings发表深度分析，对CHIPS Act的产业政策效果进行“法务会计式“的精细审计，评估联邦补贴与制造业建设投资激增之间的因果关系。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Factory Settings",
+          "url": "https://www.factorysettings.org/p/did-the-chips-act-trigger-the-manufacturing"
+        }
+      ],
+      "metrics": {},
+      "week": 2
+    },
+    {
+      "date": "2026-03-11",
+      "type": "贸易调查",
+      "title_zh": "USTR 连续两天发起大规模 301 调查",
+      "summary_zh": "3月11日USTR对中国和其他15个经济体发起第一轮301调查，3月12日发起第二轮覆盖中国和其他59个经济体。两轮合计涉及76个经济体，六大目标行业：钢铁铝材、太阳能面板、电动车、电池与关键矿产、半导体、造船。中国外交部迅速回应称“所谓产能过剩是一个伪命题“。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "TariffCenter.AI",
+          "url": "https://tariffcenter.ai/blog/section-301-overcapacity-investigation-2026"
+        },
+        {
+          "name": "Mayer Brown",
+          "url": "https://www.mayerbrown.com/en/insights/publications/2026/03/new-section-301-investigations-on-countries-with-manufacturing-overcapacity-and-forced-labor-enforcement"
+        },
+        {
+          "name": "ArentFox Schiff",
+          "url": "https://www.afslaw.com/perspectives/customs-import-compliance-blog/new-tariffs-replace-ieepa-ustr-initiates-sweeping"
+        },
+        {
+          "name": "USTR联邦公报PDF",
+          "url": "https://ustr.gov/sites/default/files/files/Press/Releases/2026/USTR%20301%20FRN%20Industrial%20Excess%20Capacity%203-11-26.pdf"
+        },
+        {
+          "name": "Pillsbury",
+          "url": "https://www.globaltradeandsanctionslaw.com/ustr-section-301-investigations-into-structural-excess-capacity-16-economies/"
+        },
+        {
+          "name": "新华社英文版",
+          "url": "http://english.news.cn/20260312/ef372c16018445a2aa1ead7984d05818/c.html"
+        },
+        {
+          "name": "新华社英文版",
+          "url": "https://english.news.cn/20260316/23e50d96e9664725a7385db471cf84fe/c.html"
+        },
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/03/12/nx-s1-5746061/us-china-trade-five-year-plan"
+        }
+      ],
+      "metrics": {
+        "economies_investigated_round1": 16,
+        "economies_investigated_round2": 60,
+        "economies_investigated_total": 76,
+        "target_industries": 6,
+        "investigation_timeline_months": "12-18",
+        "china_steel_overcapacity_pct": 50,
+        "china_solar_global_share_pct": 80,
+        "china_battery_processing_global_share_pct": 70
+      },
+      "week": 2
+    },
+    {
+      "date": "2026-03-13",
+      "type": "贸易调查",
+      "title_zh": "US ITC 否决对中国阳极材料征收反倾销和反补贴税",
+      "summary_zh": "美国国际贸易委员会（ITC）投票否决了对中国产活性阳极材料征收反倾销税和反补贴税。这是一个少见的中国在美国贸易救济案中“胜诉“的案例，对电池供应链的短期影响：中国阳极材料对美出口暂时免于额外关税。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Benchmark Minerals",
+          "url": "https://source.benchmarkminerals.com/article/us-itc-votes-against-antidumping-duty-and-countervailing-duty-on-chinese-active-anode-material"
+        }
+      ],
+      "metrics": {},
+      "week": 2
+    },
+    {
+      "date": "2026-03-16",
+      "type": "外交动态",
+      "title_zh": "中美经贸代表在巴黎OECD举行高级别磋商",
+      "summary_zh": "中国国际贸易谈判代表李成钢与美方代表在OECD巴黎总部举行经贸磋商。中方报道（新华社）称双方在部分议题上达成初步共识，同意保持关税水平稳定。西方报道聚焦于李成钢公开警告美国最新关税举措可能损害双边贸易关系。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "新华社英文版",
+          "url": "https://english.news.cn/20260316/28879ef006824d0d8929809554a62997/c.html"
+        },
+        {
+          "name": "新华社英文版",
+          "url": "https://english.news.cn/20260317/26991aa4672748f497c3221969efe050/c.html"
+        },
+        {
+          "name": "CGTN",
+          "url": "https://news.cgtn.com/news/2026-03-16/Chinese-trade-representative-Li-Chenggang-speaks-to-media-after-talks-with-US-negotiators-in-Paris-1LzbY4oR9y8/p.html"
+        }
+      ],
+      "metrics": {},
+      "week": 3
+    },
+    {
+      "date": "2026-03-26",
+      "type": "国际机构",
+      "title_zh": "WTO 第14届部长级会议开幕：总干事称“世界秩序已不可逆转地改变”",
+      "summary_zh": "WTO MC14在喀麦隆雅温得开幕，总干事直言世界秩序已不可逆转地改变。72%全球贸易仍在WTO规则下进行。WTO争端解决机制处于瘫痪状态——102个成员未提交2025年补贴通知（仅64个提交）。",
+      "source_tier": "B",
+      "sources": [
+        {
+          "name": "WTO",
+          "url": "https://www.wto.org/english/news_e/news26_e/mc14_28mar26_341_e.htm"
+        }
+      ],
+      "metrics": {
+        "wto_trade_share_pct": 72,
+        "subsidy_notifications_submitted": 64,
+        "subsidy_notifications_missing": 102
+      },
+      "week": 4
+    },
+    {
+      "date": "2026-03-27",
+      "type": "贸易调查",
+      "title_zh": "中国商务部启动对美贸易壁垒调查——月度最重磅事件",
+      "summary_zh": "中国商务部正式对美国启动两项贸易壁垒调查：一项针对美国损害全球生产和供应链的行动和措施，一项针对美国阻碍绿色产品贸易的行动和措施。对标美方3月11-12日的两轮301调查，标志着中国从被调查方转变为主动发起调查方。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "新华社英文版",
+          "url": "https://english.news.cn/20260327/4baeec1a66db464b9b7068b7303c603d/c.html"
+        },
+        {
+          "name": "CCTV/央视网",
+          "url": "https://news.cctv.com/2026/03/27/ARTIsACfJ2kMQwQVMLd1BJZK260327.shtml"
+        }
+      ],
+      "metrics": {
+        "trade_barrier_investigations": 2
+      },
+      "week": 4
+    },
+    {
+      "date": "2026-03-27",
+      "type": "国际机构",
+      "title_zh": "EU对取向电工钢发起保障措施调查",
+      "summary_zh": "WTO通报：欧盟于3月27日对进口取向电工钢发起保障措施调查。取向电工钢是变压器和电网基础设施的核心材料，反映了欧盟在关键工业材料上的供应安全关切。",
+      "source_tier": "B",
+      "sources": [
+        {
+          "name": "WTO",
+          "url": "https://www.wto.org/english/news_e/news26_e/safe_eec_27mar26_348_e.htm"
+        }
+      ],
+      "metrics": {},
+      "week": 4
+    },
+    {
+      "date": "2026-03-27",
+      "type": "企业动态",
+      "title_zh": "奥地利可能阻止京东22亿欧元收购欧洲最大电子零售商",
+      "summary_zh": "Bloomberg报道：奥地利当局拒绝批准京东22亿欧元收购德国Ceconomy（欧洲最大消费电子零售商）的要约。这是欧洲对中国投资审查收紧的最新案例，反映了FDI审查作为贸易壁垒的新趋势。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-27/austria-declines-to-approve-jd-com-s-offer-to-buy-ceconomy"
+        }
+      ],
+      "metrics": {
+        "acquisition_value_eur": 2200000000
+      },
+      "week": 4
+    },
+    {
+      "date": "2026-03-28",
+      "type": "国际机构",
+      "title_zh": "WTO MC14达成电子商务协定路径——66个成员覆盖70%全球贸易",
+      "summary_zh": "WTO MC14取得实质性成果：66个WTO成员通过临时安排，为WTO电子商务协定正式生效铺平道路。这66个经济体覆盖约70%的全球贸易。同日WTO总干事称多方临时上诉仲裁安排（MPIA）是争端解决改革前的“信心建设桥梁“。",
+      "source_tier": "B",
+      "sources": [
+        {
+          "name": "WTO",
+          "url": "https://www.wto.org/english/news_e/news26_e/mc14_28mar26_341_e.htm"
+        },
+        {
+          "name": "WTO MPIA",
+          "url": "https://www.wto.org/english/news_e/news26_e/mc14_28mar26_350_e.htm"
+        }
+      ],
+      "metrics": {
+        "ecommerce_agreement_members": 66,
+        "global_trade_coverage_pct": 70
+      },
+      "week": 4
+    }
+  ],
+  "background_context": [
+    {
+      "date": "2026-02-20",
+      "type": "行政命令",
+      "title_zh": "白宫签署“Ending Certain Tariff Actions”行政令",
+      "summary_zh": "终止部分此前基于IEEPA紧急权力征收的关税，标志着贸易执法从紧急令回归常规法律框架。为后续的Section 301调查替代方案铺路。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "White House",
+          "url": "https://www.whitehouse.gov/presidential-actions/2026/02/ending-certain-tariff-actions/"
+        }
+      ],
+      "metrics": {},
+      "week": null
+    },
+    {
+      "date": "2026-02-27",
+      "type": "媒体深度",
+      "title_zh": "Bloomberg：所谓“中美脱钩“更像一个神话",
+      "summary_zh": "Bloomberg调查追踪贸易数据发现，商品仍通过东南亚和墨西哥等中转地大量流动——中国对美出口的“消失“只是统计幻觉。为理解USTR发起针对76个经济体的301调查提供了动机背景。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-02-27/a-trade-whodunnit-shows-how-us-china-decoupling-is-just-a-myth"
+        }
+      ],
+      "metrics": {},
+      "week": null
+    }
+  ],
+  "key_metrics": {
+    "ustr_301_economies_total": "第一轮16个，第二轮60个，合计76个",
+    "ustr_301_target_industries": "6个（钢铁、太阳能、EV、电池、半导体、造船）",
+    "china_overcapacity": "钢铁超需求50%，太阳能占全球80%，电池加工占全球70%",
+    "china_trade_barrier_investigations": "2项",
+    "wto_mc14_ecommerce": "66成员达成路径，覆盖70%全球贸易",
+    "wto_subsidy_notification_rate": "64/166（38.6%）",
+    "jd_ceconomy_acquisition": "22亿欧元（被奥地利阻止）",
+    "ustr_301_timeline": "12-18个月（快速6-9个月）"
+  }
+}

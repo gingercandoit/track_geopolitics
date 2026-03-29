@@ -156,7 +156,7 @@ https://www.ft.com/world?format=rss                   # FT World
 - 使用 `scripts/fetch_sources.py` 自动化拉取（详见下方脚本说明）
 
 #### Bloomberg/WSJ RSS（C层实时事件流）
-- 用 `feedparser` 解析，按关键词过滤与三大议题相关的条目
+- 用 `feedparser` 解析，按关键词过滤与五大议题相关的条目
 - Bloomberg 摘要够长，可直接做事件识别
 - WSJ 摘要短，主要用于发现标题中的事件线索，然后用 fetch_webpage 深度抓取
 
@@ -179,7 +179,7 @@ https://www.ft.com/world?format=rss                   # FT World
 
 # 常用命令
 --days N          # 时间范围（天数），默认7
---topic 1|2|3     # 按议题过滤输出（不影响拉取，仅影响输出文件）
+--topic 1|2|3|4|5 # 按议题过滤输出（不影响拉取，仅影响输出文件）
 --source rss|reddit|all  # 信息源选择，默认all
 --output DIR      # 输出目录，默认data/raw/
 
@@ -194,7 +194,7 @@ python scripts/fetch_sources.py --source rss           # 仅RSS
 **注意事项**：
 - 脚本内置39个RSS feed + 3个Reddit端点
 - 自动处理 State Dept 需要 User-Agent 的情况
-- 关键词过滤使用正则表达式匹配三大议题
+- 关键词过滤使用正则表达式匹配五大议题
 - 未匹配议题的条目也会保存在"未匹配"部分——可能包含跨议题事件
 
 ### RSS Feed 去重说明
@@ -206,46 +206,101 @@ python scripts/fetch_sources.py --source rss           # 仅RSS
 
 ### 关键词矩阵
 
-#### 议题1：中美关系/大国博弈
+> 2026-03-29 重组：从3个议题扩展为5个议题，按经济政策工具/渠道分类。
+
+#### Topic 1：制裁与经济管制 (topic1-sanctions)
 ```
-"US China" + tariffs / sanctions / export controls / technology
-"decoupling" OR "de-risking"
-OFAC designation / BIS entity list
-Trump + China + trade / visit / summit
-whitehouse.gov / USTR + China + trade policy
-China Ministry of Commerce + response / tariffs / investigation
-semiconductor / chip + export / restriction / AI
+OFAC + sanctions / designation / SDN list / delisting
+EU sanctions + package / Russia / Iran / Belarus
+"secondary sanctions" + compliance / enforcement
+SWIFT + ban / exclusion / weaponization / alternative
+"dollar hegemony" OR "dollar weaponization" OR "reserve currency"
+RMB internationalization / CIPS / yuan / renminbi + cross-border
+sanctions evasion / circumvention / enforcement
+"anti-sanctions law" / counter-sanctions / retaliatory measures
+asset freeze + central bank / sovereign wealth fund
+Russia sanctions + oil price cap / energy / circumvention
+Iran sanctions + oil / nuclear / JCPOA
+North Korea + sanctions / enforcement / evasion
+"financial sanctions" + SWIFT / correspondent banking / de-risking
 ```
-**中方视角补充搜索**（Exa，每次报告抓取必须至少执行3组）：
+**中方视角补充搜索**（Exa）：
 ```
-site:english.news.cn + trade / tariff / export control / sanctions
-site:english.mofcom.gov.cn + trade barrier / investigation / countermeasure
-site:www.fmprc.gov.cn/eng + spokesperson / press conference / US
-"China Ministry of Commerce" + investigation / countermeasure / response
-"Xinhua" + trade / tariff / retaliation / countermeasure
+site:english.news.cn + sanctions / countermeasure / anti-sanctions
+"China Ministry of Commerce" + unreliable entity list / export control
+"Xinhua" + SWIFT / yuan / RMB internationalization
 ```
 
-#### 议题2：供应链/贸易政策
+#### Topic 2：贸易与产业竞争 (topic2-trade-industrial)
 ```
-supply chain + reshoring / friendshoring / nearshoring
-critical minerals + policy / restriction / supply
-WTO dispute + settlement / ruling
-trade policy + semiconductor / EV / steel / pharma / battery
-CHIPS Act / IRA + implementation / investment
-industrial policy + subsidies / overcapacity
+tariff + trade war / retaliation / Section 301
+anti-dumping / countervailing duty / trade investigation
+USTR + trade policy / agenda / investigation
+industrial policy + CHIPS Act / IRA / subsidies / overcapacity
+WTO dispute + settlement / ruling / reform / Appellate Body
+trade agreement + RCEP / CPTPP / bilateral / FTA
+carbon border adjustment / CBAM / EU + trade / climate
+"trade barrier" + investigation / countermeasure
 Section 301 / anti-dumping / countervailing duty
 ```
+**中方视角补充搜索**（Exa）：
+```
+site:english.news.cn + trade / tariff / industrial policy
+site:english.mofcom.gov.cn + trade barrier / investigation / countermeasure
+"China Ministry of Commerce" + investigation / response / retaliation
+```
 
-#### 议题3：能源/资源地缘
+#### Topic 3：供应链与关键资源 (topic3-supply-resources)
 ```
-IEA + oil / LNG / critical minerals / energy outlook
-energy security + Europe / Asia / sanctions / Russia
-lithium / cobalt / rare earth + policy / export ban / supply
-OPEC + production / cut / quota
-natural gas / LNG + price / supply / geopolitics
-renewable energy + trade / tariffs / subsidy
-nuclear energy + uranium / enrichment / geopolitics
+supply chain + reshoring / friendshoring / nearshoring / resilience
+critical minerals + lithium / cobalt / rare earth / policy / supply
+OPEC + production / cut / quota / oil price
+IEA + oil / LNG / energy outlook / critical minerals
+energy security + Europe / Asia / pipeline / LNG
+natural gas / LNG + price / supply / geopolitics / terminal
+nuclear energy + uranium / enrichment / geopolitics / SMR
+renewable energy + trade / tariffs / subsidy / solar / wind
+food security + grain / wheat / rice / export ban / supply
+agricultural trade + geopolitics / sanctions / fertilizer
+resource nationalism + export restriction / mineral / processing
+"global value chains" + disruption / restructuring / diversification
 ```
+
+#### Topic 4：技术竞争与数字治理 (topic4-tech-digital)
+```
+BIS entity list / export controls + semiconductor / chip / AI
+technology restriction + China / Huawei / SMIC / NVIDIA
+semiconductor + export / restriction / licensing / advanced chip
+AI regulation / governance + US / EU / China
+"technology decoupling" OR "tech war" OR "chip war"
+data sovereignty / cross-border data / digital governance
+5G / submarine cable / digital infrastructure + geopolitics
+technology standards + competition / interoperability / ISO
+quantum computing / biotech + national security / restriction
+```
+**中方视角补充搜索**（Exa）：
+```
+site:english.news.cn + technology / chip / semiconductor / AI
+"Xinhua" + export control / technology restriction / chip
+```
+
+#### Topic 5：大国博弈与外交 (topic5-diplomacy)
+```
+summit + US China / G7 / G20 / BRICS / bilateral
+state visit + president / prime minister / trade representative
+diplomatic signal + alliance / partnership / alignment
+multilateral forum + cooperation / declaration / joint statement
+AUKUS / Quad / SCO + security / economic / expansion
+geopolitical alignment + Global South / non-aligned / fence-sitting
+election + foreign policy / trade policy / geopolitics
+```
+**中方视角补充搜索**（Exa）：
+```
+site:english.news.cn + summit / visit / bilateral / multilateral
+site:www.fmprc.gov.cn/eng + spokesperson / press conference
+```
+
+> **注意**：Topic 5 的筛选标准最严格——仅收录具有结构性意义的外交事件（首次会晤、联盟变化、框架性协议），排除例行访问、口头警告、召见抗议等低持久性事件。
 
 ### 搜索节奏
 
@@ -298,8 +353,8 @@ nuclear energy + uranium / enrichment / geopolitics
 
 ### 文件命名
 
-- Markdown：`reports/topicN-<slug>/YYYY-MM.md`（如 `reports/topic1-us-china/2026-03.md`）
-- JSON：`data/topicN-<slug>/YYYY-MM.json`（如 `data/topic1-us-china/2026-03.json`）
+- Markdown：`reports/topicN-<slug>/YYYY-MM.md`（如 `reports/topic1-sanctions/2026-03.md`）
+- JSON：`data/topicN-<slug>/YYYY-MM.json`（如 `data/topic1-sanctions/2026-03.json`）
 - 原始拉取：`data/raw/YYYY-MM/fetch_{topic|all}_{timestamp}.{json,md}`
 - slug 用英文 kebab-case
 - 新增议题时：先在 `reports/` 和 `data/` 下建同名目录
@@ -379,8 +434,8 @@ nuclear energy + uranium / enrichment / geopolitics
 ```json
 {
   "report_metadata": {
-    "topic": "topic1-us-china",
-    "topic_name_zh": "中美关系与大国博弈",
+    "topic": "topic1-sanctions",
+    "topic_name_zh": "制裁与经济管制",
     "period_start": "2026-03-01",
     "period_end": "2026-03-28",
     "generated_at": "2026-03-28T22:00:00+08:00",
@@ -433,7 +488,7 @@ nuclear energy + uranium / enrichment / geopolitics
    - Bloomberg RSS 摘要已够长，通常不需要深度抓取
    ↓
 6. 筛选：应用纳入/排除标准
-   - 注意关键词匹配可能有误匹配（如 SCMP 社会新闻因含"China"被匹配到议题1）
+   - 注意关键词匹配可能有误匹配（如 SCMP 社会新闻因含"China"被匹配到多个议题）
    - 人工审核匹配结果，剔除无地缘政治意义的条目
    ↓
 7. 分类：给每条事件指定「类型」（从固定词表选）
@@ -512,8 +567,9 @@ nuclear energy + uranium / enrichment / geopolitics
 
 ### B. 关键词匹配精度
 
-- 议题1因含"China"/"US"等高频词，误匹配率较高（SCMP社会新闻、体育、娱乐等）
-- 议题3因含"oil"/"energy"/"nuclear"等词，匹配量远超其他议题（397条 vs 151/46条）
+- 议题1(制裁)和议题2(贸易)因含"sanctions"/"tariff"/"trade"等高频词，可能有误匹配
+- 议题3(供应链)因含"oil"/"energy"/"nuclear"/"mineral"等词，匹配量可能远超其他议题
+- 议题4(技术)和议题1(制裁)可能有重叠——出口管制同时涉及制裁工具和技术限制，以主要动机判断归属
 - **建议**：拉取后必须人工审核匹配结果，20-30%的匹配条目可能无地缘政治价值
 
 ### C. 最佳实践

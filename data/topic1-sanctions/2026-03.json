@@ -1,0 +1,99 @@
+{
+  "report_metadata": {
+    "topic": "topic1-sanctions",
+    "topic_name_zh": "制裁与经济管制",
+    "period_start": "2026-03-01",
+    "period_end": "2026-03-28",
+    "generated_at": "2026-03-29T12:00:00+08:00",
+    "version": "1.0"
+  },
+  "events": [
+    {
+      "date": "2026-03-04",
+      "type": "制裁行动",
+      "title_zh": "OFAC 发布多轮制裁行动通知",
+      "summary_zh": "3月期间OFAC至少发布4次制裁行动通知（3月4日、17日、20日、25日）。3月20日最重要：新增反恐制裁指定，部分反毒品及俄罗斯相关制裁撤销，制裁为真主党转移资金的全球网络。本月OFAC动作集中在反恐、反毒品和俄罗斯方向，未直接针对中国发起新制裁。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "OFAC官方",
+          "url": "https://ofac.treasury.gov/recent-actions/20260320"
+        },
+        {
+          "name": "Federal Register",
+          "url": "https://www.federalregister.gov/documents/2026/03/25/2026-05748/notice-of-ofac-sanctions-action"
+        }
+      ],
+      "metrics": {
+        "ofac_actions_count": 4
+      },
+      "week": 1
+    },
+    {
+      "date": "2026-03-20",
+      "type": "制裁行动",
+      "title_zh": "美国临时解除海上伊朗原油制裁以遏制油价",
+      "summary_zh": "在油价飙升压力下，财政部长Bessent宣布临时授权购买已在海上的伊朗原油，为买家提供30天制裁豁免，总计约1.4亿桶。同时解除对30艘俄罗斯关联油轮的制裁（载有1900万桶），允许在亚洲销售，暂停对俄制裁30天。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/energy/us-authorizes-temporary-delivery-sale-oil-originating-iran-2026-03-20/"
+        },
+        {
+          "name": "BBC",
+          "url": "https://news.bbc.co.uk/news/articles/c9d415g55nno"
+        },
+        {
+          "name": "Washington Post",
+          "url": "https://www.washingtonpost.com/business/2026/03/20/iran-oil-sanctions-trump/"
+        }
+      ],
+      "metrics": {
+        "iran_oil_barrels_released": 140000000,
+        "russia_oil_barrels_released": 19000000,
+        "sanction_waiver_days": 30,
+        "russia_tankers_unsanctioned": 30
+      },
+      "week": 3
+    },
+    {
+      "date": "2026-03-27",
+      "type": "制裁行动",
+      "title_zh": "中国最大芯片制造商被指向伊朗军方供应芯片制造技术",
+      "summary_zh": "Reuters独家报道：美国官员称中国头部芯片企业向伊朗军方供应了芯片制造技术。该指控将制裁执行与中美科技脱钩直接关联——如果证实，可能触发新一轮实体清单行动。在特朗普-习近平5月峰会前夕曝光，时机高度敏感。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/chinas-top-chipmaker-has-supplied-chipmaking-tech-iran-military-us-officials-say-2026-03-27/"
+        }
+      ],
+      "metrics": {},
+      "week": 4
+    }
+  ],
+  "background_context": [
+    {
+      "date": "2026-02-26",
+      "type": "政策发布",
+      "title_zh": "Reuters：中国出口管制体系快速“成熟”",
+      "summary_zh": "北京不再只是被管制方，其出口管制工具箱在快速充实——稀土、镓、锗、锑等相继纳入管制。中国正在构建与美国对称的经济管制能力，从被动“被制裁方“转变为主动运用管制工具的一方。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/china/trump-reins-china-tech-curbs-beijings-export-controls-come-age-2026-02-26/"
+        }
+      ],
+      "metrics": {},
+      "week": null
+    }
+  ],
+  "key_metrics": {
+    "ofac_sanctions_actions_march": "至少4次",
+    "iran_oil_sanctions_lifted": "1.4亿桶（30天窗口）",
+    "russia_oil_sanctions_lifted": "1900万桶（30天窗口）",
+    "china_export_controlled_minerals": "稀土、镓、锗、锑等"
+  }
+}

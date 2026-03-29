@@ -1,0 +1,207 @@
+{
+  "report_metadata": {
+    "topic": "topic4-tech-digital",
+    "topic_name_zh": "技术竞争与数字治理",
+    "period_start": "2026-03-01",
+    "period_end": "2026-03-28",
+    "generated_at": "2026-03-29T12:00:00+08:00",
+    "version": "1.0"
+  },
+  "events": [
+    {
+      "date": "2026-03-01",
+      "type": "出口管制",
+      "title_zh": "BIS 对华 AI 芯片出口新规正式生效",
+      "summary_zh": "1月发布的AI半导体出口许可审查修订规则（ECCN 3A090）和Proclamation 11002在本周陆续生效执行。审查政策从全面“推定拒绝“改为“逐案审查“，但附加严格认证条件：出口商须证明芯片在美国市场供应充足，技术门槛TPP ≤ 21,000，DRAM带宽 ≤ 6,500 GB/s。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Pillsbury",
+          "url": ""
+        },
+        {
+          "name": "Changeflow GovPing",
+          "url": ""
+        }
+      ],
+      "metrics": {
+        "tpp_threshold": 21000,
+        "dram_bandwidth_threshold_gbps": 6500
+      },
+      "week": 1
+    },
+    {
+      "date": "2026-03-05",
+      "type": "媒体深度",
+      "title_zh": "商务部酝酿“以投资换出口“芯片监管新框架（Reuters独家）",
+      "summary_zh": "Reuters独家获取内部文件：商务部正讨论全新的AI芯片出口监管框架，核心思路是外国政府或企业想获得大批量芯片出口许可（20万颗以上）需在美国AI数据中心投资。低至1,000颗芯片的安装也可能需要申请许可。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Reuters独家",
+          "url": "https://www.reuters.com/world/us-mulls-new-rules-ai-chip-exports-including-requiring-investments-by-foreign-2026-03-05/"
+        }
+      ],
+      "metrics": {
+        "bulk_export_threshold_chips": 200000
+      },
+      "week": 1
+    },
+    {
+      "date": "2026-03-13",
+      "type": "媒体深度",
+      "title_zh": "Reuters 完整揭示半导体出口管制与关税的联动“门控框架”",
+      "summary_zh": "Reuters法律分析完整梳理BIS规则与Proclamation 11002的联动机制。核心限制：向中国出口的AI芯片总算力不得超过对美国客户出货总算力的50%，每批芯片须经美国境内第三方实验室检验。进口关税端对先进半导体征收25%关税。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Reuters法律分析",
+          "url": "https://www.reuters.com/legal/legalindustry/trade-rules-trump-administration-revises-export-restrictions-advanced--pracin-2026-03-13/"
+        }
+      ],
+      "metrics": {
+        "china_tpp_cap_pct": 50,
+        "semiconductor_import_tariff_pct": 25,
+        "trade_agreement_deadline": "2026-04-14",
+        "market_report_deadline": "2026-07-01"
+      },
+      "week": 2
+    },
+    {
+      "date": "2026-03-11",
+      "type": "智库分析",
+      "title_zh": "芯片管制是“降温“还是“新均衡“？",
+      "summary_zh": "East Asia Forum认为特朗普政府在芯片出口管制上实质是在“降温“——措辞强硬但实际管制力度放松。Center for China Analysis探讨中美能否在贸易和技术领域找到“新均衡“，核心论点是“管理型竞争“正在取代“完全脱钩“。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "East Asia Forum",
+          "url": "https://eastasiaforum.org/2026/03/11/us-chip-export-controls-have-cooled-down/"
+        },
+        {
+          "name": "Center for China Analysis",
+          "url": "https://centerforchinaanalysis.substack.com/p/can-the-united-states-and-china-find"
+        }
+      ],
+      "metrics": {},
+      "week": 2
+    },
+    {
+      "date": "2026-03-21",
+      "type": "出口管制",
+      "title_zh": "Super Micro联合创始人被控向中国转运英伟达顶级芯片",
+      "summary_zh": "WSJ披露Super Micro Computer联合创始人Wally Liaw的密封起诉书正式公开，指控其涉嫌帮助中国实体获取英伟达顶级AI芯片，违反出口管制法规。案件表明即使在严格出口管制下，高端芯片仍有灰色渠道流向中国。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "WSJ",
+          "url": "https://www.wsj.com/tech/the-silicon-valley-salesman-accused-of-helping-china-get-nvidias-top-chips-f1ecb1c2"
+        }
+      ],
+      "metrics": {},
+      "week": 3
+    },
+    {
+      "date": "2026-03-26",
+      "type": "政策发布",
+      "title_zh": "国务院启动“Pax Silica基金“——2.5亿美元半导体外交新工具",
+      "summary_zh": "美国国务院宣布将与国会合作拨出2.5亿美元建立“Pax Silica基金“，为盟友和合作伙伴的半导体供应链基础设施提供融资和技术支持。与BIS出口管制形成互补：一边限制对华芯片流向，一边帮盟友建产能。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "美国国务院官方",
+          "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/03/department-of-state-launches-pax-silica-fund/"
+        }
+      ],
+      "metrics": {
+        "pax_silica_fund_usd": 250000000
+      },
+      "week": 4
+    },
+    {
+      "date": "2026-03-25",
+      "type": "企业动态",
+      "title_zh": "Meta收购Manus AI引发中美科技管辖权冲突",
+      "summary_zh": "Meta完成对新加坡注册但有中国背景的AI初创Manus的收购。北京限制Manus核心人员出境，“新加坡洗白“模式遭质疑。核心矛盾：中国研究人员在新加坡注册公司以规避中美壁垒，但中国政府仍主张管辖权。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "WSJ",
+          "url": "https://www.wsj.com/tech/leaders-of-ai-firm-bought-by-meta-are-restricted-from-leaving-china-6b79da34"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/03/27/meta-manus-china-review-singapore-washing-model-regulation-.html"
+        }
+      ],
+      "metrics": {},
+      "week": 4
+    }
+  ],
+  "background_context": [
+    {
+      "date": "2026-01-13",
+      "type": "出口管制",
+      "title_zh": "BIS 发布 AI 半导体出口许可审查修订最终规则",
+      "summary_zh": "BIS发布最终规则文本，将对华AI芯片出口审查政策从“全面推定拒绝“改为逐案审查（附严格最终用户认证）。CFR认为新政策“战略不连贯且不可执行“。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "BIS",
+          "url": "https://www.bis.gov/press-release/department-commerce-revises-license-review-policy-semiconductors-exported-china"
+        },
+        {
+          "name": "Federal Register",
+          "url": "https://www.federalregister.gov/documents/2026/01/15/2026-00789/revision-to-license-review-policy-for-advanced-computing-commodities"
+        },
+        {
+          "name": "CFR",
+          "url": "https://www.cfr.org/article/new-ai-chip-export-policy-china-strategically-incoherent-and-unenforceable"
+        }
+      ],
+      "metrics": {},
+      "week": null
+    },
+    {
+      "date": "2026-01-15",
+      "type": "政策发布",
+      "title_zh": "Proclamation 11002 生效，25% 先进半导体进口关税开征",
+      "summary_zh": "对中国产先进半导体征收25%进口关税正式开征，覆盖高端GPU、AI加速器等品类。将半导体从出口管制扩展到进口关税——双管齐下形成“门控框架“。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "White House",
+          "url": "https://www.whitehouse.gov/presidential-actions/2026/01/adjusting-imports-of-semiconductors-semiconductor-manufacturing-equipment-and-their-derivative-products-into-the-united-states/"
+        }
+      ],
+      "metrics": {
+        "semiconductor_import_tariff_pct": 25
+      },
+      "week": null
+    },
+    {
+      "date": "2026-02-09",
+      "type": "媒体深度",
+      "title_zh": "BISI 指出特朗普已实质性逆转拜登时代对华 AI 芯片出口政策",
+      "summary_zh": "Bloomsbury Intelligence报告揭示特朗普政府对华AI芯片出口政策已从拜登时代的“推定拒绝“转向逐案审查。核心变化：放松管制的同时附加更严格的最终用户认证要求。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "BISI",
+          "url": "https://bisi.org.uk/reports/trump-reverses-us-ai-chip-export-policy-to-china"
+        }
+      ],
+      "metrics": {},
+      "week": null
+    }
+  ],
+  "key_metrics": {
+    "ai_chip_export_policy": "从全面推定拒绝改为逐案审查（附严格认证）",
+    "advanced_semiconductor_import_tariff": "25%",
+    "china_tpp_cap": "不超过对美国客户出货总算力的50%",
+    "pax_silica_fund": "2.5亿美元（半导体外交）",
+    "investment_for_export_threshold": "20万颗以上需在美投资",
+    "semiconductor_trade_agreement_deadline": "4月14日（商务部长+USTR）",
+    "semiconductor_market_report_deadline": "7月1日（商务部长→总统）"
+  }
+}
