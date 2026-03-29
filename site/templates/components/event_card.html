@@ -19,13 +19,7 @@
       {% endfor %}
     </div>
     {% endif %}
-    {% if event.metrics and event.metrics | length > 0 %}
-    <div class="event-metrics">
-      {% for key, value in event.metrics.items() %}
-      <span class="metric-badge">{{ key }}: {{ value }}</span>
-      {% endfor %}
-    </div>
-    {% endif %}
+    {# metrics hidden — summary data shown in key_metrics table at page bottom #}
     {% if event.sources %}
     <div class="event-sources">
       <span class="sources-label">来源：</span>
