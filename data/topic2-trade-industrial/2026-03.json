@@ -10,6 +10,36 @@
   },
   "events": [
     {
+      "date": "2026-02-20",
+      "type": "政策发布",
+      "title_zh": "白宫签署“Ending Certain Tariff Actions”行政令",
+      "summary_zh": "终止部分此前基于IEEPA紧急权力征收的关税，标志着贸易执法从紧急令回归常规法律框架，为后续的Section 301调查替代方案铺路。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "White House",
+          "url": "https://www.whitehouse.gov/presidential-actions/2026/02/ending-certain-tariff-actions/"
+        }
+      ],
+      "metrics": {},
+      "week": 0
+    },
+    {
+      "date": "2026-02-27",
+      "type": "智库分析",
+      "title_zh": "Bloomberg：所谓“中美脱钩”更像一个神话",
+      "summary_zh": "Bloomberg调查追踪贸易数据发现，商品仍通过东南亚和墨西哥等中转地大量流动——中国对美出口的“消失”只是统计幻觉。为理解3月USTR发起针对76个经济体的301调查提供了动机背景。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-02-27/a-trade-whodunnit-shows-how-us-china-decoupling-is-just-a-myth"
+        }
+      ],
+      "metrics": {},
+      "week": 0
+    },
+    {
       "date": "2026-03-02",
       "type": "政策发布",
       "title_zh": "USTR 发布 2026 年贸易政策议程",
@@ -28,6 +58,38 @@
       ]
     },
     {
+      "date": "2026-03-03",
+      "type": "智库分析",
+      "title_zh": "KPMG 半年度供应链报告：五大趋势重塑经济格局",
+      "summary_zh": "KPMG发布2026年3月供应链更新报告，核心判断：美国供应链正从“间歇性中断“进入“持续性风险管理“新阶段。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "KPMG",
+          "url": "https://kpmg.com/us/en/articles/2026/march-2026-supply-chain-update.html"
+        }
+      ],
+      "metrics": {},
+      "week": 1
+    },
+    {
+      "date": "2026-03-06",
+      "type": "数据发布",
+      "title_zh": "2026年回流的真实成本：1840亿美元的供应链大转向",
+      "summary_zh": "Fynqo分析：美国制造业回流投资总额达1840亿美元。“哪里生产、哪里交付“的全球化模式已在贸易保护主义重压下断裂。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Fynqo",
+          "url": "https://fynqo.org/2026/03/06/the-true-cost-of-reshoring-2026-a-184-billion-supply-chain-pivot/"
+        }
+      ],
+      "metrics": {
+        "reshoring_investment_usd": 184000000000
+      },
+      "week": 1
+    },
+    {
       "date": "2026-03-09",
       "type": "智库分析",
       "title_zh": "CHIPS Act 是否引发了制造业建设投资热潮？",
@@ -41,6 +103,30 @@
       ],
       "metrics": {},
       "week": 2
+    },
+    {
+      "date": "2026-03-10",
+      "type": "国际机构",
+      "title_zh": "UNCTAD 警告霍尔木兹海峡航运中断危及全球贸易",
+      "summary_zh": "UNCTAD发布报告，因美伊冲突导致的霍尔木兹海峡航运中断正在威胁能源、化肥和脆弱经济体。全球约20%的石油运输和大量LNG贸易经过该海峡。",
+      "source_tier": "B",
+      "sources": [
+        {
+          "name": "UNCTAD",
+          "url": "https://unctad.org/node/51538"
+        },
+        {
+          "name": "UN Geneva Newsroom",
+          "url": "https://www.unognewsroom.org/story/en/3061/unog-news-strait-of-hormuz-report-unctad-19mar2026"
+        }
+      ],
+      "metrics": {
+        "hormuz_oil_share_pct": 20
+      },
+      "week": 2,
+      "footnotes": [
+        "LNG = Liquefied Natural Gas（液化天然气）"
+      ]
     },
     {
       "date": "2026-03-11",
@@ -129,6 +215,51 @@
       "footnotes": [
         "OECD = Organisation for Economic Co-operation and Development（经济合作与发展组织）"
       ]
+    },
+    {
+      "date": "2026-03-18",
+      "type": "企业动态",
+      "title_zh": "企业层面的“大分叉“：供应链多元化替代脱钩",
+      "summary_zh": "MarketMinute分析：企业界已转向更务实策略，不完全撤出中国，而是将供应链分散到多国同时保留中国线。与Bloomberg报道的“中美脱钩是个神话“形成呼应。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "MarketMinute",
+          "url": ""
+        }
+      ],
+      "metrics": {},
+      "week": 3
+    },
+    {
+      "date": "2026-03-19",
+      "type": "企业动态",
+      "title_zh": "墨西哥近岸外包在2026年持续加速",
+      "summary_zh": "企业将更多制造和仓储转移到墨西哥的趋势在2026年加速。驱动因素：关税波动性和远洋运输时间过长。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "3PL Center",
+          "url": "https://3plcenter.com/nearshoring-to-mexico-2026/"
+        }
+      ],
+      "metrics": {},
+      "week": 3
+    },
+    {
+      "date": "2026-03-20",
+      "type": "智库分析",
+      "title_zh": "CGEP：美中贸易紧张与第三国清洁能源投资",
+      "summary_zh": "CGEP分析：中国清洁能源企业正通过东南亚等第三国规避美国关税。政策制定者面临“能源安全 vs 气候目标 vs 贸易保护“的三难困境。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "CGEP via Renewable Energy Asia Portal",
+          "url": "https://www.renewableenergyasia.org/2026/03/us-china-trade-tensions-and-clean.html"
+        }
+      ],
+      "metrics": {},
+      "week": 3
     },
     {
       "date": "2026-03-26",
@@ -256,36 +387,6 @@
         "global_trade_coverage": "70%"
       },
       "week": 4
-    },
-    {
-      "date": "2026-02-20",
-      "type": "政策发布",
-      "title_zh": "白宫签署“Ending Certain Tariff Actions”行政令",
-      "summary_zh": "终止部分此前基于IEEPA紧急权力征收的关税，标志着贸易执法从紧急令回归常规法律框架，为后续的Section 301调查替代方案铺路。",
-      "source_tier": "A",
-      "sources": [
-        {
-          "name": "White House",
-          "url": "https://www.whitehouse.gov/presidential-actions/2026/02/ending-certain-tariff-actions/"
-        }
-      ],
-      "metrics": {},
-      "week": 0
-    },
-    {
-      "date": "2026-02-27",
-      "type": "智库分析",
-      "title_zh": "Bloomberg：所谓“中美脱钩”更像一个神话",
-      "summary_zh": "Bloomberg调查追踪贸易数据发现，商品仍通过东南亚和墨西哥等中转地大量流动——中国对美出口的“消失”只是统计幻觉。为理解3月USTR发起针对76个经济体的301调查提供了动机背景。",
-      "source_tier": "C",
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-02-27/a-trade-whodunnit-shows-how-us-china-decoupling-is-just-a-myth"
-        }
-      ],
-      "metrics": {},
-      "week": 0
     }
   ]
 }

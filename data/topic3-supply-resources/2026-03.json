@@ -126,21 +126,6 @@
       ]
     },
     {
-      "date": "2026-03-03",
-      "type": "智库分析",
-      "title_zh": "KPMG 半年度供应链报告：五大趋势重塑经济格局",
-      "summary_zh": "KPMG发布2026年3月供应链更新报告，核心判断：美国供应链正从“间歇性中断“进入“持续性风险管理“新阶段。",
-      "source_tier": "C",
-      "sources": [
-        {
-          "name": "KPMG",
-          "url": "https://kpmg.com/us/en/articles/2026/march-2026-supply-chain-update.html"
-        }
-      ],
-      "metrics": {},
-      "week": 1
-    },
-    {
       "date": "2026-03-04",
       "type": "外交动态",
       "title_zh": "伊朗仅允许中国船只通过海峡，卡塔尔宣布天然气不可抗力",
@@ -182,23 +167,6 @@
       "week": 1
     },
     {
-      "date": "2026-03-06",
-      "type": "数据发布",
-      "title_zh": "2026年回流的真实成本：1840亿美元的供应链大转向",
-      "summary_zh": "Fynqo分析：美国制造业回流投资总额达1840亿美元。“哪里生产、哪里交付“的全球化模式已在贸易保护主义重压下断裂。",
-      "source_tier": "C",
-      "sources": [
-        {
-          "name": "Fynqo",
-          "url": "https://fynqo.org/2026/03/06/the-true-cost-of-reshoring-2026-a-184-billion-supply-chain-pivot/"
-        }
-      ],
-      "metrics": {
-        "reshoring_investment_usd": 184000000000
-      },
-      "week": 1
-    },
-    {
       "date": "2026-03-08",
       "type": "数据发布",
       "title_zh": "原油价格突破100美元/桶，四年来首次",
@@ -219,30 +187,6 @@
         "iraq_south_output_decline_pct": 70
       },
       "week": 2
-    },
-    {
-      "date": "2026-03-10",
-      "type": "国际机构",
-      "title_zh": "UNCTAD 警告霍尔木兹海峡航运中断危及全球贸易",
-      "summary_zh": "UNCTAD发布报告，因美伊冲突导致的霍尔木兹海峡航运中断正在威胁能源、化肥和脆弱经济体。全球约20%的石油运输和大量LNG贸易经过该海峡。",
-      "source_tier": "B",
-      "sources": [
-        {
-          "name": "UNCTAD",
-          "url": "https://unctad.org/node/51538"
-        },
-        {
-          "name": "UN Geneva Newsroom",
-          "url": "https://www.unognewsroom.org/story/en/3061/unog-news-strait-of-hormuz-report-unctad-19mar2026"
-        }
-      ],
-      "metrics": {
-        "hormuz_oil_share_pct": 20
-      },
-      "week": 2,
-      "footnotes": [
-        "LNG = Liquefied Natural Gas（液化天然气）"
-      ]
     },
     {
       "date": "2026-03-11",
@@ -485,21 +429,6 @@
     },
     {
       "date": "2026-03-18",
-      "type": "企业动态",
-      "title_zh": "企业层面的“大分叉“：供应链多元化替代脱钩",
-      "summary_zh": "MarketMinute分析：企业界已转向更务实策略，不完全撤出中国，而是将供应链分散到多国同时保留中国线。与Bloomberg报道的“中美脱钩是个神话“形成呼应。",
-      "source_tier": "C",
-      "sources": [
-        {
-          "name": "MarketMinute",
-          "url": ""
-        }
-      ],
-      "metrics": {},
-      "week": 3
-    },
-    {
-      "date": "2026-03-18",
       "type": "政策发布",
       "title_zh": "津巴布韦禁止关键矿产出口",
       "summary_zh": "津巴布韦宣布关键矿产出口禁令，加入全球资源民族主义浪潮。该国拥有非洲最大的锂矿储量之一，出口禁令旨在推动国内加工增值。",
@@ -508,21 +437,6 @@
         {
           "name": "African Climate Wire",
           "url": "https://africanclimatewire.org/2026/03/export-restrictions-on-critical-minerals-what-zimbabwes-recent-ban-tells-us/"
-        }
-      ],
-      "metrics": {},
-      "week": 3
-    },
-    {
-      "date": "2026-03-19",
-      "type": "企业动态",
-      "title_zh": "墨西哥近岸外包在2026年持续加速",
-      "summary_zh": "企业将更多制造和仓储转移到墨西哥的趋势在2026年加速。驱动因素：关税波动性和远洋运输时间过长。",
-      "source_tier": "C",
-      "sources": [
-        {
-          "name": "3PL Center",
-          "url": "https://3plcenter.com/nearshoring-to-mexico-2026/"
         }
       ],
       "metrics": {},
@@ -618,21 +532,6 @@
         {
           "name": "Japan Times",
           "url": "https://beta.japantimes.co.jp/business/2026/03/16/economy/us-mineral-supply-chain/"
-        }
-      ],
-      "metrics": {},
-      "week": 3
-    },
-    {
-      "date": "2026-03-20",
-      "type": "智库分析",
-      "title_zh": "CGEP：美中贸易紧张与第三国清洁能源投资",
-      "summary_zh": "CGEP分析：中国清洁能源企业正通过东南亚等第三国规避美国关税。政策制定者面临“能源安全 vs 气候目标 vs 贸易保护“的三难困境。",
-      "source_tier": "C",
-      "sources": [
-        {
-          "name": "CGEP via Renewable Energy Asia Portal",
-          "url": "https://www.renewableenergyasia.org/2026/03/us-china-trade-tensions-and-clean.html"
         }
       ],
       "metrics": {},
