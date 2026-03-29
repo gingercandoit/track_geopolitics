@@ -15,7 +15,8 @@ description: LiteratureSOP - 地缘政治经济学文献搜集与管理标准操
 - **定位**：该领域已成立的核心文献，理论基础+实证经典
 - **建设方式**：一次性建库 → 偶尔补充（发现遗漏经典时）
 - **质量线**：field top journal 发表 或 NBER Working Paper 级别
-- **规模**：每 topic 20-50 篇，总计 ~150-250 篇
+- **规模**：每 topic 5-40 篇，总计 ~75-100 篇（严格地缘政治相关性筛选后的精选规模）
+- **相关性标准**：每篇论文必须**直接研究**地缘政治现象（制裁、贸易战、技术竞争、供应链重组、大国博弈等），纯背景经济学理论不收录
 - **产出**：`literature/classic/` 下（classic.json + classic.csv + references.bib + views/）
 
 ### Library B：新文献追踪库
@@ -144,13 +145,70 @@ description: LiteratureSOP - 地缘政治经济学文献搜集与管理标准操
 
 | 渠道 | 工具 | 用途 | 限制 |
 |------|------|------|------|
-| **Semantic Scholar API** | Exa 搜索 `site:semanticscholar.org` | 论文搜索+引用+摘要 | 免费，5000req/day |
-| **NBER WP** | RSS `https://www.nber.org/rss/new.xml` + Exa | 最新工作论文 | 标题+摘要免费 |
+| **OpenAlex API** | `api.openalex.org/works?search=...` | 主力建库：metadata+abstract+引用 | 免费，无key，polite pool需邮箱 |
+| **Semantic Scholar API** | `api.semanticscholar.org/graph/v1/paper/...` | 补充搜索+引用追踪 | 免费但严格限流(429) |
+| **NBER WP RSS** | `back.nber.org/rss/new.xml` + 分领域RSS | 最新工作论文（标题+完整摘要） | 见下方分领域代码表 |
 | **SSRN** | Exa 搜索 `site:ssrn.com` | 工作论文 | metadata 免费 |
 | **RePEc/IDEAS** | Exa 搜索 `site:ideas.repec.org` | 文献数据库 | metadata 免费 |
-| **Google Scholar** | Exa 搜索 `site:scholar.google.com` | 引用量+发现 | 间接搜索 |
 | **VoxEU/CEPR** | Exa 搜索 `site:cepr.org OR site:voxeu.org` | 政策短文+WP发现 | 免费 |
-| **期刊 RSS** | feedparser（可集成到 fetch_sources.py） | 新发表追踪 | 仅标题+摘要 |
+| **期刊 RSS** | feedparser | 新发表追踪 | 仅标题+摘要，见下方RSS速查表 |
+
+### NBER WP 分领域 RSS 代码
+
+> URL 格式：`https://back.nber.org/rss/new{code}.xml`
+
+| 代码 | 领域 | 对应 Topic |
+|------|------|----------|
+| `iti` | 国际贸易 | T2 |
+| `ifm` | 国际金融与宏观 | T1, T3 |
+| `dev` | 发展经济学 | T3, T5 |
+| `efg` | 经济波动与增长 | T5 |
+| `eee` | 环境与能源 | T3 |
+| `io` | 产业组织 | T2, T4 |
+| (全部) | 所有新 WP | `new.xml`（每周~28篇） |
+
+### 期刊 RSS 速查表
+
+**Top 5 期刊**：
+
+| 期刊 | RSS / 获取方式 | 注意事项 |
+|------|---------------|----------|
+| JPE | `journals.uchicago.edu/action/showFeed?type=etoc&feed=rss&jc=jpe` | 含 Ahead of Print |
+| QJE | `academic.oup.com/rss/site_5504/3365.xml` | ⚠️ OUP Cloudflare 封 AI IP |
+| REStud | `www.restud.com/feed/?post_type=paper` | WordPress RSS，Accepted Papers |
+| Econometrica | `onlinelibrary.wiley.com/feed/14680262/most-recent` | Wiley RSS |
+| AER | 无可用 RSS，用 OpenAlex Source ID `S23254222` 查询 | AEA 官网可 HTML 抓取 |
+
+**Field-Top 期刊**：
+
+| 期刊 | RSS URL |
+|------|--------|
+| JIE | `rss.sciencedirect.com/publication/science/00221996` |
+| REStat | `direct.mit.edu/rss/site_1000065/1000035.xml` |
+| JME | `rss.sciencedirect.com/publication/science/03043932` |
+| JDE | `rss.sciencedirect.com/publication/science/03043878` |
+| JFE | `rss.sciencedirect.com/publication/science/0304405X` |
+| JF | `onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1540-6261` |
+
+### 出版商 RSS URL 拼接模板
+
+> 知道 ISSN 和出版商即可拼出 RSS URL：
+
+| 出版商 | URL 模板 |
+|--------|--------|
+| Elsevier | `rss.sciencedirect.com/publication/science/{ISSN去横线}` |
+| Wiley | `onlinelibrary.wiley.com/feed/{eISSN}/most-recent` |
+| UChicago | `journals.uchicago.edu/action/showFeed?type=etoc&feed=rss&jc={code}` |
+| MIT Press | `direct.mit.edu/rss/site_{ID}/{feed}.xml` |
+| OUP | `academic.oup.com/rss/site_{ID}/{feed}.xml`（⚠️ Cloudflare） |
+
+### 万能 RSS 发现方法
+
+找不到某期刊的 RSS？用 Feedly API 反查：
+```
+https://cloud.feedly.com/v3/search/feeds?query=期刊名&count=5
+```
+返回 JSON 含真实 feedId，OUP 旧域名 `oxfordjournals.org` 也能找到。
 
 ### 半自动渠道（需用户协助）
 
@@ -368,25 +426,40 @@ international monetary system reform
    ↓
 8. 输出 JSON + Markdown 阅读清单
    ↓
-9. Git 提交
+9. **地缘政治相关性审核**
+   - 对每篇论文判断："这篇论文直接研究地缘政治现象吗？"
+   - 移除纯背景经济学理论（如一般增长理论、纯资产定价、通用方法论）
+   - 移除边界案例（家庭经济学、纯国内政策评估、与地缘政治无关的气候经济学）
+   ↓
+10. **notes_zh 手写验证**
+    - 每篇论文的 notes_zh 必须准确描述其实际内容
+    - 禁止用关键词桶匹配自动生成（如把 NAFTA 论文标注为"中美贸易战"）
+   ↓
+11. Git 提交
 ```
 
 ### Phase B：月度追踪（定期执行）
 
 ```
-1. 拉取 NBER WP RSS（最近 30 天）
+1. 拉取 NBER WP RSS（按分领域代码过滤：iti/ifm/dev/eee）
    ↓
-2. Exa 搜索 top journal 最近 30 天发表 + 作者清单新作
+2. 拉取 Field-Top 期刊 RSS（JIE/REStat/JME/JDE 等，见速查表）
    ↓
-3. 按 T1-T5 关键词过滤
+3. OpenAlex API 搜索作者清单最近 30 天新作
    ↓
-4. 质量筛选（期刊白名单 + 作者清单）
+4. 按 T1-T5 关键词过滤 + 地缘政治相关性判断
    ↓
-5. 去重（与经典库 + 已有追踪条目对比）
+5. 滚雪球检查：对高引种子论文做前向引用追踪（谁引了它？）
    ↓
-6. 输出 new-papers-YYYY-MM.md + 更新 JSON
+6. 综述探测：搜索 Annual Review of Econ / JEL / JEP 近期相关综述
    ↓
-7. Git 提交
+7. 质量筛选（期刊白名单 + 作者清单 + 地缘政治直接相关性）
+   ↓
+8. 去重（与经典库 + 已有追踪条目对比，以 DOI 为 key）
+   ↓
+9. 输出 new-papers-YYYY-MM.md + 更新 JSON
+   ↓
+10. Git 提交
 ```
 
 ---
@@ -447,19 +520,36 @@ literature/                             # 与 reports/ 同级
 
 每次文献搜集完成后自检：
 
-- [ ] 每个 topic 至少有 15 篇经典文献（Phase A）
-- [ ] 核心必读（core）论文每 topic 不少于 5 篇
-- [ ] 制裁（T1）作为用户核心领域，文献数量应最多
-- [ ] 每篇论文有 abstract 和 notes_zh
+- [ ] 每篇论文**直接研究**地缘政治现象（制裁、贸易战、技术竞争、大国博弈等），纯背景经济学理论不收录
+- [ ] 每个 topic 至少有 5 篇经典文献（Phase A）
+- [ ] 核心必读（core）论文每 topic 不少于 3 篇
+- [ ] 每篇论文有 abstract（91%+覆盖率）和 notes_zh
+- [ ] **notes_zh 必须准确描述论文实际内容**——禁止用关键词桶匹配生成（如把 NAFTA 论文标注为"中美贸易战"）
 - [ ] DOI 链接有效
-- [ ] WebVPN 链接格式正确（首次需用户验证）
 - [ ] JSON 数据库无重复条目（以 DOI 去重）
-- [ ] 阅读清单按 core > recommended > reference 排序
+- [ ] 阅读清单按 tier desc → year desc 排列
 - [ ] 已 Git 提交
 
 ---
 
-## 十、Zotero 集成（可选）
+## 十、常见陷阱
+
+| 陷阱 | 对策 |
+|------|------|
+| AI 编造论文（幻觉） | 抽查 5 篇，用 DOI 验证。OpenAlex API 数据最可靠 |
+| 搜索词太宽，大量无关论文混入 | 必须人工审核关键词匹配结果，约 20-30% 需删除 |
+| notes_zh 用关键词桶匹配生成 | 必须基于每篇论文的实际 title+abstract 撰写，手写或分篇生成 |
+| 只搜到一般经济学，无地缘政治角色 | 判断标准："这篇论文直接研究地缘政治现象吗？"背景理论不收 |
+| OpenAlex 日期 ≠ 期刊期号 | OpenAlex 用 online first 日期，查具体某期内容请看期刊官网 |
+| OpenAlex 收录延迟 | 刚发表几天的论文可能未被收录，搭配期刊 RSS 补充 |
+| OUP Cloudflare 封锁 AI IP | QJE/REStud/RFS 等 OUP 期刊 RSS 对 Agent 封锁，用 OpenAlex 或 Feedly |
+| Semantic Scholar 严格限流 (429) | 改用 OpenAlex 为主力，S2 做补充 |
+| 同一篇有 WP 版和正式版 | 以 DOI 去重，保留正式发表版，WP 版仅当未正式发表时保留 |
+| 找不到某期刊 RSS | 用 Feedly API: `cloud.feedly.com/v3/search/feeds?query=期刊名&count=5` |
+
+---
+
+## 十一、Zotero 集成（可选）
 
 如果用户使用 Zotero：
 - 可从 JSON 数据库生成 BibTeX 文件，用户一键导入 Zotero
