@@ -38,7 +38,7 @@ track_geopolitics/
 ├── file/                       # 文档与参考资料
 ├── literature/                 # Prompt 3 文献库（与 reports 同级）
 │   ├── classic/                # Library A: 经典文献（一次性建库）
-│   │   ├── classic.json        # 主数据库（460篇）
+│   │   ├── classic.json        # 主数据库（76篇）
 │   │   ├── classic.csv         # CSV 结构化索引
 │   │   ├── references.bib      # BibTeX 引用文件
 │   │   ├── reading-roadmap.md  # 阅读路线图
