@@ -1,12 +1,12 @@
 # Literature Build Summary
 
-**Date**: 2026-03-29 15:00
-**Total papers**: 94
-**Abstract coverage**: 80/94 (85%)
+**Date**: 2026-03-29 15:17
+**Total papers**: 89
+**Abstract coverage**: 80/89 (89%)
 
 ## By Topic
 - T1: 19 papers (制裁与经济管制)
-- T2: 52 papers (贸易与产业竞争)
+- T2: 47 papers (贸易与产业竞争)
 - T3: 16 papers (供应链与关键资源)
 - T4: 8 papers (技术竞争与数字治理)
 - T5: 36 papers (地缘政治信息池)
@@ -15,13 +15,13 @@
 - T1: 19
 - T2: 32
 - T3: 20
-- WP: 11
+- WP: 6
 - other: 12
 
 ## By Priority
 - core: 15
-- recommended: 66
-- reference: 13
+- recommended: 64
+- reference: 10
 
 ## Top 10 by Citations
 
@@ -75,6 +75,7 @@
    - Journal of Political Economy | 950 citations | core
    - Topics: T2, T3
 
+
 ## Build History
 
 | Date | Action | Count |
@@ -85,3 +86,4 @@
 | 2026-03-29 | Strict geopolitics filter | 76 |
 | 2026-03-29 | Manual notes_zh rewrite | 76 |
 | 2026-03-29 | Snowball enrichment (+18 papers) | 94 |
+| 2026-03-29 | Quality audit: remove 5 WP dups, fix IDs, fetch abstracts | 89 |

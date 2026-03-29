@@ -2,20 +2,20 @@
   "metadata": {
     "library": "classic",
     "last_updated": "2026-03-29",
-    "total_papers": 94,
+    "total_papers": 89,
     "topic_counts": {
-      "1": 108,
-      "2": 141,
-      "3": 94,
-      "4": 65,
-      "5": 161
+      "1": 19,
+      "2": 47,
+      "3": 16,
+      "4": 8,
+      "5": 36
     },
     "tier_counts": {
-      "T1": 96,
-      "other": 91,
-      "T2": 154,
-      "T3": 52,
-      "WP": 67
+      "T1": 19,
+      "T2": 32,
+      "T3": 20,
+      "WP": 6,
+      "other": 12
     },
     "priority_counts": {
       "core": 263,
@@ -86,7 +86,10 @@
         2,
         3
       ],
-      "topic_relevance": {},
+      "topic_relevance": {
+        "2": "研究关税如何通过企业间供应关系传导、扰乱全球供应链。发现关税的供应链传导效应显著，企业需付出巨大搜索",
+        "3": "研究关税如何通过企业间供应关系传导、扰乱全球供应链。发现关税的供应链传导效应显著，企业需付出巨大搜索"
+      },
       "priority": "recommended",
       "citations": 113,
       "tags": [],
@@ -118,7 +121,9 @@
       "topics": [
         3
       ],
-      "topic_relevance": {},
+      "topic_relevance": {
+        "3": "研究供应链韧性的最优政策设计：政府应促进国际多元化还是国内替代？理论模型表明答案取决于冲击类型和供应"
+      },
       "priority": "recommended",
       "citations": 89,
       "tags": [],
@@ -185,7 +190,10 @@
         2,
         3
       ],
-      "topic_relevance": {},
+      "topic_relevance": {
+        "2": "构建全球价值链地理分布的多阶段一般均衡模型。揭示各国在GVC中的专业化模式及其与贸易成本、要素禀赋的",
+        "3": "构建全球价值链地理分布的多阶段一般均衡模型。揭示各国在GVC中的专业化模式及其与贸易成本、要素禀赋的"
+      },
       "priority": "recommended",
       "citations": 359,
       "tags": [],
@@ -353,7 +361,9 @@
       "topics": [
         2
       ],
-      "topic_relevance": {},
+      "topic_relevance": {
+        "2": "研究中国加入WTO后制造业企业的绩效变化。发现贸易自由化通过竞争加剧和资源重新配置提高了整体生产率。"
+      },
       "priority": "recommended",
       "citations": 824,
       "tags": [],
@@ -691,7 +701,10 @@
         2,
         3
       ],
-      "topic_relevance": {},
+      "topic_relevance": {
+        "2": "评估美国贸易政策（2018-2022关税战）是否正在重塑全球供应链格局。分析贸易转移、友岸外包等政策",
+        "3": "评估美国贸易政策（2018-2022关税战）是否正在重塑全球供应链格局。分析贸易转移、友岸外包等政策"
+      },
       "priority": "recommended",
       "citations": 79,
       "tags": [],
@@ -719,13 +732,16 @@
       "webvpn_url": null,
       "nber_wp": null,
       "ssrn_id": null,
-      "abstract": "",
+      "abstract": "We study the financial implications of the 2018-2019 U.S.-China trade war for global supply chains. Around the dates when higher tariffs are announced, U.S. firms depending more on exports to and imports from China experience larger declines in stock returns. The negative impact spill over to the affected firms’ suppliers and customers through production networks. We also exploit the within-firm variation in exposure according to the detailed lists of tariffed products, and a reverse experiment based on the trade talks in 2019. We explain the findings with a theoretical model that highlights how the complex trade structure shapes shareholder wealth. JEL Classification: F10, G12, G14, O24",
       "jel_codes": [],
       "topics": [
         1,
         2
       ],
-      "topic_relevance": {},
+      "topic_relevance": {
+        "1": "利用企业层面贸易网络数据研究中美贸易战对企业价值的影响。发现贸易网络暴露程度显著影响企业股票价值。",
+        "2": "利用企业层面贸易网络数据研究中美贸易战对企业价值的影响。发现贸易网络暴露程度显著影响企业股票价值。"
+      },
       "priority": "recommended",
       "citations": 213,
       "tags": [],
@@ -753,12 +769,14 @@
       "webvpn_url": null,
       "nber_wp": null,
       "ssrn_id": null,
-      "abstract": "",
+      "abstract": "In this paper, we provide the first quantitative evaluation of the impacts and interactions of the US-China trade wars and industrial policy competitions. To that end, we extend the model in Caliendo and Parro (2015) by incorporating sectoral external economies of scale. We find that (i) in the presence of sectoral economies of scale, the “Made-in-China 2025” (MIC2025) industrial policy tends to improve the welfare of both China and the U.S.; (ii) the US gains from Trumpian tariffs if China does not retaliate, and the gain is larger if China had already implemented its optimal subsidies to the “MIC2025” sectors; (iii) in a non-cooperative tariff game on the “MIC 2025” sectors, both China and the U.S. impose high tariffs and endure welfare losses; and (iv) if it is feasible for the U.S. to subsidize its own high-tech sectors, the U.S. would reduce its tariffs on imports from China and benefit from its own industrial subsidies. Our results, therefore, provide a rationale for trade and industrial policy competitions in the U.S. and China. JEL classification: F12; F13; F17; F51",
       "jel_codes": [],
       "topics": [
         2
       ],
-      "topic_relevance": {},
+      "topic_relevance": {
+        "2": "将中美经济冲突建模为贸易战与产业政策竞争的双重博弈。分析关税与补贴的互动效应及全球福利影响。"
+      },
       "priority": "recommended",
       "citations": 63,
       "tags": [],
@@ -864,7 +882,10 @@
         2,
         5
       ],
-      "topic_relevance": {},
+      "topic_relevance": {
+        "2": "China Shock的延续研究：评估中国贸易冲击对美国劳动力市场的持久影响(2000-2019)，",
+        "5": "China Shock的延续研究：评估中国贸易冲击对美国劳动力市场的持久影响(2000-2019)，"
+      },
       "priority": "recommended",
       "citations": 81,
       "tags": [],
@@ -897,7 +918,9 @@
       "topics": [
         2
       ],
-      "topic_relevance": {},
+      "topic_relevance": {
+        "2": "研究中美贸易战中出口商的应对策略。发现企业通过调整价格、产品组合和目的地市场来应对保护主义关税。"
+      },
       "priority": "recommended",
       "citations": 118,
       "tags": [],
@@ -926,13 +949,16 @@
       "webvpn_url": null,
       "nber_wp": null,
       "ssrn_id": null,
-      "abstract": "",
+      "abstract": "We examine election voting and legislators ’ roll-call votes in the United States over a twenty- ﬁ ve year period. Voters in areas more exposed to trade liberalization with China in 2000 sub-sequently shift their support toward Democrats, relative to the 1990s, though this boost for Democrats wanes after the rise of the Tea Party in 2010. House members ’ votes in Congress rationalize these trends, with Democratic representatives disproportionately supporting protec- tion during the early 2000s. Together, these results imply that voters in areas subject to higher import competition shifted votes toward the party more likely to restrict trade. Published by Elsevier B.V. with China and election voting, and then investigate whether legislators ’ policy choices rationalize this relationship. We begin with an analysis of how votes cast for federal of ﬁ ce-seekers respond to a substantial change in US trade policy, the granting of Permanent Normal Trade Relations (PNTR) to China in 2000, that effectively eliminated the possibility of a trade war between the two countries. We measure an area's exposure to this liberalization via the industry structure of the county, and relate this exposure to the share of votes cast for each party in elections for the House of Representatives, the Senate, and the Presidency. Using a difference-in-differences empirical strategy, we provide novel evidence on the relationship between trade liberalization and party vote shares. In particular, we ﬁ nd that in the ﬁ rst decade after PNTR, counties more exposed to the change in policy",
       "jel_codes": [],
       "topics": [
         2,
         5
       ],
-      "topic_relevance": {},
+      "topic_relevance": {
+        "2": "研究对华贸易自由化是否影响了美国选举结果。发现受进口冲击更大的选区政治极化加剧，影响国会选举。",
+        "5": "研究对华贸易自由化是否影响了美国选举结果。发现受进口冲击更大的选区政治极化加剧，影响国会选举。"
+      },
       "priority": "recommended",
       "citations": 70,
       "tags": [],
@@ -1070,7 +1096,10 @@
         2,
         3
       ],
-      "topic_relevance": {},
+      "topic_relevance": {
+        "2": "量化分析新冠疫情期间全球供应链的角色。发现供应链传导放大了疫情对GDP的负面影响约25%。",
+        "3": "量化分析新冠疫情期间全球供应链的角色。发现供应链传导放大了疫情对GDP的负面影响约25%。"
+      },
       "priority": "recommended",
       "citations": 352,
       "tags": [],
@@ -1096,12 +1125,14 @@
       "webvpn_url": null,
       "nber_wp": null,
       "ssrn_id": null,
-      "abstract": "",
+      "abstract": "Abstract This study proposes a novel channel through which trade liberalization may induce innovation through the reduction of trade policy uncertainties (TPU) in destination markets. To verify this linkage, we utilize the significant reduction of TPU engendered by China’s accession to the World Trade Organization (WTO) in 2001 as a quasi-natural experiment. We find that reduction in TPU significantly encourages firms’ patent application: firms in sectors with a larger reduction in uncertainty filed more invention patent applications after China’s WTO accession. We also find that firms’ innovation responses to TPU reduction vary by productivity, ownership, exporting status, and the irreversibility of investment.",
       "jel_codes": [],
       "topics": [
         2
       ],
-      "topic_relevance": {},
+      "topic_relevance": {
+        "2": "利用中国加入WTO前后的企业数据研究贸易政策不确定性对创新的影响。发现不确定性降低显著刺激了企业创新"
+      },
       "priority": "recommended",
       "citations": 235,
       "tags": [],
@@ -1162,13 +1193,16 @@
       "webvpn_url": null,
       "nber_wp": null,
       "ssrn_id": null,
-      "abstract": "",
+      "abstract": "The United Kingdom has voted to leave the European Union but the trade policies that will replace E.U. membership are uncertain, and speculation abounds that this uncertainty will harm the U.K. economy until it is resolved. To assess the impact of uncertainty about post-Brexit trade policies, I study a dynamic general equilibrium model with endogenous export participation and uncertainty about whether future U.K.-E.U. trade costs will be high or low. I find that the total welfare cost of Brexit for U.K. households is between £7,000 and £18,000 per person, while uncertainty about Brexit costs less than £45 per person.",
       "jel_codes": [],
       "topics": [
         2,
         5
       ],
-      "topic_relevance": {},
+      "topic_relevance": {
+        "2": "量化分析脱欧带来的贸易政策不确定性的宏观经济影响。发现不确定性本身（而非实际脱欧）已造成显著GDP损",
+        "5": "量化分析脱欧带来的贸易政策不确定性的宏观经济影响。发现不确定性本身（而非实际脱欧）已造成显著GDP损"
+      },
       "priority": "recommended",
       "citations": 172,
       "tags": [],
@@ -1904,7 +1938,10 @@
         2,
         5
       ],
-      "topic_relevance": {},
+      "topic_relevance": {
+        "2": "研究中美贸易战中关税作为选举武器的政治地理学。中国精准瞄准摇摆州实施报复性关税，以最大化总统选举的政",
+        "5": "研究中美贸易战中关税作为选举武器的政治地理学。中国精准瞄准摇摆州实施报复性关税，以最大化总统选举的政"
+      },
       "priority": "recommended",
       "citations": 77,
       "tags": [],
@@ -1936,7 +1973,9 @@
       "topics": [
         5
       ],
-      "topic_relevance": {},
+      "topic_relevance": {
+        "5": "IO创刊75周年特稿，反思自由主义国际秩序的挑战与前景。多位学者审视威权崛起、民粹主义、技术变革对国"
+      },
       "priority": "recommended",
       "citations": 386,
       "tags": [],
@@ -1967,7 +2006,9 @@
       "topics": [
         5
       ],
-      "topic_relevance": {},
+      "topic_relevance": {
+        "5": "分析国内政治与中国崛起如何共同塑造自由国际秩序的未来。提出自由秩序的韧性取决于民主国家的国内政治走向"
+      },
       "priority": "recommended",
       "citations": 154,
       "tags": [],
@@ -1999,7 +2040,10 @@
         1,
         4
       ],
-      "topic_relevance": {},
+      "topic_relevance": {
+        "1": "Farrell与Newman对'武器化相互依赖'的延伸：分析自由主义全球信息秩序的两面性——开放的信",
+        "4": "Farrell与Newman对'武器化相互依赖'的延伸：分析自由主义全球信息秩序的两面性——开放的信"
+      },
       "priority": "recommended",
       "citations": 78,
       "tags": [],
@@ -2160,7 +2204,10 @@
         1,
         5
       ],
-      "topic_relevance": {},
+      "topic_relevance": {
+        "1": "研究大国如何通过管辖权扩张来动员市场权力作为经济治国工具。分析美国和欧盟在反垄断、数据保护等领域的域",
+        "5": "研究大国如何通过管辖权扩张来动员市场权力作为经济治国工具。分析美国和欧盟在反垄断、数据保护等领域的域"
+      },
       "priority": "recommended",
       "citations": 67,
       "tags": [],
@@ -2544,113 +2591,6 @@
       "read_status": "unread"
     },
     {
-      "id": "fajgelbaum_etal_2022",
-      "title": "The US-China Trade War and Global Reallocations",
-      "authors": [
-        "Pablo Fajgelbaum",
-        "Pinelopi Goldberg",
-        "Patrick Kennedy",
-        "Amit Khandelwal",
-        "Daria Taglioni"
-      ],
-      "year": 2022,
-      "journal": "World Bank, Washington, DC eBooks",
-      "journal_tier": "WP",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1596/1813-9450-9894",
-      "url": "https://doi.org/10.1596/1813-9450-9894",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "This paper studies global trade responses to the US-China trade war. It estimates the tariff impacts on product-level exports to the US, China, and rest of world. On average, countries decreased exports to China and increased exports to the US and rest of world. Most countries export products that complement the US and substitute China, and a subset operate along downward-sloping supplies. Heterogeneity in responses, rather than specialization, drives export variation across countries. Surprisin",
-      "jel_codes": [],
-      "topics": [
-        2
-      ],
-      "topic_relevance": {
-        "2": "中美贸易战全球重新配置效应的工作论文版本——更早的分析和方法论细节。"
-      },
-      "priority": "reference",
-      "citations": 56,
-      "tags": [],
-      "notes_zh": "中美贸易战全球重新配置效应的工作论文版本——更早的分析和方法论细节。",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "fajgelbaum_etal_2021",
-      "title": "The US-China Trade War and Global Reallocations",
-      "authors": [
-        "Pablo Fajgelbaum",
-        "Pinelopi Goldberg",
-        "Patrick Kennedy",
-        "Amit Khandelwal",
-        "Daria Taglioni"
-      ],
-      "year": 2021,
-      "journal": "National Bureau of Economic Research",
-      "journal_tier": "WP",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.3386/w29562",
-      "url": "https://doi.org/10.3386/w29562",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "The US-China trade war created net export opportunities rather than simply shifting trade across destinations. Many \"bystander\" countries grew their exports of taxed products into the rest of the world (excluding US and China). Country-specific components of tariff elasticities, rather than specialization patterns, drove large cross-country variation in export growth of tariff-exposed products. The elasticities of exports to US-China tariffs identify whether a country's exports complement or sub",
-      "jel_codes": [],
-      "topics": [
-        2
-      ],
-      "topic_relevance": {
-        "2": "中美贸易战全球重新配置效应的早期版本——追踪贸易流向转变的实证证据。"
-      },
-      "priority": "reference",
-      "citations": 77,
-      "tags": [],
-      "notes_zh": "中美贸易战全球重新配置效应的早期版本——追踪贸易流向转变的实证证据。",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "coppola_etal_2020",
-      "title": "Redrawing the Map of Global Capital Flows: The Role of Cross-Border Financing and Tax Havens",
-      "authors": [
-        "Antonio Coppola",
-        "Matteo Maggiori",
-        "Brent Neiman",
-        "Jesse Schreger"
-      ],
-      "year": 2020,
-      "journal": "National Bureau of Economic Research",
-      "journal_tier": "WP",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.3386/w26855",
-      "url": "https://doi.org/10.3386/w26855",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "Global firms finance themselves through foreign subsidiaries, often shell companies in tax havens, which obscures their true economic location in official statistics. We associate the universe of traded securities issued by firms in tax havens with their issuer's ultimate parent and restate bilateral investment positions to better reflect the financial linkages connecting countries around the world. Portfolio investment from developed countries to firms in large emerging markets is dramatically ",
-      "jel_codes": [],
-      "topics": [
-        2
-      ],
-      "topic_relevance": {
-        "2": "全球资本流动地图重绘的工作论文版——剥离壳公司后的真实FDI地理。"
-      },
-      "priority": "recommended",
-      "citations": 128,
-      "tags": [],
-      "notes_zh": "全球资本流动地图重绘的工作论文版——剥离壳公司后的真实FDI地理。",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
       "id": "blanchard_etal_2019",
       "title": "Did Trump's Trade War Impact the 2018 Election?",
       "authors": [
@@ -2717,70 +2657,6 @@
       "citations": 148,
       "tags": [],
       "notes_zh": "分析全球供应链如何改变各国贸易政策激励——上下游产业链接使保护主义成本更高，改变了最优关税计算。",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "bown_2010",
-      "title": "Taking stock of antidumping, safeguards, and countervailing duties, 1990-2009",
-      "authors": [
-        "Chad P. Bown"
-      ],
-      "year": 2010,
-      "journal": "World Bank, Washington, DC eBooks",
-      "journal_tier": "WP",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1596/1813-9450-5436",
-      "url": "https://doi.org/10.1596/1813-9450-5436",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "This paper examines the evolving, cross-country use of antidumping, safeguard, and countervailing duty policies -- temporary trade barriers (TTBs) -- over the period 1990-2009. The author constructs two new measures of imported products subject to the combined use of these TTBs before applying these measures to new data drawn from the World Bank's Temporary Trade Barriers Database. The research establishes a number of facts regarding trends in historical use to benchmark against policy activity ",
-      "jel_codes": [],
-      "topics": [
-        2
-      ],
-      "topic_relevance": {
-        "2": "盘点1990-2009年全球反倾销、保障措施和反补贴税使用趋势的工作论文版本。"
-      },
-      "priority": "recommended",
-      "citations": 139,
-      "tags": [],
-      "notes_zh": "盘点1990-2009年全球反倾销、保障措施和反补贴税使用趋势的工作论文版本。",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "ossa_2010",
-      "title": "A 'New Trade' Theory of GATT/WTO Negotiations",
-      "authors": [
-        "Ralph Ossa"
-      ],
-      "year": 2010,
-      "journal": "National Bureau of Economic Research",
-      "journal_tier": "WP",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.3386/w16388",
-      "url": "https://doi.org/10.3386/w16388",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "I suggest a novel theory of GATT/WTO negotiations based on the Krugman (1980) \"new trade\" model. It emphasizes international production relocations and is easy to calibrate to bilateral trade data. Focusing on the major players in recent GATT/WTO negotiations, I find that it implies reasonable noncooperative tariffs as well as moderate gains from GATT/WTO negotiations.",
-      "jel_codes": [],
-      "topics": [
-        2
-      ],
-      "topic_relevance": {
-        "2": "GATT/WTO贸易谈判'新贸易'理论的工作论文版本。"
-      },
-      "priority": "reference",
-      "citations": 63,
-      "tags": [],
-      "notes_zh": "GATT/WTO贸易谈判'新贸易'理论的工作论文版本。",
       "added_date": "2026-03-29",
       "read_status": "unread"
     },
@@ -3075,7 +2951,7 @@
       "read_status": "unread"
     },
     {
-      "id": "rodrik_2018_b",
+      "id": "rodrik_2018_populism",
       "title": "Populism and the economics of globalization",
       "authors": [
         "Dani Rodrik"
@@ -3098,13 +2974,13 @@
         5
       ],
       "topic_relevance": {
-        "2": "分析贸易协定到底做了什么——超越传统的市场准入视角，揭示现代贸易协定如何重塑国内制度和监管空间。",
-        "5": "分析贸易协定到底做了什么——超越传统的市场准入视角，揭示现代贸易协定如何重塑国内制度和监管空间。"
+        "2": "全球化与贸易政策政治经济学核心理论",
+        "5": "地缘政治经济学核心框架：全球化三难困境"
       },
       "priority": "core",
       "citations": 1268,
       "tags": [],
-      "notes_zh": "分析贸易协定到底做了什么——超越传统的市场准入视角，揭示现代贸易协定如何重塑国内制度和监管空间。",
+      "notes_zh": "分析全球化如何催生民粹主义浪潮。提出全球化三难困境（globalization trilemma）：深度经济一体化、国家主权与民主政治不可兼得，解释当代贸易保护主义和反全球化运动的政治经济根源。",
       "added_date": "2026-03-29",
       "read_status": "unread"
     },

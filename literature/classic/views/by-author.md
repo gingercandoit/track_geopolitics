@@ -1,7 +1,7 @@
 # 文献库 — 按作者索引
 
 > 自动生成于 2026-03-29
-> 仅显示有 2 篇及以上论文的作者，共 32 位
+> 仅显示有 2 篇及以上论文的作者，共 28 位
 
 ---
 
@@ -47,42 +47,17 @@
 - [1291 cites] (2019) Weaponized Interdependence: How Global Economic Networks Shape State Coercion — *International Security* [T3] T1
 - [214 cites] (2014) Domestic Institutions beyond the Nation-State: Charting the New Interdependence  — *World Politics* [T3] T5
 
-## Pablo Fajgelbaum (5 篇, 1297 总引用)
+## Pablo Fajgelbaum (3 篇, 1164 总引用)
 
 - [80 cites] (2024) The US-China Trade War and Global Reallocations — *American Economic Review Insights* [T1] T2
 - [774 cites] (2019) The Return to Protectionism* — *The Quarterly Journal of Economics* [T1] T2
 - [310 cites] (2022) The Economic Impacts of the US–China Trade War — *Annual Review of Economics* [T2] T2
-- [56 cites] (2022) The US-China Trade War and Global Reallocations — *World Bank, Washington, DC eBooks* [WP] T2
-- [77 cites] (2021) The US-China Trade War and Global Reallocations — *National Bureau of Economic Research* [WP] T2
 
-## Amit Khandelwal (5 篇, 1297 总引用)
+## Amit Khandelwal (3 篇, 1164 总引用)
 
 - [80 cites] (2024) The US-China Trade War and Global Reallocations — *American Economic Review Insights* [T1] T2
 - [774 cites] (2019) The Return to Protectionism* — *The Quarterly Journal of Economics* [T1] T2
 - [310 cites] (2022) The Economic Impacts of the US–China Trade War — *Annual Review of Economics* [T2] T2
-- [56 cites] (2022) The US-China Trade War and Global Reallocations — *World Bank, Washington, DC eBooks* [WP] T2
-- [77 cites] (2021) The US-China Trade War and Global Reallocations — *National Bureau of Economic Research* [WP] T2
-
-## Matteo Maggiori (4 篇, 1037 总引用)
-
-- [197 cites] (2021) Redrawing the Map of Global Capital Flows: The Role of Cross-Border Financing an — *The Quarterly Journal of Economics* [T1] T2
-- [451 cites] (2017) Financial Intermediation, International Risk Sharing, and Reserve Currencies — *American Economic Review* [T1] T5
-- [261 cites] (2017) A Model of the International Monetary System* — *The Quarterly Journal of Economics* [T1] T1
-- [128 cites] (2020) Redrawing the Map of Global Capital Flows: The Role of Cross-Border Financing an — *National Bureau of Economic Research* [WP] T2
-
-## Pinelopi Goldberg (4 篇, 987 总引用)
-
-- [80 cites] (2024) The US-China Trade War and Global Reallocations — *American Economic Review Insights* [T1] T2
-- [774 cites] (2019) The Return to Protectionism* — *The Quarterly Journal of Economics* [T1] T2
-- [56 cites] (2022) The US-China Trade War and Global Reallocations — *World Bank, Washington, DC eBooks* [WP] T2
-- [77 cites] (2021) The US-China Trade War and Global Reallocations — *National Bureau of Economic Research* [WP] T2
-
-## Patrick Kennedy (4 篇, 987 总引用)
-
-- [80 cites] (2024) The US-China Trade War and Global Reallocations — *American Economic Review Insights* [T1] T2
-- [774 cites] (2019) The Return to Protectionism* — *The Quarterly Journal of Economics* [T1] T2
-- [56 cites] (2022) The US-China Trade War and Global Reallocations — *World Bank, Washington, DC eBooks* [WP] T2
-- [77 cites] (2021) The US-China Trade War and Global Reallocations — *National Bureau of Economic Research* [WP] T2
 
 ## Mary Amiti (2 篇, 950 总引用)
 
@@ -94,16 +69,36 @@
 - [221 cites] (2011) Trade Finance and the Great Trade Collapse — *American Economic Review* [T1] T2
 - [729 cites] (2019) The Impact of the 2018 Tariffs on Prices and Welfare — *The Journal of Economic Perspectives* [T2] T2,T3
 
-## Ralph Ossa (6 篇, 921 总引用)
+## Matteo Maggiori (3 篇, 909 总引用)
+
+- [197 cites] (2021) Redrawing the Map of Global Capital Flows: The Role of Cross-Border Financing an — *The Quarterly Journal of Economics* [T1] T2
+- [451 cites] (2017) Financial Intermediation, International Risk Sharing, and Reserve Currencies — *American Economic Review* [T1] T5
+- [261 cites] (2017) A Model of the International Monetary System* — *The Quarterly Journal of Economics* [T1] T1
+
+## Ralph Ossa (5 篇, 858 总引用)
 
 - [328 cites] (2014) Trade Wars and Trade Talks with Data — *American Economic Review* [T1] T2
 - [27 cites] (2012) Profits in the “New Trade” Approach to Trade Negotiations — *American Economic Review* [T1] T2
 - [230 cites] (2011) A “New Trade” Theory of GATT/WTO Negotiations — *Journal of Political Economy* [T1] T2
 - [33 cites] (2021) The Political Economy of Deep Integration — *Annual Review of Economics* [T2] T2
 - [240 cites] (2015) Why trade matters after all — *Journal of International Economics* [T2] T2
-- [63 cites] (2010) A 'New Trade' Theory of GATT/WTO Negotiations — *National Bureau of Economic Research* [WP] T2
 
-## Chad P. Bown (7 篇, 916 总引用)
+## Pinelopi Goldberg (2 篇, 854 总引用)
+
+- [80 cites] (2024) The US-China Trade War and Global Reallocations — *American Economic Review Insights* [T1] T2
+- [774 cites] (2019) The Return to Protectionism* — *The Quarterly Journal of Economics* [T1] T2
+
+## Patrick Kennedy (2 篇, 854 总引用)
+
+- [80 cites] (2024) The US-China Trade War and Global Reallocations — *American Economic Review Insights* [T1] T2
+- [774 cites] (2019) The Return to Protectionism* — *The Quarterly Journal of Economics* [T1] T2
+
+## Stephen J. Redding (2 篇, 842 总引用)
+
+- [113 cites] (2024) When Tariffs Disrupt Global Supply Chains — *American Economic Review* [T1] T2,T3
+- [729 cites] (2019) The Impact of the 2018 Tariffs on Prices and Welfare — *The Journal of Economic Perspectives* [T2] T2,T3
+
+## Chad P. Bown (6 篇, 777 总引用)
 
 - [127 cites] (2013) Self-Enforcing Trade Agreements: Evidence from Time-Varying Trade Policy — *American Economic Review* [T1] T2
 - [113 cites] (2016) Is the WTO Passé? — *Journal of Economic Literature* [T2] T2,T5
@@ -111,12 +106,6 @@
 - [149 cites] (2010) Trade liberalization, antidumping, and safeguards: Evidence from India's tariff  — *Journal of Development Economics* [T2] T2
 - [92 cites] (2019) Did Trump's Trade War Impact the 2018 Election? — *National Bureau of Economic Research* [WP] T2
 - [148 cites] (2016) Global Supply Chains and Trade Policy — *National Bureau of Economic Research* [WP] T2,T3
-- [139 cites] (2010) Taking stock of antidumping, safeguards, and countervailing duties, 1990-2009 — *World Bank, Washington, DC eBooks* [WP] T2
-
-## Stephen J. Redding (2 篇, 842 总引用)
-
-- [113 cites] (2024) When Tariffs Disrupt Global Supply Chains — *American Economic Review* [T1] T2,T3
-- [729 cites] (2019) The Impact of the 2018 Tariffs on Prices and Welfare — *The Journal of Economic Perspectives* [T2] T2,T3
 
 ## Davin Chor (4 篇, 756 总引用)
 
@@ -146,21 +135,6 @@
 - [112 cites] (2015) Economic coercion and currency crises in target countries — *Journal of Peace Research* [T3] T1
 - [111 cites] (2012) The impact of human rights INGO activities on economic sanctions — *The Review of International Organization* [T3] T1
 
-## Antonio Coppola (2 篇, 325 总引用)
-
-- [197 cites] (2021) Redrawing the Map of Global Capital Flows: The Role of Cross-Border Financing an — *The Quarterly Journal of Economics* [T1] T2
-- [128 cites] (2020) Redrawing the Map of Global Capital Flows: The Role of Cross-Border Financing an — *National Bureau of Economic Research* [WP] T2
-
-## Brent Neiman (2 篇, 325 总引用)
-
-- [197 cites] (2021) Redrawing the Map of Global Capital Flows: The Role of Cross-Border Financing an — *The Quarterly Journal of Economics* [T1] T2
-- [128 cites] (2020) Redrawing the Map of Global Capital Flows: The Role of Cross-Border Financing an — *National Bureau of Economic Research* [WP] T2
-
-## Jesse Schreger (2 篇, 325 总引用)
-
-- [197 cites] (2021) Redrawing the Map of Global Capital Flows: The Role of Cross-Border Financing an — *The Quarterly Journal of Economics* [T1] T2
-- [128 cites] (2020) Redrawing the Map of Global Capital Flows: The Role of Cross-Border Financing an — *National Bureau of Economic Research* [WP] T2
-
 ## Laura Alfaro (2 篇, 316 总引用)
 
 - [200 cites] (2014) SOVEREIGNS, UPSTREAM CAPITAL FLOWS, AND GLOBAL IMBALANCES — *Journal of the European Economic Associa* [T2] T3
@@ -180,12 +154,6 @@
 
 - [117 cites] (2023) Europe first? The rise of EU industrial policy promoting and protecting the sing — *Journal of European Public Policy* [T3] T2,T5
 - [103 cites] (2023) Moving on to not fall behind? Technological sovereignty and the ‘geo-dirigiste’  — *Journal of European Public Policy* [T3] T2,T5
-
-## Daria Taglioni (3 篇, 213 总引用)
-
-- [80 cites] (2024) The US-China Trade War and Global Reallocations — *American Economic Review Insights* [T1] T2
-- [56 cites] (2022) The US-China Trade War and Global Reallocations — *World Bank, Washington, DC eBooks* [WP] T2
-- [77 cites] (2021) The US-China Trade War and Global Reallocations — *National Bureau of Economic Research* [WP] T2
 
 ## Gene M. Grossman (2 篇, 202 总引用)
 

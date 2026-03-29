@@ -1,7 +1,7 @@
 # 阅读路线图 (Reading Roadmap)
 
 > 按议题 → 子主题 → 优先级排列。Core 必读，Recommended 推荐，Reference 参考。
-> 总计 94 篇论文
+> 总计 89 篇论文
 
 ## T1: 制裁与经济管制 (19 篇)
 
@@ -12,12 +12,14 @@
   - DOI: [https://doi.org/10.1093/qje/qjx031](https://doi.org/10.1093/qje/qjx031)
   - 📝 构建国际货币体系理论模型，分析储备资产供给中的'特里芬困境'与安全资产短缺问题，核心关切是美元体系的内在脆弱性。
 
-### 其他
+### 金融市场与资产定价
 
 - ◆ **Yi Huang, Chen Lin et al. (2023)** — Trade networks and firm value: Evidence from the U.S.-China trade war
   - Journal of International Economics [T2] | 213 citations
   - DOI: [https://doi.org/10.1016/j.jinteco.2023.103811](https://doi.org/10.1016/j.jinteco.2023.103811)
   - 📝 利用企业层面贸易网络数据研究中美贸易战对企业价值的影响。发现贸易网络暴露程度显著影响企业股票价值。
+
+### 其他
 
 - ◆ **Ilias Alami, Carolina Alves et al. (2022)** — International financial subordination: a critical research agenda
   - Review of International Political Economy [T2] | 196 citations
@@ -112,7 +114,7 @@
 
 ---
 
-## T2: 贸易与产业竞争 (52 篇)
+## T2: 贸易与产业竞争 (47 篇)
 
 ### 关税与贸易战
 
@@ -176,22 +178,15 @@
   - DOI: [https://doi.org/10.1017/s0020818320000612](https://doi.org/10.1017/s0020818320000612)
   - 📝 研究中美贸易战中关税作为选举武器的政治地理学。中国精准瞄准摇摆州实施报复性关税，以最大化总统选举的政治压力。IO。
 
-- ○ **Pablo Fajgelbaum, Pinelopi Goldberg et al. (2022)** — The US-China Trade War and Global Reallocations
-  - World Bank, Washington, DC eBooks [WP] | 56 citations
-  - DOI: [https://doi.org/10.1596/1813-9450-9894](https://doi.org/10.1596/1813-9450-9894)
-  - 📝 中美贸易战全球重新配置效应的工作论文版本——更早的分析和方法论细节。
-
-- ○ **Pablo Fajgelbaum, Pinelopi Goldberg et al. (2021)** — The US-China Trade War and Global Reallocations
-  - National Bureau of Economic Research [WP] | 77 citations
-  - DOI: [https://doi.org/10.3386/w29562](https://doi.org/10.3386/w29562)
-  - 📝 中美贸易战全球重新配置效应的早期版本——追踪贸易流向转变的实证证据。
-
 - ○ **Emily J. Blanchard, Chad P. Bown et al. (2019)** — Did Trump's Trade War Impact the 2018 Election?
   - National Bureau of Economic Research [WP] | 92 citations
   - DOI: [https://doi.org/10.3386/w26434](https://doi.org/10.3386/w26434)
   - 📝 研究特朗普贸易战是否影响了2018年中期选举——贸易政策的政治经济反馈效应。
 
-  *(另有 1 篇，见 CSV 完整索引)*
+- ◆ **Emily J. Blanchard, Chad P. Bown et al. (2016)** — Global Supply Chains and Trade Policy
+  - National Bureau of Economic Research [WP] | 148 citations
+  - DOI: [https://doi.org/10.3386/w21883](https://doi.org/10.3386/w21883)
+  - 📝 分析全球供应链如何改变各国贸易政策激励——上下游产业链接使保护主义成本更高，改变了最优关税计算。
 
 ### 产业政策
 
@@ -224,11 +219,6 @@
   - Journal of European Public Policy [T3] | 103 citations
   - DOI: [https://doi.org/10.1080/13501763.2023.2248204](https://doi.org/10.1080/13501763.2023.2248204)
   - 📝 分析'技术主权'与'地缘政治导向型国家主义'——欧盟如何在技术竞争中避免落后，是大国技术竞争的欧洲视角。
-
-- ◆ **Antonio Coppola, Matteo Maggiori et al. (2020)** — Redrawing the Map of Global Capital Flows: The Role of Cross-Border Financing and Tax Havens
-  - National Bureau of Economic Research [WP] | 128 citations
-  - DOI: [https://doi.org/10.3386/w26855](https://doi.org/10.3386/w26855)
-  - 📝 全球资本流动地图重绘的工作论文版——剥离壳公司后的真实FDI地理。
 
 - ◆ **Ha‐Joon Chang, Antonio Andreoni (2020)** — Industrial Policy in the 21st Century
   - Development and Change [other] | 421 citations
@@ -267,11 +257,6 @@
   - DOI: [https://doi.org/10.1016/j.jinteco.2021.103534](https://doi.org/10.1016/j.jinteco.2021.103534)
   - 📝 量化分析新冠疫情期间全球供应链的角色。发现供应链传导放大了疫情对GDP的负面影响约25%。
 
-- ◆ **Joseph B. Steinberg (2019)** — Brexit and the macroeconomic impact of trade policy uncertainty
-  - Journal of International Economics [T2] | 172 citations
-  - DOI: [https://doi.org/10.1016/j.jinteco.2019.01.009](https://doi.org/10.1016/j.jinteco.2019.01.009)
-  - 📝 量化分析脱欧带来的贸易政策不确定性的宏观经济影响。发现不确定性本身（而非实际脱欧）已造成显著GDP损失。
-
 - ★ **Dani Rodrik (2015)** — Premature deindustrialization
   - Journal of Economic Growth [T2] | 1708 citations
   - DOI: [https://doi.org/10.1007/s10887-015-9122-3](https://doi.org/10.1007/s10887-015-9122-3)
@@ -295,7 +280,7 @@
 - ★ **Dani Rodrik (2018)** — Populism and the economics of globalization
   - Journal of International Business Policy [other] | 1268 citations
   - DOI: [https://doi.org/10.1057/s42214-018-0001-4](https://doi.org/10.1057/s42214-018-0001-4)
-  - 📝 分析贸易协定到底做了什么——超越传统的市场准入视角，揭示现代贸易协定如何重塑国内制度和监管空间。
+  - 📝 分析全球化如何催生民粹主义浪潮。提出全球化三难困境（globalization trilemma）：深度经济一体化、国家主权与民主政治不可兼得，解释当代贸易保护主义和反全球化运动的政治经济根源。
 
 ### 贸易自由化与福利
 
@@ -329,6 +314,11 @@
   - DOI: [https://doi.org/10.1016/j.jinteco.2020.103387](https://doi.org/10.1016/j.jinteco.2020.103387)
   - 📝 利用中国加入WTO前后的企业数据研究贸易政策不确定性对创新的影响。发现不确定性降低显著刺激了企业创新投入。
 
+- ◆ **Joseph B. Steinberg (2019)** — Brexit and the macroeconomic impact of trade policy uncertainty
+  - Journal of International Economics [T2] | 172 citations
+  - DOI: [https://doi.org/10.1016/j.jinteco.2019.01.009](https://doi.org/10.1016/j.jinteco.2019.01.009)
+  - 📝 量化分析脱欧带来的贸易政策不确定性的宏观经济影响。发现不确定性本身（而非实际脱欧）已造成显著GDP损失。
+
 - ◆ **Dani Rodrik (2018)** — What Do Trade Agreements Really Do?
   - The Journal of Economic Perspectives [T2] | 486 citations
   - DOI: [https://doi.org/10.1257/jep.32.2.73](https://doi.org/10.1257/jep.32.2.73)
@@ -343,11 +333,6 @@
   - American Economic Journal Applied Economics [T2] | 661 citations
   - DOI: [https://doi.org/10.1257/app.2.4.1](https://doi.org/10.1257/app.2.4.1)
   - 📝 利用印度贸易自由化的地区差异，研究要素流动性不足时贸易开放对地方贫困的影响——贸易政策的分配效应。
-
-- ○ **Ralph Ossa (2010)** — A 'New Trade' Theory of GATT/WTO Negotiations
-  - National Bureau of Economic Research [WP] | 63 citations
-  - DOI: [https://doi.org/10.3386/w16388](https://doi.org/10.3386/w16388)
-  - 📝 GATT/WTO贸易谈判'新贸易'理论的工作论文版本。
 
 ### 贸易与劳动力市场
 
@@ -372,11 +357,6 @@
   - Journal of Development Economics [T2] | 149 citations
   - DOI: [https://doi.org/10.1016/j.jdeveco.2010.06.001](https://doi.org/10.1016/j.jdeveco.2010.06.001)
   - 📝 研究印度在贸易自由化过程中如何使用反倾销和保障措施——贸易救济工具作为管理开放的政策缓冲机制。
-
-- ◆ **Chad P. Bown (2010)** — Taking stock of antidumping, safeguards, and countervailing duties, 1990-2009
-  - World Bank, Washington, DC eBooks [WP] | 139 citations
-  - DOI: [https://doi.org/10.1596/1813-9450-5436](https://doi.org/10.1596/1813-9450-5436)
-  - 📝 盘点1990-2009年全球反倾销、保障措施和反补贴税使用趋势的工作论文版本。
 
 ### FDI与跨国企业
 
@@ -555,11 +535,6 @@
   - DOI: [https://doi.org/10.1353/eca.2022.0005](https://doi.org/10.1353/eca.2022.0005)
   - 📝 China Shock的延续研究：评估中国贸易冲击对美国劳动力市场的持久影响(2000-2019)，发现效应远比预期持久。BPEA。
 
-- ◆ **Yi Che, Yi Lu et al. (2022)** — Did trade liberalization with China influence US elections?
-  - Journal of International Economics [T2] | 70 citations
-  - DOI: [https://doi.org/10.1016/j.jinteco.2022.103652](https://doi.org/10.1016/j.jinteco.2022.103652)
-  - 📝 研究对华贸易自由化是否影响了美国选举结果。发现受进口冲击更大的选区政治极化加剧，影响国会选举。
-
 - ◆ **Davin Chor, Kalina Manova et al. (2021)** — Growing like China: Firm performance and global production line position
   - Journal of International Economics [T2] | 138 citations
   - DOI: [https://doi.org/10.1016/j.jinteco.2021.103445](https://doi.org/10.1016/j.jinteco.2021.103445)
@@ -610,7 +585,24 @@
   - DOI: [https://doi.org/10.1007/s00146-020-00992-2](https://doi.org/10.1007/s00146-020-00992-2)
   - 📝 系统分析中国的人工智能发展路径——政策框架、伦理考量和国际标准竞争，是理解中美AI竞争的关键参考。
 
-  *(另有 3 篇，见 CSV 完整索引)*
+- ◆ **Manfred Häfner, Simone Tagliapietra (2020)** — The Geopolitics of the Global Energy Transition
+  - Lecture notes in energy [other] | 223 citations
+  - DOI: [https://doi.org/10.1007/978-3-030-39066-2](https://doi.org/10.1007/978-3-030-39066-2)
+  - 📝 分析全球能源转型的地缘政治维度——清洁能源如何重塑能源出口国与进口国的权力关系。
+
+  *(另有 2 篇，见 CSV 完整索引)*
+
+### 政治经济学方法论
+
+- ◆ **Yi Che, Yi Lu et al. (2022)** — Did trade liberalization with China influence US elections?
+  - Journal of International Economics [T2] | 70 citations
+  - DOI: [https://doi.org/10.1016/j.jinteco.2022.103652](https://doi.org/10.1016/j.jinteco.2022.103652)
+  - 📝 研究对华贸易自由化是否影响了美国选举结果。发现受进口冲击更大的选区政治极化加剧，影响国会选举。
+
+- ◆ **Henry Farrell, Abraham L. Newman (2016)** — The new interdependence approach: theoretical development and empirical demonstration
+  - Review of International Political Economy [T2] | 199 citations
+  - DOI: [https://doi.org/10.1080/09692290.2016.1247009](https://doi.org/10.1080/09692290.2016.1247009)
+  - 📝 '新相互依赖'理论发展——分析全球化如何创造新的权力关系和制度形态，是'武器化相互依赖'理论的前置研究。
 
 ### 地缘政治风险
 
@@ -666,13 +658,6 @@
   - DOI: [https://doi.org/10.1017/s0043887114000057](https://doi.org/10.1017/s0043887114000057)
   - 📝 分析超越民族国家的国内制度——全球化如何创造跨国监管网络，预示'新相互依赖'理论的制度分析维度。
 
-### 政治经济学方法论
-
-- ◆ **Henry Farrell, Abraham L. Newman (2016)** — The new interdependence approach: theoretical development and empirical demonstration
-  - Review of International Political Economy [T2] | 199 citations
-  - DOI: [https://doi.org/10.1080/09692290.2016.1247009](https://doi.org/10.1080/09692290.2016.1247009)
-  - 📝 '新相互依赖'理论发展——分析全球化如何创造新的权力关系和制度形态，是'武器化相互依赖'理论的前置研究。
-
 ### 制度与发展
 
 - ★ **Chenggang Xu (2011)** — The Fundamental Institutions of China's Reforms and Development
@@ -705,7 +690,7 @@
 - ★ **Dani Rodrik (2018)** — Populism and the economics of globalization
   - Journal of International Business Policy [other] | 1268 citations
   - DOI: [https://doi.org/10.1057/s42214-018-0001-4](https://doi.org/10.1057/s42214-018-0001-4)
-  - 📝 分析贸易协定到底做了什么——超越传统的市场准入视角，揭示现代贸易协定如何重塑国内制度和监管空间。
+  - 📝 分析全球化如何催生民粹主义浪潮。提出全球化三难困境（globalization trilemma）：深度经济一体化、国家主权与民主政治不可兼得，解释当代贸易保护主义和反全球化运动的政治经济根源。
 
 ### 全球不平等
 

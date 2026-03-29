@@ -1,6 +1,6 @@
 # 文献库 — 按优先级排列
 
-> 自动生成于 2026-03-29，共 94 篇
+> 自动生成于 2026-03-29，共 89 篇
 
 ---
 
@@ -152,11 +152,11 @@
 - **优先级**：core
 - **议题**：T2, T5
 - **DOI**：[10.1057/s42214-018-0001-4](https://doi.org/10.1057/s42214-018-0001-4)
-- **简评**：分析贸易协定到底做了什么——超越传统的市场准入视角，揭示现代贸易协定如何重塑国内制度和监管空间。
+- **简评**：分析全球化如何催生民粹主义浪潮。提出全球化三难困境（globalization trilemma）：深度经济一体化、国家主权与民主政治不可兼得，解释当代贸易保护主义和反全球化运动的政治经济根源。
 
 ---
 
-## 推荐阅读 (Recommended) (66 篇)
+## 推荐阅读 (Recommended) (64 篇)
 
 ### Gene M. Grossman, Elhanan Helpman, Stephen J. Redding (2024) — When Tariffs Disrupt Global Supply Chains
 - **期刊**：American Economic Review [T1]
@@ -688,16 +688,6 @@
 
 ---
 
-### Antonio Coppola, Matteo Maggiori, Brent Neiman et al. (2020) — Redrawing the Map of Global Capital Flows: The Role of Cross-Border Financing and Tax Havens
-- **期刊**：National Bureau of Economic Research [WP]
-- **引用**：128
-- **优先级**：recommended
-- **议题**：T2
-- **DOI**：[10.3386/w26855](https://doi.org/10.3386/w26855)
-- **简评**：全球资本流动地图重绘的工作论文版——剥离壳公司后的真实FDI地理。
-
----
-
 ### Emily J. Blanchard, Chad P. Bown, Robert C. Johnson (2016) — Global Supply Chains and Trade Policy
 - **期刊**：National Bureau of Economic Research [WP]
 - **引用**：148
@@ -705,16 +695,6 @@
 - **议题**：T2, T3
 - **DOI**：[10.3386/w21883](https://doi.org/10.3386/w21883)
 - **简评**：分析全球供应链如何改变各国贸易政策激励——上下游产业链接使保护主义成本更高，改变了最优关税计算。
-
----
-
-### Chad P. Bown (2010) — Taking stock of antidumping, safeguards, and countervailing duties, 1990-2009
-- **期刊**：World Bank, Washington, DC eBooks [WP]
-- **引用**：139
-- **优先级**：recommended
-- **议题**：T2
-- **DOI**：[10.1596/1813-9450-5436](https://doi.org/10.1596/1813-9450-5436)
-- **简评**：盘点1990-2009年全球反倾销、保障措施和反补贴税使用趋势的工作论文版本。
 
 ---
 
@@ -818,7 +798,7 @@
 
 ---
 
-## 参考文献 (Reference) (13 篇)
+## 参考文献 (Reference) (10 篇)
 
 | 作者 | 年份 | 标题 | 期刊 | 引用 | 议题 |
 |------|------|------|------|------|------|
@@ -831,7 +811,4 @@
 | Mügge | 2024 | EU AI sovereignty: for whom, to what end, and to w | Journal of European Public Pol | 61 | T4 |
 | Head et al. | 2026 | Industrial Policies for Multi-Stage Production: Th | National Bureau of Economic Re | 0 | T3 |
 | Arslanalp et al. | 2022 | The Stealth Erosion of Dollar Dominance: Active Di | IMF Working Paper | 94 | T1 |
-| Fajgelbaum et al. | 2022 | The US-China Trade War and Global Reallocations | World Bank, Washington, DC eBo | 56 | T2 |
-| Fajgelbaum et al. | 2021 | The US-China Trade War and Global Reallocations | National Bureau of Economic Re | 77 | T2 |
 | Blanchard et al. | 2019 | Did Trump's Trade War Impact the 2018 Election? | National Bureau of Economic Re | 92 | T2 |
-| Ossa | 2010 | A 'New Trade' Theory of GATT/WTO Negotiations | National Bureau of Economic Re | 63 | T2 |
