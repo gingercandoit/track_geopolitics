@@ -4,14 +4,17 @@ fetch_sources.py — 地缘政治信息源自动拉取脚本
 功能：
   1. 拉取 A/B/C 层 RSS feeds（43个已验证 feed）
   2. 拉取 Reddit JSON API（r/geopolitics, r/worldnews, r/economics）
-  3. 按三大议题关键词过滤
+  3. 按五大议题关键词过滤（T5为catch-all信息池）
   4. 输出结构化 JSON + 可读 Markdown 摘要
+
+五大议题：
+  T1 制裁与经济管制    T2 贸易与产业竞争    T3 供应链与关键资源
+  T4 技术竞争与数字治理  T5 地缘政治信息池（catch-all）
 
 使用方式：
   python scripts/fetch_sources.py                    # 拉取全部
-  python scripts/fetch_sources.py --topic 1          # 只看议题1相关
-  python scripts/fetch_sources.py --topic 2          # 只看议题2相关
-  python scripts/fetch_sources.py --topic 3          # 只看议题3相关
+  python scripts/fetch_sources.py --topic 1          # 只看议题1
+  python scripts/fetch_sources.py --topic 5          # 只看议题5 (catch-all)
   python scripts/fetch_sources.py --source rss       # 只拉RSS
   python scripts/fetch_sources.py --source reddit    # 只拉Reddit
   python scripts/fetch_sources.py --days 3           # 只看最近3天
@@ -111,57 +114,106 @@ REDDIT_ENDPOINTS = [
 ]
 
 # =============================================================================
-# 配置：三大议题关键词
+# 配置：五大议题关键词
 # =============================================================================
 
 TOPIC_KEYWORDS = {
     1: {
-        "name": "中美关系与大国博弈",
-        "name_en": "US-China & Great Power",
+        "name": "制裁与经济管制",
+        "name_en": "Sanctions & Economic Coercion",
+        "slug": "topic1-sanctions",
         "keywords": [
-            r"china|chinese|beijing|xi jinping",
-            r"us.china|sino.american|decoupl|de.risk",
-            r"tariff|trade war|trade.policy",
-            r"sanction|ofac|entity list",
-            r"export control|chip|semiconductor|huawei",
-            r"taiwan|south china sea|indo.pacific",
-            r"brics|quad|aukus",
-            r"trump.+china|biden.+china",
-            r"rare earth|critical mineral.+china",
-            r"tiktok|bytedance|tech.+ban",
+            r"ofac|sanctions?\b|designation|sdn.list|delisting",
+            r"eu.sanction|package.+sanction|sanction.+russia|sanction.+iran|sanction.+belarus",
+            r"secondary.sanction|compliance.+sanction|enforcement.+sanction",
+            r"swift.+ban|swift.+exclu|swift.+weapon|swift.+alternative",
+            r"dollar.hegemony|dollar.weapon|reserve.currency",
+            r"rmb.international|cips\b|yuan.+cross|renminbi",
+            r"sanction.+evasion|sanction.+circumvent|sanction.+enforce",
+            r"anti.sanction|counter.sanction|retaliatory.measure",
+            r"asset.freeze|sovereign.wealth.+sanction|central.bank.+sanction",
+            r"oil.price.cap|sanction.+oil|sanction.+energy",
+            r"jcpoa|iran.+nuclear.+deal",
+            r"north.korea.+sanction|dprk.+sanction",
+            r"financial.sanction|de.risk|correspondent.bank",
+            r"unreliable.entity|entity.list.+sanction",
         ],
     },
     2: {
-        "name": "供应链与贸易政策",
-        "name_en": "Supply Chain & Trade Policy",
+        "name": "贸易与产业竞争",
+        "name_en": "Trade & Industrial Competition",
+        "slug": "topic2-trade-industrial",
         "keywords": [
-            r"supply chain|reshoring|nearshoring|friendshoring",
-            r"critical mineral|lithium|cobalt|rare earth",
-            r"wto|world trade|trade dispute",
-            r"section 301|anti.dump|countervail|subsid",
-            r"chips act|ira\b|inflation reduction",
-            r"industrial policy|overcapacity",
-            r"ev\b|electric vehicle|battery",
-            r"steel|aluminum|pharma",
-            r"fdi\b|foreign direct invest",
-            r"trade agreement|free trade|customs",
+            r"tariff|trade.war|retaliat.+trade|section.301",
+            r"anti.dump|countervail|trade.investigat",
+            r"ustr\b|trade.policy|trade.agenda",
+            r"industrial.policy|chips.act|inflation.reduction.act|ira\b.+subsid|overcapacity",
+            r"wto.+dispute|wto.+settle|wto.+rul|wto.+reform|appellate.body",
+            r"trade.agreement|rcep|cptpp|bilateral.+trade|fta\b",
+            r"carbon.border|cbam\b|eu.+trade.+climate",
+            r"trade.barrier|trade.+countermeasure",
+            r"301.+investigat|anti.dumping|countervailing.dut",
         ],
     },
     3: {
-        "name": "能源与资源地缘政治",
-        "name_en": "Energy & Resource Geopolitics",
+        "name": "供应链与关键资源",
+        "name_en": "Supply Chains & Critical Resources",
+        "slug": "topic3-supply-resources",
         "keywords": [
+            r"supply.chain|reshoring|nearshoring|friendshoring|supply.+resilien",
+            r"critical.mineral|lithium|cobalt|rare.earth",
+            r"opec\b|oil.produc|oil.cut|oil.quota|oil.price",
+            r"iea\b|energy.agency|energy.outlook",
+            r"energy.security|pipeline|lng\b|natural.gas",
+            r"nuclear.energy|uranium|enrichment|smr\b",
+            r"renewable.+trade|solar.+tariff|wind.+subsid",
+            r"food.security|grain|wheat|rice.+export|export.ban.+food",
+            r"agricultur.+trade|agricultur.+geopolit|fertilizer",
+            r"resource.national|export.restrict.+mineral",
+            r"global.value.chain|supply.+disrupt|supply.+divers",
             r"oil|petroleum|crude|brent|wti",
-            r"opec|saudi|hormuz|iran",
-            r"lng|natural gas|pipeline",
-            r"iea\b|energy agency|energy security",
-            r"nuclear|uranium|enrichment",
-            r"solar|wind|renewable|clean energy",
-            r"energy crisis|energy price|gas price",
+            r"saudi.+oil|hormuz|gas.price|energy.crisis",
             r"spr\b|strategic.+reserve",
-            r"russia.+energy|nord stream|gazprom",
-            r"mining|mineral.+export|resource national",
+            r"mining|mineral.+export",
         ],
+    },
+    4: {
+        "name": "技术竞争与数字治理",
+        "name_en": "Tech Competition & Digital Governance",
+        "slug": "topic4-tech-digital",
+        "keywords": [
+            r"bis\b.+entity|export.control.+semicon|export.control.+chip|export.control.+ai\b",
+            r"tech.+restrict.+china|huawei|smic|nvidia.+restrict|nvidia.+ban",
+            r"semiconductor.+export|semiconductor.+restrict|semiconductor.+licens|advanced.chip",
+            r"ai.regulat|ai.governance|ai.+rule|ai.+framework",
+            r"tech.+decoupl|tech.war|chip.war",
+            r"data.sovereign|cross.border.data|digital.governance",
+            r"5g.+geopoli|submarine.cable|digital.infrastr",
+            r"tech.+standard.+compet|interoperab",
+            r"quantum.comput|biotech.+national.secur|biotech.+restrict",
+            r"tiktok|bytedance|tech.+ban",
+            r"entity.list|bis\b.+rule|chip.+export",
+        ],
+    },
+    5: {
+        "name": "地缘政治信息池",
+        "name_en": "Geopolitics Catch-All",
+        "slug": "topic5-geopolitics",
+        "keywords": [
+            # T5 actively matches broad geopolitics keywords
+            r"summit|state.visit|bilateral|multilateral|g7\b|g20\b|brics\b",
+            r"diplomat|alliance|partnership|geopolit",
+            r"military|defense|defence|security.+conflict|ceasefire",
+            r"un\b.+security|nato\b|aukus\b|quad\b|sco\b|asean\b",
+            r"global.south|non.aligned|developing.countr",
+            r"election.+foreign|regime.change|political.transit",
+            r"refugee|migration.+geopoli|humanitarian.+crisis",
+            r"arctic.+geopoli|space.+geopoli|cyber.+geopoli|cyber.+sovereign",
+            r"foreign.policy|national.security|strategic",
+            r"war\b|invasion|conflict|peace.talk|negotiat.+peace",
+            r"china|russia|iran|ukraine|north.korea|taiwan",
+        ],
+        "is_catchall": True,  # T5 also gets all unmatched items
     },
 }
 
@@ -219,11 +271,14 @@ def match_topic(text, topic_num):
 
 
 def get_matching_topics(text):
-    """Return list of matching topic numbers."""
+    """Return list of matching topic numbers. T5 is catch-all: gets all unmatched items."""
     topics = []
-    for t in [1, 2, 3]:
+    for t in [1, 2, 3, 4]:
         if match_topic(text, t):
             topics.append(t)
+    # T5 catch-all: items matched by T5 keywords OR not matched by T1-T4
+    if match_topic(text, 5) or not topics:
+        topics.append(5)
     return topics
 
 
@@ -477,7 +532,7 @@ def generate_output(items, topic_filter=None, output_dir=None):
     if topic_filter and unmatched:
         lines.append(f"## 未匹配任何议题（{len(unmatched)}条）")
         lines.append("")
-        lines.append("以下条目未匹配三大议题关键词，但可能有相关价值：")
+        lines.append("以下条目未匹配五大议题关键词，但可能有相关价值：")
         lines.append("")
         for item in unmatched[:20]:  # Cap at 20 to avoid noise
             pub = item.get("published", "")[:10] if item.get("published") else "?"
@@ -499,8 +554,8 @@ def generate_output(items, topic_filter=None, output_dir=None):
 
 def main():
     parser = argparse.ArgumentParser(description="地缘政治信息源拉取脚本")
-    parser.add_argument("--topic", type=int, choices=[1, 2, 3],
-                        help="只看特定议题（1=中美, 2=供应链, 3=能源）")
+    parser.add_argument("--topic", type=int, choices=[1, 2, 3, 4, 5],
+                        help="只看特定议题（1=制裁, 2=贸易, 3=供应链, 4=技术, 5=地缘政治池）")
     parser.add_argument("--source", choices=["rss", "reddit", "all"], default="all",
                         help="信息源类型（默认 all）")
     parser.add_argument("--days", type=int, default=7,
@@ -536,11 +591,12 @@ def main():
     print(f"\n{'=' * 60}")
     print(f"  议题匹配统计")
     print(f"{'=' * 60}")
-    for t in [1, 2, 3]:
+    for t in [1, 2, 3, 4, 5]:
         matched = len([i for i in all_items if t in i.get("topics", [])])
-        print(f"  议题 {t} ({TOPIC_KEYWORDS[t]['name']}): {matched} 条")
+        catchall = " (catch-all)" if t == 5 else ""
+        print(f"  议题 {t} ({TOPIC_KEYWORDS[t]['name']}): {matched} 条{catchall}")
     no_match = len([i for i in all_items if not i.get("topics")])
-    print(f"  未匹配: {no_match} 条")
+    print(f"  无议题标记: {no_match} 条")
     print(f"  总计: {len(all_items)} 条")
 
     # Output
