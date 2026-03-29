@@ -36,13 +36,13 @@
 ### maggiori_schreger_clayton_2026 — Global Imbalances and Power Imbalances
 - **Authors**: Matteo Maggiori, Jesse Schreger, Christopher Clayton
 - **Year**: 2026 | **Tier**: WP | **Cites**: 0
-- **Journal**: SocArXiv Working Paper
+- **Journal**: NBER Working Paper
 - **Priority**: core
 - **议题**: T1, T5
 - **数据**: 概念性讨论论文，引用中国外国债权人地位和美国外债数据
 - **方法**: 理论讨论——分析全球经常账户失衡何时转化为地缘权力失衡的理论条件和潜在渠道
 - **简评**: 中国作为大型外国债权人、美国作为大型外国债务人——这种全球失衡何时也构成权力失衡？提出理论渠道和实证度量建议。Clayton/Maggiori/Schreger地缘经济三部曲的前瞻性议程设定论文。
-- **DOI**: [10.31235/osf.io/u374c_v1](https://doi.org/10.31235/osf.io/u374c_v1)
+- **DOI**: [10.3386/w34717](https://doi.org/10.3386/w34717)
 
 ---
 
@@ -142,13 +142,13 @@
 ### cavani_clayton_dos_santos_2026 — American Investment in Chinese Renminbi
 - **Authors**: Bruno Cavani, Christopher Clayton, Amanda Dos Santos et al.
 - **Year**: 2026 | **Tier**: WP | **Cites**: 0
-- **Journal**: SocArXiv Working Paper
+- **Journal**: NBER Working Paper
 - **Priority**: recommended
 - **议题**: T1, T5
 - **数据**: SEC Form N-PORT微观数据——美国共同基金和ETF的逐基金逐持仓人民币(RMB)债券数据
 - **方法**: 微观实证——追踪基金层面的人民币债券持仓变化，区分'减持'与'完全退出'(exit)两种调整模式
 - **简评**: 2024年全球外国投资者增持中国债券的同时，美国机构投资者持仓急剧下降——主要表现为整支基金完全退出人民币头寸而非部分减持。中国外国投资者基础正从美国机构转向其他来源。地缘经济压力下金融脱钩的基金级微观实证。
-- **DOI**: [10.31235/osf.io/anxmr_v2](https://doi.org/10.31235/osf.io/anxmr_v2)
+- **DOI**: [10.3386/w34792](https://doi.org/10.3386/w34792)
 
 ---
 
