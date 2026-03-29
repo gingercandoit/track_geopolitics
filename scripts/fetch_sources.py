@@ -8,8 +8,8 @@ fetch_sources.py — 地缘政治信息源自动拉取脚本
   4. 输出结构化 JSON + 可读 Markdown 摘要
 
 五大议题：
-  T1 制裁与经济管制    T2 贸易与产业竞争    T3 供应链与关键资源
-  T4 技术竞争与数字治理  T5 地缘政治信息池（catch-all）
+  T1 制裁与经济管制    T2 贸易与产业政策    T3 能源安全与资源角力
+  T4 技术竞争与规则制定  T5 地缘政治信息池（catch-all）
 
 使用方式：
   python scripts/fetch_sources.py                    # 拉取全部
@@ -140,7 +140,7 @@ TOPIC_KEYWORDS = {
         ],
     },
     2: {
-        "name": "贸易与产业竞争",
+        "name": "贸易与产业政策",
         "name_en": "Trade & Industrial Competition",
         "slug": "topic2-trade-industrial",
         "keywords": [
@@ -156,7 +156,7 @@ TOPIC_KEYWORDS = {
         ],
     },
     3: {
-        "name": "供应链与关键资源",
+        "name": "能源安全与资源角力",
         "name_en": "Supply Chains & Critical Resources",
         "slug": "topic3-supply-resources",
         "keywords": [
@@ -178,7 +178,7 @@ TOPIC_KEYWORDS = {
         ],
     },
     4: {
-        "name": "技术竞争与数字治理",
+        "name": "技术竞争与规则制定",
         "name_en": "Tech Competition & Digital Governance",
         "slug": "topic4-tech-digital",
         "keywords": [

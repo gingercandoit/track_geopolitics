@@ -16,9 +16,9 @@ VIEWS_DIR = 'literature/classic/views'
 
 TOPIC_NAMES = {
     1: "制裁与经济管制 (Sanctions & Economic Coercion)",
-    2: "贸易与产业竞争 (Trade & Industrial Policy)",
-    3: "供应链与关键资源 (Supply Chains & Resources)",
-    4: "技术竞争与数字治理 (Tech Competition & Digital Governance)",
+    2: "贸易与产业政策 (Trade & Industrial Policy)",
+    3: "能源安全与资源角力 (Energy Security & Resource Contest)",
+    4: "技术竞争与规则制定 (Tech Competition & Rule-Making)",
     5: "地缘政治经济学 (Geopolitical Economy)",
 }
 

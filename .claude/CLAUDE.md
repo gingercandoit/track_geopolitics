@@ -23,9 +23,9 @@ track_geopolitics/
 │   └── rules/
 ├── data/                       # 结构化数据
 │   ├── topic1-sanctions/       # T1 制裁与经济管制
-│   ├── topic2-trade-industrial/ # T2 贸易与产业竞争
-│   ├── topic3-supply-resources/ # T3 供应链与关键资源
-│   ├── topic4-tech-digital/    # T4 技术竞争与数字治理
+│   ├── topic2-trade-industrial/ # T2 贸易与产业政策
+│   ├── topic3-supply-resources/ # T3 能源安全与资源角力
+│   ├── topic4-tech-digital/    # T4 技术竞争与规则制定
 │   ├── topic5-geopolitics/     # T5 地缘政治信息池（catch-all inbox）
 │   └── raw/                    # fetch_sources.py 原始拉取
 │       └── 2026-03/            # 按月归档
@@ -61,9 +61,9 @@ track_geopolitics/
 | # | Slug | 中文名 | 覆盖范围 |
 |---|------|--------|---------|
 | T1 | topic1-sanctions | 制裁与经济管制 | OFAC/EU制裁, SWIFT, 美元武器化, 储备多元化, 人民币/CIPS, 反制裁 |
-| T2 | topic2-trade-industrial | 贸易与产业竞争 | 关税/贸易战, 301/反倾销, 产业政策(CHIPS/IRA), WTO, CBAM |
-| T3 | topic3-supply-resources | 供应链与关键资源 | 供应链重组, 关键矿产, 能源安全, OPEC, 粮食安全 |
-| T4 | topic4-tech-digital | 技术竞争与数字治理 | BIS出口管制, 半导体/AI限制, AI治理, 数据主权 |
+| T2 | topic2-trade-industrial | 贸易与产业政策 | 关税/贸易战, 301/反倒钉, 产业政策(CHIPS/IRA), WTO, CBAM, 供应链重组 |
+| T3 | topic3-supply-resources | 能源安全与资源角力 | 关键矿产, 能源安全, OPEC, 粮食安全 |
+| T4 | topic4-tech-digital | 技术竞争与规则制定 | BIS出口管制, 半导体/AI限制, AI治理, 数据主权, 标准制定 |
 | T5 | topic5-geopolitics | 地缘政治信息池 | 不设门槛的 catch-all inbox，收录 T1-T4 未覆盖的所有地缘政治事件，供浏览发现后升级 |
 
 ### 文件命名规范
@@ -78,7 +78,7 @@ track_geopolitics/
 ### Prompt 1：信息侦察
 - 时间窗口：滚动 7 天
 - 来源分层：A层（官方政府）> B层（国际机构）> C层（智库/媒体）> D层（社区策展）
-- 五大议题：制裁与经济管制、贸易与产业竞争、供应链与关键资源、技术竞争与数字治理、地缘政治信息池（catch-all）
+- 五大议题：制裁与经济管制、贸易与产业政策、能源安全与资源角力、技术竞争与规则制定、地缘政治信息池（catch-all）
 - 产出格式：结构化 JSON + Markdown 简报
 - SOP：`.claude/rules/01_GeopoliticsWebfetchSOP.instructions.md`
 

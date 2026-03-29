@@ -246,7 +246,7 @@ site:english.news.cn + sanctions / countermeasure / anti-sanctions
 "Xinhua" + SWIFT / yuan / RMB internationalization
 ```
 
-#### Topic 2：贸易与产业竞争 (topic2-trade-industrial)
+#### Topic 2：贸易与产业政策 (topic2-trade-industrial)
 
 ```
 tariff + trade war / retaliation / Section 301
@@ -258,6 +258,8 @@ trade agreement + RCEP / CPTPP / bilateral / FTA
 carbon border adjustment / CBAM / EU + trade / climate
 "trade barrier" + investigation / countermeasure
 Section 301 / anti-dumping / countervailing duty
+supply chain + reshoring / friendshoring / nearshoring / resilience
+"global value chains" + disruption / restructuring / diversification
 ```
 
 **中方视角补充搜索**（Exa）：
@@ -268,10 +270,9 @@ site:english.mofcom.gov.cn + trade barrier / investigation / countermeasure
 "China Ministry of Commerce" + investigation / response / retaliation
 ```
 
-#### Topic 3：供应链与关键资源 (topic3-supply-resources)
+#### Topic 3：能源安全与资源角力 (topic3-supply-resources)
 
 ```
-supply chain + reshoring / friendshoring / nearshoring / resilience
 critical minerals + lithium / cobalt / rare earth / policy / supply
 OPEC + production / cut / quota / oil price
 IEA + oil / LNG / energy outlook / critical minerals
@@ -282,10 +283,9 @@ renewable energy + trade / tariffs / subsidy / solar / wind
 food security + grain / wheat / rice / export ban / supply
 agricultural trade + geopolitics / sanctions / fertilizer
 resource nationalism + export restriction / mineral / processing
-"global value chains" + disruption / restructuring / diversification
 ```
 
-#### Topic 4：技术竞争与数字治理 (topic4-tech-digital)
+#### Topic 4：技术竞争与规则制定 (topic4-tech-digital)
 
 ```
 BIS entity list / export controls + semiconductor / chip / AI

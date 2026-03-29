@@ -1,4 +1,4 @@
-# T4 技术竞争与数字治理 (Tech Competition & Digital Governance) — 阅读清单
+# T4 技术竞争与规则制定 (Tech Competition & Rule-Making) — 阅读清单
 
 > 自动生成于 2026-03-29，共 9 篇
 > 数据来源：`literature-classic.json`

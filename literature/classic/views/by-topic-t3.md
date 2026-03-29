@@ -1,4 +1,4 @@
-# T3 供应链与关键资源 (Supply Chains & Resources) — 阅读清单
+# T3 能源安全与资源角力 (Energy Security & Resource Contest) — 阅读清单
 
 > 自动生成于 2026-03-29，共 18 篇
 > 数据来源：`literature-classic.json`

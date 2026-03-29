@@ -1,4 +1,4 @@
-# T2 贸易与产业竞争 (Trade & Industrial Policy) — 阅读清单
+# T2 贸易与产业政策 (Trade & Industrial Policy) — 阅读清单
 
 > 自动生成于 2026-03-29，共 49 篇
 > 数据来源：`literature-classic.json`

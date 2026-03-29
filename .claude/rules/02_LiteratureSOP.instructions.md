@@ -107,7 +107,7 @@ description: LiteratureSOP - 地缘政治经济学文献搜集与管理标准操
 - Eswar Prasad — 人民币国际化
 - Matteo Maggiore (Stanford) — 美元体系
 
-#### T2 贸易与产业竞争
+#### T2 贸易与产业政策
 - Pablo Fajgelbaum (Princeton) — 贸易战福利分析
 - Mary Amiti (NY Fed) — 关税传导
 - Robert Staiger (Dartmouth) — 贸易协定理论
@@ -115,16 +115,16 @@ description: LiteratureSOP - 地缘政治经济学文献搜集与管理标准操
 - Dani Rodrik (Harvard) — 产业政策/全球化三难
 - Marc Melitz (Harvard) — 异质企业贸易
 - Ralph Ossa (Zurich) — 最优关税
-
-#### T3 供应链与关键资源
 - Pol Antras (Harvard) — 全球价值链理论
 - Richard Baldwin (Graduate Institute) — GVC/供应链贸易
 - Laura Alfaro (Harvard) & Davin Chor (Dartmouth) — 全球供应链重组/Looming Great Reallocation
 - Luosha Du / Chad Bown — 贸易政策+供应链
+
+#### T3 能源安全与资源角力
 - Michael Ross — 资源诅咒
 - Jim Hamilton — 石油与宏观经济
 
-#### T4 技术竞争与数字治理
+#### T4 技术竞争与规则制定
 - Daron Acemoglu (MIT) — AI/技术/制度
 - David Autor (MIT) — 技术与劳动力市场
 - Ufuk Akcigit — 创新政策
@@ -247,7 +247,7 @@ financial sanctions targeted smart
 sanctions AND "regime change" OR "policy change"
 ```
 
-#### T2 贸易与产业竞争
+#### T2 贸易与产业政策
 ```
 "trade war" welfare tariff 2018
 tariff passthrough consumer welfare
@@ -259,23 +259,23 @@ CHIPS Act semiconductor industrial policy
 "trade agreement" welfare gains
 infant industry protection
 "beggar thy neighbor" trade policy
+"global value chains" fragmentation reshoring
+"supply chain resilience" diversification
+"production networks" international trade
+friendshoring nearshoring economic effects
 ```
 
-#### T3 供应链与关键资源
+#### T3 能源安全与资源角力
 ```
-"global value chains" fragmentation reshoring
 "critical minerals" supply chain policy
 "resource curse" institutions development
 oil price shocks macroeconomic effects
 energy transition geopolitics
 OPEC market power oil
 food security trade policy
-"supply chain resilience" diversification
-"production networks" international trade
-friendshoring nearshoring economic effects
 ```
 
-#### T4 技术竞争与数字治理
+#### T4 技术竞争与规则制定
 ```
 "export controls" technology semiconductor
 "technology decoupling" US China
