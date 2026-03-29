@@ -209,7 +209,7 @@ h1, h2, h3, h4 {
 }
 .digest-grid {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   gap: 0;
 }
 .digest-item {
@@ -235,15 +235,11 @@ h1, h2, h3, h4 {
   font-size: 0.82rem;
   line-height: 1.5;
   color: #444;
-  display: -webkit-box;
-  -webkit-line-clamp: 3;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
 }
 
 @media (max-width: 1000px) {
-  .digest-grid { grid-template-columns: repeat(3, 1fr); gap: 1rem 0; }
-  .digest-item:nth-child(4) { border-left: none; padding-left: 0; }
+  .digest-grid { grid-template-columns: repeat(2, 1fr); gap: 1rem 0; }
+  .digest-item:nth-child(3) { border-left: none; padding-left: 0; }
 }
 @media (max-width: 640px) {
   .digest-grid { grid-template-columns: 1fr; gap: 0.75rem; }
@@ -305,6 +301,41 @@ h1, h2, h3, h4 {
   font-weight: 500;
 }
 .topic-entry-count::after { content: ' 条'; }
+
+/* T5 standalone entry link */
+.t5-entry-link {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin-top: 1rem;
+  padding: 0.65rem 1rem;
+  background: #F8F7F4;
+  border: 1px solid #E8E5E0;
+  border-left: 3px solid var(--topic-color, #455A64);
+  border-radius: 3px;
+  font-family: 'DM Sans', 'Noto Sans SC', sans-serif;
+  font-size: 0.85rem;
+  color: #555;
+  transition: background 0.15s, box-shadow 0.15s;
+}
+.t5-entry-link:hover {
+  background: #F0EEED;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+  color: #333;
+}
+.t5-entry-name {
+  font-weight: 600;
+  color: #1A1A1A;
+}
+.t5-entry-count {
+  color: #999;
+  font-size: 0.78rem;
+}
+.t5-entry-arrow {
+  margin-left: auto;
+  color: #BBB;
+  font-size: 1rem;
+}
 
 .topic-entry-preview {
   margin-top: 0.5rem;
@@ -548,7 +579,7 @@ h1, h2, h3, h4 {
   max-width: 720px;
 }
 .editorial-prose p {
-  margin-bottom: 1rem;
+  margin-bottom: 1.1rem;
   text-align: justify;
 }
 .editorial-prose p:last-child { margin-bottom: 0; }
@@ -560,6 +591,39 @@ h1, h2, h3, h4 {
   /* Lead-in bold acts as a drop-in subhead */
   color: #8B0000;
 }
+
+/* Overview collapsible */
+.overview-text.collapsed {
+  max-height: 12em; /* ~3 paragraphs */
+  overflow: hidden;
+  position: relative;
+}
+.overview-text.collapsed::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 4em;
+  background: linear-gradient(transparent, #FFF8F0);
+  pointer-events: none;
+}
+.overview-toggle {
+  display: inline-block;
+  margin-top: 0.5rem;
+  padding: 0.3rem 0;
+  background: none;
+  border: none;
+  font-family: 'DM Sans', 'Noto Sans SC', sans-serif;
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: #8B0000;
+  cursor: pointer;
+  letter-spacing: 0.02em;
+  transition: color 0.15s;
+}
+.overview-toggle:hover { color: #6B0000; }
+.overview-toggle.hidden { display: none; }
 
 /* Week groups */
 .week-group { margin-bottom: 2rem; }

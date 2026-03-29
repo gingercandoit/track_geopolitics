@@ -62,9 +62,9 @@ TOPICS = {
     },
     "topic5-geopolitics": {
         "id": 5,
-        "name_zh": "地缘政治信息池",
-        "name_short": "信息池",
-        "name_en": "Geopolitical Intelligence Pool",
+        "name_zh": "更多社媒资讯",
+        "name_short": "社媒",
+        "name_en": "More from Social Media",
         "slug": "topic5-geopolitics",
         "color": "#455A64",
         "icon": "globe",

@@ -51,6 +51,16 @@
     }
   };
 
+  /* ── Overview toggle (global function for inline onclick) ──── */
+  window.toggleOverview = function () {
+    var el = document.getElementById('overviewText');
+    var btn = document.getElementById('overviewToggle');
+    if (!el || !btn) return;
+    var isCollapsed = el.classList.contains('collapsed');
+    el.classList.toggle('collapsed');
+    btn.textContent = isCollapsed ? '收起 ▴' : '展开全文 ▾';
+  };
+
   /* ── Mobile nav toggle ──────────────────────────────────────── */
   var toggle = document.querySelector('.nav-toggle');
   var links = document.querySelector('.nav-links');
@@ -61,6 +71,19 @@
       toggle.textContent = isOpen ? '✕' : '☰';
       toggle.setAttribute('aria-expanded', isOpen);
     });
+  }
+
+  /* ── Overview collapse (auto-collapse if content is tall) ──── */
+  var overviewEl = document.getElementById('overviewText');
+  var overviewBtn = document.getElementById('overviewToggle');
+  if (overviewEl && overviewBtn) {
+    // If content fits in 12em (~200px), hide the button
+    var threshold = 200;
+    if (overviewEl.scrollHeight > threshold) {
+      overviewEl.classList.add('collapsed');
+    } else {
+      overviewBtn.classList.add('hidden');
+    }
   }
 
 })();

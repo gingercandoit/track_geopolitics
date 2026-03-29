@@ -118,17 +118,16 @@ def extract_first_sentence(text):
         return ""
     # Remove **bold** markers for plain text
     clean = re.sub(r'\*\*(.+?)\*\*', r'\1', text)
-    # Get first sentence (ending with 。 or .)
-    match = re.match(r'(.+?[。、])(.+?[。])?', clean)
-    if match:
-        first = match.group(1)
-        second = match.group(2) or ""
-        result = first + second
-        if len(result) > 150:
-            return first.strip()
-        return result.strip()
-    # Fallback: first 120 chars
-    return clean[:120].strip() + '…'
+    # Split by 。 to get sentences
+    sentences = [s.strip() for s in clean.split('。') if s.strip()]
+    if not sentences:
+        return clean[:120].strip() + '…'
+    first = sentences[0] + '。'
+    if len(sentences) > 1:
+        combined = first + sentences[1] + '。'
+        if len(combined) <= 200:
+            return combined
+    return first
 
 
 def compute_relative_path(from_path, to_path):
@@ -273,6 +272,7 @@ def build_site(clean=False):
             "name_zh": topic_info["name_zh"],
             "name_short": topic_info.get("name_short", ""),
             "color": topic_info["color"],
+            "compact": topic_info.get("compact", False),
             "digest": digest,
             "event_count": len(data.get("events", [])),
         })

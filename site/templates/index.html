@@ -12,16 +12,18 @@
   </div>
 </section>
 
-{# ── Monthly Digest Strip: T1–T5 一句话摘要 ── #}
+{# ── Monthly Digest Strip: T1–T4 一句话摘要 ── #}
 {% if topic_digests %}
 <section class="digest-strip">
   <div class="container">
     <div class="digest-grid">
       {% for d in topic_digests %}
+      {% if not d.compact %}
       <a href="{{ rel_to_root }}/{{ d.slug }}/{{ latest_month }}.html" class="digest-item" style="--topic-color: {{ d.color }}">
         <span class="digest-label">{{ d.name_short }}</span>
         <p class="digest-text">{{ d.digest }}</p>
       </a>
+      {% endif %}
       {% endfor %}
     </div>
   </div>
@@ -35,6 +37,7 @@
     <h2 class="section-heading">议题追踪<span class="section-heading-sub">{{ latest_month_display }}</span></h2>
     <div class="topic-cards">
       {% for tid, tinfo in topics.items() %}
+      {% if not tinfo.compact %}
       {% set tdata = topics_data.get(tid, {}) %}
       {% set events = tdata.get('events', []) %}
       {% set event_count = events | length %}
@@ -55,8 +58,22 @@
         </ul>
         {% endif %}
       </a>
+      {% endif %}
       {% endfor %}
     </div>
+    {# ── T5: 更多社媒资讯 单独入口 ── #}
+    {% for tid, tinfo in topics.items() %}
+    {% if tinfo.compact %}
+    {% set tdata = topics_data.get(tid, {}) %}
+    {% set events = tdata.get('events', []) %}
+    {% set event_count = events | length %}
+    <a href="{{ rel_to_root }}/{{ tinfo.slug }}/{{ latest_month }}.html" class="t5-entry-link" style="--topic-color: {{ tinfo.color }}">
+      <span class="t5-entry-name">{{ tinfo.name_zh }}</span>
+      <span class="t5-entry-count">{{ event_count }} 条</span>
+      <span class="t5-entry-arrow">→</span>
+    </a>
+    {% endif %}
+    {% endfor %}
   </div>
 
   <aside class="home-sidebar">

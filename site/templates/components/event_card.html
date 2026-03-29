@@ -1,6 +1,6 @@
 {% macro render_event_card(event, event_type_colors) %}
 <div class="event-card" data-type="{{ event.type }}">
-  <div class="event-card-header" onclick="this.parentElement.classList.toggle('expanded')">
+  <div class="event-card-header">
     <span class="event-date">{{ event.date[5:7] | int }}月{{ event.date[8:10] | int }}日</span>
     <span class="event-type-tag" style="background-color: {{ event_type_colors.get(event.type, '#999') }}">
       {{ event.type }}

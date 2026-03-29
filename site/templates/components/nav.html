@@ -4,6 +4,9 @@
     <a href="{{ rel_to_root }}/index.html" class="nav-brand">GRQ</a>
     <div class="nav-links">
       {% for slug, info in topics.items() %}
+      {% if info.compact %}
+      <span class="nav-divider"></span>
+      {% endif %}
       <a href="{{ rel_to_root }}/{{ slug }}/{{ latest_month }}.html"
          class="nav-link {% if slug in current_page %}active{% endif %}"
          style="--topic-color: {{ info.color }}">
