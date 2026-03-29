@@ -102,7 +102,7 @@ def format_month_display(month_str):
 
 
 def markdown_to_html(text):
-    """Convert simple markdown to HTML (paragraphs, bold, bullet lists)."""
+    """Convert simple markdown to HTML (paragraphs, bold, bullet lists, blockquotes)."""
     if not text:
         return ""
     # Convert **bold** to <strong>
@@ -114,9 +114,17 @@ def markdown_to_html(text):
         block = block.strip()
         if not block:
             continue
-        # Check if block is a bullet list (lines starting with "- ")
         lines = block.split('\n')
-        if all(line.strip().startswith('- ') for line in lines if line.strip()):
+        # Check if block is a blockquote (lines starting with "> ")
+        if all(line.strip().startswith('> ') or line.strip() == '>' for line in lines if line.strip()):
+            quote_lines = [line.strip().lstrip('>').strip() for line in lines if line.strip()]
+            html_parts.append(
+                '<blockquote class="overview-note">' +
+                ' '.join(quote_lines) +
+                '</blockquote>'
+            )
+        # Check if block is a bullet list (lines starting with "- ")
+        elif all(line.strip().startswith('- ') for line in lines if line.strip()):
             items = [line.strip()[2:].strip() for line in lines if line.strip()]
             html_parts.append(
                 '<ul class="overview-list">' +
