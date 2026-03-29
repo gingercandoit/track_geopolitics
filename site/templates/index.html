@@ -21,7 +21,11 @@
       {% if not d.compact %}
       <a href="{{ rel_to_root }}/{{ d.slug }}/{{ latest_month }}.html" class="digest-card" style="--topic-color: {{ d.color }}">
         <span class="digest-label">{{ d.name_short }}</span>
-        <p class="digest-text">{{ d.digest }}</p>
+        <div class="digest-text">
+          {% for para in d.digest.split('\n\n') %}
+          {% if para.strip() %}<p>{{ para.strip() }}</p>{% endif %}
+          {% endfor %}
+        </div>
         <span class="digest-more">阅读全部 →</span>
       </a>
       {% endif %}

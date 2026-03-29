@@ -243,6 +243,12 @@ h1, h2, h3, h4 {
   color: #333;
   flex: 1;
 }
+.digest-text p {
+  margin: 0 0 0.55rem 0;
+}
+.digest-text p:last-child {
+  margin-bottom: 0;
+}
 .digest-more {
   display: block;
   margin-top: 0.6rem;
