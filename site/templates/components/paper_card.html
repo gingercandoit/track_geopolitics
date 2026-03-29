@@ -9,6 +9,7 @@
     <span class="paper-toggle">▸</span>
   </div>
   <div class="paper-card-body">
+    <div class="paper-card-content">
     <div class="paper-authors">{{ paper.authors | join(', ') }}</div>
     {% if paper.journal %}
     <div class="paper-journal">
@@ -42,14 +43,10 @@
     </div>
     {% endif %}
     {% if show_data_method %}
-      {% if paper.data_zh %}
-      <div class="paper-data">
-        <strong>数据：</strong>{{ paper.data_zh }}
-      </div>
-      {% endif %}
-      {% if paper.method_zh %}
-      <div class="paper-method">
-        <strong>方法：</strong>{{ paper.method_zh }}
+      {% if paper.data_zh or paper.method_zh %}
+      <div class="paper-data-method">
+        {% if paper.data_zh %}<span><strong>数据：</strong>{{ paper.data_zh }}</span>{% endif %}
+        {% if paper.method_zh %}<span><strong>方法：</strong>{{ paper.method_zh }}</span>{% endif %}
       </div>
       {% endif %}
     {% endif %}
@@ -58,6 +55,7 @@
       <a href="https://doi.org/{{ paper.doi }}" target="_blank" rel="noopener">DOI: {{ paper.doi }}</a>
     </div>
     {% endif %}
+    </div>
   </div>
 </div>
 {% endmacro %}
