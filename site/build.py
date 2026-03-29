@@ -120,7 +120,7 @@ def markdown_to_html(text):
             quote_lines = [line.strip().lstrip('>').strip() for line in lines if line.strip()]
             html_parts.append(
                 '<blockquote class="overview-note">' +
-                ' '.join(quote_lines) +
+                '<br>'.join(quote_lines) +
                 '</blockquote>'
             )
         # Check if block is a bullet list (lines starting with "- ")
