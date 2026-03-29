@@ -207,15 +207,18 @@ h1, h2, h3, h4 {
   border-bottom: 1px solid #E8E5E0;
   padding: 1.75rem 0;
 }
+.digest-strip .container {
+  max-width: 1400px;
+}
 .digest-grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  gap: 1rem;
+  gap: 1.25rem;
 }
 .digest-card {
   display: flex;
   flex-direction: column;
-  padding: 1rem 1.15rem;
+  padding: 1.1rem 1.3rem;
   background: #FDFCFA;
   border: 1px solid #E8E5E0;
   border-top: 3px solid var(--topic-color, #CCC);
