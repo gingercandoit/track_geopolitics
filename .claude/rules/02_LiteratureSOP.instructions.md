@@ -16,7 +16,7 @@ description: LiteratureSOP - 地缘政治经济学文献搜集与管理标准操
 - **建设方式**：一次性建库 → 偶尔补充（发现遗漏经典时）
 - **质量线**：field top journal 发表 或 NBER Working Paper 级别
 - **规模**：每 topic 20-50 篇，总计 ~150-250 篇
-- **产出**：`file/literature/classic/` 下按 topic 分类
+- **产出**：`literature/` 下按 topic 分类
 
 ### Library B：新文献追踪库
 
@@ -27,7 +27,7 @@ description: LiteratureSOP - 地缘政治经济学文献搜集与管理标准操
   - NBER/CEPR/SSRN 新工作论文（按相关性筛选）
   - 知名领域内作者的最新挂网论文（即使非 top venue）
 - **规模**：每月新增 5-20 篇
-- **产出**：`file/literature/new/` 下按月归档
+- **产出**：`literature/` 下按月归档
 
 ---
 
@@ -396,7 +396,7 @@ international monetary system reform
 > **设计原则**：学术文献天然跨议题（一篇制裁论文可能同时涉及 T1 制裁 + T2 贸易 + T5 地缘政治），不适合像 Prompt 1 那样按 topic 独立分文件夹。因此采用**单一主数据库 + 多视图**架构。
 
 ```
-file/literature/
+literature/                             # 与 reports/ 同级
 ├── literature-classic.json         # 经典库主数据库（所有论文，单一文件）
 ├── literature-new.json             # 追踪库主数据库（所有新论文，单一文件）
 ├── views/                          # 自动生成的阅读视图（按需刷新）
@@ -448,7 +448,7 @@ file/literature/
 
 如果用户使用 Zotero：
 - 可从 JSON 数据库生成 BibTeX 文件，用户一键导入 Zotero
-- BibTeX 输出路径：`file/literature/export/literature.bib`
+- BibTeX 输出路径：`literature/export/literature.bib`
 - 生成命令：由 AI 在输出阶段自动附加
 
 ---

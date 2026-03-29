@@ -26,7 +26,7 @@ from pathlib import Path
 EMAIL = "ginger@research.edu"  # For polite pool access
 BASE_URL = "https://api.openalex.org"
 RATE_LIMIT_DELAY = 0.15  # seconds between requests (polite pool)
-OUTPUT_DIR = Path(__file__).parent.parent / "file" / "literature"
+OUTPUT_DIR = Path(__file__).parent.parent / "literature"
 
 # --- Named Authors per Topic ---
 # Format: (display_name_query, openalex_hint, topics, description)

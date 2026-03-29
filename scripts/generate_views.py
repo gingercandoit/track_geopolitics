@@ -11,8 +11,8 @@ import os
 from collections import defaultdict
 from datetime import datetime
 
-DB_PATH = 'file/literature/literature-classic.json'
-VIEWS_DIR = 'file/literature/views'
+DB_PATH = 'literature/literature-classic.json'
+VIEWS_DIR = 'literature/views'
 
 TOPIC_NAMES = {
     1: "制裁与经济管制 (Sanctions & Economic Coercion)",

@@ -15,7 +15,7 @@ chat-history/
 .learnings/
 
 # Literature PDFs (too large for git)
-file/literature/pdf/
+literature/pdf/
 
 # OS
 Thumbs.db
