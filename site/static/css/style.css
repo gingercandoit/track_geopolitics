@@ -973,33 +973,6 @@ h1, h2, h3, h4 {
 }
 .month-select:hover { border-color: #CCC; }
 
-/* ── Key metrics table ────────────────────────────────────────── */
-.key-metrics-section { margin-top: 2rem; }
-.metrics-table {
-  width: 100%;
-  border-collapse: collapse;
-  font-size: 0.88rem;
-}
-.metrics-table th,
-.metrics-table td {
-  text-align: left;
-  padding: 0.55rem 0.75rem;
-  border-bottom: 1px solid #E8E5E0;
-}
-.metrics-table th {
-  font-family: 'DM Sans', sans-serif;
-  font-weight: 600;
-  font-size: 0.8rem;
-  color: #888;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-}
-.metrics-table td:last-child {
-  font-family: 'DM Sans', sans-serif;
-  font-weight: 600;
-  color: #1A1A1A;
-}
-
 /* ── Literature page ──────────────────────────────────────────── */
 .lit-body { padding: 1.5rem 0 3rem; }
 
