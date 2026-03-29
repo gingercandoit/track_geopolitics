@@ -204,6 +204,7 @@ def build_site(clean=False):
         "source_tiers": config.SOURCE_TIERS,
         "priority_labels": config.PRIORITY_LABELS,
         "journal_tiers": config.JOURNAL_TIERS,
+        "journal_abbrev": config.JOURNAL_ABBREV,
         "all_months": all_months,
         "latest_month": latest_month,
     }
@@ -348,8 +349,10 @@ def build_site(clean=False):
     new_papers_list = lit_new_data.get("papers", [])
     for p in classic_papers:
         p["_library"] = "classic"
+        p["journal_display"] = config.JOURNAL_ABBREV.get(p.get("journal", ""), p.get("journal", ""))
     for p in new_papers_list:
         p["_library"] = "new"
+        p["journal_display"] = config.JOURNAL_ABBREV.get(p.get("journal", ""), p.get("journal", ""))
     all_papers = classic_papers + new_papers_list
     # Sort by year descending
     all_papers.sort(key=lambda p: p.get("year", 0), reverse=True)

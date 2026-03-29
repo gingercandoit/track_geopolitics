@@ -2,8 +2,8 @@
 <div class="paper-card" data-topics="{{ paper.topics | join(',') }}" data-priority="{{ paper.priority }}">
   <div class="paper-card-header">
     <span class="paper-year">{{ paper.year }}</span>
-    {% if paper.journal_tier %}
-    <span class="paper-tier-tag">{{ paper.journal_tier }}</span>
+    {% if paper.journal %}
+    <span class="paper-tier-tag">{{ paper.journal_display or paper.journal }}</span>
     {% endif %}
     <span class="paper-title">{{ paper.title }}</span>
     <span class="paper-toggle">▸</span>
@@ -22,14 +22,19 @@
     {% endif %}
     {% if paper.topics %}
     <div class="paper-topics">
-      {% for t in paper.topics %}
-        {% set tslug = 'topic' ~ t ~ '-' %}
-        {% for slug, info in topics.items() %}
-          {% if slug.startswith(tslug) or ('topic' ~ t) == slug[:6] %}
-          <span class="topic-tag" style="border-color: {{ info.color }}; color: {{ info.color }}">{{ info.name_short }}</span>
-          {% endif %}
+      {% set non5_topics = paper.topics | reject("equalto", 5) | list %}
+      {% if non5_topics %}
+        {% for t in non5_topics %}
+          {% set tslug = 'topic' ~ t ~ '-' %}
+          {% for slug, info in topics.items() %}
+            {% if slug.startswith(tslug) %}
+            <span class="topic-tag" style="border-color: {{ info.color }}; color: {{ info.color }}">{{ info.name_short }}</span>
+            {% endif %}
+          {% endfor %}
         {% endfor %}
-      {% endfor %}
+      {% elif 5 in paper.topics %}
+        <span class="topic-tag" style="border-color: #888; color: #888">地缘政治</span>
+      {% endif %}
     </div>
     {% endif %}
     {% if paper.abstract %}
