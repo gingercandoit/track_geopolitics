@@ -1,29 +1,11 @@
 # T1 制裁与经济管制 (Sanctions & Economic Coercion) — 阅读清单
 
-> 自动生成于 2026-03-29，共 43 篇
+> 自动生成于 2026-03-29，共 29 篇
 > 数据来源：`literature-classic.json`
 
 ---
 
-## T1 — General Top 5 + Finance Top (15 篇)
-
-### Stefano Giglio, Matteo Maggiori, K. H. Rao et al. (2021) — Climate Change and Long-Run Discount Rates: Evidence from Real Estate
-- **期刊**：Review of Financial Studies [T1]
-- **引用**：376
-- **优先级**：recommended
-- **议题**：T1
-- **DOI**：[10.1093/rfs/hhab032](https://doi.org/10.1093/rfs/hhab032)
-
----
-
-### Sean Foley, Jonathan R. Karlsen, Tālis J. Putniņš (2019) — Sex, Drugs, and Bitcoin: How Much Illegal Activity Is Financed through Cryptocurrencies?
-- **期刊**：Review of Financial Studies [T1]
-- **引用**：856
-- **优先级**：core
-- **议题**：T1
-- **DOI**：[10.1093/rfs/hhz015](https://doi.org/10.1093/rfs/hhz015)
-
----
+## T1 — General Top 5 + Finance Top (9 篇)
 
 ### Matteo Maggiori, Brent Neiman, Jesse Schreger (2019) — International Currencies and Capital Allocation
 - **期刊**：Journal of Political Economy [T1]
@@ -61,24 +43,6 @@
 
 ---
 
-### William D. Nordhaus (2015) — Climate Clubs: Overcoming Free-riding in International Climate Policy
-- **期刊**：American Economic Review [T1]
-- **引用**：1295
-- **优先级**：core
-- **议题**：T1
-- **DOI**：[10.1257/aer.15000001](https://doi.org/10.1257/aer.15000001)
-
----
-
-### Eric Budish, Peter Cramton, John J. Shim (2015) — The High-Frequency Trading Arms Race: Frequent Batch Auctions as a Market Design Response *
-- **期刊**：The Quarterly Journal of Economics [T1]
-- **引用**：853
-- **优先级**：core
-- **议题**：T1
-- **DOI**：[10.1093/qje/qjv027](https://doi.org/10.1093/qje/qjv027)
-
----
-
 ### Xavier Gabaix, Matteo Maggiori (2015) — International Liquidity and Exchange Rate Dynamics*
 - **期刊**：The Quarterly Journal of Economics [T1]
 - **引用**：811
@@ -94,24 +58,6 @@
 - **优先级**：core
 - **议题**：T1, T2
 - **DOI**：[10.1257/aer.104.7.1942](https://doi.org/10.1257/aer.104.7.1942)
-
----
-
-### Martin Lettau, Matteo Maggiori, Michael Weber (2014) — Conditional risk premia in currency markets and other asset classes
-- **期刊**：Journal of Financial Economics [T1]
-- **引用**：418
-- **优先级**：recommended
-- **议题**：T1
-- **DOI**：[10.1016/j.jfineco.2014.07.001](https://doi.org/10.1016/j.jfineco.2014.07.001)
-
----
-
-### Stefano Giglio, Matteo Maggiori, Johannes Stroebel (2014) — Very Long-Run Discount Rates *
-- **期刊**：The Quarterly Journal of Economics [T1]
-- **引用**：233
-- **优先级**：recommended
-- **议题**：T1
-- **DOI**：[10.1093/qje/qju036](https://doi.org/10.1093/qje/qju036)
 
 ---
 
@@ -142,7 +88,7 @@
 
 ---
 
-## T2 — Field Top Journals (9 篇)
+## T2 — Field Top Journals (6 篇)
 
 ### Ilias Alami, Carolina Alves, Bruno Bonizzi et al. (2022) — International financial subordination: a critical research agenda
 - **期刊**：Review of International Political Economy [T2]
@@ -150,15 +96,6 @@
 - **优先级**：recommended
 - **议题**：T1, T5
 - **DOI**：[10.1080/09692290.2022.2098359](https://doi.org/10.1080/09692290.2022.2098359)
-
----
-
-### Francine D. Blau, Lawrence M. Kahn (2017) — The Gender Wage Gap: Extent, Trends, and Explanations
-- **期刊**：Journal of Economic Literature [T2]
-- **引用**：2799
-- **优先级**：core
-- **议题**：T1, T2
-- **DOI**：[10.1257/jel.20160995](https://doi.org/10.1257/jel.20160995)
 
 ---
 
@@ -180,30 +117,12 @@
 
 ---
 
-### Marion Fourcade, Étienne Ollion, Yann Algan (2015) — The Superiority of Economists
-- **期刊**：The Journal of Economic Perspectives [T2]
-- **引用**：675
-- **优先级**：core
-- **议题**：T1
-- **DOI**：[10.1257/jep.29.1.89](https://doi.org/10.1257/jep.29.1.89)
-
----
-
 ### Marcos Chamon, Kai Liu, Eswar Prasad (2013) — Income uncertainty and household savings in China
 - **期刊**：Journal of Development Economics [T2]
 - **引用**：271
 - **优先级**：recommended
 - **议题**：T1
 - **DOI**：[10.1016/j.jdeveco.2013.07.014](https://doi.org/10.1016/j.jdeveco.2013.07.014)
-
----
-
-### Markus Kitzmueller, Jay P. Shimshack (2012) — Economic Perspectives on Corporate Social Responsibility
-- **期刊**：Journal of Economic Literature [T2]
-- **引用**：1098
-- **优先级**：core
-- **议题**：T1
-- **DOI**：[10.1257/jel.50.1.51](https://doi.org/10.1257/jel.50.1.51)
 
 ---
 
@@ -225,7 +144,7 @@
 
 ---
 
-## T3 — Political Science / IR Top (10 篇)
+## T3 — Political Science / IR Top (7 篇)
 
 ### Henry Farrell, Abraham L. Newman (2019) — Weaponized Interdependence: How Global Economic Networks Shape State Coercion
 - **期刊**：International Security [T3]
@@ -272,15 +191,6 @@
 
 ---
 
-### Rosaleen Duffy (2014) — Waging a war to save biodiversity: the rise of militarized conservation
-- **期刊**：International Affairs [T3]
-- **引用**：373
-- **优先级**：recommended
-- **议题**：T1
-- **DOI**：[10.1111/1468-2346.12142](https://doi.org/10.1111/1468-2346.12142)
-
----
-
 ### Steven Liao, Daniel McDowell (2014) — Redback Rising: China's Bilateral Swap Agreements and Renminbi Internationalization
 - **期刊**：International Studies Quarterly [T3]
 - **引用**：143
@@ -290,30 +200,12 @@
 
 ---
 
-### Dursun Peksen, Timothy M. Peterson, A. Cooper Drury (2014) — Media-driven Humanitarianism? News Media Coverage of Human Rights Abuses and the Use of Economic Sanctions
-- **期刊**：International Studies Quarterly [T3]
-- **引用**：104
-- **优先级**：recommended
-- **议题**：T1
-- **DOI**：[10.1111/isqu.12136](https://doi.org/10.1111/isqu.12136)
-
----
-
 ### Amanda Murdie, Dursun Peksen (2012) — The impact of human rights INGO activities on economic sanctions
 - **期刊**：The Review of International Organizations [T3]
 - **引用**：111
 - **优先级**：recommended
 - **议题**：T1
 - **DOI**：[10.1007/s11558-012-9146-9](https://doi.org/10.1007/s11558-012-9146-9)
-
----
-
-### Eric Lawrence, John Sides, Henry Farrell (2010) — Self-Segregation or Deliberation? Blog Readership, Participation, and Polarization in American Politics
-- **期刊**：Perspectives on Politics [T3]
-- **引用**：350
-- **优先级**：recommended
-- **议题**：T1, T5
-- **DOI**：[10.1017/s1537592709992714](https://doi.org/10.1017/s1537592709992714)
 
 ---
 
@@ -355,16 +247,7 @@
 
 ---
 
-## other — Other Venues (5 篇)
-
-### Hanane Allioui, Youssef Mourdi (2023) — Exploring the Full Potentials of IoT for Better Financial Growth and Stability: A Comprehensive Survey
-- **期刊**：Sensors [other]
-- **引用**：487
-- **优先级**：recommended
-- **议题**：T1
-- **DOI**：[10.3390/s23198015](https://doi.org/10.3390/s23198015)
-
----
+## other — Other Venues (3 篇)
 
 ### Huw Roberts, Josh Cowls, Jessica Morley et al. (2020) — The Chinese approach to artificial intelligence: an analysis of policy, ethics, and regulation
 - **期刊**：AI & Society [other]
@@ -372,15 +255,6 @@
 - **优先级**：recommended
 - **议题**：T1, T4, T5
 - **DOI**：[10.1007/s00146-020-00992-2](https://doi.org/10.1007/s00146-020-00992-2)
-
----
-
-### Shaen Corbet, Brian M. Lucey, Andrew Urquhart et al. (2018) — RETRACTED: Cryptocurrencies as a financial asset: A systematic analysis
-- **期刊**：International Review of Financial Analysis [other]
-- **引用**：1112
-- **优先级**：core
-- **议题**：T1, T4
-- **DOI**：[10.1016/j.irfa.2018.09.003](https://doi.org/10.1016/j.irfa.2018.09.003)
 
 ---
 

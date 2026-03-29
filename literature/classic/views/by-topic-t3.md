@@ -1,20 +1,11 @@
 # T3 供应链与关键资源 (Supply Chains & Resources) — 阅读清单
 
-> 自动生成于 2026-03-29，共 48 篇
+> 自动生成于 2026-03-29，共 36 篇
 > 数据来源：`literature-classic.json`
 
 ---
 
-## T1 — General Top 5 + Finance Top (8 篇)
-
-### David Autor, David Dorn, Lawrence F. Katz et al. (2020) — The Fall of the Labor Share and the Rise of Superstar Firms*
-- **期刊**：The Quarterly Journal of Economics [T1]
-- **引用**：2001
-- **优先级**：core
-- **议题**：T3, T4
-- **DOI**：[10.1093/qje/qjaa004](https://doi.org/10.1093/qje/qjaa004)
-
----
+## T1 — General Top 5 + Finance Top (7 篇)
 
 ### Pol Antràs, Alonso de Gortari (2020) — On the Geography of Global Value Chains
 - **期刊**：Econometrica [T1]
@@ -79,7 +70,7 @@
 
 ---
 
-## T2 — Field Top Journals (16 篇)
+## T2 — Field Top Journals (15 篇)
 
 ### Davin Chor, Kalina Manova, Zhihong Yu (2021) — Growing like China: Firm performance and global production line position
 - **期刊**：Journal of International Economics [T2]
@@ -180,15 +171,6 @@
 
 ---
 
-### Philip Oreopoulos, Till von Wachter, Andrew Heisz (2012) — The Short- and Long-Term Career Effects of Graduating in a Recession
-- **期刊**：American Economic Journal Applied Economics [T2]
-- **引用**：1252
-- **优先级**：core
-- **议题**：T3, T4
-- **DOI**：[10.1257/app.4.1.1](https://doi.org/10.1257/app.4.1.1)
-
----
-
 ### Lutz Kilian, Daniel Murphy (2012) — WHY AGNOSTIC SIGN RESTRICTIONS ARE NOT ENOUGH: UNDERSTANDING THE DYNAMICS OF OIL MARKET VAR MODELS
 - **期刊**：Journal of the European Economic Association [T2]
 - **引用**：529
@@ -225,7 +207,7 @@
 
 ---
 
-## WP — Working Papers (NBER/CEPR/IMF/WB) (7 篇)
+## WP — Working Papers (NBER/CEPR/IMF/WB) (6 篇)
 
 ### Keith Head, Thierry Mayer, Marc Melitz et al. (2026) — Industrial Policies for Multi-Stage Production: The Battle for Battery-Powered Vehicles
 - **期刊**：National Bureau of Economic Research [WP]
@@ -242,15 +224,6 @@
 - **优先级**：recommended
 - **议题**：T3, T5
 - **DOI**：[10.3386/w31661](https://doi.org/10.3386/w31661)
-
----
-
-### Laura Alfaro, Anusha Chari, Andrew Greenland et al. (2020) — Aggregate and Firm-Level Stock Returns During Pandemics, in Real Time
-- **期刊**：National Bureau of Economic Research [WP]
-- **引用**：420
-- **优先级**：recommended
-- **议题**：T3
-- **DOI**：[10.3386/w26950](https://doi.org/10.3386/w26950)
 
 ---
 
@@ -290,7 +263,7 @@
 
 ---
 
-## other — Other Venues (17 篇)
+## other — Other Venues (8 篇)
 
 ### Richard Baldwin (2025) — Global supply chains : why they emerged, why they matter, and where they are going
 - **期刊**：Graduate Institute Geneva Institutional Repository (Graduate Institute of International and Development Studies) [other]
@@ -298,15 +271,6 @@
 - **优先级**：recommended
 - **议题**：T3, T5
 - **DOI**：[10.71609/iheid-2ykv-0p36](https://doi.org/10.71609/iheid-2ykv-0p36)
-
----
-
-### Douglas R. MacFarlane, Pavel V. Cherepanov, Jaecheol Choi et al. (2020) — A Roadmap to the Ammonia Economy
-- **期刊**：Joule [other]
-- **引用**：1694
-- **优先级**：core
-- **议题**：T3
-- **DOI**：[10.1016/j.joule.2020.04.004](https://doi.org/10.1016/j.joule.2020.04.004)
 
 ---
 
@@ -337,66 +301,12 @@
 
 ---
 
-### Andreas Hein, Maximilian Schreieck, Tobias Riasanow et al. (2019) — Digital platform ecosystems
-- **期刊**：Electronic Markets [other]
-- **引用**：790
-- **优先级**：core
-- **议题**：T3, T4
-- **DOI**：[10.1007/s12525-019-00377-4](https://doi.org/10.1007/s12525-019-00377-4)
-
----
-
 ### Olga Petricević, David J. Teece (2019) — The structural reshaping of globalization: Implications for strategic sectors, profiting from innovation, and the multinational enterprise
 - **期刊**：Journal of International Business Studies [other]
 - **引用**：444
 - **优先级**：recommended
 - **议题**：T2, T3
 - **DOI**：[10.1057/s41267-019-00269-x](https://doi.org/10.1057/s41267-019-00269-x)
-
----
-
-### Tamee R. Albrecht, Arica Crootof, Christopher A. Scott (2018) — The Water-Energy-Food Nexus: A systematic review of methods for nexus assessment
-- **期刊**：Environmental Research Letters [other]
-- **引用**：842
-- **优先级**：core
-- **议题**：T3, T5
-- **DOI**：[10.1088/1748-9326/aaa9c6](https://doi.org/10.1088/1748-9326/aaa9c6)
-
----
-
-### Giorgos Kallis, Vasilis Kostakis, Steffen Lange et al. (2018) — Research On Degrowth
-- **期刊**：Annual Review of Environment and Resources [other]
-- **引用**：612
-- **优先级**：core
-- **议题**：T3, T5
-- **DOI**：[10.1146/annurev-environ-102017-025941](https://doi.org/10.1146/annurev-environ-102017-025941)
-
----
-
-### Benjamin K. Sovacool, Matthew J. Burke, Lucy Baker et al. (2017) — New frontiers and conceptual frameworks for energy justice
-- **期刊**：Energy Policy [other]
-- **引用**：723
-- **优先级**：core
-- **议题**：T3
-- **DOI**：[10.1016/j.enpol.2017.03.005](https://doi.org/10.1016/j.enpol.2017.03.005)
-
----
-
-### Mattias Borg Rasmussen, Christian Lund (2017) — Reconfiguring Frontier Spaces: The territorialization of resource control
-- **期刊**：World Development [other]
-- **引用**：502
-- **优先级**：core
-- **议题**：T3
-- **DOI**：[10.1016/j.worlddev.2017.01.018](https://doi.org/10.1016/j.worlddev.2017.01.018)
-
----
-
-### Heather Davis, Étienne Turpin (2015) — Art in the Anthropocene: Encounters Among Aesthetics, Politics, Environments and Epistemologies
-- **期刊**：Open Humanities Press eBooks [other]
-- **引用**：617
-- **优先级**：core
-- **议题**：T3
-- **DOI**：[10.26530/oapen_560010](https://doi.org/10.26530/oapen_560010)
 
 ---
 
@@ -415,24 +325,6 @@
 - **优先级**：core
 - **议题**：T3
 - **DOI**：[10.1002/jae.2322](https://doi.org/10.1002/jae.2322)
-
----
-
-### Pierluigi Mancarella (2013) — MES (multi-energy systems): An overview of concepts and evaluation models
-- **期刊**：Energy [other]
-- **引用**：1347
-- **优先级**：core
-- **议题**：T3
-- **DOI**：[10.1016/j.energy.2013.10.041](https://doi.org/10.1016/j.energy.2013.10.041)
-
----
-
-### Bekele Shiferaw, B. M. Prasanna, Jon Hellin et al. (2011) — Crops that feed the world 6. Past successes and future challenges to the role played by maize in global food security
-- **期刊**：Food Security [other]
-- **引用**：1532
-- **优先级**：core
-- **议题**：T3
-- **DOI**：[10.1007/s12571-011-0140-5](https://doi.org/10.1007/s12571-011-0140-5)
 
 ---
 

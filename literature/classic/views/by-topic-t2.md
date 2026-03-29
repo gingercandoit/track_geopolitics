@@ -1,11 +1,11 @@
 # T2 贸易与产业竞争 (Trade & Industrial Policy) — 阅读清单
 
-> 自动生成于 2026-03-29，共 64 篇
+> 自动生成于 2026-03-29，共 58 篇
 > 数据来源：`literature-classic.json`
 
 ---
 
-## T1 — General Top 5 + Finance Top (23 篇)
+## T1 — General Top 5 + Finance Top (21 篇)
 
 ### Pablo Fajgelbaum, Pinelopi Goldberg, Patrick Kennedy et al. (2024) — The US-China Trade War and Global Reallocations
 - **期刊**：American Economic Review Insights [T1]
@@ -13,15 +13,6 @@
 - **优先级**：reference
 - **议题**：T2
 - **DOI**：[10.1257/aeri.20230094](https://doi.org/10.1257/aeri.20230094)
-
----
-
-### Pierre Bachas, Lucie Gadenne, Anders Jensen (2023) — Informality, Consumption Taxes, and Redistribution
-- **期刊**：The Review of Economic Studies [T1]
-- **引用**：176
-- **优先级**：recommended
-- **议题**：T2
-- **DOI**：[10.1093/restud/rdad095](https://doi.org/10.1093/restud/rdad095)
 
 ---
 
@@ -103,15 +94,6 @@
 - **优先级**：recommended
 - **议题**：T2
 - **DOI**：[10.1093/qje/qjw013](https://doi.org/10.1093/qje/qjw013)
-
----
-
-### Alberto Cavallo (2016) — Are Online and Offline Prices Similar? Evidence from Large Multi-Channel Retailers
-- **期刊**：American Economic Review [T1]
-- **引用**：327
-- **优先级**：recommended
-- **议题**：T2
-- **DOI**：[10.1257/aer.20160542](https://doi.org/10.1257/aer.20160542)
 
 ---
 
@@ -214,16 +196,7 @@
 
 ---
 
-## T2 — Field Top Journals (24 篇)
-
-### Olivier Blanchard, Christian Gollier, Jean Tirole (2023) — The Portfolio of Economic Policies Needed to Fight Climate Change
-- **期刊**：Annual Review of Economics [T2]
-- **引用**：93
-- **优先级**：reference
-- **议题**：T2
-- **DOI**：[10.1146/annurev-economics-051520-015113](https://doi.org/10.1146/annurev-economics-051520-015113)
-
----
+## T2 — Field Top Journals (21 篇)
 
 ### Pablo Fajgelbaum, Amit Khandelwal (2022) — The Economic Impacts of the US–China Trade War
 - **期刊**：Annual Review of Economics [T2]
@@ -285,15 +258,6 @@
 - **优先级**：recommended
 - **议题**：T2
 - **DOI**：[10.1257/jep.32.2.73](https://doi.org/10.1257/jep.32.2.73)
-
----
-
-### Francine D. Blau, Lawrence M. Kahn (2017) — The Gender Wage Gap: Extent, Trends, and Explanations
-- **期刊**：Journal of Economic Literature [T2]
-- **引用**：2799
-- **优先级**：core
-- **议题**：T1, T2
-- **DOI**：[10.1257/jel.20160995](https://doi.org/10.1257/jel.20160995)
 
 ---
 
@@ -384,15 +348,6 @@
 - **优先级**：reference
 - **议题**：T2
 - **DOI**：[10.1016/j.jdeveco.2012.02.004](https://doi.org/10.1016/j.jdeveco.2012.02.004)
-
----
-
-### Uri Gneezy, Stephan Meier, Pedro Rey‐Biel (2011) — When and Why Incentives (Don't) Work to Modify Behavior
-- **期刊**：The Journal of Economic Perspectives [T2]
-- **引用**：1709
-- **优先级**：core
-- **议题**：T2
-- **DOI**：[10.1257/jep.25.4.191](https://doi.org/10.1257/jep.25.4.191)
 
 ---
 
@@ -535,7 +490,7 @@
 
 ---
 
-## other — Other Venues (6 篇)
+## other — Other Venues (5 篇)
 
 ### Ha‐Joon Chang, Antonio Andreoni (2020) — Industrial Policy in the 21st Century
 - **期刊**：Development and Change [other]
@@ -570,15 +525,6 @@
 - **优先级**：core
 - **议题**：T2, T5
 - **DOI**：[10.1057/s42214-018-0001-4](https://doi.org/10.1057/s42214-018-0001-4)
-
----
-
-### Vikas Soekhai, Esther W. de Bekker‐Grob, Alan R. Ellis et al. (2018) — Discrete Choice Experiments in Health Economics: Past, Present and Future
-- **期刊**：PharmacoEconomics [other]
-- **引用**：790
-- **优先级**：core
-- **议题**：T2
-- **DOI**：[10.1007/s40273-018-0734-2](https://doi.org/10.1007/s40273-018-0734-2)
 
 ---
 

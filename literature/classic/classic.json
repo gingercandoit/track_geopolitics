@@ -2,7 +2,7 @@
   "metadata": {
     "library": "classic",
     "last_updated": "2026-03-29",
-    "total_papers": 217,
+    "total_papers": 159,
     "topic_counts": {
       "1": 108,
       "2": 141,
@@ -62,40 +62,6 @@
       "read_status": "unread"
     },
     {
-      "id": "bachas_etal_2023",
-      "title": "Informality, Consumption Taxes, and Redistribution",
-      "authors": [
-        "Pierre Bachas",
-        "Lucie Gadenne",
-        "Anders Jensen"
-      ],
-      "year": 2023,
-      "journal": "The Review of Economic Studies",
-      "journal_tier": "T1",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1093/restud/rdad095",
-      "url": "https://doi.org/10.1093/restud/rdad095",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "Abstract Can taxes on consumption redistribute in developing countries? Contrary to consensus, we show that taxing consumption is progressive once we account for informal consumption. Using household expenditure surveys in 32 countries, we proxy for informal consumption using the type of store where purchases occur. We establish that the budget share spent in informal stores steeply declines with income, so that richer households pay a substantially larger share of their income in taxes. Our fin",
-      "jel_codes": [],
-      "topics": [
-        2
-      ],
-      "topic_relevance": {
-        "2": ""
-      },
-      "priority": "recommended",
-      "citations": 176,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
       "id": "fajgelbaum_redding_2022",
       "title": "Trade, Structural Transformation, and Development: Evidence from Argentina 1869–1914",
       "authors": [
@@ -123,42 +89,6 @@
       },
       "priority": "recommended",
       "citations": 108,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "giglio_etal_2021",
-      "title": "Climate Change and Long-Run Discount Rates: Evidence from Real Estate",
-      "authors": [
-        "Stefano Giglio",
-        "Matteo Maggiori",
-        "K. H. Rao",
-        "Johannes Stroebel",
-        "Andreas Weber"
-      ],
-      "year": 2021,
-      "journal": "Review of Financial Studies",
-      "journal_tier": "T1",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1093/rfs/hhab032",
-      "url": "https://doi.org/10.1093/rfs/hhab032",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "Abstract We show that housing markets provide information about the appropriate discount rates for valuing investments in climate change abatement. Real estate is exposed to both consumption and climate risk and its term structure of discount rates is downward sloping, reaching 2.6% for payoffs beyond 100 years. We use a tractable asset pricing model that incorporates features of climate change to show that the term structure of discount rates for climate-hedging investments is thus upward slopi",
-      "jel_codes": [],
-      "topics": [
-        1
-      ],
-      "topic_relevance": {
-        "1": ""
-      },
-      "priority": "recommended",
-      "citations": 376,
       "tags": [],
       "notes_zh": "",
       "added_date": "2026-03-29",
@@ -194,44 +124,6 @@
       },
       "priority": "recommended",
       "citations": 197,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "autor_etal_2020",
-      "title": "The Fall of the Labor Share and the Rise of Superstar Firms*",
-      "authors": [
-        "David Autor",
-        "David Dorn",
-        "Lawrence F. Katz",
-        "Christina Patterson",
-        "John Van Reenen"
-      ],
-      "year": 2020,
-      "journal": "The Quarterly Journal of Economics",
-      "journal_tier": "T1",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1093/qje/qjaa004",
-      "url": "https://doi.org/10.1093/qje/qjaa004",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "Abstract The fall of labor’s share of GDP in the United States and many other countries in recent decades is well documented but its causes remain uncertain. Existing empirical assessments typically rely on industry or macro data, obscuring heterogeneity among firms. In this article, we analyze micro panel data from the U.S. Economic Census since 1982 and document empirical patterns to assess a new interpretation of the fall in the labor share based on the rise of “superstar firms.” If globaliza",
-      "jel_codes": [],
-      "topics": [
-        3,
-        4
-      ],
-      "topic_relevance": {
-        "3": "",
-        "4": ""
-      },
-      "priority": "core",
-      "citations": 2001,
       "tags": [],
       "notes_zh": "",
       "added_date": "2026-03-29",
@@ -376,40 +268,6 @@
       "read_status": "unread"
     },
     {
-      "id": "foley_etal_2019",
-      "title": "Sex, Drugs, and Bitcoin: How Much Illegal Activity Is Financed through Cryptocurrencies?",
-      "authors": [
-        "Sean Foley",
-        "Jonathan R. Karlsen",
-        "Tālis J. Putniņš"
-      ],
-      "year": 2019,
-      "journal": "Review of Financial Studies",
-      "journal_tier": "T1",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1093/rfs/hhz015",
-      "url": "https://doi.org/10.1093/rfs/hhz015",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "Cryptocurrencies are among the largest unregulated markets in the world. We find that approximately one-quarter of bitcoin users are involved in illegal activity. We estimate that around $76 billion of illegal activity per year involve bitcoin (46% of bitcoin transactions), which is close to the scale of the U.S. and European markets for illegal drugs. The illegal share of bitcoin activity declines with mainstream interest in bitcoin and with the emergence of more opaque cryptocurrencies. The te",
-      "jel_codes": [],
-      "topics": [
-        1
-      ],
-      "topic_relevance": {
-        "1": ""
-      },
-      "priority": "core",
-      "citations": 856,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
       "id": "fajgelbaum_etal_2019",
       "title": "The Return to Protectionism*",
       "authors": [
@@ -439,40 +297,6 @@
       },
       "priority": "core",
       "citations": 774,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "alstadster_etal_2019",
-      "title": "Tax Evasion and Inequality",
-      "authors": [
-        "Annette Alstadsæter",
-        "Niels Johannesen",
-        "Gabriel Zucman"
-      ],
-      "year": 2019,
-      "journal": "American Economic Review",
-      "journal_tier": "T1",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1257/aer.20172043",
-      "url": "https://doi.org/10.1257/aer.20172043",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "Drawing on a unique dataset of leaked customer lists from offshore financial institutions matched to administrative wealth records in Scandinavia, we show that offshore tax evasion is highly concentrated among the rich. The skewed distribution of offshore wealth implies high rates of tax evasion at the top: we find that the 0.01 percent richest households evade about 25 percent of their taxes. By contrast, tax evasion detected in stratified random tax audits is less than 5 percent throughout the",
-      "jel_codes": [],
-      "topics": [
-        5
-      ],
-      "topic_relevance": {
-        "5": ""
-      },
-      "priority": "core",
-      "citations": 553,
       "tags": [],
       "notes_zh": "",
       "added_date": "2026-03-29",
@@ -651,38 +475,6 @@
       "read_status": "unread"
     },
     {
-      "id": "donaldson_2018",
-      "title": "Railroads of the Raj: Estimating the Impact of Transportation Infrastructure",
-      "authors": [
-        "Dave Donaldson"
-      ],
-      "year": 2018,
-      "journal": "American Economic Review",
-      "journal_tier": "T1",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1257/aer.20101199",
-      "url": "https://doi.org/10.1257/aer.20101199",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "How large are the benefits of transportation infrastructure projects, and what explains these benefits? This paper uses archival data from colonial India to investigate the impact of India's vast railroad network. Guided by four results from a general equilibrium trade model, I find that railroads: (1) decreased trade costs and interregional price gaps; (2) increased interregional and international trade; (3) increased real income levels; and (4) that a sufficient statistic for the effect of rai",
-      "jel_codes": [],
-      "topics": [
-        5
-      ],
-      "topic_relevance": {
-        "5": ""
-      },
-      "priority": "core",
-      "citations": 1487,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
       "id": "acemolu_etal_2018",
       "title": "Innovation, Reallocation, and Growth",
       "authors": [
@@ -822,40 +614,6 @@
       "read_status": "unread"
     },
     {
-      "id": "piketty_etal_2017",
-      "title": "Distributional National Accounts: Methods and Estimates for the United States*",
-      "authors": [
-        "Thomas Piketty",
-        "Emmanuel Saez",
-        "Gabriel Zucman"
-      ],
-      "year": 2017,
-      "journal": "The Quarterly Journal of Economics",
-      "journal_tier": "T1",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1093/qje/qjx043",
-      "url": "https://doi.org/10.1093/qje/qjx043",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "International audience",
-      "jel_codes": [],
-      "topics": [
-        5
-      ],
-      "topic_relevance": {
-        "5": ""
-      },
-      "priority": "core",
-      "citations": 1063,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
       "id": "maggiori_2017",
       "title": "Financial Intermediation, International Risk Sharing, and Reserve Currencies",
       "authors": [
@@ -916,39 +674,6 @@
       },
       "priority": "recommended",
       "citations": 369,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "amiti_weinstein_2017",
-      "title": "How Much Do Idiosyncratic Bank Shocks Affect Investment? Evidence from Matched Bank-Firm Loan Data",
-      "authors": [
-        "Mary Amiti",
-        "David E. Weinstein"
-      ],
-      "year": 2017,
-      "journal": "Journal of Political Economy",
-      "journal_tier": "T1",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1086/696272",
-      "url": "https://doi.org/10.1086/696272",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "We show that supply-side financial shocks have a large impact on firms’ investment. We develop a new methodology to separate firm borrowing shocks from bank supply shocks using a vast sample of matched bank-firm lending data. We decompose aggregate loan movements in Japan for the period 1990–2010 into bank, firm, industry, and common shocks. The high degree of financial institution concentration means that individual banks are large relative to the size of the economy, which creates a role for g",
-      "jel_codes": [],
-      "topics": [
-        5
-      ],
-      "topic_relevance": {
-        "5": ""
-      },
-      "priority": "recommended",
-      "citations": 356,
       "tags": [],
       "notes_zh": "",
       "added_date": "2026-03-29",
@@ -1160,38 +885,6 @@
       "read_status": "unread"
     },
     {
-      "id": "cavallo_2016",
-      "title": "Are Online and Offline Prices Similar? Evidence from Large Multi-Channel Retailers",
-      "authors": [
-        "Alberto Cavallo"
-      ],
-      "year": 2016,
-      "journal": "American Economic Review",
-      "journal_tier": "T1",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1257/aer.20160542",
-      "url": "https://doi.org/10.1257/aer.20160542",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "Online prices are increasingly used for measurement and research applications, yet little is known about their relation to prices collected offline, where most retail transactions take place. I conduct the first large-scale comparison of prices simultaneously collected from the websites and physical stores of 56 large multi-channel retailers in 10 countries. I find that price levels are identical about 72 percent of the time. Price changes are not synchronized but have similar frequencies and av",
-      "jel_codes": [],
-      "topics": [
-        2
-      ],
-      "topic_relevance": {
-        "2": ""
-      },
-      "priority": "recommended",
-      "citations": 327,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
       "id": "feenstra_etal_2015",
       "title": "The Next Generation of the Penn World Table",
       "authors": [
@@ -1222,107 +915,6 @@
       },
       "priority": "core",
       "citations": 4640,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "nordhaus_2015",
-      "title": "Climate Clubs: Overcoming Free-riding in International Climate Policy",
-      "authors": [
-        "William D. Nordhaus"
-      ],
-      "year": 2015,
-      "journal": "American Economic Review",
-      "journal_tier": "T1",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1257/aer.15000001",
-      "url": "https://doi.org/10.1257/aer.15000001",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "Notwithstanding great progress in scientific and economic understanding of climate change, it has proven difficult to forge international agreements because of free-riding, as seen in the defunct Kyoto Protocol. This study examines the club as a model for international climate policy. Based on economic theory and empirical modeling, it finds that without sanctions against non-participants there are no stable coalitions other than those with minimal abatement. By contrast, a regime with small tra",
-      "jel_codes": [],
-      "topics": [
-        1
-      ],
-      "topic_relevance": {
-        "1": ""
-      },
-      "priority": "core",
-      "citations": 1295,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "fernndezvillaverde_etal_2015",
-      "title": "Fiscal Volatility Shocks and Economic Activity",
-      "authors": [
-        "Jesús Fernández‐Villaverde",
-        "Pablo Guerrón-Quintana",
-        "Keith Kuester",
-        "Juan Francisco Rubio-Ramı́rez"
-      ],
-      "year": 2015,
-      "journal": "American Economic Review",
-      "journal_tier": "T1",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1257/aer.20121236",
-      "url": "https://doi.org/10.1257/aer.20121236",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "We study how unexpected changes in uncertainty about fiscal policy affect economic activity. First, we estimate tax and spending processes for the United States with time-varying volatility to uncover evidence of time-varying volatility. Second, we estimate a VAR for the US economy using the time-varying volatility found in the previous step. Third, we feed the tax and spending processes into an otherwise standard New Keynesian model. Both in the VAR and in the model, we find that unexpected cha",
-      "jel_codes": [],
-      "topics": [
-        5
-      ],
-      "topic_relevance": {
-        "5": ""
-      },
-      "priority": "core",
-      "citations": 917,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "budish_etal_2015",
-      "title": "The High-Frequency Trading Arms Race: Frequent Batch Auctions as a Market Design Response *",
-      "authors": [
-        "Eric Budish",
-        "Peter Cramton",
-        "John J. Shim"
-      ],
-      "year": 2015,
-      "journal": "The Quarterly Journal of Economics",
-      "journal_tier": "T1",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1093/qje/qjv027",
-      "url": "https://doi.org/10.1093/qje/qjv027",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "Abstract The high-frequency trading arms race is a symptom of flawed market design. Instead of the continuous limit order book market design that is currently predominant, we argue that financial exchanges should use frequent batch auctions: uniform price double auctions conducted, for example, every tenth of a second. That is, time should be treated as discrete instead of continuous, and orders should be processed in a batch auction instead of serially. Our argument has three parts. First, we u",
-      "jel_codes": [],
-      "topics": [
-        1
-      ],
-      "topic_relevance": {
-        "1": ""
-      },
-      "priority": "core",
-      "citations": 853,
       "tags": [],
       "notes_zh": "",
       "added_date": "2026-03-29",
@@ -1428,39 +1020,6 @@
       "read_status": "unread"
     },
     {
-      "id": "piketty_zucman_2014",
-      "title": "Capital is Back: Wealth-Income Ratios in Rich Countries 1700–2010 *",
-      "authors": [
-        "Thomas Piketty",
-        "Gabriel Zucman"
-      ],
-      "year": 2014,
-      "journal": "The Quarterly Journal of Economics",
-      "journal_tier": "T1",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1093/qje/qju018",
-      "url": "https://doi.org/10.1093/qje/qju018",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "Abstract How do aggregate wealth-to-income ratios evolve in the long run and why? We address this question using 1970–2010 national balance sheets recently compiled in the top eight developed economies. For the United States, United Kingdom, Germany, and France, we are able to extend our analysis as far back as 1700. We find in every country a gradual rise` of wealth-income ratios in recent decades, from about 200–300% in 1970 to 400–600% in 2010. In effect, today’s ratios appear to be returning",
-      "jel_codes": [],
-      "topics": [
-        5
-      ],
-      "topic_relevance": {
-        "5": ""
-      },
-      "priority": "core",
-      "citations": 1308,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
       "id": "autor_etal_2014",
       "title": "Trade Adjustment: Worker-Level Evidence*",
       "authors": [
@@ -1532,40 +1091,6 @@
       "read_status": "unread"
     },
     {
-      "id": "lettau_etal_2014",
-      "title": "Conditional risk premia in currency markets and other asset classes",
-      "authors": [
-        "Martin Lettau",
-        "Matteo Maggiori",
-        "Michael Weber"
-      ],
-      "year": 2014,
-      "journal": "Journal of Financial Economics",
-      "journal_tier": "T1",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1016/j.jfineco.2014.07.001",
-      "url": "https://doi.org/10.1016/j.jfineco.2014.07.001",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "",
-      "jel_codes": [],
-      "topics": [
-        1
-      ],
-      "topic_relevance": {
-        "1": ""
-      },
-      "priority": "recommended",
-      "citations": 418,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
       "id": "ossa_2014",
       "title": "Trade Wars and Trade Talks with Data",
       "authors": [
@@ -1592,40 +1117,6 @@
       },
       "priority": "recommended",
       "citations": 328,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "giglio_etal_2014",
-      "title": "Very Long-Run Discount Rates *",
-      "authors": [
-        "Stefano Giglio",
-        "Matteo Maggiori",
-        "Johannes Stroebel"
-      ],
-      "year": 2014,
-      "journal": "The Quarterly Journal of Economics",
-      "journal_tier": "T1",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1093/qje/qju036",
-      "url": "https://doi.org/10.1093/qje/qju036",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "Abstract We estimate how households trade off immediate costs and uncertain future benefits that occur in the very long run, 100 or more years away. We exploit a unique feature of housing markets in the United Kingdom and Singapore, where residential property ownership takes the form of either leaseholds or freeholds. Leaseholds are temporary, prepaid, and tradable ownership contracts with maturities between 99 and 999 years, while freeholds are perpetual ownership contracts. The price differenc",
-      "jel_codes": [],
-      "topics": [
-        1
-      ],
-      "topic_relevance": {
-        "1": ""
-      },
-      "priority": "recommended",
-      "citations": 233,
       "tags": [],
       "notes_zh": "",
       "added_date": "2026-03-29",
@@ -1664,39 +1155,6 @@
       },
       "priority": "core",
       "citations": 4184,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "autor_dorn_2013",
-      "title": "The Growth of Low-Skill Service Jobs and the Polarization of the US Labor Market",
-      "authors": [
-        "David Autor",
-        "David Dorn"
-      ],
-      "year": 2013,
-      "journal": "American Economic Review",
-      "journal_tier": "T1",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1257/aer.103.5.1553",
-      "url": "https://doi.org/10.1257/aer.103.5.1553",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "We offer a unified analysis of the growth of low-skill service occupations between 1980 and 2005 and the concurrent polarization of US employment and wages. We hypothesize that polarization stems from the interaction between consumer preferences, which favor variety over specialization, and the falling cost of automating routine, codifiable job tasks. Applying a spatial equilibrium model, we corroborate four implications of this hypothesis. Local labor markets that specialized in routine tasks d",
-      "jel_codes": [],
-      "topics": [
-        4
-      ],
-      "topic_relevance": {
-        "4": ""
-      },
-      "priority": "core",
-      "citations": 3640,
       "tags": [],
       "notes_zh": "",
       "added_date": "2026-03-29",
@@ -1766,42 +1224,6 @@
       },
       "priority": "recommended",
       "citations": 127,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "kerman_etal_2013",
-      "title": "Sources of Wage Inequality",
-      "authors": [
-        "Anders Åkerman",
-        "Elhanan Helpman",
-        "Oleg Itskhoki",
-        "Marc-Andreas Muendler",
-        "Stephen J. Redding"
-      ],
-      "year": 2013,
-      "journal": "American Economic Review",
-      "journal_tier": "T1",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1257/aer.103.3.214",
-      "url": "https://doi.org/10.1257/aer.103.3.214",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "Recent theories of firm heterogeneity emphasize between-firm wage differences as a new mechanism through which trade can affect wage inequality. Using linked employer-employee data for Sweden, we show that many of the stylized facts about wage inequality found in Helpman et al. (2012) for Brazil also hold for Sweden. Much of overall wage inequality arises within sector-occupations and for workers with similar observable characteristics. One notable difference is a smaller contribution from betwe",
-      "jel_codes": [],
-      "topics": [
-        5
-      ],
-      "topic_relevance": {
-        "5": ""
-      },
-      "priority": "recommended",
-      "citations": 120,
       "tags": [],
       "notes_zh": "",
       "added_date": "2026-03-29",
@@ -2137,40 +1559,6 @@
       },
       "priority": "recommended",
       "citations": 288,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "blanchard_etal_2023",
-      "title": "The Portfolio of Economic Policies Needed to Fight Climate Change",
-      "authors": [
-        "Olivier Blanchard",
-        "Christian Gollier",
-        "Jean Tirole"
-      ],
-      "year": 2023,
-      "journal": "Annual Review of Economics",
-      "journal_tier": "T2",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1146/annurev-economics-051520-015113",
-      "url": "https://doi.org/10.1146/annurev-economics-051520-015113",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "Climate change poses an existential threat. Theoretical and empirical research suggest that carbon pricing and green R&amp;D support are the right tools, but their implementation can be improved. Other policies, such as standards, bans, and targeted subsidies, also all have a role to play, but they have often been incoherent, and their implementation is delicate.",
-      "jel_codes": [],
-      "topics": [
-        2
-      ],
-      "topic_relevance": {
-        "2": ""
-      },
-      "priority": "reference",
-      "citations": 93,
       "tags": [],
       "notes_zh": "",
       "added_date": "2026-03-29",
@@ -2695,41 +2083,6 @@
       "read_status": "unread"
     },
     {
-      "id": "blau_kahn_2017",
-      "title": "The Gender Wage Gap: Extent, Trends, and Explanations",
-      "authors": [
-        "Francine D. Blau",
-        "Lawrence M. Kahn"
-      ],
-      "year": 2017,
-      "journal": "Journal of Economic Literature",
-      "journal_tier": "T2",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1257/jel.20160995",
-      "url": "https://doi.org/10.1257/jel.20160995",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "Using Panel Study of Income Dynamics (PSID) microdata over the 1980–2010 period, we provide new empirical evidence on the extent of and trends in the gender wage gap, which declined considerably during this time. By 2010, conventional human capital variables taken together explained little of the gender wage gap, while gender differences in occupation and industry continued to be important. Moreover, the gender pay gap declined much more slowly at the top of the wage distribution than at the mid",
-      "jel_codes": [],
-      "topics": [
-        1,
-        2
-      ],
-      "topic_relevance": {
-        "1": "",
-        "2": ""
-      },
-      "priority": "core",
-      "citations": 2799,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
       "id": "antrs_etal_2017",
       "title": "Globalization, inequality and welfare",
       "authors": [
@@ -3076,73 +2429,6 @@
       "read_status": "unread"
     },
     {
-      "id": "alesina_giuliano_2015",
-      "title": "Culture and Institutions",
-      "authors": [
-        "Alberto Alesina",
-        "Paola Giuliano"
-      ],
-      "year": 2015,
-      "journal": "Journal of Economic Literature",
-      "journal_tier": "T2",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1257/jel.53.4.898",
-      "url": "https://doi.org/10.1257/jel.53.4.898",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "A growing body of empirical work measuring different types of cultural traits has shown that culture matters for a variety of economic outcomes. This paper focuses on one specific aspect of the relevance of culture: its relationship to institutions. We review work with a theoretical, empirical, and historical bent to assess the presence of a two-way causal effect between culture and institutions. ( JEL D02, D72, I32, J12, Z13)",
-      "jel_codes": [],
-      "topics": [
-        5
-      ],
-      "topic_relevance": {
-        "5": ""
-      },
-      "priority": "core",
-      "citations": 1404,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "fourcade_etal_2015",
-      "title": "The Superiority of Economists",
-      "authors": [
-        "Marion Fourcade",
-        "Étienne Ollion",
-        "Yann Algan"
-      ],
-      "year": 2015,
-      "journal": "The Journal of Economic Perspectives",
-      "journal_tier": "T2",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1257/jep.29.1.89",
-      "url": "https://doi.org/10.1257/jep.29.1.89",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "In this essay, we analyze the dominant position of economics within the network of the social sciences in the United States. We begin by documenting the relative insularity of economics, using bibliometric data. Next we analyze the tight management of the field from the top down, which gives economics its characteristic hierarchical structure. Economists also distinguish themselves from other social scientists through their much better material situation (many teach in business schools, have ext",
-      "jel_codes": [],
-      "topics": [
-        1
-      ],
-      "topic_relevance": {
-        "1": ""
-      },
-      "priority": "core",
-      "citations": 675,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
       "id": "ossa_2015",
       "title": "Why trade matters after all",
       "authors": [
@@ -3203,39 +2489,6 @@
       },
       "priority": "core",
       "citations": 2149,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "porta_shleifer_2014",
-      "title": "Informality and Development",
-      "authors": [
-        "Rafael La Porta",
-        "Andrei Shleifer"
-      ],
-      "year": 2014,
-      "journal": "The Journal of Economic Perspectives",
-      "journal_tier": "T2",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1257/jep.28.3.109",
-      "url": "https://doi.org/10.1257/jep.28.3.109",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "In developing countries, informal firms account for up to half of economic activity. They provide livelihood for billions of people. Yet their role in economic development remains controversial with some viewing informality as pent-up potential and others viewing informality as a parasitic organizational form that hinders economic growth. In this paper, we assess these perspectives. We argue that the evidence is most consistent with dual models, in which informality arises out of poverty and the",
-      "jel_codes": [],
-      "topics": [
-        5
-      ],
-      "topic_relevance": {
-        "5": ""
-      },
-      "priority": "core",
-      "citations": 1348,
       "tags": [],
       "notes_zh": "",
       "added_date": "2026-03-29",
@@ -3307,40 +2560,6 @@
       },
       "priority": "core",
       "citations": 801,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "piketty_etal_2014",
-      "title": "Optimal Taxation of Top Labor Incomes: A Tale of Three Elasticities",
-      "authors": [
-        "Thomas Piketty",
-        "Emmanuel Saez",
-        "Stefanie Stantcheva"
-      ],
-      "year": 2014,
-      "journal": "American Economic Journal Economic Policy",
-      "journal_tier": "T2",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1257/pol.6.1.230",
-      "url": "https://doi.org/10.1257/pol.6.1.230",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "This paper derives optimal top tax rate formulas in a model where top earners respond to taxes through three channels: labor supply, tax avoidance, and compensation bargaining. The optimal top tax rate increases when there are zero-sum compensation-bargaining effects. We present empirical evidence consistent with bargaining effects. Top tax rate cuts are associated with top one percent pretax income shares increases but not higher economic growth. US CEO “pay for luck” is quantitatively more pre",
-      "jel_codes": [],
-      "topics": [
-        5
-      ],
-      "topic_relevance": {
-        "5": ""
-      },
-      "priority": "core",
-      "citations": 707,
       "tags": [],
       "notes_zh": "",
       "added_date": "2026-03-29",
@@ -3446,41 +2665,6 @@
       "read_status": "unread"
     },
     {
-      "id": "alvaredo_etal_2013",
-      "title": "The Top 1 Percent in International and Historical Perspective",
-      "authors": [
-        "Facundo Alvaredo",
-        "Anthony B. Atkinson",
-        "Thomas Piketty",
-        "Emmanuel Saez"
-      ],
-      "year": 2013,
-      "journal": "The Journal of Economic Perspectives",
-      "journal_tier": "T2",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1257/jep.27.3.3",
-      "url": "https://doi.org/10.1257/jep.27.3.3",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "The top 1 percent income share has more than doubled in the United States over the last 30 years, drawing much public attention in recent years. While other English-speaking countries have also experienced sharp increases in the top 1 percent income share, many high-income countries such as Japan, France, or Germany have seen much less increase in top income shares. Hence, the explanation cannot rely solely on forces common to advanced countries, such as the impact of new technologies and global",
-      "jel_codes": [],
-      "topics": [
-        5
-      ],
-      "topic_relevance": {
-        "5": ""
-      },
-      "priority": "core",
-      "citations": 828,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
       "id": "baumeister_peersman_2013",
       "title": "Time-Varying Effects of Oil Supply Shocks on the US Economy",
       "authors": [
@@ -3548,75 +2732,6 @@
       "read_status": "unread"
     },
     {
-      "id": "oreopoulos_etal_2012",
-      "title": "The Short- and Long-Term Career Effects of Graduating in a Recession",
-      "authors": [
-        "Philip Oreopoulos",
-        "Till von Wachter",
-        "Andrew Heisz"
-      ],
-      "year": 2012,
-      "journal": "American Economic Journal Applied Economics",
-      "journal_tier": "T2",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1257/app.4.1.1",
-      "url": "https://doi.org/10.1257/app.4.1.1",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "This paper analyzes the magnitude and sources of long-term earnings declines associated with graduating from college during a recession. Using a large longitudinal university-employer-employee dataset, we find that the cost of recessions for new graduates is substantial and unequal. Unlucky graduates suffer persistent earnings declines lasting ten years. They start to work for lower paying employers, and then partly recover through a gradual process of mobility toward better firms. We document t",
-      "jel_codes": [],
-      "topics": [
-        3,
-        4
-      ],
-      "topic_relevance": {
-        "3": "",
-        "4": ""
-      },
-      "priority": "core",
-      "citations": 1252,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "kitzmueller_shimshack_2012",
-      "title": "Economic Perspectives on Corporate Social Responsibility",
-      "authors": [
-        "Markus Kitzmueller",
-        "Jay P. Shimshack"
-      ],
-      "year": 2012,
-      "journal": "Journal of Economic Literature",
-      "journal_tier": "T2",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1257/jel.50.1.51",
-      "url": "https://doi.org/10.1257/jel.50.1.51",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "This paper synthesizes the expanding corporate social responsibility (CSR) literature. We define CSR from an economic perspective and develop a CSR taxonomy that connects disparate approaches to the subject. We explore whether CSR should exist and investigate conditions when CSR may produce higher welfare than other public good provision channels. We also explore why CSR does exist. Here, we integrate theoretical predictions with empirical findings from economic and noneconomic sources. We find ",
-      "jel_codes": [],
-      "topics": [
-        1
-      ],
-      "topic_relevance": {
-        "1": ""
-      },
-      "priority": "core",
-      "citations": 1098,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
       "id": "kilian_murphy_2012",
       "title": "WHY AGNOSTIC SIGN RESTRICTIONS ARE NOT ENOUGH: UNDERSTANDING THE DYNAMICS OF OIL MARKET VAR MODELS",
       "authors": [
@@ -3644,38 +2759,6 @@
       },
       "priority": "core",
       "citations": 529,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "carson_2012",
-      "title": "Contingent Valuation: A Practical Alternative when Prices Aren't Available",
-      "authors": [
-        "Richard T. Carson"
-      ],
-      "year": 2012,
-      "journal": "The Journal of Economic Perspectives",
-      "journal_tier": "T2",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1257/jep.26.4.27",
-      "url": "https://doi.org/10.1257/jep.26.4.27",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "A person may be willing to make an economic tradeoff to assure that a wilderness area or scenic resource is protected even if neither that person nor (perhaps) anyone else will actually visit this area. This tradeoff is commonly labeled “passive use value.” Contingent valuation studies ask questions that help to reveal the monetary tradeoff each person would make concerning the value of goods or services. Such surveys are a practical alternative approach for eliciting the value of public goods, ",
-      "jel_codes": [],
-      "topics": [
-        4
-      ],
-      "topic_relevance": {
-        "4": ""
-      },
-      "priority": "core",
-      "citations": 527,
       "tags": [],
       "notes_zh": "",
       "added_date": "2026-03-29",
@@ -3874,74 +2957,6 @@
       },
       "priority": "core",
       "citations": 2508,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "atkinson_etal_2011",
-      "title": "Top Incomes in the Long Run of History",
-      "authors": [
-        "Anthony B. Atkinson",
-        "Thomas Piketty",
-        "Emmanuel Saez"
-      ],
-      "year": 2011,
-      "journal": "Journal of Economic Literature",
-      "journal_tier": "T2",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1257/jel.49.1.3",
-      "url": "https://doi.org/10.1257/jel.49.1.3",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "A recent literature has constructed top income shares time series over the long run for more than twenty countries using income tax statistics. Top incomes represent a small share of the population but a very significant share of total income and total taxes paid. Hence, aggregate economic growth per capita and Gini inequality indexes are sensitive to excluding or including top incomes. We discuss the estimation methods and issues that arise when constructing top income share series, including i",
-      "jel_codes": [],
-      "topics": [
-        5
-      ],
-      "topic_relevance": {
-        "5": ""
-      },
-      "priority": "core",
-      "citations": 2298,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "gneezy_etal_2011",
-      "title": "When and Why Incentives (Don't) Work to Modify Behavior",
-      "authors": [
-        "Uri Gneezy",
-        "Stephan Meier",
-        "Pedro Rey‐Biel"
-      ],
-      "year": 2011,
-      "journal": "The Journal of Economic Perspectives",
-      "journal_tier": "T2",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1257/jep.25.4.191",
-      "url": "https://doi.org/10.1257/jep.25.4.191",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "First we discuss how extrinsic incentives may come into conflict with other motivations. For example, monetary incentives from principals may change how tasks are perceived by agents, with negative effects on behavior. In other cases, incentives might have the desired effects in the short term, but they still weaken intrinsic motivations. To put it in concrete terms, an incentive for a child to learn to read might achieve that goal in the short term, but then be counterproductive as an incentive",
-      "jel_codes": [],
-      "topics": [
-        2
-      ],
-      "topic_relevance": {
-        "2": ""
-      },
-      "priority": "core",
-      "citations": 1709,
       "tags": [],
       "notes_zh": "",
       "added_date": "2026-03-29",
@@ -4744,38 +3759,6 @@
       "read_status": "unread"
     },
     {
-      "id": "duffy_2014",
-      "title": "Waging a war to save biodiversity: the rise of militarized conservation",
-      "authors": [
-        "Rosaleen Duffy"
-      ],
-      "year": 2014,
-      "journal": "International Affairs",
-      "journal_tier": "T3",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1111/1468-2346.12142",
-      "url": "https://doi.org/10.1111/1468-2346.12142",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "This paper examines the rise in militarized approaches towards conservation, as part of a new 'war for biodiversity'. This is a key defining moment in the international politics of conservation and needs further interrogation. The claims that rhinos and elephants are under threat from highly organised criminal gangs of poachers shapes and determines conservation practice on the ground. This paper offers a critique of that argument, essentially by asking how we define poachers, and if militarized",
-      "jel_codes": [],
-      "topics": [
-        1
-      ],
-      "topic_relevance": {
-        "1": ""
-      },
-      "priority": "recommended",
-      "citations": 373,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
       "id": "farrell_newman_2014",
       "title": "Domestic Institutions beyond the Nation-State: Charting the New Interdependence Approach",
       "authors": [
@@ -4836,40 +3819,6 @@
       },
       "priority": "recommended",
       "citations": 143,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "peksen_etal_2014",
-      "title": "Media-driven Humanitarianism? News Media Coverage of Human Rights Abuses and the Use of Economic Sanctions",
-      "authors": [
-        "Dursun Peksen",
-        "Timothy M. Peterson",
-        "A. Cooper Drury"
-      ],
-      "year": 2014,
-      "journal": "International Studies Quarterly",
-      "journal_tier": "T3",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1111/isqu.12136",
-      "url": "https://doi.org/10.1111/isqu.12136",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "Despite significant research on the role that media coverage of human suffering has on foreign policymaking, no study to date has examined the news media's impact on the use of economic sanctions, a widely used policy tool to address humanitarian problems. This study explores whether news media coverage of human rights abuses in Newsweek and the New York Times increases the likelihood of US economic sanctions. Synthesizing insights from agenda-setting theory with recent work on the domestic orig",
-      "jel_codes": [],
-      "topics": [
-        1
-      ],
-      "topic_relevance": {
-        "1": ""
-      },
-      "priority": "recommended",
-      "citations": 104,
       "tags": [],
       "notes_zh": "",
       "added_date": "2026-03-29",
@@ -4970,42 +3919,6 @@
       },
       "priority": "core",
       "citations": 1011,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "lawrence_etal_2010",
-      "title": "Self-Segregation or Deliberation? Blog Readership, Participation, and Polarization in American Politics",
-      "authors": [
-        "Eric Lawrence",
-        "John Sides",
-        "Henry Farrell"
-      ],
-      "year": 2010,
-      "journal": "Perspectives on Politics",
-      "journal_tier": "T3",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1017/s1537592709992714",
-      "url": "https://doi.org/10.1017/s1537592709992714",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "Political scientists and political theorists debate the relationship between participation and deliberation among citizens with different political viewpoints. Blogs provide an important testing ground for their claims. We examine deliberation, polarization, and political participation among blog readers. We find that blog readers gravitate toward blogs that accord with their political beliefs. Few read blogs on both the left and right of the ideological spectrum. Furthermore, those who read lef",
-      "jel_codes": [],
-      "topics": [
-        1,
-        5
-      ],
-      "topic_relevance": {
-        "1": "",
-        "5": ""
-      },
-      "priority": "recommended",
-      "citations": 350,
       "tags": [],
       "notes_zh": "",
       "added_date": "2026-03-29",
@@ -5223,41 +4136,6 @@
       },
       "priority": "reference",
       "citations": 77,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "alfaro_etal_2020",
-      "title": "Aggregate and Firm-Level Stock Returns During Pandemics, in Real Time",
-      "authors": [
-        "Laura Alfaro",
-        "Anusha Chari",
-        "Andrew Greenland",
-        "Peter K. Schott"
-      ],
-      "year": 2020,
-      "journal": "National Bureau of Economic Research",
-      "journal_tier": "WP",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.3386/w26950",
-      "url": "https://doi.org/10.3386/w26950",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "We show that unexpected changes in the trajectory of COVID-19 infections predict US stock returns, in real time. Parameter estimates indicate that an unanticipated doubling (halving) of projected infections forecasts next-day decreases (increases) in aggregate US market value of 4 to 11 percent, indicating that equity markets may begin to rebound even as infections continue to rise, if the trajectory of the disease becomes less severe than initially anticipated. Using the same variation in unant",
-      "jel_codes": [],
-      "topics": [
-        3
-      ],
-      "topic_relevance": {
-        "3": ""
-      },
-      "priority": "recommended",
-      "citations": 420,
       "tags": [],
       "notes_zh": "",
       "added_date": "2026-03-29",
@@ -5570,39 +4448,6 @@
       "read_status": "unread"
     },
     {
-      "id": "amiti_weinstein_2013",
-      "title": "How Much do Idiosyncratic Bank Shocks Affect Investment? Evidence from Matched Bank-Firm Loan Data",
-      "authors": [
-        "Mary Amiti",
-        "David Weinstein"
-      ],
-      "year": 2013,
-      "journal": "National Bureau of Economic Research",
-      "journal_tier": "WP",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.3386/w18890",
-      "url": "https://doi.org/10.3386/w18890",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "We show that supply-side financial shocks have a large impact on firms' investment. We develop a new methodology to separate firm-borrowing shocks from bank-supply shocks using a vast sample of matched bank-firm lending data. We decompose aggregate loan movements in Japan for the period 1990 to 2010 into bank, firm, industry, and common shocks. The high degree of financial institution concentration means that individual banks are large relative to the size of the economy, which creates a role fo",
-      "jel_codes": [],
-      "topics": [
-        5
-      ],
-      "topic_relevance": {
-        "5": ""
-      },
-      "priority": "recommended",
-      "citations": 210,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
       "id": "antrs_chor_2012",
       "title": "Organizing the Global Value Chain",
       "authors": [
@@ -5908,39 +4753,6 @@
       "read_status": "unread"
     },
     {
-      "id": "allioui_mourdi_2023",
-      "title": "Exploring the Full Potentials of IoT for Better Financial Growth and Stability: A Comprehensive Survey",
-      "authors": [
-        "Hanane Allioui",
-        "Youssef Mourdi"
-      ],
-      "year": 2023,
-      "journal": "Sensors",
-      "journal_tier": "other",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.3390/s23198015",
-      "url": "https://doi.org/10.3390/s23198015",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "Cutting-edge technologies, with a special emphasis on the Internet of Things (IoT), tend to operate as game changers, generating enormous alterations in both traditional and modern enterprises. Understanding multiple uses of IoT has become vital for effective financial management, given the ever-changing nature of organizations and the technological disruptions that come with this paradigm change. IoT has proven to be a powerful tool for improving operational efficiency, decision-making processe",
-      "jel_codes": [],
-      "topics": [
-        1
-      ],
-      "topic_relevance": {
-        "1": ""
-      },
-      "priority": "recommended",
-      "citations": 487,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
       "id": "luo_assche_2023",
       "title": "The rise of techno-geopolitical uncertainty: Implications of the United States CHIPS and Science Act",
       "authors": [
@@ -6013,116 +4825,6 @@
       },
       "priority": "recommended",
       "citations": 174,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "erenstein_etal_2022",
-      "title": "Global maize production, consumption and trade: trends and R&amp;D implications",
-      "authors": [
-        "Olaf Erenstein",
-        "Moti Jaleta",
-        "Kai Sonder",
-        "Khondoker Abdul Mottaleb",
-        "B. M. Prasanna"
-      ],
-      "year": 2022,
-      "journal": "Food Security",
-      "journal_tier": "other",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1007/s12571-022-01288-7",
-      "url": "https://doi.org/10.1007/s12571-022-01288-7",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "Abstract Since its domestication some 9,000 years ago, maize ( Zea mays L.; corn) has played an increasing and diverse role in global agri-food systems. Global maize production has surged in the past few decades, propelled by rising demand and a combination of technological advances, yield increases and area expansion. Maize is already the leading cereal in terms of production volume and is set to become the most widely grown and traded crop in the coming decade. It is a versatile multi-purpose ",
-      "jel_codes": [],
-      "topics": [
-        4
-      ],
-      "topic_relevance": {
-        "4": ""
-      },
-      "priority": "core",
-      "citations": 1075,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "macfarlane_etal_2020",
-      "title": "A Roadmap to the Ammonia Economy",
-      "authors": [
-        "Douglas R. MacFarlane",
-        "Pavel V. Cherepanov",
-        "Jaecheol Choi",
-        "Bryan H. R. Suryanto",
-        "Rebecca Y. Hodgetts",
-        "Jacinta M. Bakker",
-        "Federico M. Ferrero Vallana",
-        "Alexandr N. Simonov"
-      ],
-      "year": 2020,
-      "journal": "Joule",
-      "journal_tier": "other",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1016/j.joule.2020.04.004",
-      "url": "https://doi.org/10.1016/j.joule.2020.04.004",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "",
-      "jel_codes": [],
-      "topics": [
-        3
-      ],
-      "topic_relevance": {
-        "3": ""
-      },
-      "priority": "core",
-      "citations": 1694,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "bai_etal_2020",
-      "title": "Industry 4.0 technologies assessment: A sustainability perspective",
-      "authors": [
-        "Chunguang Bai",
-        "Patrick Dallasega",
-        "Guido Orzes",
-        "Joseph Sarkis"
-      ],
-      "year": 2020,
-      "journal": "International Journal of Production Economics",
-      "journal_tier": "other",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1016/j.ijpe.2020.107776",
-      "url": "https://doi.org/10.1016/j.ijpe.2020.107776",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "The fourth industrial revolution, also labelled Industry 4.0, was beget with emergent and disruptive intelligence and information technologies. These new technologies are enabling ever-higher levels of production efficiencies. They also have the potential to dramatically influence social and environmental sustainable development. Organizations need to consider Industry 4.0 technologies contribution to sustainability. Sufficient guidance, in this respect, is lacking in the scholarly or practition",
-      "jel_codes": [],
-      "topics": [
-        5
-      ],
-      "topic_relevance": {
-        "5": ""
-      },
-      "priority": "core",
-      "citations": 1321,
       "tags": [],
       "notes_zh": "",
       "added_date": "2026-03-29",
@@ -6387,145 +5089,6 @@
       "read_status": "unread"
     },
     {
-      "id": "hickel_kallis_2019",
-      "title": "Is Green Growth Possible?",
-      "authors": [
-        "Jason Hickel",
-        "Giorgos Kallis"
-      ],
-      "year": 2019,
-      "journal": "New Political Economy",
-      "journal_tier": "other",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1080/13563467.2019.1598964",
-      "url": "https://doi.org/10.1080/13563467.2019.1598964",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "The notion of green growth has emerged as a dominant policy response to climate change and ecological breakdown. Green growth theory asserts that continued economic expansion is compatible with our planet’s ecology, as technological change and substitution will allow us to absolutely decouple GDP growth from resource use and carbon emissions. This claim is now assumed in national and international policy, including in the Sustainable Development Goals. But empirical evidence on resource use and ",
-      "jel_codes": [],
-      "topics": [
-        5
-      ],
-      "topic_relevance": {
-        "5": ""
-      },
-      "priority": "core",
-      "citations": 1773,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "hein_etal_2019",
-      "title": "Digital platform ecosystems",
-      "authors": [
-        "Andreas Hein",
-        "Maximilian Schreieck",
-        "Tobias Riasanow",
-        "David Soto Setzke",
-        "Manuel Wiesche",
-        "Markus Böhm",
-        "Helmut Krcmar"
-      ],
-      "year": 2019,
-      "journal": "Electronic Markets",
-      "journal_tier": "other",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1007/s12525-019-00377-4",
-      "url": "https://doi.org/10.1007/s12525-019-00377-4",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "Abstract Digital platforms are an omnipresent phenomenon that challenges incumbents by changing how we consume and provide digital products and services. Whereas traditional firms create value within the boundaries of a company or a supply chain, digital platforms utilize an ecosystem of autonomous agents to co-create value. Scholars from various disciplines, such as economics, technology management, and information systems have taken different perspectives on digital platform ecosystems. In thi",
-      "jel_codes": [],
-      "topics": [
-        3,
-        4
-      ],
-      "topic_relevance": {
-        "3": "",
-        "4": ""
-      },
-      "priority": "core",
-      "citations": 790,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "litvinenko_2019",
-      "title": "Digital Economy as a Factor in the Technological Development of the Mineral Sector",
-      "authors": [
-        "Vladimir Litvinenko"
-      ],
-      "year": 2019,
-      "journal": "Natural Resources Research",
-      "journal_tier": "other",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1007/s11053-019-09568-4",
-      "url": "https://doi.org/10.1007/s11053-019-09568-4",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "Abstract This article describes the impact of the global digital economy on the technological development of the mineral sector in the world. Due to the different specifics of the legislative bases of the investigated regions, such as the USA, China, EU, and Africa, the development of digital transformation is presented on the example of the Russian Federation in the context of world trends. The article presents an analysis of the possibilities of using straight-through digital technology in pro",
-      "jel_codes": [],
-      "topics": [
-        4,
-        5
-      ],
-      "topic_relevance": {
-        "4": "",
-        "5": ""
-      },
-      "priority": "core",
-      "citations": 542,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "sturgeon_2019",
-      "title": "Upgrading strategies for the digital economy",
-      "authors": [
-        "Timothy J. Sturgeon"
-      ],
-      "year": 2019,
-      "journal": "Global Strategy Journal",
-      "journal_tier": "other",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1002/gsj.1364",
-      "url": "https://doi.org/10.1002/gsj.1364",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "Abstract Research Summary Although computerization has been enabling changes in the structure and economic geography of industries for decades, recent public discourse has become focused on a set of “new” advanced digital technologies and technology applications that appear poised to dramatically reduce demand for routine tasks and transform the organization and content of work. How are these changes shaping the strategic options for companies and policy‐makers in less‐developed economies? This ",
-      "jel_codes": [],
-      "topics": [
-        4
-      ],
-      "topic_relevance": {
-        "4": ""
-      },
-      "priority": "recommended",
-      "citations": 485,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
       "id": "petricevi_teece_2019",
       "title": "The structural reshaping of globalization: Implications for strategic sectors, profiting from innovation, and the multinational enterprise",
       "authors": [
@@ -6555,39 +5118,6 @@
       },
       "priority": "recommended",
       "citations": 444,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "couldry_mejias_2018",
-      "title": "Data Colonialism: Rethinking Big Data’s Relation to the Contemporary Subject",
-      "authors": [
-        "Nick Couldry",
-        "Ulises A. Mejias"
-      ],
-      "year": 2018,
-      "journal": "Television & New Media",
-      "journal_tier": "other",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1177/1527476418796632",
-      "url": "https://doi.org/10.1177/1527476418796632",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "We are often told that data are the new oil. But unlike oil, data are not a substance found in nature. It must be appropriated. The capture and processing of social data unfolds through a process we call data relations, which ensures the “natural” conversion of daily life into a data stream. The result is nothing less than a new social order, based on continuous tracking, and offering unprecedented new opportunities for social discrimination and behavioral influence. We propose that this process",
-      "jel_codes": [],
-      "topics": [
-        5
-      ],
-      "topic_relevance": {
-        "5": ""
-      },
-      "priority": "core",
-      "citations": 1315,
       "tags": [],
       "notes_zh": "",
       "added_date": "2026-03-29",
@@ -6662,219 +5192,6 @@
       "read_status": "unread"
     },
     {
-      "id": "corbet_etal_2018",
-      "title": "RETRACTED: Cryptocurrencies as a financial asset: A systematic analysis",
-      "authors": [
-        "Shaen Corbet",
-        "Brian M. Lucey",
-        "Andrew Urquhart",
-        "Larisa Yarovaya"
-      ],
-      "year": 2018,
-      "journal": "International Review of Financial Analysis",
-      "journal_tier": "other",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1016/j.irfa.2018.09.003",
-      "url": "https://doi.org/10.1016/j.irfa.2018.09.003",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "",
-      "jel_codes": [],
-      "topics": [
-        1,
-        4
-      ],
-      "topic_relevance": {
-        "1": "",
-        "4": ""
-      },
-      "priority": "core",
-      "citations": 1112,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "albrecht_etal_2018",
-      "title": "The Water-Energy-Food Nexus: A systematic review of methods for nexus assessment",
-      "authors": [
-        "Tamee R. Albrecht",
-        "Arica Crootof",
-        "Christopher A. Scott"
-      ],
-      "year": 2018,
-      "journal": "Environmental Research Letters",
-      "journal_tier": "other",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1088/1748-9326/aaa9c6",
-      "url": "https://doi.org/10.1088/1748-9326/aaa9c6",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "The water-energy-food (WEF) nexus is rapidly expanding in scholarly literature and policy settings as a novel way to address complex resource and development challenges. The nexus approach aims to identify tradeoffs and synergies of water, energy, and food systems, internalize social and environmental impacts, and guide development of cross-sectoral policies. However, while the WEF nexus offers a promising conceptual approach, the use of WEF nexus methods to systematically evaluate water, energy",
-      "jel_codes": [],
-      "topics": [
-        3,
-        5
-      ],
-      "topic_relevance": {
-        "3": "",
-        "5": ""
-      },
-      "priority": "core",
-      "citations": 842,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "klarin_2018",
-      "title": "The Concept of Sustainable Development: From its Beginning to the Contemporary Issues",
-      "authors": [
-        "Tomislav Klarin"
-      ],
-      "year": 2018,
-      "journal": "Zagreb international review of economics and business/Zagreb international review of economics & business",
-      "journal_tier": "other",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.2478/zireb-2018-0005",
-      "url": "https://doi.org/10.2478/zireb-2018-0005",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "Abstract The concept of sustainable development has undergone various developmental phases since its introduction. The historical development of the concept saw participation of various organizations and institutions, which nowadays work intensely on the implementation of its principles and objectives. The concept has experienced different critiques and interpretations over the time while being accepted in different areas of human activity, and the definition of sustainable development has becom",
-      "jel_codes": [],
-      "topics": [
-        5
-      ],
-      "topic_relevance": {
-        "5": ""
-      },
-      "priority": "core",
-      "citations": 803,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "soekhai_etal_2018",
-      "title": "Discrete Choice Experiments in Health Economics: Past, Present and Future",
-      "authors": [
-        "Vikas Soekhai",
-        "Esther W. de Bekker‐Grob",
-        "Alan R. Ellis",
-        "Caroline Vass"
-      ],
-      "year": 2018,
-      "journal": "PharmacoEconomics",
-      "journal_tier": "other",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1007/s40273-018-0734-2",
-      "url": "https://doi.org/10.1007/s40273-018-0734-2",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "The use of empirical DCEs in health economics continues to grow. However, inadequate reporting of methodological details inhibits quality assessment. This may reduce decision-makers' confidence in results and their ability to act on the findings. How and when to integrate health-related DCE outcomes into decision-making remains an important area for future research.",
-      "jel_codes": [],
-      "topics": [
-        2
-      ],
-      "topic_relevance": {
-        "2": ""
-      },
-      "priority": "core",
-      "citations": 790,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "bogers_etal_2018",
-      "title": "Open Innovation: Research, Practices, and Policies",
-      "authors": [
-        "Marcel Bogers",
-        "Henry Chesbrough",
-        "Carlos Moedas"
-      ],
-      "year": 2018,
-      "journal": "California Management Review",
-      "journal_tier": "other",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1177/0008125617745086",
-      "url": "https://doi.org/10.1177/0008125617745086",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "Open innovation is now a widely used concept in academia, business, and policy making. This article describes the state of open innovation at the intersection of research, practice, and policy. It discusses some key trends (e.g., digital transformation), challenges (e.g., uncertainty), and potential solutions (e.g., EU funding programs) in the context of open innovation and innovation policy. With this background, the authors introduce select papers published in this Special Section of Californi",
-      "jel_codes": [],
-      "topics": [
-        4
-      ],
-      "topic_relevance": {
-        "4": ""
-      },
-      "priority": "core",
-      "citations": 774,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "kallis_etal_2018",
-      "title": "Research On Degrowth",
-      "authors": [
-        "Giorgos Kallis",
-        "Vasilis Kostakis",
-        "Steffen Lange",
-        "Barbara Muraca",
-        "Susan Paulson",
-        "Matthias Schmelzer"
-      ],
-      "year": 2018,
-      "journal": "Annual Review of Environment and Resources",
-      "journal_tier": "other",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1146/annurev-environ-102017-025941",
-      "url": "https://doi.org/10.1146/annurev-environ-102017-025941",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "Scholars and activists mobilize increasingly the term degrowth when producing knowledge critical of the ideology and costs of growth-based development. Degrowth signals a radical political and economic reorganization leading to reduced resource and energy use. The degrowth hypothesis posits that such a trajectory of social transformation is necessary, desirable, and possible; the conditions of its realization require additional study. Research on degrowth has reinvigorated the limits to growth d",
-      "jel_codes": [],
-      "topics": [
-        3,
-        5
-      ],
-      "topic_relevance": {
-        "3": "",
-        "5": ""
-      },
-      "priority": "core",
-      "citations": 612,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
       "id": "wade_2018",
       "title": "The Developmental State: Dead or Alive?",
       "authors": [
@@ -6901,107 +5218,6 @@
       },
       "priority": "recommended",
       "citations": 304,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "brayne_2017",
-      "title": "Big Data Surveillance: The Case of Policing",
-      "authors": [
-        "Sarah Brayne"
-      ],
-      "year": 2017,
-      "journal": "American Sociological Review",
-      "journal_tier": "other",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1177/0003122417725865",
-      "url": "https://doi.org/10.1177/0003122417725865",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "This article examines the intersection of two structural developments: the growth of surveillance and the rise of \"big data.\" Drawing on observations and interviews conducted within the Los Angeles Police Department, I offer an empirical account of how the adoption of big data analytics does-and does not-transform police surveillance practices. I argue that the adoption of big data analytics facilitates amplifications of prior surveillance practices and fundamental transformations in surveillanc",
-      "jel_codes": [],
-      "topics": [
-        5
-      ],
-      "topic_relevance": {
-        "5": ""
-      },
-      "priority": "core",
-      "citations": 754,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "sovacool_etal_2017",
-      "title": "New frontiers and conceptual frameworks for energy justice",
-      "authors": [
-        "Benjamin K. Sovacool",
-        "Matthew J. Burke",
-        "Lucy Baker",
-        "Chaitanya Kumar Kotikalapudi",
-        "Holle Linnea Wlokas"
-      ],
-      "year": 2017,
-      "journal": "Energy Policy",
-      "journal_tier": "other",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1016/j.enpol.2017.03.005",
-      "url": "https://doi.org/10.1016/j.enpol.2017.03.005",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "",
-      "jel_codes": [],
-      "topics": [
-        3
-      ],
-      "topic_relevance": {
-        "3": ""
-      },
-      "priority": "core",
-      "citations": 723,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "rasmussen_lund_2017",
-      "title": "Reconfiguring Frontier Spaces: The territorialization of resource control",
-      "authors": [
-        "Mattias Borg Rasmussen",
-        "Christian Lund"
-      ],
-      "year": 2017,
-      "journal": "World Development",
-      "journal_tier": "other",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1016/j.worlddev.2017.01.018",
-      "url": "https://doi.org/10.1016/j.worlddev.2017.01.018",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "",
-      "jel_codes": [],
-      "topics": [
-        3
-      ],
-      "topic_relevance": {
-        "3": ""
-      },
-      "priority": "core",
-      "citations": 502,
       "tags": [],
       "notes_zh": "",
       "added_date": "2026-03-29",
@@ -7114,71 +5330,6 @@
       "read_status": "unread"
     },
     {
-      "id": "davis_turpin_2015",
-      "title": "Art in the Anthropocene: Encounters Among Aesthetics, Politics, Environments and Epistemologies",
-      "authors": [
-        "Heather Davis",
-        "Étienne Turpin"
-      ],
-      "year": 2015,
-      "journal": "Open Humanities Press eBooks",
-      "journal_tier": "other",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.26530/oapen_560010",
-      "url": "https://doi.org/10.26530/oapen_560010",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "The era of climate change involves the mutation of systems beyond 20th century anthropomorphic models and has stood, until recently, outside representation or address. Understood in a broad and critical sense, climate change concerns material agencies that impact on biomass and energy, erased borders and microbial invention, geological and nanographic time, and extinction events. The possibility of extinction has always been a latent figure in the textual production and archives; but the current",
-      "jel_codes": [],
-      "topics": [
-        3
-      ],
-      "topic_relevance": {
-        "3": ""
-      },
-      "priority": "core",
-      "citations": 617,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "piketty_2014",
-      "title": "Capital in the Twenty-First Century",
-      "authors": [
-        "Thomas Piketty"
-      ],
-      "year": 2014,
-      "journal": "Harvard University Press eBooks",
-      "journal_tier": "other",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.4159/9780674369542",
-      "url": "https://doi.org/10.4159/9780674369542",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "The main driver of inequality--returns on capital that exceed the rate of economic growth--is again threatening to generate extreme discontent and undermine democratic values. Thomas Piketty's findings in this ambitious, original, rigorous work will transform debate and set the agenda for the next generation of thought about wealth and inequality.",
-      "jel_codes": [],
-      "topics": [
-        5
-      ],
-      "topic_relevance": {
-        "5": ""
-      },
-      "priority": "core",
-      "citations": 13281,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
       "id": "antrs_yeaple_2014",
       "title": "Multinational Firms and the Structure of International Trade",
       "authors": [
@@ -7245,73 +5396,6 @@
       "read_status": "unread"
     },
     {
-      "id": "mancarella_2013",
-      "title": "MES (multi-energy systems): An overview of concepts and evaluation models",
-      "authors": [
-        "Pierluigi Mancarella"
-      ],
-      "year": 2013,
-      "journal": "Energy",
-      "journal_tier": "other",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1016/j.energy.2013.10.041",
-      "url": "https://doi.org/10.1016/j.energy.2013.10.041",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "",
-      "jel_codes": [],
-      "topics": [
-        3
-      ],
-      "topic_relevance": {
-        "3": ""
-      },
-      "priority": "core",
-      "citations": 1347,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "shiferaw_etal_2011",
-      "title": "Crops that feed the world 6. Past successes and future challenges to the role played by maize in global food security",
-      "authors": [
-        "Bekele Shiferaw",
-        "B. M. Prasanna",
-        "Jon Hellin",
-        "Marianne Bänziger"
-      ],
-      "year": 2011,
-      "journal": "Food Security",
-      "journal_tier": "other",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1007/s12571-011-0140-5",
-      "url": "https://doi.org/10.1007/s12571-011-0140-5",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "Maize is one of the most important food crops in the world and, together with rice and wheat, provides at least 30% of the food calories to more than 4.5 billion people in 94 developing countries. In parts of Africa and Mesoamerica, maize alone contributes over 20% of food calories. Maize is also a key ingredient in animal feed and is used extensively in industrial products, including the production of biofuels. Increasing demand and production shortfalls in global maize supplies have worsened m",
-      "jel_codes": [],
-      "topics": [
-        3
-      ],
-      "topic_relevance": {
-        "3": ""
-      },
-      "priority": "core",
-      "citations": 1532,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
       "id": "ottaviano_etal_2011",
       "title": "Economic Geography and Public Policy",
       "authors": [
@@ -7342,73 +5426,6 @@
       },
       "priority": "core",
       "citations": 1009,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "baldwin_etal_2011",
-      "title": "Understanding Regulation",
-      "authors": [
-        "Richard Baldwin",
-        "Martín Cave",
-        "Martín Lodge"
-      ],
-      "year": 2011,
-      "journal": "",
-      "journal_tier": "other",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1093/acprof:osobl/9780199576081.001.0001",
-      "url": "https://doi.org/10.1093/acprof:osobl/9780199576081.001.0001",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "Abstract Regulation is a key concern of industries, consumers, citizens, and governments alike. This book provides the reader with an introduction to key debates and discussions in the field of regulation from a number of disciplinary perspectives, looking towards law, economics, business, political science, sociology, and social administration. The text has been revised and updated to take into account the significant developments and events of the past decade. Containing several new chapters, ",
-      "jel_codes": [],
-      "topics": [
-        5
-      ],
-      "topic_relevance": {
-        "5": ""
-      },
-      "priority": "core",
-      "citations": 506,
-      "tags": [],
-      "notes_zh": "",
-      "added_date": "2026-03-29",
-      "read_status": "unread"
-    },
-    {
-      "id": "simmie_martin_2010",
-      "title": "The economic resilience of regions: towards an evolutionary approach",
-      "authors": [
-        "James Simmie",
-        "R. Martin"
-      ],
-      "year": 2010,
-      "journal": "Cambridge Journal of Regions Economy and Society",
-      "journal_tier": "other",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1093/cjres/rsp029",
-      "url": "https://doi.org/10.1093/cjres/rsp029",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "In this paper, we review the different definitions of resilience and their potential application in explaining the long-term development of urban and regional economies. We reject equilibrist versions of resilience and argue instead that we should seek an understanding of the concept from an evolutionary perspective. After discussing a number of such perspectives, we focus on the adaptive cycle model from panarchy theory to generate testable hypotheses concerning urban and regional resilience. T",
-      "jel_codes": [],
-      "topics": [
-        5
-      ],
-      "topic_relevance": {
-        "5": ""
-      },
-      "priority": "core",
-      "citations": 1584,
       "tags": [],
       "notes_zh": "",
       "added_date": "2026-03-29",

@@ -1,19 +1,10 @@
 # 文献库 — 按优先级排列
 
-> 自动生成于 2026-03-29，共 217 篇
+> 自动生成于 2026-03-29，共 159 篇
 
 ---
 
-## 核心必读 (Core) (98 篇)
-
-### David Autor, David Dorn, Lawrence F. Katz et al. (2020) — The Fall of the Labor Share and the Rise of Superstar Firms*
-- **期刊**：The Quarterly Journal of Economics [T1]
-- **引用**：2001
-- **优先级**：core
-- **议题**：T3, T4
-- **DOI**：[10.1093/qje/qjaa004](https://doi.org/10.1093/qje/qjaa004)
-
----
+## 核心必读 (Core) (55 篇)
 
 ### Jan De Loecker, Jan Eeckhout, Gabriel Unger (2020) — The Rise of Market Power and the Macroeconomic Implications*
 - **期刊**：The Quarterly Journal of Economics [T1]
@@ -33,39 +24,12 @@
 
 ---
 
-### Sean Foley, Jonathan R. Karlsen, Tālis J. Putniņš (2019) — Sex, Drugs, and Bitcoin: How Much Illegal Activity Is Financed through Cryptocurrencies?
-- **期刊**：Review of Financial Studies [T1]
-- **引用**：856
-- **优先级**：core
-- **议题**：T1
-- **DOI**：[10.1093/rfs/hhz015](https://doi.org/10.1093/rfs/hhz015)
-
----
-
 ### Pablo Fajgelbaum, Pinelopi Goldberg, Patrick Kennedy et al. (2019) — The Return to Protectionism*
 - **期刊**：The Quarterly Journal of Economics [T1]
 - **引用**：774
 - **优先级**：core
 - **议题**：T2
 - **DOI**：[10.1093/qje/qjz036](https://doi.org/10.1093/qje/qjz036)
-
----
-
-### Annette Alstadsæter, Niels Johannesen, Gabriel Zucman (2019) — Tax Evasion and Inequality
-- **期刊**：American Economic Review [T1]
-- **引用**：553
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1257/aer.20172043](https://doi.org/10.1257/aer.20172043)
-
----
-
-### Dave Donaldson (2018) — Railroads of the Raj: Estimating the Impact of Transportation Infrastructure
-- **期刊**：American Economic Review [T1]
-- **引用**：1487
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1257/aer.20101199](https://doi.org/10.1257/aer.20101199)
 
 ---
 
@@ -87,15 +51,6 @@
 
 ---
 
-### Thomas Piketty, Emmanuel Saez, Gabriel Zucman (2017) — Distributional National Accounts: Methods and Estimates for the United States*
-- **期刊**：The Quarterly Journal of Economics [T1]
-- **引用**：1063
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1093/qje/qjx043](https://doi.org/10.1093/qje/qjx043)
-
----
-
 ### Daron Acemoğlu, Ufuk Akcigit, Douglas Hanley et al. (2016) — Transition to Clean Technology
 - **期刊**：Journal of Political Economy [T1]
 - **引用**：950
@@ -114,33 +69,6 @@
 
 ---
 
-### William D. Nordhaus (2015) — Climate Clubs: Overcoming Free-riding in International Climate Policy
-- **期刊**：American Economic Review [T1]
-- **引用**：1295
-- **优先级**：core
-- **议题**：T1
-- **DOI**：[10.1257/aer.15000001](https://doi.org/10.1257/aer.15000001)
-
----
-
-### Jesús Fernández‐Villaverde, Pablo Guerrón-Quintana, Keith Kuester et al. (2015) — Fiscal Volatility Shocks and Economic Activity
-- **期刊**：American Economic Review [T1]
-- **引用**：917
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1257/aer.20121236](https://doi.org/10.1257/aer.20121236)
-
----
-
-### Eric Budish, Peter Cramton, John J. Shim (2015) — The High-Frequency Trading Arms Race: Frequent Batch Auctions as a Market Design Response *
-- **期刊**：The Quarterly Journal of Economics [T1]
-- **引用**：853
-- **优先级**：core
-- **议题**：T1
-- **DOI**：[10.1093/qje/qjv027](https://doi.org/10.1093/qje/qjv027)
-
----
-
 ### Xavier Gabaix, Matteo Maggiori (2015) — International Liquidity and Exchange Rate Dynamics*
 - **期刊**：The Quarterly Journal of Economics [T1]
 - **引用**：811
@@ -156,15 +84,6 @@
 - **优先级**：core
 - **议题**：T2
 - **DOI**：[10.1093/restud/rdu035](https://doi.org/10.1093/restud/rdu035)
-
----
-
-### Thomas Piketty, Gabriel Zucman (2014) — Capital is Back: Wealth-Income Ratios in Rich Countries 1700–2010 *
-- **期刊**：The Quarterly Journal of Economics [T1]
-- **引用**：1308
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1093/qje/qju018](https://doi.org/10.1093/qje/qju018)
 
 ---
 
@@ -192,15 +111,6 @@
 - **优先级**：core
 - **议题**：T2, T4, T5
 - **DOI**：[10.1257/aer.103.6.2121](https://doi.org/10.1257/aer.103.6.2121)
-
----
-
-### David Autor, David Dorn (2013) — The Growth of Low-Skill Service Jobs and the Polarization of the US Labor Market
-- **期刊**：American Economic Review [T1]
-- **引用**：3640
-- **优先级**：core
-- **议题**：T4
-- **DOI**：[10.1257/aer.103.5.1553](https://doi.org/10.1257/aer.103.5.1553)
 
 ---
 
@@ -285,15 +195,6 @@
 
 ---
 
-### Francine D. Blau, Lawrence M. Kahn (2017) — The Gender Wage Gap: Extent, Trends, and Explanations
-- **期刊**：Journal of Economic Literature [T2]
-- **引用**：2799
-- **优先级**：core
-- **议题**：T1, T2
-- **DOI**：[10.1257/jel.20160995](https://doi.org/10.1257/jel.20160995)
-
----
-
 ### David Autor, David Dorn, Gordon Hanson (2016) — The China Shock: Learning from Labor-Market Adjustment to Large Changes in Trade
 - **期刊**：Annual Review of Economics [T2]
 - **引用**：1239
@@ -339,39 +240,12 @@
 
 ---
 
-### Alberto Alesina, Paola Giuliano (2015) — Culture and Institutions
-- **期刊**：Journal of Economic Literature [T2]
-- **引用**：1404
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1257/jel.53.4.898](https://doi.org/10.1257/jel.53.4.898)
-
----
-
-### Marion Fourcade, Étienne Ollion, Yann Algan (2015) — The Superiority of Economists
-- **期刊**：The Journal of Economic Perspectives [T2]
-- **引用**：675
-- **优先级**：core
-- **议题**：T1
-- **DOI**：[10.1257/jep.29.1.89](https://doi.org/10.1257/jep.29.1.89)
-
----
-
 ### Melissa Dell, Benjamin F. Jones, Benjamin Olken (2014) — What Do We Learn from the Weather? The New Climate-Economy Literature
 - **期刊**：Journal of Economic Literature [T2]
 - **引用**：2149
 - **优先级**：core
 - **议题**：T3
 - **DOI**：[10.1257/jel.52.3.740](https://doi.org/10.1257/jel.52.3.740)
-
----
-
-### Rafael La Porta, Andrei Shleifer (2014) — Informality and Development
-- **期刊**：The Journal of Economic Perspectives [T2]
-- **引用**：1348
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1257/jep.28.3.109](https://doi.org/10.1257/jep.28.3.109)
 
 ---
 
@@ -393,24 +267,6 @@
 
 ---
 
-### Thomas Piketty, Emmanuel Saez, Stefanie Stantcheva (2014) — Optimal Taxation of Top Labor Incomes: A Tale of Three Elasticities
-- **期刊**：American Economic Journal Economic Policy [T2]
-- **引用**：707
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1257/pol.6.1.230](https://doi.org/10.1257/pol.6.1.230)
-
----
-
-### Facundo Alvaredo, Anthony B. Atkinson, Thomas Piketty et al. (2013) — The Top 1 Percent in International and Historical Perspective
-- **期刊**：The Journal of Economic Perspectives [T2]
-- **引用**：828
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1257/jep.27.3.3](https://doi.org/10.1257/jep.27.3.3)
-
----
-
 ### Christiane Baumeister, Gert Peersman (2013) — Time-Varying Effects of Oil Supply Shocks on the US Economy
 - **期刊**：American Economic Journal Macroeconomics [T2]
 - **引用**：517
@@ -420,39 +276,12 @@
 
 ---
 
-### Philip Oreopoulos, Till von Wachter, Andrew Heisz (2012) — The Short- and Long-Term Career Effects of Graduating in a Recession
-- **期刊**：American Economic Journal Applied Economics [T2]
-- **引用**：1252
-- **优先级**：core
-- **议题**：T3, T4
-- **DOI**：[10.1257/app.4.1.1](https://doi.org/10.1257/app.4.1.1)
-
----
-
-### Markus Kitzmueller, Jay P. Shimshack (2012) — Economic Perspectives on Corporate Social Responsibility
-- **期刊**：Journal of Economic Literature [T2]
-- **引用**：1098
-- **优先级**：core
-- **议题**：T1
-- **DOI**：[10.1257/jel.50.1.51](https://doi.org/10.1257/jel.50.1.51)
-
----
-
 ### Lutz Kilian, Daniel Murphy (2012) — WHY AGNOSTIC SIGN RESTRICTIONS ARE NOT ENOUGH: UNDERSTANDING THE DYNAMICS OF OIL MARKET VAR MODELS
 - **期刊**：Journal of the European Economic Association [T2]
 - **引用**：529
 - **优先级**：core
 - **议题**：T3
 - **DOI**：[10.1111/j.1542-4774.2012.01080.x](https://doi.org/10.1111/j.1542-4774.2012.01080.x)
-
----
-
-### Richard T. Carson (2012) — Contingent Valuation: A Practical Alternative when Prices Aren't Available
-- **期刊**：The Journal of Economic Perspectives [T2]
-- **引用**：527
-- **优先级**：core
-- **议题**：T4
-- **DOI**：[10.1257/jep.26.4.27](https://doi.org/10.1257/jep.26.4.27)
 
 ---
 
@@ -471,24 +300,6 @@
 - **优先级**：core
 - **议题**：T5
 - **DOI**：[10.1257/jel.49.4.1076](https://doi.org/10.1257/jel.49.4.1076)
-
----
-
-### Anthony B. Atkinson, Thomas Piketty, Emmanuel Saez (2011) — Top Incomes in the Long Run of History
-- **期刊**：Journal of Economic Literature [T2]
-- **引用**：2298
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1257/jel.49.1.3](https://doi.org/10.1257/jel.49.1.3)
-
----
-
-### Uri Gneezy, Stephan Meier, Pedro Rey‐Biel (2011) — When and Why Incentives (Don't) Work to Modify Behavior
-- **期刊**：The Journal of Economic Perspectives [T2]
-- **引用**：1709
-- **优先级**：core
-- **议题**：T2
-- **DOI**：[10.1257/jep.25.4.191](https://doi.org/10.1257/jep.25.4.191)
 
 ---
 
@@ -609,33 +420,6 @@
 
 ---
 
-### Olaf Erenstein, Moti Jaleta, Kai Sonder et al. (2022) — Global maize production, consumption and trade: trends and R&amp;D implications
-- **期刊**：Food Security [other]
-- **引用**：1075
-- **优先级**：core
-- **议题**：T4
-- **DOI**：[10.1007/s12571-022-01288-7](https://doi.org/10.1007/s12571-022-01288-7)
-
----
-
-### Douglas R. MacFarlane, Pavel V. Cherepanov, Jaecheol Choi et al. (2020) — A Roadmap to the Ammonia Economy
-- **期刊**：Joule [other]
-- **引用**：1694
-- **优先级**：core
-- **议题**：T3
-- **DOI**：[10.1016/j.joule.2020.04.004](https://doi.org/10.1016/j.joule.2020.04.004)
-
----
-
-### Chunguang Bai, Patrick Dallasega, Guido Orzes et al. (2020) — Industry 4.0 technologies assessment: A sustainability perspective
-- **期刊**：International Journal of Production Economics [other]
-- **引用**：1321
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1016/j.ijpe.2020.107776](https://doi.org/10.1016/j.ijpe.2020.107776)
-
----
-
 ### Jeffrey Rissman, Chris Bataille, Eric Masanet et al. (2020) — Technologies and policies to decarbonize global industry: Review and assessment of mitigation drivers through 2070
 - **期刊**：Applied Energy [other]
 - **引用**：952
@@ -663,42 +447,6 @@
 
 ---
 
-### Jason Hickel, Giorgos Kallis (2019) — Is Green Growth Possible?
-- **期刊**：New Political Economy [other]
-- **引用**：1773
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1080/13563467.2019.1598964](https://doi.org/10.1080/13563467.2019.1598964)
-
----
-
-### Andreas Hein, Maximilian Schreieck, Tobias Riasanow et al. (2019) — Digital platform ecosystems
-- **期刊**：Electronic Markets [other]
-- **引用**：790
-- **优先级**：core
-- **议题**：T3, T4
-- **DOI**：[10.1007/s12525-019-00377-4](https://doi.org/10.1007/s12525-019-00377-4)
-
----
-
-### Vladimir Litvinenko (2019) — Digital Economy as a Factor in the Technological Development of the Mineral Sector
-- **期刊**：Natural Resources Research [other]
-- **引用**：542
-- **优先级**：core
-- **议题**：T4, T5
-- **DOI**：[10.1007/s11053-019-09568-4](https://doi.org/10.1007/s11053-019-09568-4)
-
----
-
-### Nick Couldry, Ulises A. Mejias (2018) — Data Colonialism: Rethinking Big Data’s Relation to the Contemporary Subject
-- **期刊**：Television & New Media [other]
-- **引用**：1315
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1177/1527476418796632](https://doi.org/10.1177/1527476418796632)
-
----
-
 ### Dani Rodrik (2018) — Understanding Economic Policy Reform
 - **期刊**： [other]
 - **引用**：1283
@@ -717,111 +465,12 @@
 
 ---
 
-### Shaen Corbet, Brian M. Lucey, Andrew Urquhart et al. (2018) — RETRACTED: Cryptocurrencies as a financial asset: A systematic analysis
-- **期刊**：International Review of Financial Analysis [other]
-- **引用**：1112
-- **优先级**：core
-- **议题**：T1, T4
-- **DOI**：[10.1016/j.irfa.2018.09.003](https://doi.org/10.1016/j.irfa.2018.09.003)
-
----
-
-### Tamee R. Albrecht, Arica Crootof, Christopher A. Scott (2018) — The Water-Energy-Food Nexus: A systematic review of methods for nexus assessment
-- **期刊**：Environmental Research Letters [other]
-- **引用**：842
-- **优先级**：core
-- **议题**：T3, T5
-- **DOI**：[10.1088/1748-9326/aaa9c6](https://doi.org/10.1088/1748-9326/aaa9c6)
-
----
-
-### Tomislav Klarin (2018) — The Concept of Sustainable Development: From its Beginning to the Contemporary Issues
-- **期刊**：Zagreb international review of economics and business/Zagreb international review of economics & business [other]
-- **引用**：803
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.2478/zireb-2018-0005](https://doi.org/10.2478/zireb-2018-0005)
-
----
-
-### Vikas Soekhai, Esther W. de Bekker‐Grob, Alan R. Ellis et al. (2018) — Discrete Choice Experiments in Health Economics: Past, Present and Future
-- **期刊**：PharmacoEconomics [other]
-- **引用**：790
-- **优先级**：core
-- **议题**：T2
-- **DOI**：[10.1007/s40273-018-0734-2](https://doi.org/10.1007/s40273-018-0734-2)
-
----
-
-### Marcel Bogers, Henry Chesbrough, Carlos Moedas (2018) — Open Innovation: Research, Practices, and Policies
-- **期刊**：California Management Review [other]
-- **引用**：774
-- **优先级**：core
-- **议题**：T4
-- **DOI**：[10.1177/0008125617745086](https://doi.org/10.1177/0008125617745086)
-
----
-
-### Giorgos Kallis, Vasilis Kostakis, Steffen Lange et al. (2018) — Research On Degrowth
-- **期刊**：Annual Review of Environment and Resources [other]
-- **引用**：612
-- **优先级**：core
-- **议题**：T3, T5
-- **DOI**：[10.1146/annurev-environ-102017-025941](https://doi.org/10.1146/annurev-environ-102017-025941)
-
----
-
-### Sarah Brayne (2017) — Big Data Surveillance: The Case of Policing
-- **期刊**：American Sociological Review [other]
-- **引用**：754
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1177/0003122417725865](https://doi.org/10.1177/0003122417725865)
-
----
-
-### Benjamin K. Sovacool, Matthew J. Burke, Lucy Baker et al. (2017) — New frontiers and conceptual frameworks for energy justice
-- **期刊**：Energy Policy [other]
-- **引用**：723
-- **优先级**：core
-- **议题**：T3
-- **DOI**：[10.1016/j.enpol.2017.03.005](https://doi.org/10.1016/j.enpol.2017.03.005)
-
----
-
-### Mattias Borg Rasmussen, Christian Lund (2017) — Reconfiguring Frontier Spaces: The territorialization of resource control
-- **期刊**：World Development [other]
-- **引用**：502
-- **优先级**：core
-- **议题**：T3
-- **DOI**：[10.1016/j.worlddev.2017.01.018](https://doi.org/10.1016/j.worlddev.2017.01.018)
-
----
-
 ### Daron Acemoğlu, David Autor, David Dorn et al. (2015) — Import Competition and the Great US Employment Sag of the 2000s
 - **期刊**：Journal of Labor Economics [other]
 - **引用**：1069
 - **优先级**：core
 - **议题**：T4
 - **DOI**：[10.1086/682384](https://doi.org/10.1086/682384)
-
----
-
-### Heather Davis, Étienne Turpin (2015) — Art in the Anthropocene: Encounters Among Aesthetics, Politics, Environments and Epistemologies
-- **期刊**：Open Humanities Press eBooks [other]
-- **引用**：617
-- **优先级**：core
-- **议题**：T3
-- **DOI**：[10.26530/oapen_560010](https://doi.org/10.26530/oapen_560010)
-
----
-
-### Thomas Piketty (2014) — Capital in the Twenty-First Century
-- **期刊**：Harvard University Press eBooks [other]
-- **引用**：13281
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.4159/9780674369542](https://doi.org/10.4159/9780674369542)
 
 ---
 
@@ -834,48 +483,12 @@
 
 ---
 
-### Pierluigi Mancarella (2013) — MES (multi-energy systems): An overview of concepts and evaluation models
-- **期刊**：Energy [other]
-- **引用**：1347
-- **优先级**：core
-- **议题**：T3
-- **DOI**：[10.1016/j.energy.2013.10.041](https://doi.org/10.1016/j.energy.2013.10.041)
-
----
-
-### Bekele Shiferaw, B. M. Prasanna, Jon Hellin et al. (2011) — Crops that feed the world 6. Past successes and future challenges to the role played by maize in global food security
-- **期刊**：Food Security [other]
-- **引用**：1532
-- **优先级**：core
-- **议题**：T3
-- **DOI**：[10.1007/s12571-011-0140-5](https://doi.org/10.1007/s12571-011-0140-5)
-
----
-
 ### Gianmarco I.P. Ottaviano, Frédéric Robert‐Nicoud, Richard Baldwin et al. (2011) — Economic Geography and Public Policy
 - **期刊**：Princeton University Press eBooks [other]
 - **引用**：1009
 - **优先级**：core
 - **议题**：T3
 - **DOI**：[10.1515/9781400841233](https://doi.org/10.1515/9781400841233)
-
----
-
-### Richard Baldwin, Martín Cave, Martín Lodge (2011) — Understanding Regulation
-- **期刊**： [other]
-- **引用**：506
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1093/acprof:osobl/9780199576081.001.0001](https://doi.org/10.1093/acprof:osobl/9780199576081.001.0001)
-
----
-
-### James Simmie, R. Martin (2010) — The economic resilience of regions: towards an evolutionary approach
-- **期刊**：Cambridge Journal of Regions Economy and Society [other]
-- **引用**：1584
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1093/cjres/rsp029](https://doi.org/10.1093/cjres/rsp029)
 
 ---
 
@@ -888,16 +501,7 @@
 
 ---
 
-## 推荐阅读 (Recommended) (102 篇)
-
-### Pierre Bachas, Lucie Gadenne, Anders Jensen (2023) — Informality, Consumption Taxes, and Redistribution
-- **期刊**：The Review of Economic Studies [T1]
-- **引用**：176
-- **优先级**：recommended
-- **议题**：T2
-- **DOI**：[10.1093/restud/rdad095](https://doi.org/10.1093/restud/rdad095)
-
----
+## 推荐阅读 (Recommended) (88 篇)
 
 ### Pablo Fajgelbaum, Stephen J. Redding (2022) — Trade, Structural Transformation, and Development: Evidence from Argentina 1869–1914
 - **期刊**：Journal of Political Economy [T1]
@@ -905,15 +509,6 @@
 - **优先级**：recommended
 - **议题**：T5
 - **DOI**：[10.1086/718915](https://doi.org/10.1086/718915)
-
----
-
-### Stefano Giglio, Matteo Maggiori, K. H. Rao et al. (2021) — Climate Change and Long-Run Discount Rates: Evidence from Real Estate
-- **期刊**：Review of Financial Studies [T1]
-- **引用**：376
-- **优先级**：recommended
-- **议题**：T1
-- **DOI**：[10.1093/rfs/hhab032](https://doi.org/10.1093/rfs/hhab032)
 
 ---
 
@@ -1016,15 +611,6 @@
 
 ---
 
-### Mary Amiti, David E. Weinstein (2017) — How Much Do Idiosyncratic Bank Shocks Affect Investment? Evidence from Matched Bank-Firm Loan Data
-- **期刊**：Journal of Political Economy [T1]
-- **引用**：356
-- **优先级**：recommended
-- **议题**：T5
-- **DOI**：[10.1086/696272](https://doi.org/10.1086/696272)
-
----
-
 ### Javier Bianchi, Enrique G. Mendoza (2017) — Optimal Time-Consistent Macroprudential Policy
 - **期刊**：Journal of Political Economy [T1]
 - **引用**：320
@@ -1070,30 +656,12 @@
 
 ---
 
-### Alberto Cavallo (2016) — Are Online and Offline Prices Similar? Evidence from Large Multi-Channel Retailers
-- **期刊**：American Economic Review [T1]
-- **引用**：327
-- **优先级**：recommended
-- **议题**：T2
-- **DOI**：[10.1257/aer.20160542](https://doi.org/10.1257/aer.20160542)
-
----
-
 ### Pol Antràs, C. Fritz Foley (2015) — Poultry in Motion: A Study of International Trade Finance Practices
 - **期刊**：Journal of Political Economy [T1]
 - **引用**：296
 - **优先级**：recommended
 - **议题**：T3
 - **DOI**：[10.1086/681592](https://doi.org/10.1086/681592)
-
----
-
-### Martin Lettau, Matteo Maggiori, Michael Weber (2014) — Conditional risk premia in currency markets and other asset classes
-- **期刊**：Journal of Financial Economics [T1]
-- **引用**：418
-- **优先级**：recommended
-- **议题**：T1
-- **DOI**：[10.1016/j.jfineco.2014.07.001](https://doi.org/10.1016/j.jfineco.2014.07.001)
 
 ---
 
@@ -1106,30 +674,12 @@
 
 ---
 
-### Stefano Giglio, Matteo Maggiori, Johannes Stroebel (2014) — Very Long-Run Discount Rates *
-- **期刊**：The Quarterly Journal of Economics [T1]
-- **引用**：233
-- **优先级**：recommended
-- **议题**：T1
-- **DOI**：[10.1093/qje/qju036](https://doi.org/10.1093/qje/qju036)
-
----
-
 ### Chad P. Bown, Meredith A. Crowley (2013) — Self-Enforcing Trade Agreements: Evidence from Time-Varying Trade Policy
 - **期刊**：American Economic Review [T1]
 - **引用**：127
 - **优先级**：recommended
 - **议题**：T2
 - **DOI**：[10.1257/aer.103.2.1071](https://doi.org/10.1257/aer.103.2.1071)
-
----
-
-### Anders Åkerman, Elhanan Helpman, Oleg Itskhoki et al. (2013) — Sources of Wage Inequality
-- **期刊**：American Economic Review [T1]
-- **引用**：120
-- **优先级**：recommended
-- **议题**：T5
-- **DOI**：[10.1257/aer.103.3.214](https://doi.org/10.1257/aer.103.3.214)
 
 ---
 
@@ -1493,15 +1043,6 @@
 
 ---
 
-### Rosaleen Duffy (2014) — Waging a war to save biodiversity: the rise of militarized conservation
-- **期刊**：International Affairs [T3]
-- **引用**：373
-- **优先级**：recommended
-- **议题**：T1
-- **DOI**：[10.1111/1468-2346.12142](https://doi.org/10.1111/1468-2346.12142)
-
----
-
 ### Henry Farrell, Abraham L. Newman (2014) — Domestic Institutions beyond the Nation-State: Charting the New Interdependence Approach
 - **期刊**：World Politics [T3]
 - **引用**：214
@@ -1517,15 +1058,6 @@
 - **优先级**：recommended
 - **议题**：T1
 - **DOI**：[10.1111/isqu.12161](https://doi.org/10.1111/isqu.12161)
-
----
-
-### Dursun Peksen, Timothy M. Peterson, A. Cooper Drury (2014) — Media-driven Humanitarianism? News Media Coverage of Human Rights Abuses and the Use of Economic Sanctions
-- **期刊**：International Studies Quarterly [T3]
-- **引用**：104
-- **优先级**：recommended
-- **议题**：T1
-- **DOI**：[10.1111/isqu.12136](https://doi.org/10.1111/isqu.12136)
 
 ---
 
@@ -1547,15 +1079,6 @@
 
 ---
 
-### Eric Lawrence, John Sides, Henry Farrell (2010) — Self-Segregation or Deliberation? Blog Readership, Participation, and Polarization in American Politics
-- **期刊**：Perspectives on Politics [T3]
-- **引用**：350
-- **优先级**：recommended
-- **议题**：T1, T5
-- **DOI**：[10.1017/s1537592709992714](https://doi.org/10.1017/s1537592709992714)
-
----
-
 ### Shekhar Aiyar, Anna Ilyina, Jiaqian Chen et al. (2023) — Geo-Economic Fragmentation and the Future of Multilateralism
 - **期刊**：IMF staff discussion note [WP]
 - **引用**：270
@@ -1571,15 +1094,6 @@
 - **优先级**：recommended
 - **议题**：T3, T5
 - **DOI**：[10.3386/w31661](https://doi.org/10.3386/w31661)
-
----
-
-### Laura Alfaro, Anusha Chari, Andrew Greenland et al. (2020) — Aggregate and Firm-Level Stock Returns During Pandemics, in Real Time
-- **期刊**：National Bureau of Economic Research [WP]
-- **引用**：420
-- **优先级**：recommended
-- **议题**：T3
-- **DOI**：[10.3386/w26950](https://doi.org/10.3386/w26950)
 
 ---
 
@@ -1637,15 +1151,6 @@
 
 ---
 
-### Mary Amiti, David Weinstein (2013) — How Much do Idiosyncratic Bank Shocks Affect Investment? Evidence from Matched Bank-Firm Loan Data
-- **期刊**：National Bureau of Economic Research [WP]
-- **引用**：210
-- **优先级**：recommended
-- **议题**：T5
-- **DOI**：[10.3386/w18890](https://doi.org/10.3386/w18890)
-
----
-
 ### Pol Antràs, Davin Chor (2012) — Organizing the Global Value Chain
 - **期刊**：National Bureau of Economic Research [WP]
 - **引用**：258
@@ -1688,15 +1193,6 @@
 - **优先级**：recommended
 - **议题**：T3, T5
 - **DOI**：[10.71609/iheid-2ykv-0p36](https://doi.org/10.71609/iheid-2ykv-0p36)
-
----
-
-### Hanane Allioui, Youssef Mourdi (2023) — Exploring the Full Potentials of IoT for Better Financial Growth and Stability: A Comprehensive Survey
-- **期刊**：Sensors [other]
-- **引用**：487
-- **优先级**：recommended
-- **议题**：T1
-- **DOI**：[10.3390/s23198015](https://doi.org/10.3390/s23198015)
 
 ---
 
@@ -1754,15 +1250,6 @@
 
 ---
 
-### Timothy J. Sturgeon (2019) — Upgrading strategies for the digital economy
-- **期刊**：Global Strategy Journal [other]
-- **引用**：485
-- **优先级**：recommended
-- **议题**：T4
-- **DOI**：[10.1002/gsj.1364](https://doi.org/10.1002/gsj.1364)
-
----
-
 ### Olga Petricević, David J. Teece (2019) — The structural reshaping of globalization: Implications for strategic sectors, profiting from innovation, and the multinational enterprise
 - **期刊**：Journal of International Business Studies [other]
 - **引用**：444
@@ -1808,14 +1295,13 @@
 
 ---
 
-## 参考文献 (Reference) (17 篇)
+## 参考文献 (Reference) (16 篇)
 
 | 作者 | 年份 | 标题 | 期刊 | 引用 | 议题 |
 |------|------|------|------|------|------|
 | Fajgelbaum et al. | 2024 | The US-China Trade War and Global Reallocations | American Economic Review Insig | 80 | T2 |
 | Fajgelbaum et al. | 2018 | Optimal Spatial Policies, Geography and Sorting | The Quarterly Journal of Econo | 53 | T2 |
 | Ossa | 2012 | Profits in the “New Trade” Approach to Trade Negot | American Economic Review | 27 | T2 |
-| Blanchard et al. | 2023 | The Portfolio of Economic Policies Needed to Fight | Annual Review of Economics | 93 | T2 |
 | Breinlich et al. | 2021 | THE BREXIT VOTE, INFLATION AND U.K. LIVING STANDAR | International Economic Review | 55 | T2 |
 | Maggi et al. | 2021 | The Political Economy of Deep Integration | Annual Review of Economics | 33 | T2 |
 | McNally et al. | 2017 | A novel pathway to power? Contestation and adaptat | Review of International Politi | 59 | T1,T5 |

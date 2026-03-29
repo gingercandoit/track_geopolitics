@@ -1,38 +1,17 @@
 # 文献库 — 按作者索引
 
 > 自动生成于 2026-03-29
-> 仅显示有 2 篇及以上论文的作者，共 66 位
+> 仅显示有 2 篇及以上论文的作者，共 56 位
 
 ---
 
-## Thomas Piketty (7 篇, 19960 总引用)
+## David Autor (6 篇, 12727 总引用)
 
-- [475 cites] (2019) Capital Accumulation, Private Property, and Rising Inequality in China, 1978–201 — *American Economic Review* [T1] T5
-- [1063 cites] (2017) Distributional National Accounts: Methods and Estimates for the United States* — *The Quarterly Journal of Economics* [T1] T5
-- [1308 cites] (2014) Capital is Back: Wealth-Income Ratios in Rich Countries 1700–2010 * — *The Quarterly Journal of Economics* [T1] T5
-- [707 cites] (2014) Optimal Taxation of Top Labor Incomes: A Tale of Three Elasticities — *American Economic Journal Economic Polic* [T2] T5
-- [828 cites] (2013) The Top 1 Percent in International and Historical Perspective — *The Journal of Economic Perspectives* [T2] T5
-- [2298 cites] (2011) Top Incomes in the Long Run of History — *Journal of Economic Literature* [T2] T5
-- [13281 cites] (2014) Capital in the Twenty-First Century — *Harvard University Press eBooks* [other] T5
-
-## David Autor (8 篇, 18368 总引用)
-
-- [2001 cites] (2020) The Fall of the Labor Share and the Rise of Superstar Firms* — *The Quarterly Journal of Economics* [T1] T3,T4
 - [693 cites] (2014) Trade Adjustment: Worker-Level Evidence* — *The Quarterly Journal of Economics* [T1] T4
 - [4184 cites] (2013) The China Syndrome: Local Labor Market Effects of Import Competition in the Unit — *American Economic Review* [T1] T2,T4,T5
-- [3640 cites] (2013) The Growth of Low-Skill Service Jobs and the Polarization of the US Labor Market — *American Economic Review* [T1] T4
 - [1239 cites] (2016) The China Shock: Learning from Labor-Market Adjustment to Large Changes in Trade — *Annual Review of Economics* [T2] T1,T4
 - [3347 cites] (2015) Why Are There Still So Many Jobs? The History and Future of Workplace Automation — *The Journal of Economic Perspectives* [T2] T4
 - [2195 cites] (2010) Skills, Tasks and Technologies: Implications for Employment and Earnings — *National Bureau of Economic Research* [WP] T5
-- [1069 cites] (2015) Import Competition and the Great US Employment Sag of the 2000s — *Journal of Labor Economics* [other] T4
-
-## David Dorn (6 篇, 12826 总引用)
-
-- [2001 cites] (2020) The Fall of the Labor Share and the Rise of Superstar Firms* — *The Quarterly Journal of Economics* [T1] T3,T4
-- [693 cites] (2014) Trade Adjustment: Worker-Level Evidence* — *The Quarterly Journal of Economics* [T1] T4
-- [4184 cites] (2013) The China Syndrome: Local Labor Market Effects of Import Competition in the Unit — *American Economic Review* [T1] T2,T4,T5
-- [3640 cites] (2013) The Growth of Low-Skill Service Jobs and the Polarization of the US Labor Market — *American Economic Review* [T1] T4
-- [1239 cites] (2016) The China Shock: Learning from Labor-Market Adjustment to Large Changes in Trade — *Annual Review of Economics* [T2] T1,T4
 - [1069 cites] (2015) Import Competition and the Great US Employment Sag of the 2000s — *Journal of Labor Economics* [other] T4
 
 ## Marcel P. Timmer (4 篇, 8109 总引用)
@@ -52,21 +31,19 @@
 - [2195 cites] (2010) Skills, Tasks and Technologies: Implications for Employment and Earnings — *National Bureau of Economic Research* [WP] T5
 - [1069 cites] (2015) Import Competition and the Great US Employment Sag of the 2000s — *Journal of Labor Economics* [other] T4
 
-## Gordon Hanson (4 篇, 7185 总引用)
+## David Dorn (4 篇, 7185 总引用)
 
 - [693 cites] (2014) Trade Adjustment: Worker-Level Evidence* — *The Quarterly Journal of Economics* [T1] T4
 - [4184 cites] (2013) The China Syndrome: Local Labor Market Effects of Import Competition in the Unit — *American Economic Review* [T1] T2,T4,T5
 - [1239 cites] (2016) The China Shock: Learning from Labor-Market Adjustment to Large Changes in Trade — *Annual Review of Economics* [T2] T1,T4
 - [1069 cites] (2015) Import Competition and the Great US Employment Sag of the 2000s — *Journal of Labor Economics* [other] T4
 
-## John Van Reenen (6 篇, 7008 总引用)
+## Gordon Hanson (4 篇, 7185 总引用)
 
-- [2001 cites] (2020) The Fall of the Labor Share and the Rise of Superstar Firms* — *The Quarterly Journal of Economics* [T1] T3,T4
-- [861 cites] (2020) Are Ideas Getting Harder to Find? — *American Economic Review* [T1] T4
-- [487 cites] (2019) Some Causal Effects of an Industrial Policy — *American Economic Review* [T1] T2
-- [1675 cites] (2013) Identifying Technology Spillovers and Product Market Rivalry — *Econometrica* [T1] T2,T4
-- [527 cites] (2019) A Toolkit of Policies to Promote Innovation — *The Journal of Economic Perspectives* [T2] T2
-- [1457 cites] (2010) Why Do Management Practices Differ across Firms and Countries? — *The Journal of Economic Perspectives* [T2] T2,T4
+- [693 cites] (2014) Trade Adjustment: Worker-Level Evidence* — *The Quarterly Journal of Economics* [T1] T4
+- [4184 cites] (2013) The China Syndrome: Local Labor Market Effects of Import Competition in the Unit — *American Economic Review* [T1] T2,T4,T5
+- [1239 cites] (2016) The China Shock: Learning from Labor-Market Adjustment to Large Changes in Trade — *Annual Review of Economics* [T2] T1,T4
+- [1069 cites] (2015) Import Competition and the Great US Employment Sag of the 2000s — *Journal of Labor Economics* [other] T4
 
 ## Dani Rodrik (5 篇, 5766 总引用)
 
@@ -85,20 +62,20 @@
 - [1457 cites] (2010) Why Do Management Practices Differ across Firms and Countries? — *The Journal of Economic Perspectives* [T2] T2,T4
 - [224 cites] (2013) Innovation, Reallocation and Growth — *National Bureau of Economic Research* [WP] T4
 
-## Emmanuel Saez (4 篇, 4896 总引用)
+## John Van Reenen (5 篇, 5007 总引用)
 
-- [1063 cites] (2017) Distributional National Accounts: Methods and Estimates for the United States* — *The Quarterly Journal of Economics* [T1] T5
-- [707 cites] (2014) Optimal Taxation of Top Labor Incomes: A Tale of Three Elasticities — *American Economic Journal Economic Polic* [T2] T5
-- [828 cites] (2013) The Top 1 Percent in International and Historical Perspective — *The Journal of Economic Perspectives* [T2] T5
-- [2298 cites] (2011) Top Incomes in the Long Run of History — *Journal of Economic Literature* [T2] T5
+- [861 cites] (2020) Are Ideas Getting Harder to Find? — *American Economic Review* [T1] T4
+- [487 cites] (2019) Some Causal Effects of an Industrial Policy — *American Economic Review* [T1] T2
+- [1675 cites] (2013) Identifying Technology Spillovers and Product Market Rivalry — *Econometrica* [T1] T2,T4
+- [527 cites] (2019) A Toolkit of Policies to Promote Innovation — *The Journal of Economic Perspectives* [T2] T2
+- [1457 cites] (2010) Why Do Management Practices Differ across Firms and Countries? — *The Journal of Economic Perspectives* [T2] T2,T4
 
-## Oleg Itskhoki (10 篇, 3733 总引用)
+## Oleg Itskhoki (9 篇, 3613 总引用)
 
 - [251 cites] (2019) International Shocks, Variable Markups, and Domestic Prices — *The Review of Economic Studies* [T1] T1,T2
 - [160 cites] (2019) Optimal Development Policies With Financial Frictions — *Econometrica* [T1] T5
 - [428 cites] (2016) Trade and Inequality: From Theory to Estimation — *The Review of Economic Studies* [T1] T5
 - [612 cites] (2014) Importers, Exporters, and Exchange Rate Disconnect — *American Economic Review* [T1] T1,T2
-- [120 cites] (2013) Sources of Wage Inequality — *American Economic Review* [T1] T5
 - [887 cites] (2010) Inequality and Unemployment in a Global Economy — *Econometrica* [T1] T5
 - [590 cites] (2010) Currency Choice and Exchange Rate Pass-Through — *American Economic Review* [T1] T1
 - [288 cites] (2010) Frequency of Price Adjustment and Pass-Through<sup>*</sup> — *The Quarterly Journal of Economics* [T1] T1
@@ -115,13 +92,6 @@
 - [261 cites] (2020) Ten Facts on Declining Business Dynamism and Lessons from Endogenous Growth Theo — *American Economic Journal Macroeconomics* [T2] T4
 - [417 cites] (2016) Networks and the Macroeconomy: An Empirical Exploration — *NBER Macroeconomics Annual* [WP] T4
 - [224 cites] (2013) Innovation, Reallocation and Growth — *National Bureau of Economic Research* [WP] T4
-
-## Gabriel Zucman (4 篇, 3399 总引用)
-
-- [553 cites] (2019) Tax Evasion and Inequality — *American Economic Review* [T1] T5
-- [475 cites] (2019) Capital Accumulation, Private Property, and Rising Inequality in China, 1978–201 — *American Economic Review* [T1] T5
-- [1063 cites] (2017) Distributional National Accounts: Methods and Estimates for the United States* — *The Quarterly Journal of Economics* [T1] T5
-- [1308 cites] (2014) Capital is Back: Wealth-Income Ratios in Rich Countries 1700–2010 * — *The Quarterly Journal of Economics* [T1] T5
 
 ## Davin Chor (11 篇, 3355 总引用)
 
@@ -152,31 +122,6 @@
 - [2403 cites] (2015) An Illustrated User Guide to the World Input–Output Database: the Case of Global — *Review of International Economics* [T2] T2,T3,T4
 - [935 cites] (2014) Slicing Up Global Value Chains — *The Journal of Economic Perspectives* [T2] T3,T5
 
-## Richard Baldwin (5 篇, 3189 总引用)
-
-- [801 cites] (2014) Supply‐chain Trade: A Portrait of Global Patterns and Several Testable Hypothese — *World Economy* [T2] T3
-- [468 cites] (2011) Trade And Industrialisation After Globalisation's 2nd Unbundling: How Building A — *National Bureau of Economic Research* [WP] T3,T5
-- [405 cites] (2025) Global supply chains : why they emerged, why they matter, and where they are goi — *Graduate Institute Geneva Institutional * [other] T3,T5
-- [1009 cites] (2011) Economic Geography and Public Policy — *Princeton University Press eBooks* [other] T3
-- [506 cites] (2011) Understanding Regulation — ** [other] T5
-
-## Matteo Maggiori (9 篇, 3133 总引用)
-
-- [376 cites] (2021) Climate Change and Long-Run Discount Rates: Evidence from Real Estate — *Review of Financial Studies* [T1] T1
-- [197 cites] (2021) Redrawing the Map of Global Capital Flows: The Role of Cross-Border Financing an — *The Quarterly Journal of Economics* [T1] T2
-- [258 cites] (2019) International Currencies and Capital Allocation — *Journal of Political Economy* [T1] T1
-- [451 cites] (2017) Financial Intermediation, International Risk Sharing, and Reserve Currencies — *American Economic Review* [T1] T5
-- [261 cites] (2017) A Model of the International Monetary System* — *The Quarterly Journal of Economics* [T1] T1
-- [811 cites] (2015) International Liquidity and Exchange Rate Dynamics* — *The Quarterly Journal of Economics* [T1] T1
-- [418 cites] (2014) Conditional risk premia in currency markets and other asset classes — *Journal of Financial Economics* [T1] T1
-- [233 cites] (2014) Very Long-Run Discount Rates * — *The Quarterly Journal of Economics* [T1] T1
-- [128 cites] (2020) Redrawing the Map of Global Capital Flows: The Role of Cross-Border Financing an — *National Bureau of Economic Research* [WP] T2
-
-## Anthony B. Atkinson (2 篇, 3126 总引用)
-
-- [828 cites] (2013) The Top 1 Percent in International and Historical Perspective — *The Journal of Economic Perspectives* [T2] T5
-- [2298 cites] (2011) Top Incomes in the Long Run of History — *Journal of Economic Literature* [T2] T5
-
 ## Pol Antràs (9 篇, 3081 总引用)
 
 - [359 cites] (2020) On the Geography of Global Value Chains — *Econometrica* [T1] T3
@@ -189,16 +134,6 @@
 - [258 cites] (2012) Organizing the Global Value Chain — *National Bureau of Economic Research* [WP] T3
 - [393 cites] (2014) Multinational Firms and the Structure of International Trade — *Handbook of international economics* [other] T3
 
-## Mary Amiti (7 篇, 2887 总引用)
-
-- [251 cites] (2019) International Shocks, Variable Markups, and Domestic Prices — *The Review of Economic Studies* [T1] T1,T2
-- [356 cites] (2017) How Much Do Idiosyncratic Bank Shocks Affect Investment? Evidence from Matched B — *Journal of Political Economy* [T1] T5
-- [612 cites] (2014) Importers, Exporters, and Exchange Rate Disconnect — *American Economic Review* [T1] T1,T2
-- [221 cites] (2011) Trade Finance and the Great Trade Collapse — *American Economic Review* [T1] T2
-- [729 cites] (2019) The Impact of the 2018 Tariffs on Prices and Welfare — *The Journal of Economic Perspectives* [T2] T2,T3
-- [508 cites] (2012) Import Competition and Quality Upgrading — *The Review of Economics and Statistics* [T2] T2,T5
-- [210 cites] (2013) How Much do Idiosyncratic Bank Shocks Affect Investment? Evidence from Matched B — *National Bureau of Economic Research* [WP] T5
-
 ## William R. Kerr (5 篇, 2715 总引用)
 
 - [599 cites] (2018) Innovation, Reallocation, and Growth — *American Economic Review* [T1] T2,T4
@@ -207,31 +142,27 @@
 - [417 cites] (2016) Networks and the Macroeconomy: An Empirical Exploration — *NBER Macroeconomics Annual* [WP] T4
 - [224 cites] (2013) Innovation, Reallocation and Growth — *National Bureau of Economic Research* [WP] T4
 
-## B. M. Prasanna (2 篇, 2607 总引用)
+## Richard Baldwin (4 篇, 2683 总引用)
 
-- [1075 cites] (2022) Global maize production, consumption and trade: trends and R&amp;D implications — *Food Security* [other] T4
-- [1532 cites] (2011) Crops that feed the world 6. Past successes and future challenges to the role pl — *Food Security* [other] T3
+- [801 cites] (2014) Supply‐chain Trade: A Portrait of Global Patterns and Several Testable Hypothese — *World Economy* [T2] T3
+- [468 cites] (2011) Trade And Industrialisation After Globalisation's 2nd Unbundling: How Building A — *National Bureau of Economic Research* [WP] T3,T5
+- [405 cites] (2025) Global supply chains : why they emerged, why they matter, and where they are goi — *Graduate Institute Geneva Institutional * [other] T3,T5
+- [1009 cites] (2011) Economic Geography and Public Policy — *Princeton University Press eBooks* [other] T3
 
-## Giorgos Kallis (2 篇, 2385 总引用)
+## Mary Amiti (5 篇, 2321 总引用)
 
-- [1773 cites] (2019) Is Green Growth Possible? — *New Political Economy* [other] T5
-- [612 cites] (2018) Research On Degrowth — *Annual Review of Environment and Resourc* [other] T3,T5
+- [251 cites] (2019) International Shocks, Variable Markups, and Domestic Prices — *The Review of Economic Studies* [T1] T1,T2
+- [612 cites] (2014) Importers, Exporters, and Exchange Rate Disconnect — *American Economic Review* [T1] T1,T2
+- [221 cites] (2011) Trade Finance and the Great Trade Collapse — *American Economic Review* [T1] T2
+- [729 cites] (2019) The Impact of the 2018 Tariffs on Prices and Welfare — *The Journal of Economic Perspectives* [T2] T2,T3
+- [508 cites] (2012) Import Competition and Quality Upgrading — *The Review of Economics and Statistics* [T2] T2,T5
 
-## Stephen J. Redding (5 篇, 2272 总引用)
+## Stephen J. Redding (4 篇, 2152 总引用)
 
 - [108 cites] (2022) Trade, Structural Transformation, and Development: Evidence from Argentina 1869– — *Journal of Political Economy* [T1] T5
 - [428 cites] (2016) Trade and Inequality: From Theory to Estimation — *The Review of Economic Studies* [T1] T5
-- [120 cites] (2013) Sources of Wage Inequality — *American Economic Review* [T1] T5
 - [887 cites] (2010) Inequality and Unemployment in a Global Economy — *Econometrica* [T1] T5
 - [729 cites] (2019) The Impact of the 2018 Tariffs on Prices and Welfare — *The Journal of Economic Perspectives* [T2] T2,T3
-
-## Henry Farrell (5 篇, 2268 总引用)
-
-- [199 cites] (2016) The new interdependence approach: theoretical development and empirical demonstr — *Review of International Political Econom* [T2] T5
-- [214 cites] (2010) Making global markets: Historical institutionalism in international political ec — *Review of International Political Econom* [T2] T5
-- [1291 cites] (2019) Weaponized Interdependence: How Global Economic Networks Shape State Coercion — *International Security* [T3] T1
-- [214 cites] (2014) Domestic Institutions beyond the Nation-State: Charting the New Interdependence  — *World Politics* [T3] T5
-- [350 cites] (2010) Self-Segregation or Deliberation? Blog Readership, Participation, and Polarizati — *Perspectives on Politics* [T3] T1,T5
 
 ## Lutz Kilian (3 篇, 2150 总引用)
 
@@ -261,10 +192,26 @@
 - [56 cites] (2022) The US-China Trade War and Global Reallocations — *World Bank, Washington, DC eBooks* [WP] T2
 - [77 cites] (2021) The US-China Trade War and Global Reallocations — *National Bureau of Economic Research* [WP] T2
 
+## Matteo Maggiori (6 篇, 2106 总引用)
+
+- [197 cites] (2021) Redrawing the Map of Global Capital Flows: The Role of Cross-Border Financing an — *The Quarterly Journal of Economics* [T1] T2
+- [258 cites] (2019) International Currencies and Capital Allocation — *Journal of Political Economy* [T1] T1
+- [451 cites] (2017) Financial Intermediation, International Risk Sharing, and Reserve Currencies — *American Economic Review* [T1] T5
+- [261 cites] (2017) A Model of the International Monetary System* — *The Quarterly Journal of Economics* [T1] T1
+- [811 cites] (2015) International Liquidity and Exchange Rate Dynamics* — *The Quarterly Journal of Economics* [T1] T1
+- [128 cites] (2020) Redrawing the Map of Global Capital Flows: The Role of Cross-Border Financing an — *National Bureau of Economic Research* [WP] T2
+
 ## Daniel Murphy (2 篇, 1927 总引用)
 
 - [529 cites] (2012) WHY AGNOSTIC SIGN RESTRICTIONS ARE NOT ENOUGH: UNDERSTANDING THE DYNAMICS OF OIL — *Journal of the European Economic Associa* [T2] T3
 - [1398 cites] (2013) THE ROLE OF INVENTORIES AND SPECULATIVE TRADING IN THE GLOBAL MARKET FOR CRUDE O — *Journal of Applied Econometrics* [other] T3
+
+## Henry Farrell (4 篇, 1918 总引用)
+
+- [199 cites] (2016) The new interdependence approach: theoretical development and empirical demonstr — *Review of International Political Econom* [T2] T5
+- [214 cites] (2010) Making global markets: Historical institutionalism in international political ec — *Review of International Political Econom* [T2] T5
+- [1291 cites] (2019) Weaponized Interdependence: How Global Economic Networks Shape State Coercion — *International Security* [T3] T1
+- [214 cites] (2014) Domestic Institutions beyond the Nation-State: Charting the New Interdependence  — *World Politics* [T3] T5
 
 ## Abraham L. Newman (4 篇, 1918 总引用)
 
@@ -273,26 +220,11 @@
 - [1291 cites] (2019) Weaponized Interdependence: How Global Economic Networks Shape State Coercion — *International Security* [T3] T1
 - [214 cites] (2014) Domestic Institutions beyond the Nation-State: Charting the New Interdependence  — *World Politics* [T3] T5
 
-## Elhanan Helpman (4 篇, 1795 总引用)
+## Elhanan Helpman (3 篇, 1675 总引用)
 
 - [428 cites] (2016) Trade and Inequality: From Theory to Estimation — *The Review of Economic Studies* [T1] T5
-- [120 cites] (2013) Sources of Wage Inequality — *American Economic Review* [T1] T5
 - [360 cites] (2011) Income Distribution, Product Quality, and International Trade — *Journal of Political Economy* [T1] T2
 - [887 cites] (2010) Inequality and Unemployment in a Global Economy — *Econometrica* [T1] T5
-
-## David E. Weinstein (3 篇, 1306 总引用)
-
-- [356 cites] (2017) How Much Do Idiosyncratic Bank Shocks Affect Investment? Evidence from Matched B — *Journal of Political Economy* [T1] T5
-- [221 cites] (2011) Trade Finance and the Great Trade Collapse — *American Economic Review* [T1] T2
-- [729 cites] (2019) The Impact of the 2018 Tariffs on Prices and Welfare — *The Journal of Economic Perspectives* [T2] T2,T3
-
-## Laura Alfaro (5 篇, 1205 总引用)
-
-- [261 cites] (2018) Internalizing Global Value Chains: A Firm-Level Analysis — *Journal of Political Economy* [T1] T3
-- [200 cites] (2014) SOVEREIGNS, UPSTREAM CAPITAL FLOWS, AND GLOBAL IMBALANCES — *Journal of the European Economic Associa* [T2] T3
-- [208 cites] (2012) Surviving the Global Financial Crisis: Foreign Ownership and Establishment Perfo — *American Economic Journal Economic Polic* [T2] T2
-- [116 cites] (2023) Global Supply Chains: The Looming “Great Reallocation” — *National Bureau of Economic Research* [WP] T3,T5
-- [420 cites] (2020) Aggregate and Firm-Level Stock Returns During Pandemics, in Real Time — *National Bureau of Economic Research* [WP] T3
 
 ## Douglas Hanley (2 篇, 1118 总引用)
 
@@ -309,11 +241,6 @@
 - [92 cites] (2019) Did Trump's Trade War Impact the 2018 Election? — *National Bureau of Economic Research* [WP] T2
 - [148 cites] (2016) Global Supply Chains and Trade Policy — *National Bureau of Economic Research* [WP] T2,T3
 - [139 cites] (2010) Taking stock of antidumping, safeguards, and countervailing duties, 1990-2009 — *World Bank, Washington, DC eBooks* [WP] T2
-
-## Stefanie Stantcheva (2 篇, 1102 总引用)
-
-- [395 cites] (2016) Taxation and the International Mobility of Inventors — *American Economic Review* [T1] T4
-- [707 cites] (2014) Optimal Taxation of Top Labor Incomes: A Tale of Three Elasticities — *American Economic Journal Economic Polic* [T2] T5
 
 ## Pinelopi Goldberg (4 篇, 987 总引用)
 
@@ -339,6 +266,11 @@
 - [138 cites] (2021) Growing like China: Firm performance and global production line position — *Journal of International Economics* [T2] T3,T5
 - [110 cites] (2019) Host-country financial development and multinational activity — *European Economic Review* [T2] T5
 - [703 cites] (2011) Off the cliff and back? Credit conditions and international trade during the glo — *Journal of International Economics* [T2] T3
+
+## David E. Weinstein (2 篇, 950 总引用)
+
+- [221 cites] (2011) Trade Finance and the Great Trade Collapse — *American Economic Review* [T1] T2
+- [729 cites] (2019) The Impact of the 2018 Tariffs on Prices and Welfare — *The Journal of Economic Perspectives* [T2] T2,T3
 
 ## Ha‐Joon Chang (2 篇, 949 总引用)
 
@@ -370,28 +302,17 @@
 - [599 cites] (2018) Innovation, Reallocation, and Growth — *American Economic Review* [T1] T2,T4
 - [224 cites] (2013) Innovation, Reallocation and Growth — *National Bureau of Economic Research* [WP] T4
 
+## Laura Alfaro (4 篇, 785 总引用)
+
+- [261 cites] (2018) Internalizing Global Value Chains: A Firm-Level Analysis — *Journal of Political Economy* [T1] T3
+- [200 cites] (2014) SOVEREIGNS, UPSTREAM CAPITAL FLOWS, AND GLOBAL IMBALANCES — *Journal of the European Economic Associa* [T2] T3
+- [208 cites] (2012) Surviving the Global Financial Crisis: Foreign Ownership and Establishment Perfo — *American Economic Journal Economic Polic* [T2] T2
+- [116 cites] (2023) Global Supply Chains: The Looming “Great Reallocation” — *National Bureau of Economic Research* [WP] T3,T5
+
 ## Christiane Baumeister (2 篇, 740 总引用)
 
 - [223 cites] (2014) Do oil price increases cause higher food prices? — *Economic Policy* [T2] T3
 - [517 cites] (2013) Time-Varying Effects of Oil Supply Shocks on the US Economy — *American Economic Journal Macroeconomics* [T2] T3
-
-## Dursun Peksen (5 篇, 624 总引用)
-
-- [126 cites] (2015) Successful or Counterproductive Coercion? The Effect of International Sanctions  — *Journal of Conflict Resolution* [T3] T1
-- [112 cites] (2015) Economic coercion and currency crises in target countries — *Journal of Peace Research* [T3] T1
-- [104 cites] (2014) Media-driven Humanitarianism? News Media Coverage of Human Rights Abuses and the — *International Studies Quarterly* [T3] T1
-- [171 cites] (2012) Can states buy peace? Social welfare spending and civil conflicts — *Journal of Peace Research* [T3] T5
-- [111 cites] (2012) The impact of human rights INGO activities on economic sanctions — *The Review of International Organization* [T3] T1
-
-## Stefano Giglio (2 篇, 609 总引用)
-
-- [376 cites] (2021) Climate Change and Long-Run Discount Rates: Evidence from Real Estate — *Review of Financial Studies* [T1] T1
-- [233 cites] (2014) Very Long-Run Discount Rates * — *The Quarterly Journal of Economics* [T1] T1
-
-## Johannes Stroebel (2 篇, 609 总引用)
-
-- [376 cites] (2021) Climate Change and Long-Run Discount Rates: Evidence from Real Estate — *Review of Financial Studies* [T1] T1
-- [233 cites] (2014) Very Long-Run Discount Rates * — *The Quarterly Journal of Economics* [T1] T1
 
 ## Eswar Prasad (2 篇, 594 总引用)
 
@@ -410,11 +331,6 @@
 - [258 cites] (2019) International Currencies and Capital Allocation — *Journal of Political Economy* [T1] T1
 - [128 cites] (2020) Redrawing the Map of Global Capital Flows: The Role of Cross-Border Financing an — *National Bureau of Economic Research* [WP] T2
 
-## Marc-Andreas Muendler (2 篇, 548 总引用)
-
-- [428 cites] (2016) Trade and Inequality: From Theory to Estimation — *The Review of Economic Studies* [T1] T5
-- [120 cites] (2013) Sources of Wage Inequality — *American Economic Review* [T1] T5
-
 ## Alonso de Gortari (2 篇, 540 总引用)
 
 - [359 cites] (2020) On the Geography of Global Value Chains — *Econometrica* [T1] T3
@@ -429,6 +345,13 @@
 
 - [320 cites] (2017) Optimal Time-Consistent Macroprudential Policy — *Journal of Political Economy* [T1] T1
 - [204 cites] (2010) Overborrowing, Financial Crises and 'Macro-prudential' Taxes — *National Bureau of Economic Research* [WP] T1
+
+## Dursun Peksen (4 篇, 520 总引用)
+
+- [126 cites] (2015) Successful or Counterproductive Coercion? The Effect of International Sanctions  — *Journal of Conflict Resolution* [T3] T1
+- [112 cites] (2015) Economic coercion and currency crises in target countries — *Journal of Peace Research* [T3] T1
+- [171 cites] (2012) Can states buy peace? Social welfare spending and civil conflicts — *Journal of Peace Research* [T3] T5
+- [111 cites] (2012) The impact of human rights INGO activities on economic sanctions — *The Review of International Organization* [T3] T1
 
 ## Ilias Alami (2 篇, 370 总引用)
 

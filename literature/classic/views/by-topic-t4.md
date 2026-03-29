@@ -1,20 +1,11 @@
 # T4 技术竞争与数字治理 (Tech Competition & Digital Governance) — 阅读清单
 
-> 自动生成于 2026-03-29，共 36 篇
+> 自动生成于 2026-03-29，共 26 篇
 > 数据来源：`literature-classic.json`
 
 ---
 
-## T1 — General Top 5 + Finance Top (11 篇)
-
-### David Autor, David Dorn, Lawrence F. Katz et al. (2020) — The Fall of the Labor Share and the Rise of Superstar Firms*
-- **期刊**：The Quarterly Journal of Economics [T1]
-- **引用**：2001
-- **优先级**：core
-- **议题**：T3, T4
-- **DOI**：[10.1093/qje/qjaa004](https://doi.org/10.1093/qje/qjaa004)
-
----
+## T1 — General Top 5 + Finance Top (9 篇)
 
 ### Nicholas Bloom, Charles I. Jones, John Van Reenen et al. (2020) — Are Ideas Getting Harder to Find?
 - **期刊**：American Economic Review [T1]
@@ -88,15 +79,6 @@
 
 ---
 
-### David Autor, David Dorn (2013) — The Growth of Low-Skill Service Jobs and the Polarization of the US Labor Market
-- **期刊**：American Economic Review [T1]
-- **引用**：3640
-- **优先级**：core
-- **议题**：T4
-- **DOI**：[10.1257/aer.103.5.1553](https://doi.org/10.1257/aer.103.5.1553)
-
----
-
 ### Nicholas Bloom, Mark Schankerman, John Van Reenen (2013) — Identifying Technology Spillovers and Product Market Rivalry
 - **期刊**：Econometrica [T1]
 - **引用**：1675
@@ -106,7 +88,7 @@
 
 ---
 
-## T2 — Field Top Journals (9 篇)
+## T2 — Field Top Journals (7 篇)
 
 ### Ufuk Akcigit, Sina T. Ates (2020) — Ten Facts on Declining Business Dynamism and Lessons from Endogenous Growth Theory
 - **期刊**：American Economic Journal Macroeconomics [T2]
@@ -162,24 +144,6 @@
 
 ---
 
-### Philip Oreopoulos, Till von Wachter, Andrew Heisz (2012) — The Short- and Long-Term Career Effects of Graduating in a Recession
-- **期刊**：American Economic Journal Applied Economics [T2]
-- **引用**：1252
-- **优先级**：core
-- **议题**：T3, T4
-- **DOI**：[10.1257/app.4.1.1](https://doi.org/10.1257/app.4.1.1)
-
----
-
-### Richard T. Carson (2012) — Contingent Valuation: A Practical Alternative when Prices Aren't Available
-- **期刊**：The Journal of Economic Perspectives [T2]
-- **引用**：527
-- **优先级**：core
-- **议题**：T4
-- **DOI**：[10.1257/jep.26.4.27](https://doi.org/10.1257/jep.26.4.27)
-
----
-
 ### Nicholas Bloom, John Van Reenen (2010) — Why Do Management Practices Differ across Firms and Countries?
 - **期刊**：The Journal of Economic Perspectives [T2]
 - **引用**：1457
@@ -229,7 +193,7 @@
 
 ---
 
-## other — Other Venues (12 篇)
+## other — Other Venues (6 篇)
 
 ### Yadong Luo, Ari Van Assche (2023) — The rise of techno-geopolitical uncertainty: Implications of the United States CHIPS and Science Act
 - **期刊**：Journal of International Business Studies [other]
@@ -246,15 +210,6 @@
 - **优先级**：recommended
 - **议题**：T4, T5
 - **DOI**：[10.1080/14650045.2023.2253432](https://doi.org/10.1080/14650045.2023.2253432)
-
----
-
-### Olaf Erenstein, Moti Jaleta, Kai Sonder et al. (2022) — Global maize production, consumption and trade: trends and R&amp;D implications
-- **期刊**：Food Security [other]
-- **引用**：1075
-- **优先级**：core
-- **议题**：T4
-- **DOI**：[10.1007/s12571-022-01288-7](https://doi.org/10.1007/s12571-022-01288-7)
 
 ---
 
@@ -282,51 +237,6 @@
 - **优先级**：recommended
 - **议题**：T4
 - **DOI**：[10.1007/s11186-020-09408-y](https://doi.org/10.1007/s11186-020-09408-y)
-
----
-
-### Andreas Hein, Maximilian Schreieck, Tobias Riasanow et al. (2019) — Digital platform ecosystems
-- **期刊**：Electronic Markets [other]
-- **引用**：790
-- **优先级**：core
-- **议题**：T3, T4
-- **DOI**：[10.1007/s12525-019-00377-4](https://doi.org/10.1007/s12525-019-00377-4)
-
----
-
-### Vladimir Litvinenko (2019) — Digital Economy as a Factor in the Technological Development of the Mineral Sector
-- **期刊**：Natural Resources Research [other]
-- **引用**：542
-- **优先级**：core
-- **议题**：T4, T5
-- **DOI**：[10.1007/s11053-019-09568-4](https://doi.org/10.1007/s11053-019-09568-4)
-
----
-
-### Timothy J. Sturgeon (2019) — Upgrading strategies for the digital economy
-- **期刊**：Global Strategy Journal [other]
-- **引用**：485
-- **优先级**：recommended
-- **议题**：T4
-- **DOI**：[10.1002/gsj.1364](https://doi.org/10.1002/gsj.1364)
-
----
-
-### Shaen Corbet, Brian M. Lucey, Andrew Urquhart et al. (2018) — RETRACTED: Cryptocurrencies as a financial asset: A systematic analysis
-- **期刊**：International Review of Financial Analysis [other]
-- **引用**：1112
-- **优先级**：core
-- **议题**：T1, T4
-- **DOI**：[10.1016/j.irfa.2018.09.003](https://doi.org/10.1016/j.irfa.2018.09.003)
-
----
-
-### Marcel Bogers, Henry Chesbrough, Carlos Moedas (2018) — Open Innovation: Research, Practices, and Policies
-- **期刊**：California Management Review [other]
-- **引用**：774
-- **优先级**：core
-- **议题**：T4
-- **DOI**：[10.1177/0008125617745086](https://doi.org/10.1177/0008125617745086)
 
 ---
 
