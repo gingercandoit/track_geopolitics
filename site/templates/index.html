@@ -61,14 +61,4 @@
   </aside>
 
 </section>
-
-{# ── 月度总览（如有） ── #}
-{% if overview_html %}
-<section class="container home-overview">
-  <h2 class="section-heading">月度总览</h2>
-  <div class="overview-text">
-    {{ overview_html | safe }}
-  </div>
-</section>
-{% endif %}
 {% endblock %}
