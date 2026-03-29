@@ -26,7 +26,7 @@ track_geopolitics/
 │   ├── topic2-trade-industrial/ # T2 贸易与产业竞争
 │   ├── topic3-supply-resources/ # T3 供应链与关键资源
 │   ├── topic4-tech-digital/    # T4 技术竞争与数字治理
-│   ├── topic5-diplomacy/       # T5 大国博弈与外交
+│   ├── topic5-diplomacy/       # T5 地缘政治信息池（catch-all inbox）
 │   └── raw/                    # fetch_sources.py 原始拉取
 │       └── 2026-03/            # 按月归档
 ├── reports/                    # 生成的简报产出
@@ -50,7 +50,7 @@ track_geopolitics/
 | T2 | topic2-trade-industrial | 贸易与产业竞争 | 关税/贸易战, 301/反倾销, 产业政策(CHIPS/IRA), WTO, CBAM |
 | T3 | topic3-supply-resources | 供应链与关键资源 | 供应链重组, 关键矿产, 能源安全, OPEC, 粮食安全 |
 | T4 | topic4-tech-digital | 技术竞争与数字治理 | BIS出口管制, 半导体/AI限制, AI治理, 数据主权 |
-| T5 | topic5-diplomacy | 大国博弈与外交 | 峰会, 多边论坛, 联盟变化（筛选最严） |
+| T5 | topic5-diplomacy | 地缘政治信息池 | 不设门槛的 catch-all inbox，收录 T1-T4 未覆盖的所有地缘政治事件，供浏览发现后升级 |
 
 ### 文件命名规范
 
@@ -64,7 +64,7 @@ track_geopolitics/
 ### Prompt 1：信息侦察
 - 时间窗口：滚动 7 天
 - 来源分层：A层（官方政府）> B层（国际机构）> C层（智库/媒体）> D层（社区策展）
-- 五大议题：制裁与经济管制、贸易与产业竞争、供应链与关键资源、技术竞争与数字治理、大国博弈与外交
+- 五大议题：制裁与经济管制、贸易与产业竞争、供应链与关键资源、技术竞争与数字治理、地缘政治信息池（catch-all）
 - 产出格式：结构化 JSON + Markdown 简报
 
 ### Prompt 2：月度简报（待定义）

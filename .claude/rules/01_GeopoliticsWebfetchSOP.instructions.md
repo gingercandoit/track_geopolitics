@@ -284,23 +284,32 @@ site:english.news.cn + technology / chip / semiconductor / AI
 "Xinhua" + export control / technology restriction / chip
 ```
 
-#### Topic 5：大国博弈与外交 (topic5-diplomacy)
+#### Topic 5：地缘政治信息池 (topic5-inbox)
+
+> **定位**：T5 是不设门槛的信息漏斗入口（catch-all inbox）。所有 A-D 层的地缘政治/外交/安全事件，只要不明确属于 T1-T4 的某一个议题，都收入 T5。用户浏览 T5 时发现感兴趣的条目，可以讨论后升级（promote）到 T1-T4 对应议题。
+
+**关键词**：T5 不使用关键词过滤。采集流程中所有未被 T1-T4 关键词匹配的地缘政治相关条目，自动归入 T5。此外，以下关键词主动搜索以确保覆盖：
 ```
-summit + US China / G7 / G20 / BRICS / bilateral
-state visit + president / prime minister / trade representative
-diplomatic signal + alliance / partnership / alignment
-multilateral forum + cooperation / declaration / joint statement
-AUKUS / Quad / SCO + security / economic / expansion
-geopolitical alignment + Global South / non-aligned / fence-sitting
-election + foreign policy / trade policy / geopolitics
+summit / state visit / bilateral / multilateral / G7 / G20 / BRICS
+diplomatic / alliance / partnership / geopolitical
+military / defense / security / conflict / ceasefire
+UN / NATO / AUKUS / Quad / SCO / ASEAN
+sanctions (未被T1捕获的边缘案例)
+trade (未被T2捕获的边缘案例)
+Global South / non-aligned / developing countries
+election + foreign policy / regime change / political transition
+refugee / migration / humanitarian + geopolitics
+Arctic / space / cyber + geopolitics / sovereignty
 ```
 **中方视角补充搜索**（Exa）：
 ```
-site:english.news.cn + summit / visit / bilateral / multilateral
+site:english.news.cn + diplomacy / visit / bilateral / security
 site:www.fmprc.gov.cn/eng + spokesperson / press conference
 ```
 
-> **注意**：Topic 5 的筛选标准最严格——仅收录具有结构性意义的外交事件（首次会晤、联盟变化、框架性协议），排除例行访问、口头警告、召见抗议等低持久性事件。
+> **T5 收录原则**：宁多勿漏。T1-T4 执行严格筛选，T5 执行宽松收录。低持久性条目排除规则（第四节）对 T5 **不适用**——口头警告、例行访问、安理会投票姿态等在 T1-T4 中被排除的事件，T5 照收。唯一排除标准：与地缘政治完全无关的内容（娱乐、体育、纯国内社会新闻）。
+>
+> **升级机制**：用户在浏览 T5 时发现有价值的条目，可指示 AI 将其「升级」到 T1-T4。升级时：(1) 按目标议题的严格标准重新撰写条目，(2) 从 T5 报告中标注「已升级至 TX」但保留原条目，(3) 更新目标议题的报告和 JSON。
 
 ### 搜索节奏
 
@@ -346,6 +355,8 @@ site:www.fmprc.gov.cn/eng + spokesperson / press conference
 **判断标准**：问自己——"这件事在 30 天后还重要吗？它改变了什么结构性的东西？"如果答案是否，不收录。
 
 **例外**：如果以上类型的事件**首次**标志某种结构性转变（如：首次制裁、首次封锁、首次军事行动），仍然收录——因为"第一次"具有标杆意义。后续的重复/延续则不再记录。
+
+**T5 豁免**：以上低持久性排除规则仅适用于 T1-T4。T5（地缘政治信息池）作为 catch-all inbox，不受此规则约束——所有地缘政治相关事件均可收入 T5，无论持久性高低。
 
 ---
 
@@ -528,6 +539,7 @@ site:www.fmprc.gov.cn/eng + spokesperson / press conference
 - [ ] RSS 重复条目已去重（特别是 State Dept 两个 feed、Bloomberg 三个频道）
 - [ ] **中方官方来源检查**：涉及中方行动/反应的事件，至少有一条中方A层来源（新华社英文版/商务部/外交部）直接引用，不可仅依赖西方媒体转述
 - [ ] **叙事视角平衡**：月度总览中同时呈现"美方行动逻辑"和"中方行动逻辑"，避免单一主体叙事
+- [ ] **T5 信息池检查**：T5 条目数量应显著多于 T1-T4（宁多勿漏）；确认无地缘政治相关事件被遗漏；已标注升级条目（如有）
 - [ ] 已 Git 提交
 
 ---
