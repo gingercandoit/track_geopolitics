@@ -18,19 +18,32 @@
 
 ```
 track_geopolitics/
-├── .claude/          # AI 记忆与规则
+├── .claude/                    # AI 记忆与规则
 │   ├── CLAUDE.md
 │   └── rules/
-├── data/             # 结构化数据
-│   ├── raw/          # fetch_sources.py 原始拉取结果
-│   └── *.json        # 报告对应的结构化 JSON
-├── prompts/          # Prompt 模板存档
-├── reports/          # 生成的简报产出
-├── scripts/          # 自动化脚本（fetch_sources.py）
-├── config/           # 工具配置（mcporter.json）
-├── chat-history/     # 对话历史（.gitignore 排除）
-└── _tmp/             # 临时文件（.gitignore 排除）
+├── data/                       # 结构化数据
+│   ├── topic1-us-china/        # 议题1 JSON（按月：2026-03.json）
+│   ├── topic2-supply-chain/    # 议题2 JSON
+│   ├── topic3-energy-resources/ # 议题3 JSON
+│   └── raw/                    # fetch_sources.py 原始拉取
+│       └── 2026-03/            # 按月归档
+├── reports/                    # 生成的简报产出
+│   ├── topic1-us-china/        # 议题1 报告（按月：2026-03.md）
+│   ├── topic2-supply-chain/    # 议题2 报告
+│   └── topic3-energy-resources/ # 议题3 报告
+├── prompts/                    # Prompt 模板存档
+├── scripts/                    # 自动化脚本（fetch_sources.py）
+├── config/                     # 工具配置（mcporter.json）
+├── chat-history/               # 对话历史（.gitignore 排除）
+└── _tmp/                       # 临时文件（.gitignore 排除）
 ```
+
+### 文件命名规范
+
+- 目录名：按议题 `topicN-<slug>` (kebab-case)
+- 报告/数据文件名：按月 `YYYY-MM.md` / `YYYY-MM.json`
+- 原始拉取：`data/raw/YYYY-MM/fetch_{topic|all}_{timestamp}.{json,md}`
+- 新增议题时：先在 reports/ 和 data/ 下建同名目录
 
 ## 核心工作流
 

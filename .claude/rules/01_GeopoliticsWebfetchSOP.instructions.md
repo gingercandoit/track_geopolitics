@@ -298,9 +298,11 @@ nuclear energy + uranium / enrichment / geopolitics
 
 ### 文件命名
 
-- Markdown：`reports/YYYY-MM-topicN-<slug>.md`
-- JSON：`data/YYYY-MM-topicN-<slug>.json`
+- Markdown：`reports/topicN-<slug>/YYYY-MM.md`（如 `reports/topic1-us-china/2026-03.md`）
+- JSON：`data/topicN-<slug>/YYYY-MM.json`（如 `data/topic1-us-china/2026-03.json`）
+- 原始拉取：`data/raw/YYYY-MM/fetch_{topic|all}_{timestamp}.{json,md}`
 - slug 用英文 kebab-case
+- 新增议题时：先在 `reports/` 和 `data/` 下建同名目录
 
 ### 报告结构
 
@@ -464,7 +466,7 @@ nuclear energy + uranium / enrichment / geopolitics
 - [ ] 有「背景参考」部分收录前置事件
 - [ ] 有「关键数字一览」表格
 - [ ] JSON 的 type 字段与 Markdown 一致
-- [ ] 文件命名符合 `YYYY-MM-topicN-<slug>` 格式
+- [ ] 文件命名符合 `reports/topicN-<slug>/YYYY-MM.md` 和 `data/topicN-<slug>/YYYY-MM.json` 格式
 - [ ] 已运行 `fetch_sources.py` 并检查相关条目
 - [ ] 已人工审核关键词匹配结果，剔除误匹配（SCMP社会新闻、体育等）
 - [ ] Reddit/X 帖子不作为来源引用，仅用于事件发现（引用其链接到的原始来源）
