@@ -22,17 +22,21 @@
       <button class="lit-tab" data-lib="new">新文献</button>
     </div>
     <div class="lit-filters">
-      <select id="lit-filter-topic" class="lit-select">
-        <option value="">全部议题</option>
-        {% for tid, tinfo in topics.items() %}
-        <option value="{{ tid }}">{{ tinfo.name_zh }}</option>
-        {% endfor %}
+      <select id="lit-filter-tier" class="lit-select">
+        <option value="">全部期刊层次</option>
+        <option value="T1">Tier 1（Top 5 + Finance）</option>
+        <option value="T2">Tier 2（Field Top）</option>
+        <option value="T3">Tier 3（国际关系）</option>
+        <option value="WP">工作论文（WP）</option>
+        <option value="other">其他</option>
       </select>
-      <select id="lit-filter-priority" class="lit-select">
-        <option value="">全部优先级</option>
-        <option value="core">核心必读</option>
-        <option value="recommended">推荐阅读</option>
-        <option value="reference">参考</option>
+      <select id="lit-filter-year" class="lit-select">
+        <option value="">全部年份</option>
+        <option value="2026">2026</option>
+        <option value="2025">2025</option>
+        <option value="2024">2024</option>
+        <option value="2020-2023">2020–2023</option>
+        <option value="pre2020">2019 及以前</option>
       </select>
       <input type="text" id="lit-search" class="lit-search-input" placeholder="搜索标题、作者…">
     </div>
@@ -45,6 +49,8 @@
          data-lib="{{ p._library }}"
          data-topics="{{ p.topics | join(',') }}"
          data-priority="{{ p.priority }}"
+         data-tier="{{ p.journal_tier }}"
+         data-year="{{ p.year }}"
          data-search="{{ p.title | lower }} {{ p.authors | join(' ') | lower }}">
       {{ render_paper_card(p, priority_labels, journal_tiers, topics, p._library == 'new') }}
     </div>
@@ -56,50 +62,99 @@
     <p>没有匹配的文献。</p>
   </div>
 
+  {# ── 分页 ── #}
+  <div class="lit-pagination" id="lit-pagination">
+    <button class="pager-btn" id="pager-prev" disabled>← 上一页</button>
+    <span class="pager-info" id="pager-info"></span>
+    <button class="pager-btn" id="pager-next">下一页 →</button>
+  </div>
+
 </section>
 {% endblock %}
 
 {% block scripts_extra %}
 <script>
 (function() {
-  const items = document.querySelectorAll('.lit-item');
+  const PAGE_SIZE = 20;
+  const items = Array.from(document.querySelectorAll('.lit-item'));
   const tabs = document.querySelectorAll('.lit-tab');
-  const topicSel = document.getElementById('lit-filter-topic');
-  const prioSel = document.getElementById('lit-filter-priority');
+  const tierSel = document.getElementById('lit-filter-tier');
+  const yearSel = document.getElementById('lit-filter-year');
   const searchInput = document.getElementById('lit-search');
   const emptyEl = document.getElementById('lit-empty');
+  const paginationEl = document.getElementById('lit-pagination');
+  const prevBtn = document.getElementById('pager-prev');
+  const nextBtn = document.getElementById('pager-next');
+  const pageInfo = document.getElementById('pager-info');
 
-  function applyFilters() {
+  let currentPage = 1;
+  let visibleItems = [];
+
+  function yearMatch(itemYear, filterValue) {
+    if (!filterValue) return true;
+    const y = parseInt(itemYear, 10);
+    if (filterValue === 'pre2020') return y <= 2019;
+    if (filterValue === '2020-2023') return y >= 2020 && y <= 2023;
+    return String(y) === filterValue;
+  }
+
+  function filterItems() {
     const lib = document.querySelector('.lit-tab.active').dataset.lib;
-    const topic = topicSel.value;
-    const prio = prioSel.value;
+    const tier = tierSel.value;
+    const year = yearSel.value;
     const q = searchInput.value.toLowerCase().trim();
-    let visible = 0;
 
-    items.forEach(el => {
-      let show = true;
-      if (lib !== 'all' && el.dataset.lib !== lib) show = false;
-      if (topic && !el.dataset.topics.split(',').includes(topic.replace('t',''))) show = false;
-      if (prio && el.dataset.priority !== prio) show = false;
-      if (q && !el.dataset.search.includes(q)) show = false;
-      el.style.display = show ? '' : 'none';
-      if (show) visible++;
+    visibleItems = items.filter(el => {
+      if (lib !== 'all' && el.dataset.lib !== lib) return false;
+      if (tier && el.dataset.tier !== tier) return false;
+      if (year && !yearMatch(el.dataset.year, year)) return false;
+      if (q && !el.dataset.search.includes(q)) return false;
+      return true;
     });
 
-    emptyEl.classList.toggle('hidden', visible > 0);
+    currentPage = 1;
+    renderPage();
+  }
+
+  function renderPage() {
+    const total = visibleItems.length;
+    const totalPages = Math.max(1, Math.ceil(total / PAGE_SIZE));
+    if (currentPage > totalPages) currentPage = totalPages;
+
+    const start = (currentPage - 1) * PAGE_SIZE;
+    const end = start + PAGE_SIZE;
+
+    items.forEach(el => { el.style.display = 'none'; });
+    visibleItems.slice(start, end).forEach(el => { el.style.display = ''; });
+
+    emptyEl.classList.toggle('hidden', total > 0);
+    paginationEl.style.display = totalPages <= 1 ? 'none' : '';
+
+    pageInfo.textContent = `第 ${currentPage} / ${totalPages} 页（共 ${total} 篇）`;
+    prevBtn.disabled = currentPage <= 1;
+    nextBtn.disabled = currentPage >= totalPages;
   }
 
   tabs.forEach(tab => {
     tab.addEventListener('click', () => {
       tabs.forEach(t => t.classList.remove('active'));
       tab.classList.add('active');
-      applyFilters();
+      filterItems();
     });
   });
 
-  topicSel.addEventListener('change', applyFilters);
-  prioSel.addEventListener('change', applyFilters);
-  searchInput.addEventListener('input', applyFilters);
+  tierSel.addEventListener('change', filterItems);
+  yearSel.addEventListener('change', filterItems);
+  searchInput.addEventListener('input', filterItems);
+
+  prevBtn.addEventListener('click', () => { if (currentPage > 1) { currentPage--; renderPage(); window.scrollTo(0,0); } });
+  nextBtn.addEventListener('click', () => {
+    const totalPages = Math.ceil(visibleItems.length / PAGE_SIZE);
+    if (currentPage < totalPages) { currentPage++; renderPage(); window.scrollTo(0,0); }
+  });
+
+  // Initial render
+  filterItems();
 })();
 </script>
 {% endblock %}
