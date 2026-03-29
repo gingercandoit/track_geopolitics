@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+
+{% block title %}存档 — {{ site_title }}{% endblock %}
+
+{% block content %}
+<section class="archive-hero">
+  <div class="container">
+    <h1 class="archive-hero-title">月度存档</h1>
+    <p class="archive-hero-subtitle">按月浏览所有议题报告</p>
+  </div>
+</section>
+
+<section class="container archive-body">
+  {% for month_entry in archive_months %}
+  <div class="archive-month-card">
+    <h2 class="archive-month-title">{{ month_entry.display }}</h2>
+    <div class="archive-topic-links">
+      {% for tid, tinfo in topics.items() %}
+      {% set count = month_entry.topic_counts.get(tid, 0) %}
+      {% if count > 0 %}
+      <a href="{{ rel_to_root }}/{{ tinfo.slug }}/{{ month_entry.month }}.html"
+         class="archive-topic-link" style="--topic-color: {{ tinfo.color }}">
+        <span class="archive-topic-name">{{ tinfo.name_zh }}</span>
+        <span class="archive-topic-count">{{ count }} 条</span>
+      </a>
+      {% else %}
+      <span class="archive-topic-link archive-topic-link--empty">
+        <span class="archive-topic-name">{{ tinfo.name_zh }}</span>
+        <span class="archive-topic-count">—</span>
+      </span>
+      {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+  {% endfor %}
+
+  {% if not archive_months %}
+  <div class="empty-state">
+    <p>暂无存档数据。</p>
+  </div>
+  {% endif %}
+</section>
+{% endblock %}

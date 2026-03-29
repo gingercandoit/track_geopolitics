@@ -17,6 +17,9 @@ chat-history/
 # Literature PDFs (too large for git)
 literature/pdf/
 
+# Static site build output
+site/dist/
+
 # OS
 Thumbs.db
 .DS_Store

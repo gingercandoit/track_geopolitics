@@ -1,0 +1,13 @@
+{% macro render_month_selector(available_months, current_month, topic_slug, rel_to_root) %}
+<div class="month-selector">
+  <label for="month-select">月份</label>
+  <select id="month-select" onchange="navigateMonth(this.value)">
+    {% for m in available_months %}
+    <option value="{{ rel_to_root }}/{{ topic_slug }}/{{ m }}.html"
+            {% if m == current_month %}selected{% endif %}>
+      {{ m | month_display }}
+    </option>
+    {% endfor %}
+  </select>
+</div>
+{% endmacro %}

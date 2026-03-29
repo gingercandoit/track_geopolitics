@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+
+{% block title %}{{ topic.name_zh }} — {{ site_title }}{% endblock %}
+
+{% block content %}
+{% from "components/event_row.html" import render_event_row %}
+{% from "components/month_selector.html" import render_month_selector %}
+
+<section class="topic-hero topic-hero--compact" style="--topic-color: {{ topic.color }}">
+  <div class="container">
+    <span class="topic-hero-id">{{ topic_id | upper }}</span>
+    <h1 class="topic-hero-title">{{ topic.name_zh }}</h1>
+    <p class="topic-hero-subtitle">不设门槛的信息池 · {{ month_display }}</p>
+    {{ render_month_selector(available_months, current_month, topic.slug, rel_to_root) }}
+  </div>
+</section>
+
+<section class="container topic-body">
+
+  <div class="t5-event-list">
+    {% for ev in events %}
+      {{ render_event_row(ev, event_type_colors) }}
+    {% endfor %}
+  </div>
+
+  {% if not events %}
+  <div class="empty-state">
+    <p>本月暂无事件数据。</p>
+  </div>
+  {% endif %}
+
+  <p class="t5-hint muted">T5 为 catch-all 信息池，收录 T1–T4 未覆盖的地缘政治事件。浏览后可升级至对应议题。</p>
+
+</section>
+{% endblock %}

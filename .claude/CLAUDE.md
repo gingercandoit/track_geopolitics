@@ -115,6 +115,31 @@ track_geopolitics/
 | `scripts/generate_views.py` | 从 JSON 生成 7 个 Markdown 视图 | `.\.venv\Scripts\python.exe scripts/generate_views.py` |
 | `scripts/fetch_sources.py` | Prompt 1 信息侦察：RSS+Reddit 拉取 | `.\.venv\Scripts\python.exe scripts/fetch_sources.py [--days N] [--topic T]` |
 | `scripts/generate_views_new.py` | Library B 视图 + CSV 同步生成 | `.\.venv\Scripts\python.exe scripts/generate_views_new.py` |
+| `site/build.py` | 静态站点生成器（全量重建） | `.\.venv\Scripts\python.exe site/build.py [--clean]` |
+
+## 静态网站（Prompt 4）
+
+- **架构**：Python+Jinja2 静态站点生成器，产出纯 HTML/CSS/JS，可 GitHub Pages 托管
+- **SOP**：`.claude/rules/03_FrontendSOP.instructions.md`
+- **文件结构**：
+  ```
+  site/
+  ├── config.py           # 颜色、字体、话题定义（统一修改入口）
+  ├── build.py            # 构建脚本（Auto-discover data/ → render → dist/）
+  ├── templates/          # Jinja2 模板
+  │   ├── base.html       # 父模板（head/nav/footer）
+  │   ├── index.html      # 主页
+  │   ├── topic.html      # T1-T4 议题页
+  │   ├── topic5.html     # T5 紧凑列表页
+  │   ├── literature.html # 文献库页
+  │   ├── archive.html    # 月度存档页
+  │   └── components/     # 可复用宏（nav, footer, event_card, event_row, paper_card, month_selector）
+  ├── static/             # 静态资源（style.css, main.js）
+  └── dist/               # 构建产出（.gitignore 排除）
+  ```
+- **月度更新流程**：新增 data/topicN/YYYY-MM.json → 运行 `site/build.py --clean` → 自动生成所有页面
+- **主要设计**：Playfair Display 标题 + Source Serif Pro 正文，深红色 (#8B0000) accent，按议题分色，事件卡可折叠展开
+- **当前状态**（首次完整构建）：8 个 HTML 页面，89 + 45 = 137 篇文献，全5议题 × 2026-03 月报
 
 ## 技术约定
 

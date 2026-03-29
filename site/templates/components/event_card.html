@@ -1,0 +1,44 @@
+{% macro render_event_card(event, event_type_colors) %}
+<div class="event-card" data-type="{{ event.type }}">
+  <div class="event-card-header" onclick="this.parentElement.classList.toggle('expanded')">
+    <span class="event-date">{{ event.date[5:7] | int }}月{{ event.date[8:10] | int }}日</span>
+    <span class="event-type-tag" style="background-color: {{ event_type_colors.get(event.type, '#999') }}">
+      {{ event.type }}
+    </span>
+    <span class="event-title">{{ event.title_zh }}</span>
+    <span class="event-toggle">▸</span>
+  </div>
+  <div class="event-card-body">
+    <div class="event-card-content">
+    {% if event.summary_zh %}
+    <div class="event-summary">
+      {% for line in event.summary_zh.split('。') %}
+        {% if line.strip() %}
+        <p>{{ line.strip() }}。</p>
+        {% endif %}
+      {% endfor %}
+    </div>
+    {% endif %}
+    {% if event.metrics and event.metrics | length > 0 %}
+    <div class="event-metrics">
+      {% for key, value in event.metrics.items() %}
+      <span class="metric-badge">{{ key }}: {{ value }}</span>
+      {% endfor %}
+    </div>
+    {% endif %}
+    {% if event.sources %}
+    <div class="event-sources">
+      <span class="sources-label">来源</span>
+      {% if event.source_tier %}
+      <span class="tier-badge tier-{{ event.source_tier }}">{{ event.source_tier }}层</span>
+      {% endif %}
+      {% for src in event.sources %}
+      <a href="{{ src.url }}" target="_blank" rel="noopener">{{ src.name }}</a>
+      {% if not loop.last %} · {% endif %}
+      {% endfor %}
+    </div>
+    {% endif %}
+    </div>
+  </div>
+</div>
+{% endmacro %}

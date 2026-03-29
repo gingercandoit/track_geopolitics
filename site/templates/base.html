@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="{{ site_lang | default('zh-CN') }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% block title %}{{ site_title }}{% endblock %}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Source+Serif+Pro:ital,wght@0,400;0,600;1,400&family=Noto+Serif+SC:wght@400;600;700&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ rel_to_root }}/static/css/style.css">
+  {% block head_extra %}{% endblock %}
+</head>
+<body>
+  {% from "components/nav.html" import render_nav %}
+  {% from "components/footer.html" import render_footer %}
+
+  {{ render_nav(topics, rel_to_root, current_page, latest_month) }}
+
+  <main class="site-main">
+    {% block content %}{% endblock %}
+  </main>
+
+  {{ render_footer() }}
+
+  <script src="{{ rel_to_root }}/static/js/main.js"></script>
+  {% block scripts_extra %}{% endblock %}
+</body>
+</html>

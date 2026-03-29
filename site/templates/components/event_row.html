@@ -1,0 +1,21 @@
+{% macro render_event_row(event, event_type_colors) %}
+<div class="event-row" data-type="{{ event.type }}" onclick="this.classList.toggle('expanded')">
+  <span class="event-row-date">{{ event.date[5:7] | int }}/{{ event.date[8:10] | int }}</span>
+  <span class="event-row-dot" style="background-color: {{ event_type_colors.get(event.type, '#999') }}" title="{{ event.type }}"></span>
+  <span class="event-row-title">{{ event.title_zh }}</span>
+  <span class="event-row-arrow">▸</span>
+</div>
+<div class="event-row-detail">
+  {% if event.summary_zh %}
+  <p class="event-row-summary">{{ event.summary_zh[:150] }}{% if event.summary_zh | length > 150 %}…{% endif %}</p>
+  {% endif %}
+  {% if event.sources %}
+  <div class="event-row-sources">
+    {% for src in event.sources %}
+    <a href="{{ src.url }}" target="_blank" rel="noopener">{{ src.name }}</a>
+    {% if not loop.last %} · {% endif %}
+    {% endfor %}
+  </div>
+  {% endif %}
+</div>
+{% endmacro %}

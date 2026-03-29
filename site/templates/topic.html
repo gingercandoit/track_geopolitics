@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+
+{% block title %}{{ topic.name_zh }} — {{ site_title }}{% endblock %}
+
+{% block content %}
+{% from "components/event_card.html" import render_event_card %}
+{% from "components/month_selector.html" import render_month_selector %}
+
+<section class="topic-hero" style="--topic-color: {{ topic.color }}">
+  <div class="container">
+    <span class="topic-hero-id">{{ topic_id | upper }}</span>
+    <h1 class="topic-hero-title">{{ topic.name_zh }}</h1>
+    <p class="topic-hero-period">{{ month_display }}</p>
+    {{ render_month_selector(available_months, current_month, topic.slug, rel_to_root) }}
+  </div>
+</section>
+
+<section class="container topic-body">
+
+  {# ── 月度总览 ── #}
+  {% if overview_html %}
+  <div class="topic-overview">
+    <h2 class="section-heading">月度总览</h2>
+    <div class="overview-text">{{ overview_html | safe }}</div>
+  </div>
+  {% endif %}
+
+  {# ── 按周分组事件 ── #}
+  {% for week in weeks %}
+  <div class="week-group">
+    <h3 class="week-heading">第{{ week.week_num }}周
+      <span class="week-date-range">{{ week.date_range }}</span>
+    </h3>
+    <div class="event-list">
+      {% for ev in week.events %}
+        {{ render_event_card(ev, event_type_colors) }}
+      {% endfor %}
+    </div>
+  </div>
+  {% endfor %}
+
+  {# ── 空状态 ── #}
+  {% if not weeks %}
+  <div class="empty-state">
+    <p>本月暂无事件数据。</p>
+  </div>
+  {% endif %}
+
+  {# ── 关键数字 ── #}
+  {% if key_metrics %}
+  <div class="key-metrics-section">
+    <h2 class="section-heading">关键数字一览</h2>
+    <table class="metrics-table">
+      <thead><tr><th>指标</th><th>数值</th></tr></thead>
+      <tbody>
+        {% for k, v in key_metrics.items() %}
+        <tr><td>{{ k }}</td><td>{{ v }}</td></tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+  {% endif %}
+
+</section>
+{% endblock %}
