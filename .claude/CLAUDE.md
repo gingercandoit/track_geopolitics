@@ -96,7 +96,14 @@ track_geopolitics/
   - Topic 分布：T1:19, T2:49, T3:18, T4:9, T5:38
   - Tier 分布：T1:19, T2:33, T3:20, WP:7, other:13
   - 81/92 有摘要（88%），11篇摘要 OpenAlex/S2 均无数据
-  - Library B 尚未执行首次月度追踪
+- **Library B 当前状态**（2026-07-18）：
+  - 45 篇新文献（2024-mid 至 2026-present），聚焦经济学界最热门地缘政治研究
+  - 搜索覆盖：OpenAlex（知名作者+NBER WP+Top Journal）、Exa（SSRN+JMP）
+  - Topic 分布：T1:14, T2:24, T3:6, T4:3, T5:16
+  - Tier 分布：WP:38, T1:2, T2:1, T3:4
+  - Priority：core:23, recommended:21, reference:1
+  - 42/45 有摘要（93%）
+  - 核心论文：Clayton/Maggiori 地缘经济三部曲、Auclert 关税宏观冲击(16引)、Ossa/Redding 关税经济学综述、Gopinath/Neiman 关税负担、CHIPS法案就业影响
 
 ## 自动化脚本
 
