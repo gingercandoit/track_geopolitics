@@ -243,6 +243,29 @@ h1, h2, h3, h4 {
   color: #333;
   flex: 1;
 }
+.digest-lead {
+  margin: 0 0 0.5rem 0;
+}
+.digest-bullets {
+  margin: 0;
+  padding: 0 0 0 1rem;
+  list-style: none;
+}
+.digest-bullets li {
+  position: relative;
+  padding-left: 0.9rem;
+  margin-bottom: 0.3rem;
+  font-size: 0.82rem;
+  color: #444;
+  line-height: 1.45;
+}
+.digest-bullets li::before {
+  content: '›';
+  position: absolute;
+  left: 0;
+  color: var(--topic-color);
+  font-weight: 700;
+}
 .digest-text p {
   margin: 0 0 0.55rem 0;
 }

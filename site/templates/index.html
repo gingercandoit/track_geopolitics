@@ -22,9 +22,20 @@
       <a href="{{ rel_to_root }}/{{ d.slug }}/{{ latest_month }}.html" class="digest-card" style="--topic-color: {{ d.color }}">
         <span class="digest-label">{{ d.name_short }}</span>
         <div class="digest-text">
-          {% for para in d.digest.split('\n\n') %}
-          {% if para.strip() %}<p>{{ para.strip() | replace('**', '<strong>', 1) | replace('**', '</strong>', 1) | safe }}</p>{% endif %}
-          {% endfor %}
+          {%- set lines = d.digest.split('\n') -%}
+          {%- set lead = lines[0].strip() -%}
+          {%- set bullets = [] -%}
+          {%- for line in lines[1:] -%}
+            {%- if line.startswith('>>') -%}
+              {%- set _ = bullets.append(line[2:].strip()) -%}
+            {%- endif -%}
+          {%- endfor -%}
+          <p class="digest-lead"><strong>{{ lead }}</strong></p>
+          {% if bullets %}
+          <ul class="digest-bullets">
+            {% for b in bullets %}<li>{{ b }}</li>{% endfor %}
+          </ul>
+          {% endif %}
         </div>
         <span class="digest-more">阅读全部 →</span>
       </a>
