@@ -1,4 +1,4 @@
-{% macro render_event_card(event, event_type_colors) %}
+{% macro render_event_card(event, event_type_colors, source_tiers={}) %}
 <div class="event-card" data-type="{{ event.type }}">
   <div class="event-card-header">
     <span class="event-date">{{ event.date[5:7] | int }}月{{ event.date[8:10] | int }}日</span>
@@ -28,9 +28,10 @@
     {% endif %}
     {% if event.sources %}
     <div class="event-sources">
-      <span class="sources-label">来源</span>
+      <span class="sources-label">来源：</span>
       {% if event.source_tier %}
-      <span class="tier-badge tier-{{ event.source_tier }}">{{ event.source_tier }}层</span>
+      <span class="source-tier-text">{{ source_tiers.get(event.source_tier, {}).get('label', event.source_tier) }}</span>
+      <span class="source-sep">—</span>
       {% endif %}
       {% for src in event.sources %}
       <a href="{{ src.url }}" target="_blank" rel="noopener">{{ src.name }}</a>

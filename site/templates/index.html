@@ -12,16 +12,17 @@
   </div>
 </section>
 
-{# ── Monthly Digest Strip: T1–T4 一句话摘要 ── #}
+{# ── Monthly Digest Strip: T1–T4 editorial highlights ── #}
 {% if topic_digests %}
 <section class="digest-strip">
   <div class="container">
     <div class="digest-grid">
       {% for d in topic_digests %}
       {% if not d.compact %}
-      <a href="{{ rel_to_root }}/{{ d.slug }}/{{ latest_month }}.html" class="digest-item" style="--topic-color: {{ d.color }}">
+      <a href="{{ rel_to_root }}/{{ d.slug }}/{{ latest_month }}.html" class="digest-card" style="--topic-color: {{ d.color }}">
         <span class="digest-label">{{ d.name_short }}</span>
         <p class="digest-text">{{ d.digest }}</p>
+        <span class="digest-more">阅读全部 →</span>
       </a>
       {% endif %}
       {% endfor %}
@@ -77,21 +78,57 @@
   </div>
 
   <aside class="home-sidebar">
-    <h2 class="section-heading">文献库</h2>
-    {% if latest_papers %}
+    {# ── 新文献 ── #}
+    <h2 class="section-heading">最新文献</h2>
+    {% if sidebar_new_papers %}
     <ul class="sidebar-papers">
-      {% for p in latest_papers[:6] %}
-      <li class="sidebar-paper-item">
-        <span class="sidebar-paper-year">{{ p.year }}</span>
-        <a href="{{ rel_to_root }}/literature.html" class="sidebar-paper-title">{{ p.title | truncate(60) }}</a>
-        <span class="sidebar-paper-authors">{{ p.authors[:2] | join(', ') }}{% if p.authors | length > 2 %} et al.{% endif %}</span>
+      {% for p in sidebar_new_papers %}
+      <li class="sidebar-paper-item sidebar-paper-expandable" onclick="this.classList.toggle('expanded')">
+        <div class="sidebar-paper-brief">
+          <span class="sidebar-paper-meta">{{ p.year }} · {{ p.journal_tier or '' }}</span>
+          <span class="sidebar-paper-title-text">{{ p.title | truncate(55) }}</span>
+          <span class="sidebar-paper-authors-text">{{ p.authors[:2] | join(', ') }}{% if p.authors | length > 2 %} et al.{% endif %}</span>
+        </div>
+        <div class="sidebar-paper-detail">
+          {% if p.journal %}<div class="sp-journal"><em>{{ p.journal }}</em></div>{% endif %}
+          {% if p.notes_zh %}<div class="sp-note">{{ p.notes_zh }}</div>{% endif %}
+          {% if p.data_zh %}<div class="sp-data"><strong>数据：</strong>{{ p.data_zh }}</div>{% endif %}
+          {% if p.method_zh %}<div class="sp-method"><strong>方法：</strong>{{ p.method_zh }}</div>{% endif %}
+          {% if p.doi %}<div class="sp-doi"><a href="https://doi.org/{{ p.doi }}" target="_blank" rel="noopener">DOI ↗</a></div>{% endif %}
+          {% if p.url and not p.doi %}<div class="sp-doi"><a href="{{ p.url }}" target="_blank" rel="noopener">Source ↗</a></div>{% endif %}
+        </div>
       </li>
       {% endfor %}
     </ul>
-    <a href="{{ rel_to_root }}/literature.html" class="view-all-link">全部文献 →</a>
     {% else %}
-    <p class="muted">暂无文献数据</p>
+    <p class="muted">暂无新文献数据</p>
     {% endif %}
+
+    {# ── 经典文献 ── #}
+    <h2 class="section-heading" style="margin-top:1.5rem">经典文献</h2>
+    {% if sidebar_classic_papers %}
+    <ul class="sidebar-papers">
+      {% for p in sidebar_classic_papers %}
+      <li class="sidebar-paper-item sidebar-paper-expandable" onclick="this.classList.toggle('expanded')">
+        <div class="sidebar-paper-brief">
+          <span class="sidebar-paper-meta">{{ p.year }} · {{ p.journal_tier or '' }}</span>
+          <span class="sidebar-paper-title-text">{{ p.title | truncate(55) }}</span>
+          <span class="sidebar-paper-authors-text">{{ p.authors[:2] | join(', ') }}{% if p.authors | length > 2 %} et al.{% endif %}</span>
+        </div>
+        <div class="sidebar-paper-detail">
+          {% if p.journal %}<div class="sp-journal"><em>{{ p.journal }}</em></div>{% endif %}
+          {% if p.notes_zh %}<div class="sp-note">{{ p.notes_zh }}</div>{% endif %}
+          {% if p.citations %}<div class="sp-cite">引用：{{ p.citations }}</div>{% endif %}
+          {% if p.doi %}<div class="sp-doi"><a href="https://doi.org/{{ p.doi }}" target="_blank" rel="noopener">DOI ↗</a></div>{% endif %}
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+    {% else %}
+    <p class="muted">暂无经典文献数据</p>
+    {% endif %}
+
+    <a href="{{ rel_to_root }}/literature.html" class="view-all-link">全部文献 →</a>
   </aside>
 
 </section>

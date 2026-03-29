@@ -279,18 +279,25 @@ def build_site(clean=False):
 
     # Load latest literature for sidebar
     lit_new = load_literature("new")
-    latest_papers = sorted(
+    lit_classic = load_literature("classic")
+    sidebar_new_papers = sorted(
         lit_new.get("papers", []),
         key=lambda p: p.get("year", 0),
         reverse=True,
-    )[:6]
+    )[:5]
+    sidebar_classic_papers = sorted(
+        lit_classic.get("papers", []),
+        key=lambda p: p.get("year", 0),
+        reverse=True,
+    )[:5]
 
     index_template = env.get_template("index.html")
     index_html = index_template.render(
         **base_context,
         topics_data=topics_data,
         topic_digests=topic_digests,
-        latest_papers=latest_papers,
+        sidebar_new_papers=sidebar_new_papers,
+        sidebar_classic_papers=sidebar_classic_papers,
         latest_month_display=format_month_display(latest_month),
         rel_to_root=".",
         current_page="index.html",

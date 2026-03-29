@@ -4,14 +4,10 @@
 
 {% block content %}
 {% from "components/event_row.html" import render_event_row %}
-{% from "components/month_selector.html" import render_month_selector %}
 
 <section class="topic-hero topic-hero--compact" style="--topic-color: {{ topic.color }}">
   <div class="container">
-    <span class="topic-hero-label" style="color:{{ topic.color }}">{{ topic.name_short }}</span>
-    <h1 class="topic-hero-title">{{ topic.name_zh }}</h1>
-    <p class="topic-hero-subtitle">不设门槛的信息池 · {{ month_display }}</p>
-    {{ render_month_selector(available_months, current_month, topic.slug, rel_to_root) }}
+    <h1 class="topic-hero-title">{{ topic.name_zh }} <span class="topic-hero-period">{{ month_display }}</span></h1>
   </div>
 </section>
 
