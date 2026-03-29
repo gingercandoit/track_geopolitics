@@ -1163,14 +1163,14 @@ h1, h2, h3, h4 {
   gap: 0.3rem;
   margin-top: 0.5rem;
 }
-.paper-topic-tag {
+.topic-tag {
   font-family: 'DM Sans', sans-serif;
   font-size: 0.68rem;
   font-weight: 600;
-  background: #F0EDE8;
-  color: #555;
+  background: transparent;
   padding: 0.1rem 0.4rem;
   border-radius: 3px;
+  border: 1px solid;
 }
 
 .paper-abstract {
