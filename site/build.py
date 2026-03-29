@@ -358,11 +358,26 @@ def build_site(clean=False):
     all_papers.sort(key=lambda p: p.get("year", 0), reverse=True)
 
     lit_template = env.get_template("literature.html")
+
+    # Build tier → sorted journal list for 2-level filter
+    from collections import defaultdict
+    tier_journals = defaultdict(set)
+    for p in all_papers:
+        tier = p.get("journal_tier", "other")
+        j = p.get("journal_display") or p.get("journal") or ""
+        if j:
+            tier_journals[tier].add(j)
+    tier_journals_sorted = {
+        t: sorted(jlist)
+        for t, jlist in sorted(tier_journals.items())
+    }
+
     lit_html = lit_template.render(
         **base_context,
         papers=all_papers,
         classic_count=len(classic_papers),
         new_count=len(new_papers_list),
+        tier_journals=tier_journals_sorted,
         rel_to_root=".",
         current_page="literature.html",
     )

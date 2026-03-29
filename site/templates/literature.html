@@ -22,14 +22,50 @@
       <button class="lit-tab" data-lib="new">新文献</button>
     </div>
     <div class="lit-filters">
-      <select id="lit-filter-tier" class="lit-select">
-        <option value="">全部期刊层次</option>
-        <option value="T1">Tier 1（Top 5 + Finance）</option>
-        <option value="T2">Tier 2（Field Top）</option>
-        <option value="T3">Tier 3（国际关系）</option>
-        <option value="WP">工作论文（WP）</option>
-        <option value="other">其他</option>
-      </select>
+
+      {# ── Tier 两级筛选 ── #}
+      <div class="tier-filter-wrap" id="tier-filter-wrap">
+        <button class="tier-filter-btn" id="tier-filter-btn" type="button">
+          期刊层次 <span class="tier-filter-arrow">▾</span>
+        </button>
+        <div class="tier-filter-panel" id="tier-filter-panel">
+          {# Tier 行定义 #}
+          {% set tier_rows = [
+            ('T1', 'Tier 1 — Top 5 + Finance'),
+            ('T2', 'Tier 2 — Field Top'),
+            ('T3', 'Tier 3 — IR / PolSci'),
+            ('WP', '工作论文 WP'),
+            ('other', '其他')
+          ] %}
+          {% for tid, tlabel in tier_rows %}
+          <div class="tier-row">
+            <div class="tier-header" data-tier="{{ tid }}">
+              <span class="tier-check">
+                <input type="checkbox" class="tier-master-cb" data-tier="{{ tid }}" id="tcb-{{ tid }}">
+              </span>
+              <label for="tcb-{{ tid }}" class="tier-label">{{ tlabel }}</label>
+              {% if tier_journals.get(tid) %}
+              <span class="tier-expand-arrow">▸</span>
+              {% endif %}
+            </div>
+            {% if tier_journals.get(tid) %}
+            <div class="tier-journal-list" data-tier="{{ tid }}">
+              {% for jname in tier_journals[tid] %}
+              <label class="journal-cb-label">
+                <input type="checkbox" class="journal-cb" data-tier="{{ tid }}" data-journal="{{ jname }}">
+                {{ jname }}
+              </label>
+              {% endfor %}
+            </div>
+            {% endif %}
+          </div>
+          {% endfor %}
+          <div class="tier-filter-footer">
+            <button class="tier-clear-btn" id="tier-clear-btn" type="button">清除筛选</button>
+          </div>
+        </div>
+      </div>
+
       <select id="lit-filter-year" class="lit-select">
         <option value="">全部年份</option>
         <option value="2026">2026</option>
@@ -51,6 +87,7 @@
          data-priority="{{ p.priority }}"
          data-tier="{{ p.journal_tier }}"
          data-year="{{ p.year }}"
+         data-journal="{{ p.journal_display or p.journal }}"
          data-search="{{ p.title | lower }} {{ p.authors | join(' ') | lower }}">
       {{ render_paper_card(p, priority_labels, journal_tiers, topics, p._library == 'new') }}
     </div>
@@ -78,7 +115,6 @@
   const PAGE_SIZE = 20;
   const items = Array.from(document.querySelectorAll('.lit-item'));
   const tabs = document.querySelectorAll('.lit-tab');
-  const tierSel = document.getElementById('lit-filter-tier');
   const yearSel = document.getElementById('lit-filter-year');
   const searchInput = document.getElementById('lit-search');
   const emptyEl = document.getElementById('lit-empty');
@@ -87,9 +123,104 @@
   const nextBtn = document.getElementById('pager-next');
   const pageInfo = document.getElementById('pager-info');
 
+  // ── Tier filter state ──
+  // activeTiers: Set of tier strings selected via master checkbox (empty = all)
+  // activeJournals: Set of journal name strings (empty = no journal-level filter)
+  let activeTiers = new Set();
+  let activeJournals = new Set();
+
   let currentPage = 1;
   let visibleItems = [];
 
+  // ── Tier panel open/close ──
+  const panelBtn = document.getElementById('tier-filter-btn');
+  const panel = document.getElementById('tier-filter-panel');
+  panelBtn.addEventListener('click', (e) => {
+    e.stopPropagation();
+    panel.classList.toggle('open');
+  });
+  document.addEventListener('click', (e) => {
+    if (!panel.contains(e.target) && e.target !== panelBtn) {
+      panel.classList.remove('open');
+    }
+  });
+
+  // ── Tier expand arrows ──
+  document.querySelectorAll('.tier-header').forEach(header => {
+    const arrow = header.querySelector('.tier-expand-arrow');
+    if (!arrow) return;
+    header.addEventListener('click', (e) => {
+      // avoid toggling when clicking the checkbox itself
+      if (e.target.classList.contains('tier-master-cb')) return;
+      const tid = header.dataset.tier;
+      const jlist = panel.querySelector(`.tier-journal-list[data-tier="${tid}"]`);
+      if (jlist) {
+        const expanded = jlist.classList.toggle('open');
+        arrow.textContent = expanded ? '▾' : '▸';
+      }
+    });
+  });
+
+  // ── Master tier checkboxes ──
+  document.querySelectorAll('.tier-master-cb').forEach(cb => {
+    cb.addEventListener('change', () => {
+      const tid = cb.dataset.tier;
+      if (cb.checked) {
+        activeTiers.add(tid);
+        // uncheck all journal-level boxes for this tier
+        document.querySelectorAll(`.journal-cb[data-tier="${tid}"]`).forEach(jcb => {
+          jcb.checked = false;
+          activeJournals.delete(jcb.dataset.journal);
+        });
+      } else {
+        activeTiers.delete(tid);
+      }
+      updateBtnLabel();
+      filterItems();
+    });
+  });
+
+  // ── Journal checkboxes ──
+  document.querySelectorAll('.journal-cb').forEach(cb => {
+    cb.addEventListener('change', () => {
+      const jname = cb.dataset.journal;
+      const tid = cb.dataset.tier;
+      if (cb.checked) {
+        activeJournals.add(jname);
+        // if master tier is active, deactivate it (journal-level takes over)
+        activeTiers.delete(tid);
+        const masterCb = document.getElementById(`tcb-${tid}`);
+        if (masterCb) masterCb.checked = false;
+      } else {
+        activeJournals.delete(jname);
+      }
+      updateBtnLabel();
+      filterItems();
+    });
+  });
+
+  // ── Clear button ──
+  document.getElementById('tier-clear-btn').addEventListener('click', () => {
+    activeTiers.clear();
+    activeJournals.clear();
+    document.querySelectorAll('.tier-master-cb, .journal-cb').forEach(cb => { cb.checked = false; });
+    updateBtnLabel();
+    filterItems();
+  });
+
+  function updateBtnLabel() {
+    const total = activeTiers.size + activeJournals.size;
+    panelBtn.querySelector('.tier-filter-arrow').textContent = panel.classList.contains('open') ? '▴' : '▾';
+    if (total === 0) {
+      panelBtn.firstChild.textContent = '期刊层次 ';
+      panelBtn.classList.remove('active');
+    } else {
+      panelBtn.firstChild.textContent = `期刊层次 (${total}) `;
+      panelBtn.classList.add('active');
+    }
+  }
+
+  // ── Year helper ──
   function yearMatch(itemYear, filterValue) {
     if (!filterValue) return true;
     const y = parseInt(itemYear, 10);
@@ -98,15 +229,24 @@
     return String(y) === filterValue;
   }
 
+  // ── Main filter ──
   function filterItems() {
     const lib = document.querySelector('.lit-tab.active').dataset.lib;
-    const tier = tierSel.value;
     const year = yearSel.value;
     const q = searchInput.value.toLowerCase().trim();
 
     visibleItems = items.filter(el => {
       if (lib !== 'all' && el.dataset.lib !== lib) return false;
-      if (tier && el.dataset.tier !== tier) return false;
+
+      // Tier / journal filter
+      if (activeJournals.size > 0) {
+        // journal-level: must match one of the selected journals
+        if (!activeJournals.has(el.dataset.journal)) return false;
+      } else if (activeTiers.size > 0) {
+        // tier-level: must match one of the selected tiers
+        if (!activeTiers.has(el.dataset.tier)) return false;
+      }
+
       if (year && !yearMatch(el.dataset.year, year)) return false;
       if (q && !el.dataset.search.includes(q)) return false;
       return true;
@@ -143,7 +283,6 @@
     });
   });
 
-  tierSel.addEventListener('change', filterItems);
   yearSel.addEventListener('change', filterItems);
   searchInput.addEventListener('input', filterItems);
 
@@ -151,6 +290,11 @@
   nextBtn.addEventListener('click', () => {
     const totalPages = Math.ceil(visibleItems.length / PAGE_SIZE);
     if (currentPage < totalPages) { currentPage++; renderPage(); window.scrollTo(0,0); }
+  });
+
+  // sync arrow on panel close via outside click
+  document.addEventListener('click', () => {
+    panelBtn.querySelector('.tier-filter-arrow').textContent = panel.classList.contains('open') ? '▴' : '▾';
   });
 
   // Initial render
