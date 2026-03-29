@@ -1,10 +1,10 @@
 # 文献库 — 按优先级排列
 
-> 自动生成于 2026-03-29，共 89 篇
+> 自动生成于 2026-03-29，共 92 篇
 
 ---
 
-## 核心必读 (Core) (15 篇)
+## 核心必读 (Core) (17 篇)
 
 ### Pablo Fajgelbaum, Pinelopi Goldberg, Patrick Kennedy et al. (2019) — The Return to Protectionism*
 - **期刊**：The Quarterly Journal of Economics [T1]
@@ -76,6 +76,16 @@
 
 ---
 
+### Richard Baldwin, Anthony J. Venables (2013) — Spiders and snakes: Offshoring and agglomeration in the global economy
+- **期刊**：Journal of International Economics [T2]
+- **引用**：443
+- **优先级**：core
+- **议题**：T2, T3
+- **DOI**：[10.1016/j.jinteco.2013.02.005](https://doi.org/10.1016/j.jinteco.2013.02.005)
+- **简评**：全球价值链理论的经典框架论文。区分两种GVC结构——'蜘蛛型'(零部件从多个来源汇聚到一个组装点)和'蛇型'(产品沿线性链条逐步增值)——并分析不同结构对贸易政策的差异化影响。
+
+---
+
 ### Chenggang Xu (2011) — The Fundamental Institutions of China's Reforms and Development
 - **期刊**：Journal of Economic Literature [T2]
 - **引用**：2508
@@ -136,6 +146,16 @@
 
 ---
 
+### Pol Antràs (2020) — De-Globalisation? Global Value Chains in the Post-COVID-19 Age
+- **期刊**：National Bureau of Economic Research [WP]
+- **引用**：61
+- **优先级**：core
+- **议题**：T2, T3, T5
+- **DOI**：[10.3386/w28115](https://doi.org/10.3386/w28115)
+- **简评**：全球化理论权威Pol Antràs分析去全球化趋势：从数据上评估全球化是否真正在逆转，区分贸易全球化与金融全球化的不同轨迹，并讨论疫情和地缘冲突对全球经济一体化前景的影响。
+
+---
+
 ### Dani Rodrik (2018) — Understanding Economic Policy Reform
 - **期刊**： [other]
 - **引用**：1283
@@ -156,7 +176,7 @@
 
 ---
 
-## 推荐阅读 (Recommended) (64 篇)
+## 推荐阅读 (Recommended) (65 篇)
 
 ### Gene M. Grossman, Elhanan Helpman, Stephen J. Redding (2024) — When Tariffs Disrupt Global Supply Chains
 - **期刊**：American Economic Review [T1]
@@ -405,6 +425,16 @@
 - **议题**：T2, T5
 - **DOI**：[10.1016/j.jinteco.2019.01.009](https://doi.org/10.1016/j.jinteco.2019.01.009)
 - **简评**：量化分析脱欧带来的贸易政策不确定性的宏观经济影响。发现不确定性本身（而非实际脱欧）已造成显著GDP损失。
+
+---
+
+### Daron Acemoğlu, Pascual Restrepo (2019) — Automation and New Tasks: How Technology Displaces and Reinstates Labor
+- **期刊**：The Journal of Economic Perspectives [T2]
+- **引用**：1988
+- **优先级**：recommended
+- **议题**：T4, T5
+- **DOI**：[10.1257/jep.33.2.3](https://doi.org/10.1257/jep.33.2.3)
+- **简评**：提出自动化与新任务创造的理论框架：自动化替代劳动力的同时也创造新任务，两股力量的相对强度决定技术进步对劳动市场的净影响。为理解AI时代的技术竞争和数字治理提供经济学基础。
 
 ---
 

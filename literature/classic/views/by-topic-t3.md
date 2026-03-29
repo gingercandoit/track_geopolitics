@@ -1,6 +1,6 @@
 # T3 供应链与关键资源 (Supply Chains & Resources) — 阅读清单
 
-> 自动生成于 2026-03-29，共 16 篇
+> 自动生成于 2026-03-29，共 18 篇
 > 数据来源：`literature-classic.json`
 
 ---
@@ -47,7 +47,7 @@
 
 ---
 
-## T2 — Field Top Journals (6 篇)
+## T2 — Field Top Journals (7 篇)
 
 ### Caroline Freund, Aaditya Mattoo, Alen Mulabdić et al. (2024) — Is US trade policy reshaping global supply chains?
 - **期刊**：Journal of International Economics [T2]
@@ -99,6 +99,16 @@
 
 ---
 
+### Richard Baldwin, Anthony J. Venables (2013) — Spiders and snakes: Offshoring and agglomeration in the global economy
+- **期刊**：Journal of International Economics [T2]
+- **引用**：443
+- **优先级**：core
+- **议题**：T2, T3
+- **DOI**：[10.1016/j.jinteco.2013.02.005](https://doi.org/10.1016/j.jinteco.2013.02.005)
+- **简评**：全球价值链理论的经典框架论文。区分两种GVC结构——'蜘蛛型'(零部件从多个来源汇聚到一个组装点)和'蛇型'(产品沿线性链条逐步增值)——并分析不同结构对贸易政策的差异化影响。
+
+---
+
 ### Filipe Campante, Davin Chor (2012) — Why was the Arab World Poised for Revolution? Schooling, Economic Opportunities, and the Arab Spring
 - **期刊**：The Journal of Economic Perspectives [T2]
 - **引用**：410
@@ -109,7 +119,7 @@
 
 ---
 
-## WP — Working Papers (NBER/CEPR/IMF/WB) (3 篇)
+## WP — Working Papers (NBER/CEPR/IMF/WB) (4 篇)
 
 ### Keith Head, Thierry Mayer, Marc Melitz et al. (2026) — Industrial Policies for Multi-Stage Production: The Battle for Battery-Powered Vehicles
 - **期刊**：National Bureau of Economic Research [WP]
@@ -128,6 +138,16 @@
 - **议题**：T3, T5
 - **DOI**：[10.3386/w31661](https://doi.org/10.3386/w31661)
 - **简评**：分析全球供应链'大重新配置'的前景——地缘政治紧张如何驱动跨国企业重组全球生产网络。
+
+---
+
+### Pol Antràs (2020) — De-Globalisation? Global Value Chains in the Post-COVID-19 Age
+- **期刊**：National Bureau of Economic Research [WP]
+- **引用**：61
+- **优先级**：core
+- **议题**：T2, T3, T5
+- **DOI**：[10.3386/w28115](https://doi.org/10.3386/w28115)
+- **简评**：全球化理论权威Pol Antràs分析去全球化趋势：从数据上评估全球化是否真正在逆转，区分贸易全球化与金融全球化的不同轨迹，并讨论疫情和地缘冲突对全球经济一体化前景的影响。
 
 ---
 

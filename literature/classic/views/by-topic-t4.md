@@ -1,6 +1,6 @@
 # T4 技术竞争与数字治理 (Tech Competition & Digital Governance) — 阅读清单
 
-> 自动生成于 2026-03-29，共 8 篇
+> 自动生成于 2026-03-29，共 9 篇
 > 数据来源：`literature-classic.json`
 
 ---
@@ -17,7 +17,17 @@
 
 ---
 
-## T2 — Field Top Journals (1 篇)
+## T2 — Field Top Journals (2 篇)
+
+### Daron Acemoğlu, Pascual Restrepo (2019) — Automation and New Tasks: How Technology Displaces and Reinstates Labor
+- **期刊**：The Journal of Economic Perspectives [T2]
+- **引用**：1988
+- **优先级**：recommended
+- **议题**：T4, T5
+- **DOI**：[10.1257/jep.33.2.3](https://doi.org/10.1257/jep.33.2.3)
+- **简评**：提出自动化与新任务创造的理论框架：自动化替代劳动力的同时也创造新任务，两股力量的相对强度决定技术进步对劳动市场的净影响。为理解AI时代的技术竞争和数字治理提供经济学基础。
+
+---
 
 ### David Autor, David Dorn, Gordon Hanson (2016) — The China Shock: Learning from Labor-Market Adjustment to Large Changes in Trade
 - **期刊**：Annual Review of Economics [T2]

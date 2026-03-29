@@ -1,7 +1,7 @@
 # 阅读路线图 (Reading Roadmap)
 
 > 按议题 → 子主题 → 优先级排列。Core 必读，Recommended 推荐，Reference 参考。
-> 总计 89 篇论文
+> 总计 92 篇论文
 
 ## T1: 制裁与经济管制 (19 篇)
 
@@ -114,7 +114,7 @@
 
 ---
 
-## T2: 贸易与产业竞争 (47 篇)
+## T2: 贸易与产业竞争 (49 篇)
 
 ### 关税与贸易战
 
@@ -272,6 +272,11 @@
   - DOI: [https://doi.org/10.1111/joes.12074](https://doi.org/10.1111/joes.12074)
   - 📝 综述公共R&D政策对私人R&D投资的影响文献——产业政策中技术补贴有效性的实证依据汇总。
 
+- ★ **Pol Antràs (2020)** — De-Globalisation? Global Value Chains in the Post-COVID-19 Age
+  - National Bureau of Economic Research [WP] | 61 citations
+  - DOI: [https://doi.org/10.3386/w28115](https://doi.org/10.3386/w28115)
+  - 📝 全球化理论权威Pol Antràs分析去全球化趋势：从数据上评估全球化是否真正在逆转，区分贸易全球化与金融全球化的不同轨迹，并讨论疫情和地缘冲突对全球经济一体化前景的影响。
+
 - ★ **Dani Rodrik (2018)** — Understanding Economic Policy Reform
   -  [other] | 1283 citations
   - DOI: [https://doi.org/10.4324/9780429498893-10](https://doi.org/10.4324/9780429498893-10)
@@ -346,6 +351,11 @@
   - DOI: [https://doi.org/10.1353/eca.2022.0005](https://doi.org/10.1353/eca.2022.0005)
   - 📝 China Shock的延续研究：评估中国贸易冲击对美国劳动力市场的持久影响(2000-2019)，发现效应远比预期持久。BPEA。
 
+- ★ **Richard Baldwin, Anthony J. Venables (2013)** — Spiders and snakes: Offshoring and agglomeration in the global economy
+  - Journal of International Economics [T2] | 443 citations
+  - DOI: [https://doi.org/10.1016/j.jinteco.2013.02.005](https://doi.org/10.1016/j.jinteco.2013.02.005)
+  - 📝 全球价值链理论的经典框架论文。区分两种GVC结构——'蜘蛛型'(零部件从多个来源汇聚到一个组装点)和'蛇型'(产品沿线性链条逐步增值)——并分析不同结构对贸易政策的差异化影响。
+
 ### 反倾销与贸易救济
 
 - ◆ **Chad P. Bown (2011)** — Taking Stock of Antidumping, Safeguards and Countervailing Duties, 1990–2009
@@ -367,7 +377,7 @@
 
 ---
 
-## T3: 供应链与关键资源 (16 篇)
+## T3: 供应链与关键资源 (18 篇)
 
 ### 其他
 
@@ -400,6 +410,11 @@
   - Journal of the European Economic Association [T2] | 200 citations
   - DOI: [https://doi.org/10.1111/jeea.12106](https://doi.org/10.1111/jeea.12106)
   - 📝 分析主权资本流动与全球失衡：为什么资本从穷国流向富国？涉及外汇储备积累和国际货币体系失衡的政治经济学。
+
+- ★ **Richard Baldwin, Anthony J. Venables (2013)** — Spiders and snakes: Offshoring and agglomeration in the global economy
+  - Journal of International Economics [T2] | 443 citations
+  - DOI: [https://doi.org/10.1016/j.jinteco.2013.02.005](https://doi.org/10.1016/j.jinteco.2013.02.005)
+  - 📝 全球价值链理论的经典框架论文。区分两种GVC结构——'蜘蛛型'(零部件从多个来源汇聚到一个组装点)和'蛇型'(产品沿线性链条逐步增值)——并分析不同结构对贸易政策的差异化影响。
 
 - ◆ **Filipe Campante, Davin Chor (2012)** — Why was the Arab World Poised for Revolution? Schooling, Economic Opportunities, and the Arab Spring
   - The Journal of Economic Perspectives [T2] | 410 citations
@@ -445,6 +460,11 @@
   - DOI: [https://doi.org/10.3386/w31661](https://doi.org/10.3386/w31661)
   - 📝 分析全球供应链'大重新配置'的前景——地缘政治紧张如何驱动跨国企业重组全球生产网络。
 
+- ★ **Pol Antràs (2020)** — De-Globalisation? Global Value Chains in the Post-COVID-19 Age
+  - National Bureau of Economic Research [WP] | 61 citations
+  - DOI: [https://doi.org/10.3386/w28115](https://doi.org/10.3386/w28115)
+  - 📝 全球化理论权威Pol Antràs分析去全球化趋势：从数据上评估全球化是否真正在逆转，区分贸易全球化与金融全球化的不同轨迹，并讨论疫情和地缘冲突对全球经济一体化前景的影响。
+
 ### 荷兰病与资源经济
 
 - ◆ **Richard Baldwin (2025)** — Global supply chains : why they emerged, why they matter, and where they are going
@@ -461,7 +481,7 @@
 
 ---
 
-## T4: 技术竞争与数字治理 (8 篇)
+## T4: 技术竞争与数字治理 (9 篇)
 
 ### 其他
 
@@ -484,6 +504,13 @@
   - Geopolitics [other] | 174 citations
   - DOI: [https://doi.org/10.1080/14650045.2023.2253432](https://doi.org/10.1080/14650045.2023.2253432)
   - 📝 分析中美'第二次冷战'——在基础设施、数字经济和绿色转型领域争夺全球中心性的竞争。
+
+### 技术变革与劳动力
+
+- ◆ **Daron Acemoğlu, Pascual Restrepo (2019)** — Automation and New Tasks: How Technology Displaces and Reinstates Labor
+  - The Journal of Economic Perspectives [T2] | 1988 citations
+  - DOI: [https://doi.org/10.1257/jep.33.2.3](https://doi.org/10.1257/jep.33.2.3)
+  - 📝 提出自动化与新任务创造的理论框架：自动化替代劳动力的同时也创造新任务，两股力量的相对强度决定技术进步对劳动市场的净影响。为理解AI时代的技术竞争和数字治理提供经济学基础。
 
 ### AI治理与监管
 
@@ -511,7 +538,7 @@
 
 ---
 
-## T5: 地缘政治经济学 (36 篇)
+## T5: 地缘政治经济学 (38 篇)
 
 ### 其他
 
@@ -539,6 +566,11 @@
   - Journal of International Economics [T2] | 138 citations
   - DOI: [https://doi.org/10.1016/j.jinteco.2021.103445](https://doi.org/10.1016/j.jinteco.2021.103445)
   - 📝 研究中国企业在全球生产线上的位置如何影响其增长表现，分析全球价值链参与对中国经济增长模式的塑造。
+
+- ◆ **Daron Acemoğlu, Pascual Restrepo (2019)** — Automation and New Tasks: How Technology Displaces and Reinstates Labor
+  - The Journal of Economic Perspectives [T2] | 1988 citations
+  - DOI: [https://doi.org/10.1257/jep.33.2.3](https://doi.org/10.1257/jep.33.2.3)
+  - 📝 提出自动化与新任务创造的理论框架：自动化替代劳动力的同时也创造新任务，两股力量的相对强度决定技术进步对劳动市场的净影响。为理解AI时代的技术竞争和数字治理提供经济学基础。
 
 - ◆ **Kyle Bagwell, Chad P. Bown et al. (2016)** — Is the WTO Passé?
   - Journal of Economic Literature [T2] | 113 citations
@@ -585,12 +617,7 @@
   - DOI: [https://doi.org/10.1007/s00146-020-00992-2](https://doi.org/10.1007/s00146-020-00992-2)
   - 📝 系统分析中国的人工智能发展路径——政策框架、伦理考量和国际标准竞争，是理解中美AI竞争的关键参考。
 
-- ◆ **Manfred Häfner, Simone Tagliapietra (2020)** — The Geopolitics of the Global Energy Transition
-  - Lecture notes in energy [other] | 223 citations
-  - DOI: [https://doi.org/10.1007/978-3-030-39066-2](https://doi.org/10.1007/978-3-030-39066-2)
-  - 📝 分析全球能源转型的地缘政治维度——清洁能源如何重塑能源出口国与进口国的权力关系。
-
-  *(另有 2 篇，见 CSV 完整索引)*
+  *(另有 3 篇，见 CSV 完整索引)*
 
 ### 政治经济学方法论
 
@@ -664,6 +691,11 @@
   - Journal of Economic Literature [T2] | 2508 citations
   - DOI: [https://doi.org/10.1257/jel.49.4.1076](https://doi.org/10.1257/jel.49.4.1076)
   - 📝 剖析中国改革与发展的基本制度架构——'地区分权的威权制'(RDA体制)如何驱动中国经济增长和制度演变。
+
+- ★ **Pol Antràs (2020)** — De-Globalisation? Global Value Chains in the Post-COVID-19 Age
+  - National Bureau of Economic Research [WP] | 61 citations
+  - DOI: [https://doi.org/10.3386/w28115](https://doi.org/10.3386/w28115)
+  - 📝 全球化理论权威Pol Antràs分析去全球化趋势：从数据上评估全球化是否真正在逆转，区分贸易全球化与金融全球化的不同轨迹，并讨论疫情和地缘冲突对全球经济一体化前景的影响。
 
 ### 全球化与治理
 

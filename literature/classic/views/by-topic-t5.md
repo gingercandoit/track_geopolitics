@@ -1,6 +1,6 @@
 # T5 地缘政治经济学 (Geopolitical Economy) — 阅读清单
 
-> 自动生成于 2026-03-29，共 36 篇
+> 自动生成于 2026-03-29，共 38 篇
 > 数据来源：`literature-classic.json`
 
 ---
@@ -27,7 +27,7 @@
 
 ---
 
-## T2 — Field Top Journals (12 篇)
+## T2 — Field Top Journals (13 篇)
 
 ### Ilias Alami, Carolina Alves, Bruno Bonizzi et al. (2022) — International financial subordination: a critical research agenda
 - **期刊**：Review of International Political Economy [T2]
@@ -76,6 +76,16 @@
 - **议题**：T2, T5
 - **DOI**：[10.1016/j.jinteco.2019.01.009](https://doi.org/10.1016/j.jinteco.2019.01.009)
 - **简评**：量化分析脱欧带来的贸易政策不确定性的宏观经济影响。发现不确定性本身（而非实际脱欧）已造成显著GDP损失。
+
+---
+
+### Daron Acemoğlu, Pascual Restrepo (2019) — Automation and New Tasks: How Technology Displaces and Reinstates Labor
+- **期刊**：The Journal of Economic Perspectives [T2]
+- **引用**：1988
+- **优先级**：recommended
+- **议题**：T4, T5
+- **DOI**：[10.1257/jep.33.2.3](https://doi.org/10.1257/jep.33.2.3)
+- **简评**：提出自动化与新任务创造的理论框架：自动化替代劳动力的同时也创造新任务，两股力量的相对强度决定技术进步对劳动市场的净影响。为理解AI时代的技术竞争和数字治理提供经济学基础。
 
 ---
 
@@ -251,7 +261,7 @@
 
 ---
 
-## WP — Working Papers (NBER/CEPR/IMF/WB) (2 篇)
+## WP — Working Papers (NBER/CEPR/IMF/WB) (3 篇)
 
 ### Shekhar Aiyar, Anna Ilyina, Jiaqian Chen et al. (2023) — Geo-Economic Fragmentation and the Future of Multilateralism
 - **期刊**：IMF staff discussion note [WP]
@@ -270,6 +280,16 @@
 - **议题**：T3, T5
 - **DOI**：[10.3386/w31661](https://doi.org/10.3386/w31661)
 - **简评**：分析全球供应链'大重新配置'的前景——地缘政治紧张如何驱动跨国企业重组全球生产网络。
+
+---
+
+### Pol Antràs (2020) — De-Globalisation? Global Value Chains in the Post-COVID-19 Age
+- **期刊**：National Bureau of Economic Research [WP]
+- **引用**：61
+- **优先级**：core
+- **议题**：T2, T3, T5
+- **DOI**：[10.3386/w28115](https://doi.org/10.3386/w28115)
+- **简评**：全球化理论权威Pol Antràs分析去全球化趋势：从数据上评估全球化是否真正在逆转，区分贸易全球化与金融全球化的不同轨迹，并讨论疫情和地缘冲突对全球经济一体化前景的影响。
 
 ---
 

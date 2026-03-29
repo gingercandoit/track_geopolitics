@@ -2,13 +2,13 @@
   "metadata": {
     "library": "classic",
     "last_updated": "2026-03-29",
-    "total_papers": 89,
+    "total_papers": 92,
     "topic_counts": {
+      "2": 49,
+      "3": 18,
+      "5": 38,
       "1": 19,
-      "2": 47,
-      "3": 16,
-      "4": 8,
-      "5": 36
+      "4": 9
     },
     "tier_counts": {
       "T1": 19,
@@ -1211,6 +1211,47 @@
       "read_status": "unread"
     },
     {
+      "id": "acemoglu_restrepo_2019",
+      "title": "Automation and New Tasks: How Technology Displaces and Reinstates Labor",
+      "authors": [
+        "Daron Acemoğlu",
+        "Pascual Restrepo"
+      ],
+      "year": 2019,
+      "journal": "The Journal of Economic Perspectives",
+      "journal_tier": "T2",
+      "volume": "33",
+      "issue": "2",
+      "pages": "3-30",
+      "doi": "10.1257/jep.33.2.3",
+      "url": "https://doi.org/10.1257/jep.33.2.3",
+      "webvpn_url": null,
+      "nber_wp": null,
+      "ssrn_id": null,
+      "abstract": "We present a framework for understanding the effects of automation and other types of technological changes on labor demand, and use it to interpret changes in US employment over the recent past. At the center of our framework is the allocation of tasks to capital and labor—the task content of production. Automation, which enables capital to replace labor in tasks it was previously engaged in, shifts the task content of production against labor because of a displacement effect. As a result, automation always reduces the labor share in value added and may reduce labor demand even as it raises productivity. The effects of automation are counterbalanced by the creation of new tasks in which labor has a comparative advantage. The introduction of new tasks changes the task content of production in favor of labor because of a reinstatement effect, and always raises the labor share and labor demand. We show how the role of changes in the task content of production—due to automation and new tasks—can be inferred from industry-level data. Our empirical decomposition suggests that the slower growth of employment over the last three decades is accounted for by an acceleration in the displacement effect, especially in manufacturing, a weaker reinstatement effect, and slower growth of productivity than in previous decades.",
+      "jel_codes": [],
+      "topics": [
+        4,
+        5
+      ],
+      "topic_relevance": {
+        "4": "理论基础：AI/自动化对劳动市场影响的核心框架，技术竞争政策讨论的理论起点",
+        "5": "相关：技术变革的地缘政治含义"
+      },
+      "priority": "recommended",
+      "citations": 1988,
+      "tags": [
+        "AI",
+        "automation",
+        "labor",
+        "theory",
+        "technology"
+      ],
+      "notes_zh": "提出自动化与新任务创造的理论框架：自动化替代劳动力的同时也创造新任务，两股力量的相对强度决定技术进步对劳动市场的净影响。为理解AI时代的技术竞争和数字治理提供经济学基础。",
+      "added_date": "2026-03-29",
+      "read_status": "unread"
+    },
+    {
       "id": "rodrik_2018_b",
       "title": "What Do Trade Agreements Really Do?",
       "authors": [
@@ -1545,6 +1586,46 @@
       "citations": 200,
       "tags": [],
       "notes_zh": "分析主权资本流动与全球失衡：为什么资本从穷国流向富国？涉及外汇储备积累和国际货币体系失衡的政治经济学。",
+      "added_date": "2026-03-29",
+      "read_status": "unread"
+    },
+    {
+      "id": "baldwin_venables_2013",
+      "title": "Spiders and snakes: Offshoring and agglomeration in the global economy",
+      "authors": [
+        "Richard Baldwin",
+        "Anthony J. Venables"
+      ],
+      "year": 2013,
+      "journal": "Journal of International Economics",
+      "journal_tier": "T2",
+      "volume": "90",
+      "issue": "2",
+      "pages": "245-254",
+      "doi": "10.1016/j.jinteco.2013.02.005",
+      "url": "https://doi.org/10.1016/j.jinteco.2013.02.005",
+      "webvpn_url": null,
+      "nber_wp": null,
+      "ssrn_id": null,
+      "abstract": "",
+      "jel_codes": [],
+      "topics": [
+        3,
+        2
+      ],
+      "topic_relevance": {
+        "3": "核心理论：GVC结构分类框架，供应链研究基础",
+        "2": "相关：分析GVC结构如何改变贸易政策效果"
+      },
+      "priority": "core",
+      "citations": 443,
+      "tags": [
+        "GVC",
+        "theory",
+        "trade-policy",
+        "spiders-snakes"
+      ],
+      "notes_zh": "全球价值链理论的经典框架论文。区分两种GVC结构——'蜘蛛型'(零部件从多个来源汇聚到一个组装点)和'蛇型'(产品沿线性链条逐步增值)——并分析不同结构对贸易政策的差异化影响。",
       "added_date": "2026-03-29",
       "read_status": "unread"
     },
@@ -2587,6 +2668,47 @@
       "citations": 94,
       "tags": [],
       "notes_zh": "记录美元在全球储备中份额的'隐形侵蚀'——各国央行主动多元化转向非传统储备货币（人民币等），挑战美元霸权。",
+      "added_date": "2026-03-29",
+      "read_status": "unread"
+    },
+    {
+      "id": "antras_2020",
+      "title": "De-Globalisation? Global Value Chains in the Post-COVID-19 Age",
+      "authors": [
+        "Pol Antràs"
+      ],
+      "year": 2020,
+      "journal": "National Bureau of Economic Research",
+      "journal_tier": "WP",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "doi": "10.3386/w28115",
+      "url": "https://doi.org/10.3386/w28115",
+      "webvpn_url": null,
+      "nber_wp": "w28115",
+      "ssrn_id": null,
+      "abstract": "This paper evaluates the extent to which the world economy has entered a phase of de-globalisation, and it offers some speculative thoughts on the future of global value chains in the post-COVID-19 age. Although the growth of international trade flows relative to that of GDP has slowed down since the Great Recession, this paper finds little systematic evidence indicating that the world economy has already entered an era of de-globalisation. Instead, the observed slowdown in globalisation is a natural sequel to the unsustainable increase in globalisation experienced in the late 1980s, 1990s and early 2000s. I offer a description of the mechanisms leading to that earlier expansionary phase, together with a discussion of why these forces might have run out of steam, and of the extent to which they may be reversible. I conclude that the main challenge for the future of globalisation is institutional and political in nature rather than technological, although new technologies might aggravate the trends in inequality that have created the current political backlash against globalisation. Zooming in on the COVID-19 global pandemic, I similarly conclude that the current health crisis may further darken the future of globalisation if it aggravates policy tensions across countries.",
+      "jel_codes": [],
+      "topics": [
+        3,
+        5,
+        2
+      ],
+      "topic_relevance": {
+        "3": "直接相关：供应链去全球化趋势的系统性分析",
+        "5": "核心议题：地缘政治冲突如何推动去全球化",
+        "2": "相关：贸易全球化逆转的证据与机制"
+      },
+      "priority": "core",
+      "citations": 61,
+      "tags": [
+        "de-globalization",
+        "GVC",
+        "pandemic",
+        "geopolitics"
+      ],
+      "notes_zh": "全球化理论权威Pol Antràs分析去全球化趋势：从数据上评估全球化是否真正在逆转，区分贸易全球化与金融全球化的不同轨迹，并讨论疫情和地缘冲突对全球经济一体化前景的影响。",
       "added_date": "2026-03-29",
       "read_status": "unread"
     },

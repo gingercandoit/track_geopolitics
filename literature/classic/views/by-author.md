@@ -1,7 +1,7 @@
 # 文献库 — 按作者索引
 
 > 自动生成于 2026-03-29
-> 仅显示有 2 篇及以上论文的作者，共 28 位
+> 仅显示有 2 篇及以上论文的作者，共 31 位
 
 ---
 
@@ -29,6 +29,11 @@
 - [1708 cites] (2015) Premature deindustrialization — *Journal of Economic Growth* [T2] T2,T5
 - [1283 cites] (2018) Understanding Economic Policy Reform — ** [other] T2,T5
 - [1268 cites] (2018) Populism and the economics of globalization — *Journal of International Business Policy* [other] T2,T5
+
+## Daron Acemoğlu (2 篇, 2938 总引用)
+
+- [950 cites] (2016) Transition to Clean Technology — *Journal of Political Economy* [T1] T2,T3
+- [1988 cites] (2019) Automation and New Tasks: How Technology Displaces and Reinstates Labor — *The Journal of Economic Perspectives* [T2] T4,T5
 
 ## Abraham L. Newman (6 篇, 2063 总引用)
 
@@ -93,6 +98,11 @@
 - [80 cites] (2024) The US-China Trade War and Global Reallocations — *American Economic Review Insights* [T1] T2
 - [774 cites] (2019) The Return to Protectionism* — *The Quarterly Journal of Economics* [T1] T2
 
+## Richard Baldwin (2 篇, 848 总引用)
+
+- [443 cites] (2013) Spiders and snakes: Offshoring and agglomeration in the global economy — *Journal of International Economics* [T2] T3,T2
+- [405 cites] (2025) Global supply chains : why they emerged, why they matter, and where they are goi — *Graduate Institute Geneva Institutional * [other] T3,T5
+
 ## Stephen J. Redding (2 篇, 842 总引用)
 
 - [113 cites] (2024) When Tariffs Disrupt Global Supply Chains — *American Economic Review* [T1] T2,T3
@@ -113,6 +123,11 @@
 - [410 cites] (2012) Why was the Arab World Poised for Revolution? Schooling, Economic Opportunities, — *The Journal of Economic Perspectives* [T2] T3
 - [116 cites] (2023) Global Supply Chains: The Looming “Great Reallocation” — *National Bureau of Economic Research* [WP] T3,T5
 - [92 cites] (2019) Did Trump's Trade War Impact the 2018 Election? — *National Bureau of Economic Research* [WP] T2
+
+## Pol Antràs (2 篇, 420 总引用)
+
+- [359 cites] (2020) On the Geography of Global Value Chains — *Econometrica* [T1] T2,T3
+- [61 cites] (2020) De-Globalisation? Global Value Chains in the Post-COVID-19 Age — *National Bureau of Economic Research* [WP] T3,T5,T2
 
 ## Ilias Alami (2 篇, 370 总引用)
 
