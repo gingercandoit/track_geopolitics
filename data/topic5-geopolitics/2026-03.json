@@ -1,11 +1,12 @@
-{
+﻿{
   "report_metadata": {
     "topic": "topic5-geopolitics",
     "topic_name_zh": "地缘政治信息池",
     "period_start": "2026-03-01",
     "period_end": "2026-03-28",
     "generated_at": "2026-03-29T12:00:00+08:00",
-    "version": "1.1"
+    "version": "1.1",
+    "digest_zh": "伊朗停火与俄乌和谈双线停滞，特朗普-习近平峰会定于5月北京。\n>> 特朗普向伊朗提出15点停火方案，德黑兰拒绝\n>> 克里姆林宫宣布乌克兰和谈“暂停”\n>> 白宫确认特朗普5月14-15日访问北京\n>> BRICS内部分裂：印度拒绝去美元化议程"
   },
   "events": [
     {
@@ -65,7 +66,7 @@
       "date": "2026-03-16",
       "type": "智库分析",
       "title_zh": "Foreign Policy：BRICS在伊朗战争上的分裂",
-      "summary_zh": "Oliver Stuenkel撰文分析：BRICS不是地缘政治联盟，不应期望它像一个联盟运作——NATO和G7在伊朗议题上同样存在分歧。反映多边机制在重大军事冲突面前的结构性局限。",
+      "summary_zh": "Oliver Stuenkel撰文分析：BRICS不是地缘政治联盟，不应期望它像一个联盟运作。NATO和G7在伊朗议题上同样存在分歧。反映多边机制在重大军事冲突面前的结构性局限。",
       "source_tier": "C",
       "sources": [
         {

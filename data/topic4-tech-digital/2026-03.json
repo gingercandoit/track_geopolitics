@@ -86,8 +86,8 @@
     {
       "date": "2026-03-11",
       "type": "智库分析",
-      "title_zh": "芯片管制是“降温“还是“新均衡“？",
-      "summary_zh": "East Asia Forum认为特朗普政府在芯片出口管制上实质是在“降温“——措辞强硬但实际管制力度放松。Center for China Analysis探讨中美能否在贸易和技术领域找到“新均衡“，核心论点是“管理型竞争“正在取代“完全脱钩“。",
+      "title_zh": "East Asia Forum与Center for China Analysis对芯片管制方向分歧",
+      "summary_zh": "East Asia Forum认为特朗普政府在芯片出口管制上实质是在“降温”，措辞强硬但实际管制力度放松。Center for China Analysis探讨中美能否在贸易和技术领域找到“新均衡”，核心论点是“管理型竞争”正在取代“完全脱钩”。",
       "source_tier": "C",
       "sources": [
         {
@@ -154,7 +154,7 @@
     {
       "date": "2026-03-26",
       "type": "政策发布",
-      "title_zh": "国务院启动“Pax Silica基金“——2.5亿美元半导体外交新工具",
+      "title_zh": "国务院启动2.5亿美元Pax Silica半导体外交基金",
       "summary_zh": "美国国务院宣布将与国会合作拨出2.5亿美元建立“Pax Silica基金“，为盟友和合作伙伴的半导体供应链基础设施提供融资和技术支持。与BIS出口管制形成互补：一边限制对华芯片流向，一边帮盟友建产能。",
       "source_tier": "A",
       "sources": [
@@ -231,7 +231,7 @@
       "date": "2026-01-15",
       "type": "政策发布",
       "title_zh": "Proclamation 11002 生效，25% 先进半导体进口关税开征",
-      "summary_zh": "对中国产先进半导体征收25%进口关税正式开征，覆盖高端GPU、AI加速器等品类。将半导体从出口管制扩展到进口关税——双管齐下形成“门控框架“。",
+      "summary_zh": "对中国产先进半导体征收25%进口关税正式开征，覆盖高端GPU、AI加速器等品类。将半导体从出口管制扩展到进口关税，双管齐下形成“门控框架“。",
       "source_tier": "A",
       "sources": [
         {
