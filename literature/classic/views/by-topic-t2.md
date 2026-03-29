@@ -1,11 +1,11 @@
 # T2 贸易与产业竞争 (Trade & Industrial Policy) — 阅读清单
 
-> 自动生成于 2026-03-29，共 58 篇
+> 自动生成于 2026-03-29，共 39 篇
 > 数据来源：`literature-classic.json`
 
 ---
 
-## T1 — General Top 5 + Finance Top (21 篇)
+## T1 — General Top 5 + Finance Top (13 篇)
 
 ### Pablo Fajgelbaum, Pinelopi Goldberg, Patrick Kennedy et al. (2024) — The US-China Trade War and Global Reallocations
 - **期刊**：American Economic Review Insights [T1]
@@ -24,16 +24,6 @@
 - **议题**：T2
 - **DOI**：[10.1093/qje/qjab014](https://doi.org/10.1093/qje/qjab014)
 - **简评**：研究跨国投资与国际生产布局。顶刊发表，关联议题：贸易与产业竞争。
-
----
-
-### Jan De Loecker, Jan Eeckhout, Gabriel Unger (2020) — The Rise of Market Power and the Macroeconomic Implications*
-- **期刊**：The Quarterly Journal of Economics [T1]
-- **引用**：1763
-- **优先级**：core
-- **议题**：T2, T5
-- **DOI**：[10.1093/qje/qjz041](https://doi.org/10.1093/qje/qjz041)
-- **简评**：与地缘政治经济学相关的学术研究。顶刊发表，关联议题：贸易与产业竞争/地缘政治经济学。
 
 ---
 
@@ -57,36 +47,6 @@
 
 ---
 
-### Mary Amiti, Oleg Itskhoki, Jozef Konings (2019) — International Shocks, Variable Markups, and Domestic Prices
-- **期刊**：The Review of Economic Studies [T1]
-- **引用**：251
-- **优先级**：recommended
-- **议题**：T1, T2
-- **DOI**：[10.1093/restud/rdz005](https://doi.org/10.1093/restud/rdz005)
-- **简评**：与制裁与经济管制相关的学术研究。顶刊发表，关联议题：制裁与经济管制/贸易与产业竞争。
-
----
-
-### Daron Acemoğlu, Ufuk Akcigit, Harun Alp et al. (2018) — Innovation, Reallocation, and Growth
-- **期刊**：American Economic Review [T1]
-- **引用**：599
-- **优先级**：core
-- **议题**：T2, T4
-- **DOI**：[10.1257/aer.20130470](https://doi.org/10.1257/aer.20130470)
-- **简评**：研究创新驱动增长与技术政策。顶刊发表，关联议题：贸易与产业竞争/技术竞争与数字治理。
-
----
-
-### Pablo Fajgelbaum, Cécile Gaubert (2018) — Optimal Spatial Policies, Geography and Sorting
-- **期刊**：The Quarterly Journal of Economics [T1]
-- **引用**：53
-- **优先级**：reference
-- **议题**：T2
-- **DOI**：[10.1093/qje/qjaa001](https://doi.org/10.1093/qje/qjaa001)
-- **简评**：贸易地理学与空间经济学。顶刊发表，关联议题：贸易与产业竞争。
-
----
-
 ### Daron Acemoğlu, Ufuk Akcigit, Douglas Hanley et al. (2016) — Transition to Clean Technology
 - **期刊**：Journal of Political Economy [T1]
 - **引用**：950
@@ -97,16 +57,6 @@
 
 ---
 
-### Pablo Fajgelbaum, Amit Khandelwal (2016) — Measuring the Unequal Gains from Trade *
-- **期刊**：The Quarterly Journal of Economics [T1]
-- **引用**：329
-- **优先级**：recommended
-- **议题**：T2
-- **DOI**：[10.1093/qje/qjw013](https://doi.org/10.1093/qje/qjw013)
-- **简评**：贸易福利分析。顶刊发表，关联议题：贸易与产业竞争。
-
----
-
 ### Lorenzo Caliendo, Fernando Parro (2014) — Estimates of the Trade and Welfare Effects of NAFTA
 - **期刊**：The Review of Economic Studies [T1]
 - **引用**：1371
@@ -114,16 +64,6 @@
 - **议题**：T2
 - **DOI**：[10.1093/restud/rdu035](https://doi.org/10.1093/restud/rdu035)
 - **简评**：直接研究中美贸易战/关税的经济效应。顶刊发表，关联议题：贸易与产业竞争。
-
----
-
-### Mary Amiti, Oleg Itskhoki, Jozef Konings (2014) — Importers, Exporters, and Exchange Rate Disconnect
-- **期刊**：American Economic Review [T1]
-- **引用**：612
-- **优先级**：core
-- **议题**：T1, T2
-- **DOI**：[10.1257/aer.104.7.1942](https://doi.org/10.1257/aer.104.7.1942)
-- **简评**：研究市场力量与贸易政策的交叉。顶刊发表，关联议题：制裁与经济管制/贸易与产业竞争。
 
 ---
 
@@ -147,16 +87,6 @@
 
 ---
 
-### Nicholas Bloom, Mark Schankerman, John Van Reenen (2013) — Identifying Technology Spillovers and Product Market Rivalry
-- **期刊**：Econometrica [T1]
-- **引用**：1675
-- **优先级**：core
-- **议题**：T2, T4
-- **DOI**：[10.3982/ecta9466](https://doi.org/10.3982/ecta9466)
-- **简评**：分析贸易救济措施与贸易保护。顶刊发表，关联议题：贸易与产业竞争/技术竞争与数字治理。
-
----
-
 ### Chad P. Bown, Meredith A. Crowley (2013) — Self-Enforcing Trade Agreements: Evidence from Time-Varying Trade Policy
 - **期刊**：American Economic Review [T1]
 - **引用**：127
@@ -174,16 +104,6 @@
 - **议题**：T2
 - **DOI**：[10.1257/aer.102.3.466](https://doi.org/10.1257/aer.102.3.466)
 - **简评**：研究多边贸易体制与贸易谈判。顶刊发表，关联议题：贸易与产业竞争。
-
----
-
-### Pablo Fajgelbaum, Gene M. Grossman, Elhanan Helpman (2011) — Income Distribution, Product Quality, and International Trade
-- **期刊**：Journal of Political Economy [T1]
-- **引用**：360
-- **优先级**：recommended
-- **议题**：T2
-- **DOI**：[10.1086/662628](https://doi.org/10.1086/662628)
-- **简评**：贸易政策的分配效应。顶刊发表，关联议题：贸易与产业竞争。
 
 ---
 
@@ -217,7 +137,7 @@
 
 ---
 
-## T2 — Field Top Journals (21 篇)
+## T2 — Field Top Journals (13 篇)
 
 ### Pablo Fajgelbaum, Amit Khandelwal (2022) — The Economic Impacts of the US–China Trade War
 - **期刊**：Annual Review of Economics [T2]
@@ -249,16 +169,6 @@
 
 ---
 
-### Amy Finkelstein, Nathaniel Hendren (2020) — Welfare Analysis Meets Causal Inference
-- **期刊**：The Journal of Economic Perspectives [T2]
-- **引用**：107
-- **优先级**：recommended
-- **议题**：T2
-- **DOI**：[10.1257/jep.34.4.146](https://doi.org/10.1257/jep.34.4.146)
-- **简评**：与贸易与产业竞争相关的学术研究。领域Top期刊，关联议题：贸易与产业竞争。
-
----
-
 ### Mary Amiti, Stephen J. Redding, David E. Weinstein (2019) — The Impact of the 2018 Tariffs on Prices and Welfare
 - **期刊**：The Journal of Economic Perspectives [T2]
 - **引用**：729
@@ -266,16 +176,6 @@
 - **议题**：T2, T3
 - **DOI**：[10.1257/jep.33.4.187](https://doi.org/10.1257/jep.33.4.187)
 - **简评**：直接研究中美贸易战/关税的经济效应。领域Top期刊，关联议题：贸易与产业竞争/供应链与关键资源。
-
----
-
-### Nicholas Bloom, John Van Reenen, Heidi Williams (2019) — A Toolkit of Policies to Promote Innovation
-- **期刊**：The Journal of Economic Perspectives [T2]
-- **引用**：527
-- **优先级**：core
-- **议题**：T2
-- **DOI**：[10.1257/jep.33.3.163](https://doi.org/10.1257/jep.33.3.163)
-- **简评**：研究创新政策与技术竞争。领域Top期刊，关联议题：贸易与产业竞争。
 
 ---
 
@@ -309,16 +209,6 @@
 
 ---
 
-### Marcel P. Timmer, Erik Dietzenbacher, Bart Los et al. (2015) — An Illustrated User Guide to the World Input–Output Database: the Case of Global Automotive Production
-- **期刊**：Review of International Economics [T2]
-- **引用**：2403
-- **优先级**：core
-- **议题**：T2, T3, T4
-- **DOI**：[10.1111/roie.12178](https://doi.org/10.1111/roie.12178)
-- **简评**：与供应链与关键资源相关的学术研究。领域Top期刊，关联议题：贸易与产业竞争/供应链与关键资源/技术竞争与数字治理。
-
----
-
 ### Dani Rodrik (2015) — Premature deindustrialization
 - **期刊**：Journal of Economic Growth [T2]
 - **引用**：1708
@@ -349,46 +239,6 @@
 
 ---
 
-### Mary Amiti, Amit Khandelwal (2012) — Import Competition and Quality Upgrading
-- **期刊**：The Review of Economics and Statistics [T2]
-- **引用**：508
-- **优先级**：core
-- **议题**：T2, T5
-- **DOI**：[10.1162/rest_a_00271](https://doi.org/10.1162/rest_a_00271)
-- **简评**：直接研究中美贸易战/关税的经济效应。领域Top期刊，关联议题：贸易与产业竞争/地缘政治经济学。
-
----
-
-### Laura Alfaro, Maggie Xiaoyang Chen (2012) — Surviving the Global Financial Crisis: Foreign Ownership and Establishment Performance
-- **期刊**：American Economic Journal Economic Policy [T2]
-- **引用**：208
-- **优先级**：recommended
-- **议题**：T2
-- **DOI**：[10.1257/pol.4.3.30](https://doi.org/10.1257/pol.4.3.30)
-- **简评**：研究跨国投资与国际生产布局。领域Top期刊，关联议题：贸易与产业竞争。
-
----
-
-### Chad P. Bown, Meredith A. Crowley (2012) — Import protection, business cycles, and exchange rates: Evidence from the Great Recession
-- **期刊**：Journal of International Economics [T2]
-- **引用**：194
-- **优先级**：recommended
-- **议题**：T2
-- **DOI**：[10.1016/j.jinteco.2012.12.001](https://doi.org/10.1016/j.jinteco.2012.12.001)
-- **简评**：分析贸易救济措施与贸易保护。领域Top期刊，关联议题：贸易与产业竞争。
-
----
-
-### Beyza Ural Marchand (2012) — Tariff pass-through and the distributional effects of trade liberalization
-- **期刊**：Journal of Development Economics [T2]
-- **引用**：85
-- **优先级**：reference
-- **议题**：T2
-- **DOI**：[10.1016/j.jdeveco.2012.02.004](https://doi.org/10.1016/j.jdeveco.2012.02.004)
-- **简评**：直接研究中美贸易战/关税的经济效应。领域Top期刊，关联议题：贸易与产业竞争。
-
----
-
 ### Chad P. Bown (2011) — Taking Stock of Antidumping, Safeguards and Countervailing Duties, 1990–2009
 - **期刊**：World Economy [T2]
 - **引用**：148
@@ -396,16 +246,6 @@
 - **议题**：T2
 - **DOI**：[10.1111/j.1467-9701.2011.01388.x](https://doi.org/10.1111/j.1467-9701.2011.01388.x)
 - **简评**：分析贸易救济措施与贸易保护。领域Top期刊，关联议题：贸易与产业竞争。
-
----
-
-### Nicholas Bloom, John Van Reenen (2010) — Why Do Management Practices Differ across Firms and Countries?
-- **期刊**：The Journal of Economic Perspectives [T2]
-- **引用**：1457
-- **优先级**：core
-- **议题**：T2, T4
-- **DOI**：[10.1257/jep.24.1.203](https://doi.org/10.1257/jep.24.1.203)
-- **简评**：与贸易与产业竞争相关的学术研究。领域Top期刊，关联议题：贸易与产业竞争/技术竞争与数字治理。
 
 ---
 
@@ -451,7 +291,7 @@
 
 ---
 
-## WP — Working Papers (NBER/CEPR/IMF/WB) (9 篇)
+## WP — Working Papers (NBER/CEPR/IMF/WB) (7 篇)
 
 ### Pablo Fajgelbaum, Pinelopi Goldberg, Patrick Kennedy et al. (2022) — The US-China Trade War and Global Reallocations
 - **期刊**：World Bank, Washington, DC eBooks [WP]
@@ -503,26 +343,6 @@
 
 ---
 
-### Ralph Ossa (2015) — A Quantitative Analysis of Subsidy Competition in the U.S.
-- **期刊**：National Bureau of Economic Research [WP]
-- **引用**：17
-- **优先级**：reference
-- **议题**：T2
-- **DOI**：[10.3386/w20975](https://doi.org/10.3386/w20975)
-- **简评**：分析产业政策的设计与效果。重要工作论文，关联议题：贸易与产业竞争。
-
----
-
-### Jonathan D. Ostry, Atish R. Ghosh, Karl Habermeier et al. (2010) — Capital Inflows: The Role of Controls
-- **期刊**：IMF Staff Position Note [WP]
-- **引用**：703
-- **优先级**：core
-- **议题**：T2
-- **DOI**：[10.5089/9781462347513.004](https://doi.org/10.5089/9781462347513.004)
-- **简评**：与贸易与产业竞争相关的学术研究。重要工作论文，关联议题：贸易与产业竞争。
-
----
-
 ### Chad P. Bown (2010) — Taking stock of antidumping, safeguards, and countervailing duties, 1990-2009
 - **期刊**：World Bank, Washington, DC eBooks [WP]
 - **引用**：139
@@ -543,7 +363,7 @@
 
 ---
 
-## other — Other Venues (5 篇)
+## other — Other Venues (4 篇)
 
 ### Ha‐Joon Chang, Antonio Andreoni (2020) — Industrial Policy in the 21st Century
 - **期刊**：Development and Change [other]
@@ -582,15 +402,5 @@
 - **议题**：T2, T5
 - **DOI**：[10.1057/s42214-018-0001-4](https://doi.org/10.1057/s42214-018-0001-4)
 - **简评**：与贸易与产业竞争相关的学术研究。跨学科文献，关联议题：贸易与产业竞争/地缘政治经济学。
-
----
-
-### Ha‐Joon Chang (2010) — Institutions and economic development: theory, policy and history
-- **期刊**：Journal of Institutional Economics [other]
-- **引用**：528
-- **优先级**：core
-- **议题**：T2, T5
-- **DOI**：[10.1017/s1744137410000378](https://doi.org/10.1017/s1744137410000378)
-- **简评**：分析贸易救济措施与贸易保护。跨学科文献，关联议题：贸易与产业竞争/地缘政治经济学。
 
 ---

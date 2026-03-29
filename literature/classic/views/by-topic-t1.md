@@ -1,41 +1,11 @@
 # T1 制裁与经济管制 (Sanctions & Economic Coercion) — 阅读清单
 
-> 自动生成于 2026-03-29，共 29 篇
+> 自动生成于 2026-03-29，共 16 篇
 > 数据来源：`literature-classic.json`
 
 ---
 
-## T1 — General Top 5 + Finance Top (9 篇)
-
-### Matteo Maggiori, Brent Neiman, Jesse Schreger (2019) — International Currencies and Capital Allocation
-- **期刊**：Journal of Political Economy [T1]
-- **引用**：258
-- **优先级**：recommended
-- **议题**：T1
-- **DOI**：[10.1086/705688](https://doi.org/10.1086/705688)
-- **简评**：研究汇率机制与国际货币传导。顶刊发表，关联议题：制裁与经济管制。
-
----
-
-### Mary Amiti, Oleg Itskhoki, Jozef Konings (2019) — International Shocks, Variable Markups, and Domestic Prices
-- **期刊**：The Review of Economic Studies [T1]
-- **引用**：251
-- **优先级**：recommended
-- **议题**：T1, T2
-- **DOI**：[10.1093/restud/rdz005](https://doi.org/10.1093/restud/rdz005)
-- **简评**：与制裁与经济管制相关的学术研究。顶刊发表，关联议题：制裁与经济管制/贸易与产业竞争。
-
----
-
-### Javier Bianchi, Enrique G. Mendoza (2017) — Optimal Time-Consistent Macroprudential Policy
-- **期刊**：Journal of Political Economy [T1]
-- **引用**：320
-- **优先级**：recommended
-- **议题**：T1
-- **DOI**：[10.1086/696280](https://doi.org/10.1086/696280)
-- **简评**：涉及宏观审慎政策与金融稳定的国际维度。顶刊发表，关联议题：制裁与经济管制。
-
----
+## T1 — General Top 5 + Finance Top (1 篇)
 
 ### Emmanuel Farhi, Matteo Maggiori (2017) — A Model of the International Monetary System*
 - **期刊**：The Quarterly Journal of Economics [T1]
@@ -47,57 +17,7 @@
 
 ---
 
-### Xavier Gabaix, Matteo Maggiori (2015) — International Liquidity and Exchange Rate Dynamics*
-- **期刊**：The Quarterly Journal of Economics [T1]
-- **引用**：811
-- **优先级**：core
-- **议题**：T1
-- **DOI**：[10.1093/qje/qjv016](https://doi.org/10.1093/qje/qjv016)
-- **简评**：研究汇率机制与国际货币传导。顶刊发表，关联议题：制裁与经济管制。
-
----
-
-### Mary Amiti, Oleg Itskhoki, Jozef Konings (2014) — Importers, Exporters, and Exchange Rate Disconnect
-- **期刊**：American Economic Review [T1]
-- **引用**：612
-- **优先级**：core
-- **议题**：T1, T2
-- **DOI**：[10.1257/aer.104.7.1942](https://doi.org/10.1257/aer.104.7.1942)
-- **简评**：研究市场力量与贸易政策的交叉。顶刊发表，关联议题：制裁与经济管制/贸易与产业竞争。
-
----
-
-### Valerie Ramey (2011) — Identifying Government Spending Shocks: It's all in the Timing*
-- **期刊**：The Quarterly Journal of Economics [T1]
-- **引用**：1640
-- **优先级**：core
-- **议题**：T1, T3
-- **DOI**：[10.1093/qje/qjq008](https://doi.org/10.1093/qje/qjq008)
-- **简评**：与供应链与关键资源相关的学术研究。顶刊发表，关联议题：制裁与经济管制/供应链与关键资源。
-
----
-
-### Gita Gopinath, Oleg Itskhoki, Roberto Rigobón (2010) — Currency Choice and Exchange Rate Pass-Through
-- **期刊**：American Economic Review [T1]
-- **引用**：590
-- **优先级**：core
-- **议题**：T1
-- **DOI**：[10.1257/aer.100.1.304](https://doi.org/10.1257/aer.100.1.304)
-- **简评**：探讨美元霸权、储备货币体系与货币地缘政治。顶刊发表，关联议题：制裁与经济管制。
-
----
-
-### Gita Gopinath, Oleg Itskhoki (2010) — Frequency of Price Adjustment and Pass-Through<sup>*</sup>
-- **期刊**：The Quarterly Journal of Economics [T1]
-- **引用**：288
-- **优先级**：recommended
-- **议题**：T1
-- **DOI**：[10.1162/qjec.2010.125.2.675](https://doi.org/10.1162/qjec.2010.125.2.675)
-- **简评**：与制裁与经济管制相关的学术研究。顶刊发表，关联议题：制裁与经济管制。
-
----
-
-## T2 — Field Top Journals (6 篇)
+## T2 — Field Top Journals (4 篇)
 
 ### Ilias Alami, Carolina Alves, Bruno Bonizzi et al. (2022) — International financial subordination: a critical research agenda
 - **期刊**：Review of International Political Economy [T2]
@@ -129,16 +49,6 @@
 
 ---
 
-### Marcos Chamon, Kai Liu, Eswar Prasad (2013) — Income uncertainty and household savings in China
-- **期刊**：Journal of Development Economics [T2]
-- **引用**：271
-- **优先级**：recommended
-- **议题**：T1
-- **DOI**：[10.1016/j.jdeveco.2013.07.014](https://doi.org/10.1016/j.jdeveco.2013.07.014)
-- **简评**：中国经济结构与金融体系特征。领域Top期刊，关联议题：制裁与经济管制。
-
----
-
 ### Xiaoli Chen, Yin‐Wong Cheung (2011) — Renminbi Going Global
 - **期刊**：China & World Economy [T2]
 - **引用**：80
@@ -146,16 +56,6 @@
 - **议题**：T1, T5
 - **DOI**：[10.1111/j.1749-124x.2011.01232.x](https://doi.org/10.1111/j.1749-124x.2011.01232.x)
 - **简评**：研究人民币国际化与中国金融基础设施。领域Top期刊，关联议题：制裁与经济管制/地缘政治经济学。
-
----
-
-### M. Ayhan Köse, Eswar Prasad, Ashley D. Taylor (2010) — Thresholds in the process of international financial integration
-- **期刊**：Journal of International Money and Finance [T2]
-- **引用**：323
-- **优先级**：recommended
-- **议题**：T1
-- **DOI**：[10.1016/j.jimonfin.2010.08.005](https://doi.org/10.1016/j.jimonfin.2010.08.005)
-- **简评**：研究金融一体化过程及其政策含义。领域Top期刊，关联议题：制裁与经济管制。
 
 ---
 
@@ -231,7 +131,7 @@
 
 ---
 
-## WP — Working Papers (NBER/CEPR/IMF/WB) (4 篇)
+## WP — Working Papers (NBER/CEPR/IMF/WB) (1 篇)
 
 ### Serkan Arslanalp, Chima Simpson-Bell, Barry Eichengreen (2022) — The Stealth Erosion of Dollar Dominance: Active Diversifiers and the Rise of Nontraditional Reserve Currencies
 - **期刊**：IMF Working Paper [WP]
@@ -240,36 +140,6 @@
 - **议题**：T1
 - **DOI**：[10.5089/9798400204746.001](https://doi.org/10.5089/9798400204746.001)
 - **简评**：探讨美元霸权、储备货币体系与货币地缘政治。重要工作论文，关联议题：制裁与经济管制。
-
----
-
-### Robert Chesney, Danielle Keats Citron (2018) — Deep Fakes: A Looming Challenge for Privacy, Democracy, and National Security
-- **期刊**：SSRN Electronic Journal [WP]
-- **引用**：736
-- **优先级**：core
-- **议题**：T1
-- **DOI**：[10.2139/ssrn.3213954](https://doi.org/10.2139/ssrn.3213954)
-- **简评**：涉及技术安全与国家安全的交叉。重要工作论文，关联议题：制裁与经济管制。
-
----
-
-### Oleg Itskhoki, Dmitry Mukhin (2017) — Exchange Rate Disconnect in General Equilibrium
-- **期刊**：National Bureau of Economic Research [WP]
-- **引用**：216
-- **优先级**：recommended
-- **议题**：T1
-- **DOI**：[10.3386/w23401](https://doi.org/10.3386/w23401)
-- **简评**：研究汇率机制与国际货币传导。重要工作论文，关联议题：制裁与经济管制。
-
----
-
-### Javier Bianchi, Enrique G. Mendoza (2010) — Overborrowing, Financial Crises and 'Macro-prudential' Taxes
-- **期刊**：National Bureau of Economic Research [WP]
-- **引用**：204
-- **优先级**：recommended
-- **议题**：T1
-- **DOI**：[10.3386/w16091](https://doi.org/10.3386/w16091)
-- **简评**：与制裁与经济管制相关的学术研究。重要工作论文，关联议题：制裁与经济管制。
 
 ---
 
