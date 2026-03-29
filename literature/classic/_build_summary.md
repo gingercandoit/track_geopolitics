@@ -1,127 +1,86 @@
 # Literature Build Summary
 
-**Date**: 2026-03-29 12:25
-**Total papers**: 824
+**Date**: 2026-03-29 14:49
+**Total papers**: 76
+**Abstract coverage**: 70/76 (92%)
 
 ## By Topic
-- T1: 185 papers
-- T2: 200 papers
-- T3: 190 papers
-- T4: 135 papers
-- T5: 293 papers
+- T1: 16 papers
+- T2: 39 papers
+- T3: 11 papers
+- T4: 7 papers
+- T5: 29 papers
 
 ## By Tier
-- T1: 96
-- T2: 117
-- T3: 34
-- WP: 29
-- other: 527
-- unknown: 21
+- T1: 15
+- T2: 23
+- T3: 15
+- WP: 11
+- other: 12
 
 ## By Priority
-- core: 487
-- recommended: 292
-- reference: 45
+- core: 15
+- recommended: 48
+- reference: 13
 
-## Top 20 by Citations
+## Top 10 by Citations
 
-1. **The Cross‐Section of Expected Stock Returns** (1992)
-   - Eugene F. Fama, Kenneth R. French
-   - The Journal of Finance | 15057 citations | core
+1. **The China Syndrome: Local Labor Market Effects of Import Competition in the United States** (2013)
+   - David Autor, David Dorn, Gordon Hanson
+   - American Economic Review | 4184 citations | core
+   - Topics: T2, T4, T5
+
+2. **The Fundamental Institutions of China's Reforms and Development** (2011)
+   - Chenggang Xu
+   - Journal of Economic Literature | 2508 citations | core
    - Topics: T5
 
-2. **Dynamic capabilities: what are they?** (2000)
-   - Kathleen M. Eisenhardt, Jeffrey A. Martin
-   - Strategic Management Journal | 14242 citations | core
-   - Topics: T5
+3. **Premature deindustrialization** (2015)
+   - Dani Rodrik
+   - Journal of Economic Growth | 1708 citations | core
+   - Topics: T2, T5
 
-3. **2013 ESH/ESC Guidelines for the management of arterial hypertension** (2013)
-   - Giuseppe Mancia, Robert Fagard, Krzysztof Narkiewicz et al.
-   - European Heart Journal | 13652 citations | core
-   - Topics: T4, T5
+4. **Estimates of the Trade and Welfare Effects of NAFTA** (2014)
+   - Lorenzo Caliendo, Fernando Parro
+   - The Review of Economic Studies | 1371 citations | core
+   - Topics: T2
 
-4. **Capital in the Twenty-First Century** (2014)
-   - Thomas Piketty
-   - Harvard University Press eBooks | 13281 citations | core
-   - Topics: T5
+5. **Weaponized Interdependence: How Global Economic Networks Shape State Coercion** (2019)
+   - Henry Farrell, Abraham L. Newman
+   - International Security | 1291 citations | core
+   - Topics: T1
 
-5. **Preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) 2015: elaboration and explanation** (2015)
-   - Larissa Shamseer, David Moher, Mike Clarke et al.
-   - BMJ | 12935 citations | core
-   - Topics: T5
+6. **Understanding Economic Policy Reform** (2018)
+   - Dani Rodrik
+   -  | 1283 citations | core
+   - Topics: T2, T5
 
-6. **The Internationalization Process of the Firm—A Model of Knowledge Development and Increasing Foreign Market Commitments** (1977)
-   - Jan Johanson, Jan‐Erik Vahlne
-   - Journal of International Business Studies | 10779 citations | core
-   - Topics: T5
+7. **Populism and the economics of globalization** (2018)
+   - Dani Rodrik
+   - Journal of International Business Policy | 1268 citations | core
+   - Topics: T2, T5
 
-7. **World Health Organization 2020 guidelines on physical activity and sedentary behaviour** (2020)
-   - Fiona Bull, Salih S Al-Ansari, Stuart Biddle et al.
-   - British Journal of Sports Medicine | 10327 citations | core
-   - Topics: T5
+8. **The China Shock: Learning from Labor-Market Adjustment to Large Changes in Trade** (2016)
+   - David Autor, David Dorn, Gordon Hanson
+   - Annual Review of Economics | 1239 citations | core
+   - Topics: T1, T4
 
-8. **PRISMA 2020 explanation and elaboration: updated guidance and exemplars for reporting systematic reviews** (2021)
-   - Matthew J. Page, David Moher, Patrick M. Bossuyt et al.
-   - BMJ | 10299 citations | core
-   - Topics: T4
+9. **The Paris Agreement and the new logic of international climate politics** (2016)
+   - Robert Falkner
+   - International Affairs | 1148 citations | core
+   - Topics: T1
 
-9. **Dementia prevention, intervention, and care: 2020 report of the Lancet Commission** (2020)
-   - Gill Livingston, Jonathan Huntley, Andrew Sommerlad et al.
-   - The Lancet | 9823 citations | core
-   - Topics: T5
-
-10. **The International Scientific Association for Probiotics and Prebiotics consensus statement on the scope and appropriate use of the term probiotic** (2014)
-   - Colin Hill, Francisco Guarner, Gregor Reid et al.
-   - Nature Reviews Gastroenterology & Hepatology | 8807 citations | core
-   - Topics: T4
-
-11. **Reinforcement Learning: A Survey** (1996)
-   - Leslie Pack Kaelbling, Michael L. Littman, Andrew Moore
-   - Journal of Artificial Intelligence Research | 8720 citations | core
-   - Topics: T3
-
-12. **Global, regional, and national age-sex-specific mortality for 282 causes of death in 195 countries and territories, 1980–2017: a systematic analysis for the Global Burden of Disease Study 2017** (2018)
-   - Gregory A. Roth, Degu Abate, Kalkidan Hassen Abate et al.
-   - The Lancet | 8565 citations | core
+10. **Transition to Clean Technology** (2016)
+   - Daron Acemoğlu, Ufuk Akcigit, Douglas Hanley, William R. Kerr
+   - Journal of Political Economy | 950 citations | core
    - Topics: T2, T3
 
-13. **European Guidelines on cardiovascular disease prevention in clinical practice (version 2012): The Fifth Joint Task Force of the European Society of Cardiology and Other Societies on Cardiovascular Disease Prevention in Clinical Practice (constituted by representatives of nine societies and by invited experts) * Developed with the special contribution of the European Association for Cardiovascular Prevention &amp; Rehabilitation (EACPR)** (2012)
-   - Authors/Task Force Members:, Joep Perk, Guy De Backer et al.
-   - European Heart Journal | 8506 citations | core
-   - Topics: T5
+## Build History
 
-14. **Breastfeeding in the 21st century: epidemiology, mechanisms, and lifelong effect** (2016)
-   - César G. Victora, Rajiv Bahl, Aluísio J. D. Barros et al.
-   - The Lancet | 7792 citations | core
-   - Topics: T5
-
-15. **Guidelines for the Early Management of Patients With Acute Ischemic Stroke** (2013)
-   - Edward C. Jauch, Jeffrey L. Saver, Harold P. Adams et al.
-   - Stroke | 7636 citations | core
-   - Topics: T3
-
-16. **Technology Acceptance Model 3 and a Research Agenda on Interventions** (2008)
-   - Viswanath Venkatesh, Hillol Bala
-   - Decision Sciences | 7528 citations | core
-   - Topics: T4, T5
-
-17. **Global food demand and the sustainable intensification of agriculture** (2011)
-   - David Tilman, Christian Balzer, Jason Hill et al.
-   - Proceedings of the National Academy of Sciences | 7333 citations | core
-   - Topics: T4
-
-18. **Technological transitions as evolutionary reconfiguration processes: a multi-level perspective and a case-study** (2002)
-   - Frank W. Geels
-   - Research Policy | 6457 citations | core
-   - Topics: T3, T5
-
-19. **The Shared Socioeconomic Pathways and their energy, land use, and greenhouse gas emissions implications: An overview** (2016)
-   - Keywan Riahi, Detlef P. van Vuuren, Elmar Kriegler et al.
-   - Global Environmental Change | 6202 citations | core
-   - Topics: T3, T5
-
-20. **Multidisciplinary research priorities for the COVID-19 pandemic: a call for action for mental health science** (2020)
-   - Emily A. Holmes, Rory C. O’Connor, V. Hugh Perry et al.
-   - The Lancet Psychiatry | 6019 citations | core
-   - Topics: T4, T5
-
+| Date | Action | Count |
+|------|--------|-------|
+| 2026-03-29 | OpenAlex API initial build | 460 |
+| 2026-03-29 | Filter to 2010+ | 217 |
+| 2026-03-29 | Remove noise papers | 159 |
+| 2026-03-29 | Strict geopolitics filter | 76 |
+| 2026-03-29 | Manual notes_zh rewrite | 76 |

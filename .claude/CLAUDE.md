@@ -85,14 +85,31 @@ track_geopolitics/
 ### Prompt 2：月度简报（待定义）
 
 ### Prompt 3：文献搜集
-- 双库架构：Library A（经典文献一次性建库 ~150-250篇）+ Library B（月度新论文追踪 5-20篇/月）
+- 双库架构：Library A（经典文献一次性建库 ~75-100篇）+ Library B（月度新论文追踪 5-20篇/月）
 - 质量线：Tier 1-3 期刊白名单 + NBER/CEPR WP + 知名作者追踪
 - 文件结构：`literature/` 目录（与 reports 同级），classic/ + new/ 完全独立子目录
 - 产出：`literature/classic/` (classic.json + CSV + BibTeX + roadmap + views) + `literature/new/` (new.json + CSV + BibTeX + views)
 - SOP：`.claude/rules/02_LiteratureSOP.instructions.md`
+- **Library A 当前状态**（2026-03-29）：
+  - 76 篇论文，经严格地缘政治相关性筛选（原始 460→217→159→76）
+  - notes_zh 全部手工重写，逐篇验证准确性
+  - Topic 分布：T1:16, T2:39, T3:11, T4:7, T5:29（T4 偏少，待补充）
+  - Tier 分布：T1:15, T2:23, T3:15, WP:11, other:12
+  - 6 篇缺摘要（OpenAlex/S2 源数据缺失）
+  - Library B 尚未执行首次月度追踪
+
+## 自动化脚本
+
+| 脚本 | 用途 | 调用方式 |
+|------|------|---------|
+| `scripts/build_literature.py` | OpenAlex API 建库（Phase A） | `.\.venv\Scripts\python.exe scripts/build_literature.py` |
+| `scripts/build_phase2.py` | 从 JSON 生成 CSV/BibTeX/阅读路线图 | `.\.venv\Scripts\python.exe scripts/build_phase2.py` |
+| `scripts/generate_views.py` | 从 JSON 生成 7 个 Markdown 视图 | `.\.venv\Scripts\python.exe scripts/generate_views.py` |
+| `scripts/fetch_sources.py` | Prompt 1 信息侦察：RSS+Reddit 拉取 | `.\.venv\Scripts\python.exe scripts/fetch_sources.py [--days N] [--topic T]` |
 
 ## 技术约定
 
+- Python 虚拟环境：`.venv/`（已安装 requests, feedparser）
 - 数据文件统一 UTF-8 编码
 - 日期格式：YYYY-MM-DD
 - 文件命名：kebab-case
