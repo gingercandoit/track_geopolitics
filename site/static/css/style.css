@@ -317,7 +317,6 @@ h1, h2, h3, h4 {
   padding: 1rem 0;
   transition: background 0.15s;
 }
-.topic-entry-card:first-child { padding-top: 0; }
 .topic-entry-card:hover { background: rgba(0,0,0,0.008); }
 
 .topic-entry-header {
