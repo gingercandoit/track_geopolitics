@@ -861,6 +861,56 @@
       ],
       "metrics": {},
       "week": null
+    },
+    {
+      "date": "2026-02-28/2026-03-27",
+      "type": "外交动态",
+      "title_zh": "霍尔木兹海峡危机时间线",
+      "summary_zh": "从2月28日美以空袭伊朗到3月27日轰炸核设施，危机经历十次关键节点：首批商船遇袭(3/1)、IRGC正式关闭海峡(3/2)、仅允许中国船只通过(3/4)、布伦特突破$100(3/8)、IEA释放4亿桶储备(3/11)、沙特减产20%(3/13)、迪拜原油创$166纪录(3/19)、伊朗允许5国通过(3/26)、美以轰炸核设施(3/27)。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "U.S. CENTCOM",
+          "url": "https://www.centcom.mil/MEDIA/STATEMENTS/Statements-View/Article/4418396/us-forces-launch-operation-epic-fury/"
+        },
+        {
+          "name": "IEA",
+          "url": "https://www.iea.org/data-and-statistics/data-tools/2026-energy-crisis-policy-response-tracker"
+        }
+      ],
+      "week": null
+    },
+    {
+      "date": "2026-03",
+      "type": "政策发布",
+      "title_zh": "核能：危机催化的政策加速",
+      "summary_zh": "UPRISE目标2029年增5GW核电、巴黎核能峰会、铀供应赤字构成三重推力。铀现货价格持续走强，WNA报告指出铀矿产量持续低于需求。",
+      "source_tier": "B",
+      "sources": [
+        {
+          "name": "IAEA",
+          "url": "https://www.iaea.org/newscenter/news/global-leaders-affirm-central-role-for-nuclear-at-2026-nuclear-energy-summit"
+        },
+        {
+          "name": "WNA",
+          "url": "https://world-nuclear.org/our-association/publications/world-nuclear-outlook-report/appendix-1-impact-on-demand-for-nuclear-fuel-services"
+        }
+      ],
+      "week": null
+    },
+    {
+      "date": "2026-03",
+      "type": "政策发布",
+      "title_zh": "清洁能源贸易壁垒升级",
+      "summary_zh": "太阳能100%+关税、Section 301清洁能源调查、英国取消海上风电关税——不同国家对清洁能源贸易采取截然不同的策略。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "Federal Register",
+          "url": "https://www.federalregister.gov/documents/2026/03/17/2026-05170/crystalline-silicon-photovoltaic-cells-whether-or-not-partially-or-fully-assembled-into-other"
+        }
+      ],
+      "week": null
     }
   ],
   "key_metrics": {
