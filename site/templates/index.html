@@ -1,20 +1,38 @@
 {% extends "base.html" %}
 
-{% block title %}{{ site_title }} — 地缘政治经济追踪{% endblock %}
+{% block title %}Geopolitical Risk Quarterly{% endblock %}
 
 {% block content %}
+{# ── Masthead ── #}
 <section class="hero">
   <div class="container">
     <h1 class="hero-title">Geopolitical Risk Quarterly</h1>
-    <p class="hero-subtitle">地缘政治经济月度追踪 · {{ latest_month_display }}</p>
+    <p class="hero-subtitle">地缘政治经济月度追踪</p>
+    <p class="hero-issue">{{ latest_month_display }}刊</p>
   </div>
 </section>
 
+{# ── Monthly Digest Strip: T1–T5 一句话摘要 ── #}
+{% if topic_digests %}
+<section class="digest-strip">
+  <div class="container">
+    <div class="digest-grid">
+      {% for d in topic_digests %}
+      <a href="{{ rel_to_root }}/{{ d.slug }}/{{ latest_month }}.html" class="digest-item" style="--topic-color: {{ d.color }}">
+        <span class="digest-label">{{ d.name_short }}</span>
+        <p class="digest-text">{{ d.digest }}</p>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}
+
+{# ── Main content: topics + literature sidebar ── #}
 <section class="container home-grid">
 
-  {# ── 左栏：五大议题卡片 ── #}
   <div class="home-topics">
-    <h2 class="section-heading">议题追踪</h2>
+    <h2 class="section-heading">议题追踪<span class="section-heading-sub">{{ latest_month_display }}</span></h2>
     <div class="topic-cards">
       {% for tid, tinfo in topics.items() %}
       {% set tdata = topics_data.get(tid, {}) %}
@@ -22,16 +40,16 @@
       {% set event_count = events | length %}
       <a href="{{ rel_to_root }}/{{ tinfo.slug }}/{{ latest_month }}.html" class="topic-entry-card" style="--topic-color: {{ tinfo.color }}">
         <div class="topic-entry-header">
-          <span class="topic-entry-id">{{ tid | upper }}</span>
+          <span class="topic-entry-label" style="color:{{ tinfo.color }}">{{ tinfo.name_short }}</span>
           <span class="topic-entry-name">{{ tinfo.name_zh }}</span>
-          <span class="topic-entry-count">{{ event_count }} 条</span>
+          <span class="topic-entry-count">{{ event_count }}</span>
         </div>
         {% if events %}
         <ul class="topic-entry-preview">
           {% for ev in events[:3] %}
           <li>
             <span class="preview-date">{{ ev.date[5:] }}</span>
-            <span class="preview-title">{{ ev.title_zh | truncate(32) }}</span>
+            <span class="preview-title">{{ ev.title_zh | truncate(36) }}</span>
           </li>
           {% endfor %}
         </ul>
@@ -41,9 +59,8 @@
     </div>
   </div>
 
-  {# ── 右栏：最新文献 ── #}
   <aside class="home-sidebar">
-    <h2 class="section-heading">最新文献</h2>
+    <h2 class="section-heading">文献库</h2>
     {% if latest_papers %}
     <ul class="sidebar-papers">
       {% for p in latest_papers[:6] %}

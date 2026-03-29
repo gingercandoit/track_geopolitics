@@ -23,15 +23,17 @@ TOPICS = {
     "topic1-sanctions": {
         "id": 1,
         "name_zh": "制裁与经济管制",
+        "name_short": "制裁",
         "name_en": "Sanctions & Economic Controls",
         "slug": "topic1-sanctions",
         "color": "#8B0000",
-        "icon": "shield",  # for future use
-        "compact": False,  # T1-T4 use full event cards
+        "icon": "shield",
+        "compact": False,
     },
     "topic2-trade-industrial": {
         "id": 2,
         "name_zh": "贸易与产业竞争",
+        "name_short": "贸易",
         "name_en": "Trade & Industrial Competition",
         "slug": "topic2-trade-industrial",
         "color": "#1B4965",
@@ -41,6 +43,7 @@ TOPICS = {
     "topic3-supply-resources": {
         "id": 3,
         "name_zh": "供应链与关键资源",
+        "name_short": "供应链",
         "name_en": "Supply Chains & Critical Resources",
         "slug": "topic3-supply-resources",
         "color": "#2E7D32",
@@ -50,6 +53,7 @@ TOPICS = {
     "topic4-tech-digital": {
         "id": 4,
         "name_zh": "技术竞争与数字治理",
+        "name_short": "科技",
         "name_en": "Tech Competition & Digital Governance",
         "slug": "topic4-tech-digital",
         "color": "#5C6BC0",
@@ -59,11 +63,12 @@ TOPICS = {
     "topic5-geopolitics": {
         "id": 5,
         "name_zh": "地缘政治信息池",
+        "name_short": "信息池",
         "name_en": "Geopolitical Intelligence Pool",
         "slug": "topic5-geopolitics",
         "color": "#455A64",
         "icon": "globe",
-        "compact": True,  # T5 uses compact list view
+        "compact": True,
     },
 }
 
@@ -71,7 +76,7 @@ TOPICS = {
 EVENT_TYPE_COLORS = {
     "政策发布": "#1B4965",
     "贸易调查": "#D4A574",
-    "制裁与管制": "#8B0000",
+    "制裁管制": "#8B0000",
     "外交动态": "#2E7D32",
     "国际机构": "#5C6BC0",
     "智库分析": "#6D4C41",

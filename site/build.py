@@ -101,6 +101,36 @@ def format_month_display(month_str):
     return f"{parts[0]}年{int(parts[1])}月"
 
 
+def markdown_to_html(text):
+    """Convert simple markdown to HTML (paragraphs + bold)."""
+    if not text:
+        return ""
+    # Convert **bold** to <strong>
+    text = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', text)
+    # Split into paragraphs
+    paragraphs = [p.strip() for p in text.split("\n\n") if p.strip()]
+    return "".join(f"<p>{p}</p>" for p in paragraphs)
+
+
+def extract_first_sentence(text):
+    """Extract the first 1–2 sentences from markdown text for digest."""
+    if not text:
+        return ""
+    # Remove **bold** markers for plain text
+    clean = re.sub(r'\*\*(.+?)\*\*', r'\1', text)
+    # Get first sentence (ending with 。 or .)
+    match = re.match(r'(.+?[。、])(.+?[。])?', clean)
+    if match:
+        first = match.group(1)
+        second = match.group(2) or ""
+        result = first + second
+        if len(result) > 150:
+            return first.strip()
+        return result.strip()
+    # Fallback: first 120 chars
+    return clean[:120].strip() + '…'
+
+
 def compute_relative_path(from_path, to_path):
     """Compute relative path from one HTML file to another.
     Both paths are relative to dist/.
@@ -194,11 +224,8 @@ def build_site(clean=False):
                     "events": week_events,
                 })
 
-            # Convert overview markdown to simple HTML paragraphs
-            overview_html = ""
-            if overview:
-                paragraphs = [p.strip() for p in overview.split("\n\n") if p.strip()]
-                overview_html = "".join(f"<p>{p}</p>" for p in paragraphs)
+            # Convert overview markdown to HTML
+            overview_html = markdown_to_html(overview)
 
             # Compute relative path to root for static assets
             rel_to_root = ".."  # topic-slug/month.html -> dist root
@@ -227,9 +254,9 @@ def build_site(clean=False):
             print(f"  Built: {topic_slug}/{month}.html ({len(events)} events)")
 
     # ── Build index page ─────────────────────────────────────────
-    # Build topics_data dict: {topic_slug: {events: [...], ...}}
+    # Build topics_data dict and collect per-topic digests
     topics_data = {}
-    first_overview_html = ""
+    topic_digests = []  # [{slug, name_zh, name_short, color, digest_text}]
     for topic_slug, topic_info in config.TOPICS.items():
         topic_months = data_map.get(topic_slug, [])
         if not topic_months:
@@ -238,12 +265,17 @@ def build_site(clean=False):
         if not data:
             continue
         topics_data[topic_slug] = data
-        # Use first topic's overview for homepage
-        if not first_overview_html:
-            overview = load_report_overview(topic_slug, topic_months[0])
-            if overview:
-                paragraphs = [p.strip() for p in overview.split("\n\n") if p.strip()]
-                first_overview_html = "".join(f"<p>{p}</p>" for p in paragraphs)
+        # Extract digest (first 1-2 sentences) for homepage
+        overview = load_report_overview(topic_slug, topic_months[0])
+        digest = extract_first_sentence(overview)
+        topic_digests.append({
+            "slug": topic_slug,
+            "name_zh": topic_info["name_zh"],
+            "name_short": topic_info.get("name_short", ""),
+            "color": topic_info["color"],
+            "digest": digest,
+            "event_count": len(data.get("events", [])),
+        })
 
     # Load latest literature for sidebar
     lit_new = load_literature("new")
@@ -257,9 +289,9 @@ def build_site(clean=False):
     index_html = index_template.render(
         **base_context,
         topics_data=topics_data,
+        topic_digests=topic_digests,
         latest_papers=latest_papers,
         latest_month_display=format_month_display(latest_month),
-        overview_html=first_overview_html,
         rel_to_root=".",
         current_page="index.html",
     )

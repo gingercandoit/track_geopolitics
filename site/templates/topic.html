@@ -8,7 +8,7 @@
 
 <section class="topic-hero" style="--topic-color: {{ topic.color }}">
   <div class="container">
-    <span class="topic-hero-id">{{ topic_id | upper }}</span>
+    <span class="topic-hero-label" style="color:{{ topic.color }}">{{ topic.name_short }}</span>
     <h1 class="topic-hero-title">{{ topic.name_zh }}</h1>
     <p class="topic-hero-period">{{ month_display }}</p>
     {{ render_month_selector(available_months, current_month, topic.slug, rel_to_root) }}
@@ -21,7 +21,7 @@
   {% if overview_html %}
   <div class="topic-overview">
     <h2 class="section-heading">月度总览</h2>
-    <div class="overview-text">{{ overview_html | safe }}</div>
+    <div class="overview-text editorial-prose">{{ overview_html | safe }}</div>
   </div>
   {% endif %}
 

@@ -1,21 +1,19 @@
 {% macro render_nav(topics, rel_to_root, current_page, latest_month) %}
 <nav class="site-nav">
-  <div class="nav-inner">
-    <a href="{{ rel_to_root }}/index.html" class="nav-brand">
-      <span class="nav-brand-title">GRQ</span>
-      <span class="nav-brand-subtitle">Geopolitical Research Quarterly</span>
-    </a>
+  <div class="container nav-inner">
+    <a href="{{ rel_to_root }}/index.html" class="nav-brand">GRQ</a>
     <div class="nav-links">
       {% for slug, info in topics.items() %}
       <a href="{{ rel_to_root }}/{{ slug }}/{{ latest_month }}.html"
          class="nav-link {% if slug in current_page %}active{% endif %}"
          style="--topic-color: {{ info.color }}">
-        T{{ info.id }}
+        <span class="nav-dot" style="background:{{ info.color }}"></span>{{ info.name_short }}
       </a>
       {% endfor %}
+      <span class="nav-divider"></span>
       <a href="{{ rel_to_root }}/literature.html"
          class="nav-link {% if 'literature' in current_page %}active{% endif %}">
-        文献
+        文献库
       </a>
       <a href="{{ rel_to_root }}/archive.html"
          class="nav-link {% if 'archive' in current_page %}active{% endif %}">
