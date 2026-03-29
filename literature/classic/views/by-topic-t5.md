@@ -1,20 +1,11 @@
 # T5 地缘政治经济学 (Geopolitical Economy) — 阅读清单
 
-> 自动生成于 2026-03-29，共 161 篇
+> 自动生成于 2026-03-29，共 79 篇
 > 数据来源：`literature-classic.json`
 
 ---
 
-## 核心必读 (Core) (105 篇)
-
-### Eugene F. Fama, Kenneth R. French (1992) — The Cross‐Section of Expected Stock Returns
-- **期刊**：The Journal of Finance [T1]
-- **引用**：15057
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1111/j.1540-6261.1992.tb04398.x](https://doi.org/10.1111/j.1540-6261.1992.tb04398.x)
-
----
+## 核心必读 (Core) (42 篇)
 
 ### Thomas Piketty (2014) — Capital in the Twenty-First Century
 - **期刊**：Harvard University Press eBooks [other]
@@ -22,33 +13,6 @@
 - **优先级**：core
 - **议题**：T5
 - **DOI**：[10.4159/9780674369542](https://doi.org/10.4159/9780674369542)
-
----
-
-### Jan Johanson, Jan‐Erik Vahlne (1977) — The Internationalization Process of the Firm—A Model of Knowledge Development and Increasing Foreign Market Commitments
-- **期刊**：Journal of International Business Studies [other]
-- **引用**：10779
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1057/palgrave.jibs.8490676](https://doi.org/10.1057/palgrave.jibs.8490676)
-
----
-
-### Kent Daniel, David Hirshleifer, Avanidhar Subrahmanyam (1998) — Investor Psychology and Security Market Under‐ and Overreactions
-- **期刊**：The Journal of Finance [T1]
-- **引用**：5687
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1111/0022-1082.00077](https://doi.org/10.1111/0022-1082.00077)
-
----
-
-### Guido W. Imbens, Jeffrey M. Wooldridge (2009) — Recent Developments in the Econometrics of Program Evaluation
-- **期刊**：Journal of Economic Literature [T2]
-- **引用**：4801
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1257/jel.47.1.5](https://doi.org/10.1257/jel.47.1.5)
 
 ---
 
@@ -61,93 +25,12 @@
 
 ---
 
-### John Gerard Ruggie (1982) — International regimes, transactions, and change: embedded liberalism in the postwar economic order
-- **期刊**：International Organization [T3]
-- **引用**：4384
-- **优先级**：core
-- **议题**：T1, T2, T3, T4, T5
-- **DOI**：[10.1017/s0020818300018993](https://doi.org/10.1017/s0020818300018993)
-
----
-
 ### David Autor, David Dorn, Gordon Hanson (2013) — The China Syndrome: Local Labor Market Effects of Import Competition in the United States
 - **期刊**：American Economic Review [T1]
 - **引用**：4184
 - **优先级**：core
 - **议题**：T2, T4, T5
 - **DOI**：[10.1257/aer.103.6.2121](https://doi.org/10.1257/aer.103.6.2121)
-
----
-
-### Thomas Piketty, Emmanuel Saez (2003) — Income Inequality in the United States, 1913-1998
-- **期刊**：The Quarterly Journal of Economics [T1]
-- **引用**：3771
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1162/00335530360535135](https://doi.org/10.1162/00335530360535135)
-
----
-
-### Rafael La Porta, Florencio López‐de‐Silanes, Andrei Shleifer (2008) — The Economic Consequences of Legal Origins
-- **期刊**：Journal of Economic Literature [T2]
-- **引用**：3210
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1257/jel.46.2.285](https://doi.org/10.1257/jel.46.2.285)
-
----
-
-### Mike W. Peng, Denis Y. L. Wang, Yi Jiang (2008) — An institution-based view of international business strategy: a focus on emerging economies
-- **期刊**：Journal of International Business Studies [other]
-- **引用**：3101
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1057/palgrave.jibs.8400377](https://doi.org/10.1057/palgrave.jibs.8400377)
-
----
-
-### Ross Levine (1999) — Financial Development and Economic Growth: Views and Agenda
-- **期刊**：World Bank policy research working paper [WP]
-- **引用**：3034
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1596/1813-9450-1678](https://doi.org/10.1596/1813-9450-1678)
-
----
-
-### Daron Acemoğlu, Simon Johnson, James A. Robinson (2002) — Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution
-- **期刊**：The Quarterly Journal of Economics [T1]
-- **引用**：2691
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1162/003355302320935025](https://doi.org/10.1162/003355302320935025)
-
----
-
-### Eduardo Bonilla‐Silva (1997) — Rethinking Racism: Toward a Structural Interpretation
-- **期刊**：American Sociological Review [other]
-- **引用**：2640
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.2307/2657316](https://doi.org/10.2307/2657316)
-
----
-
-### Raj Chetty, Adam Looney, Kory Kroft (2009) — Salience and Taxation: Theory and Evidence
-- **期刊**：American Economic Review [T1]
-- **引用**：2616
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1257/aer.99.4.1145](https://doi.org/10.1257/aer.99.4.1145)
-
----
-
-### Alexander Dyck, Luigi Zingales (2004) — Private Benefits of Control: An International Comparison
-- **期刊**：The Journal of Finance [T1]
-- **引用**：2607
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1111/j.1540-6261.2004.00642.x](https://doi.org/10.1111/j.1540-6261.2004.00642.x)
 
 ---
 
@@ -160,48 +43,12 @@
 
 ---
 
-### Timothy J. Bartik (1991) — Who Benefits from State and Local Economic Development Policies?
-- **期刊**： [other]
-- **引用**：2509
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.17848/9780585223940](https://doi.org/10.17848/9780585223940)
-
----
-
 ### Chenggang Xu (2011) — The Fundamental Institutions of China's Reforms and Development
 - **期刊**：Journal of Economic Literature [T2]
 - **引用**：2508
 - **优先级**：core
 - **议题**：T5
 - **DOI**：[10.1257/jel.49.4.1076](https://doi.org/10.1257/jel.49.4.1076)
-
----
-
-### Tania Murray Li (2007) — The Will to Improve: Governmentality, Development, and the Practice of Politics
-- **期刊**：TSpace [other]
-- **引用**：2467
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1515/9780822389781](https://doi.org/10.1515/9780822389781)
-
----
-
-### Patrick Dunleavy (2005) — New Public Management Is Dead--Long Live Digital-Era Governance
-- **期刊**：Journal of Public Administration Research and Theory [other]
-- **引用**：2394
-- **优先级**：core
-- **议题**：T4, T5
-- **DOI**：[10.1093/jopart/mui057](https://doi.org/10.1093/jopart/mui057)
-
----
-
-### David Autor, Lawrence F. Katz, Melissa S. Kearney (2008) — Trends in U.S. Wage Inequality: Revising the Revisionists
-- **期刊**：The Review of Economics and Statistics [T2]
-- **引用**：2379
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1162/rest.90.2.300](https://doi.org/10.1162/rest.90.2.300)
 
 ---
 
@@ -214,66 +61,12 @@
 
 ---
 
-### N. Gregory Mankiw, Ricardo Reis (2002) — Sticky Information versus Sticky Prices: A Proposal to Replace the New Keynesian Phillips Curve
-- **期刊**：The Quarterly Journal of Economics [T1]
-- **引用**：2295
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1162/003355302320935034](https://doi.org/10.1162/003355302320935034)
-
----
-
 ### Daron Acemoğlu, David Autor (2010) — Skills, Tasks and Technologies: Implications for Employment and Earnings
 - **期刊**：National Bureau of Economic Research [WP]
 - **引用**：2195
 - **优先级**：core
 - **议题**：T5
 - **DOI**：[10.3386/w16082](https://doi.org/10.3386/w16082)
-
----
-
-### Charles F. Manski (2000) — Economic Analysis of Social Interactions
-- **期刊**：The Journal of Economic Perspectives [T2]
-- **引用**：2076
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1257/jep.14.3.115](https://doi.org/10.1257/jep.14.3.115)
-
----
-
-### Michael Barnett, Martha Finnemore (1999) — The Politics, Power, and Pathologies of International Organizations
-- **期刊**：International Organization [T3]
-- **引用**：2070
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1162/002081899551048](https://doi.org/10.1162/002081899551048)
-
----
-
-### Lawrence F. Katz, David Autor (1999) — Changes in the Wage Structure and Earnings Inequality
-- **期刊**：Handbook of labour economics [other]
-- **引用**：2063
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1016/s1573-4463(99)03007-2](https://doi.org/10.1016/s1573-4463(99)03007-2)
-
----
-
-### Daron Acemoğlu, Simon Johnson, James A. Robinson (2004) — Institutions as the Fundamental Cause of Long-Run Growth
-- **期刊**：National Bureau of Economic Research [WP]
-- **引用**：2030
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.3386/w10481](https://doi.org/10.3386/w10481)
-
----
-
-### Jon Elster (1989) — Social Norms and Economic Theory
-- **期刊**：The Journal of Economic Perspectives [T2]
-- **引用**：2025
-- **优先级**：core
-- **议题**：T1, T5
-- **DOI**：[10.1257/jep.3.4.99](https://doi.org/10.1257/jep.3.4.99)
 
 ---
 
@@ -286,48 +79,12 @@
 
 ---
 
-### Peter Dia­mond, Jerry A. Hausman (1994) — Contingent Valuation: Is Some Number Better than No Number?
-- **期刊**：The Journal of Economic Perspectives [T2]
-- **引用**：1949
-- **优先级**：core
-- **议题**：T2, T5
-- **DOI**：[10.1257/jep.8.4.45](https://doi.org/10.1257/jep.8.4.45)
-
----
-
-### Eugene F. Fama, Kenneth R. French (2004) — The Capital Asset Pricing Model: Theory and Evidence
-- **期刊**：The Journal of Economic Perspectives [T2]
-- **引用**：1910
-- **优先级**：core
-- **议题**：T1, T3, T4, T5
-- **DOI**：[10.1257/0895330042162430](https://doi.org/10.1257/0895330042162430)
-
----
-
-### David Autor, Lawrence F. Katz, Alan B. Krueger (1998) — Computing Inequality: Have Computers Changed the Labor Market?
-- **期刊**：The Quarterly Journal of Economics [T1]
-- **引用**：1809
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1162/003355398555874](https://doi.org/10.1162/003355398555874)
-
----
-
 ### Jason Hickel, Giorgos Kallis (2019) — Is Green Growth Possible?
 - **期刊**：New Political Economy [other]
 - **引用**：1773
 - **优先级**：core
 - **议题**：T5
 - **DOI**：[10.1080/13563467.2019.1598964](https://doi.org/10.1080/13563467.2019.1598964)
-
----
-
-### Pranab Bardhan (2002) — Decentralization of Governance and Development
-- **期刊**：The Journal of Economic Perspectives [T2]
-- **引用**：1765
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1257/089533002320951037](https://doi.org/10.1257/089533002320951037)
 
 ---
 
@@ -340,33 +97,6 @@
 
 ---
 
-### Robert J. Shiller (2003) — From Efficient Markets Theory to Behavioral Finance
-- **期刊**：The Journal of Economic Perspectives [T2]
-- **引用**：1720
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1257/089533003321164967](https://doi.org/10.1257/089533003321164967)
-
----
-
-### Susmita Dasgupta, Benoı̂t Laplante, Hua Wang et al. (2002) — Confronting the Environmental Kuznets Curve
-- **期刊**：The Journal of Economic Perspectives [T2]
-- **引用**：1719
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1257/0895330027157](https://doi.org/10.1257/0895330027157)
-
----
-
-### Dani Rodrik, Arvind Subramanian, Francesco Trebbi (2002) — Institutions Rule: The Primacy of Institutions over Geography and Integration in Economic Development
-- **期刊**：National Bureau of Economic Research [WP]
-- **引用**：1711
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.3386/w9305](https://doi.org/10.3386/w9305)
-
----
-
 ### Dani Rodrik (2015) — Premature deindustrialization
 - **期刊**：Journal of Economic Growth [T2]
 - **引用**：1708
@@ -376,75 +106,12 @@
 
 ---
 
-### Michael Barnett, Raymond Duvall (2005) — Power in International Politics
-- **期刊**：International Organization [T3]
-- **引用**：1706
-- **优先级**：core
-- **议题**：T1, T5
-- **DOI**：[10.1017/s0020818305050010](https://doi.org/10.1017/s0020818305050010)
-
----
-
-### Dani Rodrik (2008) — The Real Exchange Rate and Economic Growth
-- **期刊**：Brookings Papers on Economic Activity [T2]
-- **引用**：1695
-- **优先级**：core
-- **议题**：T2, T5
-- **DOI**：[10.1353/eca.0.0020](https://doi.org/10.1353/eca.0.0020)
-
----
-
-### Ricardo Hausmann, Dani Rodrik (2003) — Economic development as self-discovery
-- **期刊**：Journal of Development Economics [T2]
-- **引用**：1666
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1016/s0304-3878(03)00124-x](https://doi.org/10.1016/s0304-3878(03)00124-x)
-
----
-
-### Vijayendra Rao, Michael Walton (2004) — Culture and Public Action
-- **期刊**：The World Bank eBooks [WP]
-- **引用**：1621
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1596/0-8047-4787-3](https://doi.org/10.1596/0-8047-4787-3)
-
----
-
-### Beth A. Simmons, Zachary Elkins (2004) — The Globalization of Liberalization: Policy Diffusion in the International Political Economy
-- **期刊**：American Political Science Review [T3]
-- **引用**：1611
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1017/s0003055404001078](https://doi.org/10.1017/s0003055404001078)
-
----
-
 ### James Simmie, R. Martin (2010) — The economic resilience of regions: towards an evolutionary approach
 - **期刊**：Cambridge Journal of Regions Economy and Society [other]
 - **引用**：1584
 - **优先级**：core
 - **议题**：T5
 - **DOI**：[10.1093/cjres/rsp029](https://doi.org/10.1093/cjres/rsp029)
-
----
-
-### Peter Gourevitch (1978) — The second image reversed: the international sources of domestic politics
-- **期刊**：International Organization [T3]
-- **引用**：1579
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1017/s002081830003201x](https://doi.org/10.1017/s002081830003201x)
-
----
-
-### Abhijit Banerjee, Esther Duflo (2007) — The Economic Lives of the Poor
-- **期刊**：The Journal of Economic Perspectives [T2]
-- **引用**：1542
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1257/jep.21.1.141](https://doi.org/10.1257/jep.21.1.141)
 
 ---
 
@@ -466,48 +133,12 @@
 
 ---
 
-### Thomas Piketty (1995) — Social Mobility and Redistributive Politics
-- **期刊**：The Quarterly Journal of Economics [T1]
-- **引用**：1379
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.2307/2946692](https://doi.org/10.2307/2946692)
-
----
-
-### Sanjaya Lall (2000) — The Technological Structure and Performance of Developing Country Manufactured Exports, 1985‐98
-- **期刊**：Oxford Development Studies [other]
-- **引用**：1361
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1080/713688318](https://doi.org/10.1080/713688318)
-
----
-
 ### Rafael La Porta, Andrei Shleifer (2014) — Informality and Development
 - **期刊**：The Journal of Economic Perspectives [T2]
 - **引用**：1348
 - **优先级**：core
 - **议题**：T5
 - **DOI**：[10.1257/jep.28.3.109](https://doi.org/10.1257/jep.28.3.109)
-
----
-
-### Lars-Erik Cederman, Andreas Wimmer, Brian Min (2009) — Why Do Ethnic Groups Rebel? New Data and Analysis
-- **期刊**：World Politics [T3]
-- **引用**：1334
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1017/s0043887109990219](https://doi.org/10.1017/s0043887109990219)
-
----
-
-### Siegwart Lindenberg, Linda Steg (2007) — Normative, Gain and Hedonic Goal Frames Guiding Environmental Behavior
-- **期刊**：Journal of Social Issues [other]
-- **引用**：1329
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1111/j.1540-4560.2007.00499.x](https://doi.org/10.1111/j.1540-4560.2007.00499.x)
 
 ---
 
@@ -556,75 +187,12 @@
 
 ---
 
-### Christine Jolls, Cass R. Sunstein, Richard H. Thaler (1998) — A Behavioral Approach to Law and Economics
-- **期刊**：Stanford Law Review [other]
-- **引用**：1234
-- **优先级**：core
-- **议题**：T1, T5
-- **DOI**：[10.2307/1229304](https://doi.org/10.2307/1229304)
-
----
-
-### Ricardo Hausmann, Lant Pritchett, Dani Rodrik (2005) — Growth Accelerations
-- **期刊**：Journal of Economic Growth [T2]
-- **引用**：1228
-- **优先级**：core
-- **议题**：T2, T5
-- **DOI**：[10.1007/s10887-005-4712-0](https://doi.org/10.1007/s10887-005-4712-0)
-
----
-
-### Barry Buzan, Lene Hansen (2009) — The Evolution of International Security Studies
-- **期刊**：Cambridge University Press eBooks [other]
-- **引用**：1199
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1017/cbo9780511817762](https://doi.org/10.1017/cbo9780511817762)
-
----
-
-### Philip McMichael (2009) — A food regime genealogy
-- **期刊**：The Journal of Peasant Studies [other]
-- **引用**：1185
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1080/03066150902820354](https://doi.org/10.1080/03066150902820354)
-
----
-
-### James H. Stock, Mark W. Watson (2001) — Vector Autoregressions
-- **期刊**：The Journal of Economic Perspectives [T2]
-- **引用**：1106
-- **优先级**：core
-- **议题**：T1, T3, T4, T5
-- **DOI**：[10.1257/jep.15.4.101](https://doi.org/10.1257/jep.15.4.101)
-
----
-
-### Dani Rodrik (2007) — One Economics, Many Recipes
-- **期刊**：Princeton University Press eBooks [other]
-- **引用**：1090
-- **优先级**：core
-- **议题**：T2, T5
-- **DOI**：[10.1515/9781400829354](https://doi.org/10.1515/9781400829354)
-
----
-
 ### Thomas Piketty, Emmanuel Saez, Gabriel Zucman (2017) — Distributional National Accounts: Methods and Estimates for the United States*
 - **期刊**：The Quarterly Journal of Economics [T1]
 - **引用**：1063
 - **优先级**：core
 - **议题**：T5
 - **DOI**：[10.1093/qje/qjx043](https://doi.org/10.1093/qje/qjx043)
-
----
-
-### Alberto Alesina, Beatrice Weder (2002) — Do Corrupt Governments Receive Less Foreign Aid?
-- **期刊**：American Economic Review [T1]
-- **引用**：1063
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1257/00028280260344669](https://doi.org/10.1257/00028280260344669)
 
 ---
 
@@ -637,15 +205,6 @@
 
 ---
 
-### Stig Hjarvard (2008) — The Mediatization of Society
-- **期刊**：Nordicom review/NORDICOM review [other]
-- **引用**：1019
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1515/nor-2017-0181](https://doi.org/10.1515/nor-2017-0181)
-
----
-
 ### Lars‐Erik Cederman, Nils B. Weidmann, Kristian Skrede Gleditsch (2011) — Horizontal Inequalities and Ethnonationalist Civil War: A Global Comparison
 - **期刊**：American Political Science Review [T3]
 - **引用**：1011
@@ -655,57 +214,12 @@
 
 ---
 
-### Michael Sauder, Wendy Nelson Espeland (2009) — The Discipline of Rankings: Tight Coupling and Organizational Change
-- **期刊**：American Sociological Review [other]
-- **引用**：1002
-- **优先级**：core
-- **议题**：T1, T5
-- **DOI**：[10.1177/000312240907400104](https://doi.org/10.1177/000312240907400104)
-
----
-
-### Laura Alfaro, Ṣebnem Kalemli‐Özcan, Vadym Volosovych (2008) — Why Doesn't Capital Flow from Rich to Poor Countries? An Empirical Investigation
-- **期刊**：The Review of Economics and Statistics [T2]
-- **引用**：1000
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1162/rest.90.2.347](https://doi.org/10.1162/rest.90.2.347)
-
----
-
-### Dani Rodrik (2000) — Institutions for high-quality growth: What they are and how to acquire them
-- **期刊**：Studies in Comparative International Development [other]
-- **引用**：984
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1007/bf02699764](https://doi.org/10.1007/bf02699764)
-
----
-
-### Robert M. Entman (2003) — Cascading Activation: Contesting the White House's Frame After 9/11
-- **期刊**：Political Communication [other]
-- **引用**：959
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1080/10584600390244176](https://doi.org/10.1080/10584600390244176)
-
----
-
 ### Marcel P. Timmer, Abdul Azeez Erumban, Bart Los et al. (2014) — Slicing Up Global Value Chains
 - **期刊**：The Journal of Economic Perspectives [T2]
 - **引用**：935
 - **优先级**：core
 - **议题**：T3, T5
 - **DOI**：[10.1257/jep.28.2.99](https://doi.org/10.1257/jep.28.2.99)
-
----
-
-### Horst Siebert (1997) — Labor Market Rigidities: At the Root of Unemployment in Europe
-- **期刊**：The Journal of Economic Perspectives [T2]
-- **引用**：919
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1257/jep.11.3.37](https://doi.org/10.1257/jep.11.3.37)
 
 ---
 
@@ -733,15 +247,6 @@
 - **优先级**：core
 - **议题**：T5
 - **DOI**：[10.1162/isec_a_00342](https://doi.org/10.1162/isec_a_00342)
-
----
-
-### Paul Beaudry, Franck Portier (2006) — Stock Prices, News, and Economic Fluctuations
-- **期刊**：American Economic Review [T1]
-- **引用**：860
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1257/aer.96.4.1293](https://doi.org/10.1257/aer.96.4.1293)
 
 ---
 
@@ -790,24 +295,6 @@
 
 ---
 
-### Richard K. Ashley (1984) — The poverty of neorealism
-- **期刊**：International Organization [T3]
-- **引用**：694
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1017/s0020818300026709](https://doi.org/10.1017/s0020818300026709)
-
----
-
-### Paúl Krugman (1987) — Is Free Trade Passé?
-- **期刊**：The Journal of Economic Perspectives [T2]
-- **引用**：676
-- **优先级**：core
-- **议题**：T2, T5
-- **DOI**：[10.1257/jep.1.2.131](https://doi.org/10.1257/jep.1.2.131)
-
----
-
 ### Liena Kano, Eric W. K. Tsang, Henry Wai‐chung Yeung (2020) — Global value chains: A review of the multi-disciplinary literature
 - **期刊**：Journal of International Business Studies [other]
 - **引用**：660
@@ -817,39 +304,12 @@
 
 ---
 
-### Anne O. Krueger (1990) — Government Failures in Development
-- **期刊**：The Journal of Economic Perspectives [T2]
-- **引用**：656
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1257/jep.4.3.9](https://doi.org/10.1257/jep.4.3.9)
-
----
-
 ### Shakir Mohamed, Marie-Thérèse Png, William Isaac (2020) — Decolonial AI: Decolonial Theory as Sociotechnical Foresight in Artificial Intelligence
 - **期刊**：Philosophy & Technology [other]
 - **引用**：636
 - **优先级**：core
 - **议题**：T4, T5
 - **DOI**：[10.1007/s13347-020-00405-8](https://doi.org/10.1007/s13347-020-00405-8)
-
----
-
-### Thomas Piketty, Emmanuel Saez (2006) — The Evolution of Top Incomes: A Historical and International Perspective
-- **期刊**：American Economic Review [T1]
-- **引用**：616
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1257/000282806777212116](https://doi.org/10.1257/000282806777212116)
-
----
-
-### Thomas Piketty (1997) — The Dynamics of the Wealth Distribution and the Interest Rate with Credit Rationing
-- **期刊**：The Review of Economic Studies [T1]
-- **引用**：616
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.2307/2971708](https://doi.org/10.2307/2971708)
 
 ---
 
@@ -880,15 +340,6 @@
 
 ---
 
-### Peter Burnham (2001) — New Labour and the Politics of Depoliticisation
-- **期刊**：The British Journal of Politics and International Relations [other]
-- **引用**：569
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1111/1467-856x.00054](https://doi.org/10.1111/1467-856x.00054)
-
----
-
 ### Annette Alstadsæter, Niels Johannesen, Gabriel Zucman (2019) — Tax Evasion and Inequality
 - **期刊**：American Economic Review [T1]
 - **引用**：553
@@ -904,15 +355,6 @@
 - **优先级**：core
 - **议题**：T4, T5
 - **DOI**：[10.1007/s11053-019-09568-4](https://doi.org/10.1007/s11053-019-09568-4)
-
----
-
-### Patrick Conway, Kyle Bagwell, Robert W. Staiger (2004) — The Economics of the World Trading System
-- **期刊**：Southern Economic Journal [T2]
-- **引用**：535
-- **优先级**：core
-- **议题**：T2, T5
-- **DOI**：[10.2307/4135340](https://doi.org/10.2307/4135340)
 
 ---
 
@@ -943,25 +385,7 @@
 
 ---
 
-### Thomas Piketty, Emmanuel Saez (2007) — How Progressive is the U.S. Federal Tax System? A Historical and International Perspective
-- **期刊**：The Journal of Economic Perspectives [T2]
-- **引用**：503
-- **优先级**：core
-- **议题**：T5
-- **DOI**：[10.1257/jep.21.1.3](https://doi.org/10.1257/jep.21.1.3)
-
----
-
-## 推荐阅读 (Recommended) (54 篇)
-
-### Kyle Bagwell, Robert W. Staiger (2002) — The Economics of the World Trading System
-- **期刊**：The MIT Press eBooks [other]
-- **引用**：498
-- **优先级**：recommended
-- **议题**：T2, T5
-- **DOI**：[10.7551/mitpress/2628.001.0001](https://doi.org/10.7551/mitpress/2628.001.0001)
-
----
+## 推荐阅读 (Recommended) (35 篇)
 
 ### Huw Roberts, Josh Cowls, Jessica Morley et al. (2020) — The Chinese approach to artificial intelligence: an analysis of policy, ethics, and regulation
 - **期刊**：AI & Society [other]
@@ -969,15 +393,6 @@
 - **优先级**：recommended
 - **议题**：T1, T4, T5
 - **DOI**：[10.1007/s00146-020-00992-2](https://doi.org/10.1007/s00146-020-00992-2)
-
----
-
-### Thomas M. Jorde, David J. Teece (1990) — Innovation and Cooperation: Implications for Competition and Antitrust
-- **期刊**：The Journal of Economic Perspectives [T2]
-- **引用**：482
-- **优先级**：recommended
-- **议题**：T5
-- **DOI**：[10.1257/jep.4.3.75](https://doi.org/10.1257/jep.4.3.75)
 
 ---
 
@@ -1008,57 +423,12 @@
 
 ---
 
-### Элинор Остром (2009) — A Polycentric Approach For Coping With Climate Change
-- **期刊**：World Bank eBooks [WP]
-- **引用**：447
-- **优先级**：recommended
-- **议题**：T5
-- **DOI**：[10.1596/1813-9450-5095](https://doi.org/10.1596/1813-9450-5095)
-
----
-
-### Michèle B. Bättig, Thomas Bernauer (2009) — National Institutions and Global Public Goods: Are Democracies More Cooperative in Climate Change Policy?
-- **期刊**：International Organization [T3]
-- **引用**：446
-- **优先级**：recommended
-- **议题**：T5
-- **DOI**：[10.1017/s0020818309090092](https://doi.org/10.1017/s0020818309090092)
-
----
-
-### Neil Brenner, Nik Theodore (2005) — Neoliberalism and the urban condition
-- **期刊**：City [other]
-- **引用**：437
-- **优先级**：recommended
-- **议题**：T5
-- **DOI**：[10.1080/13604810500092106](https://doi.org/10.1080/13604810500092106)
-
----
-
 ### Elhanan Helpman, Oleg Itskhoki, Marc-Andreas Muendler et al. (2016) — Trade and Inequality: From Theory to Estimation
 - **期刊**：The Review of Economic Studies [T1]
 - **引用**：428
 - **优先级**：recommended
 - **议题**：T5
 - **DOI**：[10.1093/restud/rdw025](https://doi.org/10.1093/restud/rdw025)
-
----
-
-### Judith L. Goldstein, Douglas Rivers, Michael Tomz (2007) — Institutions in International Relations: Understanding the Effects of the GATT and the WTO on World Trade
-- **期刊**：International Organization [T3]
-- **引用**：421
-- **优先级**：recommended
-- **议题**：T2, T5
-- **DOI**：[10.1017/s0020818307070014](https://doi.org/10.1017/s0020818307070014)
-
----
-
-### Daniel W. Drezner (2003) — The Hidden Hand of Economic Coercion
-- **期刊**：International Organization [T3]
-- **引用**：414
-- **优先级**：recommended
-- **议题**：T1, T5
-- **DOI**：[10.1017/s0020818303573052](https://doi.org/10.1017/s0020818303573052)
 
 ---
 
@@ -1107,42 +477,6 @@
 
 ---
 
-### Kyle Bagwell, Robert W. Staiger (2001) — Domestic Policies, National Sovereignty, and International Economic Institutions
-- **期刊**：The Quarterly Journal of Economics [T1]
-- **引用**：329
-- **优先级**：recommended
-- **议题**：T2, T5
-- **DOI**：[10.1162/00335530151144096](https://doi.org/10.1162/00335530151144096)
-
----
-
-### Laura Alfaro, Ṣebnem Kalemli‐Özcan, Selin Sayek (2009) — FDI, Productivity and Financial Development
-- **期刊**：World Economy [T2]
-- **引用**：321
-- **优先级**：recommended
-- **议题**：T5
-- **DOI**：[10.1111/j.1467-9701.2009.01159.x](https://doi.org/10.1111/j.1467-9701.2009.01159.x)
-
----
-
-### Henry Farrell, Adrienne Héritier (2003) — Formal and Informal Institutions Under Codecision: Continuous Constitution‐Building in Europe
-- **期刊**：Governance [other]
-- **引用**：312
-- **优先级**：recommended
-- **议题**：T5
-- **DOI**：[10.1111/1468-0491.00229](https://doi.org/10.1111/1468-0491.00229)
-
----
-
-### Reed M. Wood (2008) — “A Hand upon the Throat of the Nation”: Economic Sanctions and State Repression, 1976-2001
-- **期刊**：International Studies Quarterly [T3]
-- **引用**：310
-- **优先级**：recommended
-- **议题**：T1, T5
-- **DOI**：[10.1111/j.1468-2478.2008.00512.x](https://doi.org/10.1111/j.1468-2478.2008.00512.x)
-
----
-
 ### Robert D. Blackwill, Jennifer Harris (2016) — War by Other Means: Geoeconomics and Statecraft
 - **期刊**： [other]
 - **引用**：305
@@ -1161,33 +495,6 @@
 
 ---
 
-### Alexander Thompson (2006) — Coercion Through IOs: The Security Council and the Logic of Information Transmission
-- **期刊**：International Organization [T3]
-- **引用**：293
-- **优先级**：recommended
-- **议题**：T1, T5
-- **DOI**：[10.1017/s0020818306060012](https://doi.org/10.1017/s0020818306060012)
-
----
-
-### Daniel W. Drezner (2000) — Bargaining, Enforcement, and Multilateral Sanctions: When Is Cooperation Counterproductive?
-- **期刊**：International Organization [T3]
-- **引用**：291
-- **优先级**：recommended
-- **议题**：T1, T5
-- **DOI**：[10.1162/002081800551127](https://doi.org/10.1162/002081800551127)
-
----
-
-### William D. Nordhaus (1993) — Reflections on the Economics of Climate Change
-- **期刊**：The Journal of Economic Perspectives [T2]
-- **引用**：276
-- **优先级**：recommended
-- **议题**：T5
-- **DOI**：[10.1257/jep.7.4.11](https://doi.org/10.1257/jep.7.4.11)
-
----
-
 ### Shekhar Aiyar, Anna Ilyina, Jiaqian Chen et al. (2023) — Geo-Economic Fragmentation and the Future of Multilateralism
 - **期刊**：IMF staff discussion note [WP]
 - **引用**：270
@@ -1203,24 +510,6 @@
 - **优先级**：recommended
 - **议题**：T4, T5
 - **DOI**：[10.1057/s41267-023-00620-3](https://doi.org/10.1057/s41267-023-00620-3)
-
----
-
-### Chad P. Bown (2004) — On the Economic Success of GATT/WTO Dispute Settlement
-- **期刊**：The Review of Economics and Statistics [T2]
-- **引用**：234
-- **优先级**：recommended
-- **议题**：T2, T5
-- **DOI**：[10.1162/0034653041811680](https://doi.org/10.1162/0034653041811680)
-
----
-
-### Pol Antràs, Ricardo J. Caballero (2009) — Trade and Capital Flows: A Financial Frictions Perspective
-- **期刊**：Journal of Political Economy [T1]
-- **引用**：231
-- **优先级**：recommended
-- **议题**：T5
-- **DOI**：[10.1086/605583](https://doi.org/10.1086/605583)
 
 ---
 
@@ -1248,15 +537,6 @@
 - **优先级**：recommended
 - **议题**：T5
 - **DOI**：[10.1017/s0043887114000057](https://doi.org/10.1017/s0043887114000057)
-
----
-
-### Henry Farrell, Adrienne Héritier (2004) — Interorganizational Negotiation and Intraorganizational Power in Shared Decision Making
-- **期刊**：Comparative Political Studies [T3]
-- **引用**：213
-- **优先级**：recommended
-- **议题**：T5
-- **DOI**：[10.1177/0010414004269833](https://doi.org/10.1177/0010414004269833)
 
 ---
 
@@ -1311,15 +591,6 @@
 - **优先级**：recommended
 - **议题**：T5
 - **DOI**：[10.1016/j.jinteco.2017.07.009](https://doi.org/10.1016/j.jinteco.2017.07.009)
-
----
-
-### Laura Alfaro, Ṣebnem Kalemli‐Özcan, Vadym Volosovych (2005) — Why Doesn't Capital Flow from Rich to Poor Countries? An Empirical Investigation
-- **期刊**：National Bureau of Economic Research [WP]
-- **引用**：181
-- **优先级**：recommended
-- **议题**：T5
-- **DOI**：[10.3386/w11901](https://doi.org/10.3386/w11901)
 
 ---
 
@@ -1401,15 +672,6 @@
 - **优先级**：recommended
 - **议题**：T2, T5
 - **DOI**：[10.1257/jel.20151192](https://doi.org/10.1257/jel.20151192)
-
----
-
-### Elhanan Helpman, Oleg Itskhoki, Stephen J. Redding (2008) — Inequality and Unemployment in a Global Economy
-- **期刊**：National Bureau of Economic Research [WP]
-- **引用**：112
-- **优先级**：recommended
-- **议题**：T5
-- **DOI**：[10.3386/w14478](https://doi.org/10.3386/w14478)
 
 ---
 

@@ -1,137 +1,99 @@
 # 阅读路线图 (Reading Roadmap)
 
 > 按议题 → 子主题 → 优先级排列。Core 必读，Recommended 推荐，Reference 参考。
-> 总计 460 篇论文
+> 总计 217 篇论文
 
-## T1: 制裁与经济管制 (108 篇)
+## T1: 制裁与经济管制 (43 篇)
 
 ### 其他
-
-- ★ **John Gerard Ruggie (1982)** — International regimes, transactions, and change: embedded liberalism in the postwar economic order
-  - International Organization [T3] | 4384 citations
-  - DOI: [https://doi.org/10.1017/s0020818300018993](https://doi.org/10.1017/s0020818300018993)
-
-- ★ **Simeon Djankov, Rafael La Porta et al. (2008)** — The law and economics of self-dealing
-  - Journal of Financial Economics [T1] | 3549 citations
-  - DOI: [https://doi.org/10.1016/j.jfineco.2007.02.007](https://doi.org/10.1016/j.jfineco.2007.02.007)
-
-- ★ **Alberto Alesina, Arnaud Devleeschauwer et al. (2003)** — Fractionalization
-  - Journal of Economic Growth [T2] | 3259 citations
-  - DOI: [https://doi.org/10.1023/a:1024471506938](https://doi.org/10.1023/a:1024471506938)
 
 - ★ **Francine D. Blau, Lawrence M. Kahn (2017)** — The Gender Wage Gap: Extent, Trends, and Explanations
   - Journal of Economic Literature [T2] | 2799 citations
   - DOI: [https://doi.org/10.1257/jel.20160995](https://doi.org/10.1257/jel.20160995)
 
-- ★ **Jon Elster (1989)** — Social Norms and Economic Theory
-  - The Journal of Economic Perspectives [T2] | 2025 citations
-  - DOI: [https://doi.org/10.1257/jep.3.4.99](https://doi.org/10.1257/jep.3.4.99)
-
-- ★ **George P. Baker, Michael C. Jensen et al. (1988)** — Compensation and Incentives: Practice vs. Theory
-  - The Journal of Finance [T1] | 1743 citations
-  - DOI: [https://doi.org/10.1111/j.1540-6261.1988.tb04593.x](https://doi.org/10.1111/j.1540-6261.1988.tb04593.x)
-
-- ★ **Michael Barnett, Raymond Duvall (2005)** — Power in International Politics
-  - International Organization [T3] | 1706 citations
-  - DOI: [https://doi.org/10.1017/s0020818305050010](https://doi.org/10.1017/s0020818305050010)
-
 - ★ **Valerie Ramey (2011)** — Identifying Government Spending Shocks: It's all in the Timing*
   - The Quarterly Journal of Economics [T1] | 1640 citations
   - DOI: [https://doi.org/10.1093/qje/qjq008](https://doi.org/10.1093/qje/qjq008)
-
-- ★ **Bina Agarwal (1997)** — ''Bargaining'' and Gender Relations: Within and Beyond the Household
-  - Feminist Economics [other] | 1619 citations
-  - DOI: [https://doi.org/10.1080/135457097338799](https://doi.org/10.1080/135457097338799)
-
-- ★ **Michael D. Bordo, Barry Eichengreen et al. (2001)** — Is the crisis problem growing more severe?
-  - Economic Policy [T2] | 1298 citations
-  - DOI: [https://doi.org/10.1111/1468-0327.00070](https://doi.org/10.1111/1468-0327.00070)
-
-- ★ **Jonathan M. Karpoff, Dongwoo Lee et al. (2008)** — The Cost to Firms of Cooking the Books
-  - Journal of Financial and Quantitative Analysis [other] | 1296 citations
-  - DOI: [https://doi.org/10.1017/s0022109000004221](https://doi.org/10.1017/s0022109000004221)
 
 - ★ **William D. Nordhaus (2015)** — Climate Clubs: Overcoming Free-riding in International Climate Policy
   - American Economic Review [T1] | 1295 citations
   - DOI: [https://doi.org/10.1257/aer.15000001](https://doi.org/10.1257/aer.15000001)
 
-- ★ **Nazmul Chaudhury, Jeffrey S. Hammer et al. (2006)** — Missing in Action: Teacher and Health Worker Absence in Developing Countries
-  - The Journal of Economic Perspectives [T2] | 1259 citations
-  - DOI: [https://doi.org/10.1257/089533006776526058](https://doi.org/10.1257/089533006776526058)
-
 - ★ **David Autor, David Dorn et al. (2016)** — The China Shock: Learning from Labor-Market Adjustment to Large Changes in Trade
   - Annual Review of Economics [T2] | 1239 citations
   - DOI: [https://doi.org/10.1146/annurev-economics-080315-015041](https://doi.org/10.1146/annurev-economics-080315-015041)
 
-- ★ **Marc Rysman (2009)** — The Economics of Two-Sided Markets
-  - The Journal of Economic Perspectives [T2] | 1236 citations
-  - DOI: [https://doi.org/10.1257/jep.23.3.125](https://doi.org/10.1257/jep.23.3.125)
+- ★ **Robert Falkner (2016)** — The Paris Agreement and the new logic of international climate politics
+  - International Affairs [T3] | 1148 citations
+  - DOI: [https://doi.org/10.1111/1468-2346.12708](https://doi.org/10.1111/1468-2346.12708)
 
-  *(另有 64 篇，见 CSV 完整索引)*
+- ★ **Shaen Corbet, Brian M. Lucey et al. (2018)** — RETRACTED: Cryptocurrencies as a financial asset: A systematic analysis
+  - International Review of Financial Analysis [other] | 1112 citations
+  - DOI: [https://doi.org/10.1016/j.irfa.2018.09.003](https://doi.org/10.1016/j.irfa.2018.09.003)
+
+- ★ **Markus Kitzmueller, Jay P. Shimshack (2012)** — Economic Perspectives on Corporate Social Responsibility
+  - Journal of Economic Literature [T2] | 1098 citations
+  - DOI: [https://doi.org/10.1257/jel.50.1.51](https://doi.org/10.1257/jel.50.1.51)
+
+- ★ **Sean Foley, Jonathan R. Karlsen et al. (2019)** — Sex, Drugs, and Bitcoin: How Much Illegal Activity Is Financed through Cryptocurrencies?
+  - Review of Financial Studies [T1] | 856 citations
+  - DOI: [https://doi.org/10.1093/rfs/hhz015](https://doi.org/10.1093/rfs/hhz015)
+
+- ★ **Eric Budish, Peter Cramton et al. (2015)** — The High-Frequency Trading Arms Race: Frequent Batch Auctions as a Market Design Response *
+  - The Quarterly Journal of Economics [T1] | 853 citations
+  - DOI: [https://doi.org/10.1093/qje/qjv027](https://doi.org/10.1093/qje/qjv027)
+
+- ★ **Robert Chesney, Danielle Keats Citron (2018)** — Deep Fakes: A Looming Challenge for Privacy, Democracy, and National Security
+  - SSRN Electronic Journal [WP] | 736 citations
+  - DOI: [https://doi.org/10.2139/ssrn.3213954](https://doi.org/10.2139/ssrn.3213954)
+
+- ★ **Marion Fourcade, Étienne Ollion et al. (2015)** — The Superiority of Economists
+  - The Journal of Economic Perspectives [T2] | 675 citations
+  - DOI: [https://doi.org/10.1257/jep.29.1.89](https://doi.org/10.1257/jep.29.1.89)
+
+- ★ **Mary Amiti, Oleg Itskhoki et al. (2014)** — Importers, Exporters, and Exchange Rate Disconnect
+  - American Economic Review [T1] | 612 citations
+  - DOI: [https://doi.org/10.1257/aer.104.7.1942](https://doi.org/10.1257/aer.104.7.1942)
+
+- ★ **Gita Gopinath, Oleg Itskhoki et al. (2010)** — Currency Choice and Exchange Rate Pass-Through
+  - American Economic Review [T1] | 590 citations
+  - DOI: [https://doi.org/10.1257/aer.100.1.304](https://doi.org/10.1257/aer.100.1.304)
+
+- ◆ **Hanane Allioui, Youssef Mourdi (2023)** — Exploring the Full Potentials of IoT for Better Financial Growth and Stability: A Comprehensive Survey
+  - Sensors [other] | 487 citations
+  - DOI: [https://doi.org/10.3390/s23198015](https://doi.org/10.3390/s23198015)
+
+- ◆ **Rosaleen Duffy (2014)** — Waging a war to save biodiversity: the rise of militarized conservation
+  - International Affairs [T3] | 373 citations
+  - DOI: [https://doi.org/10.1111/1468-2346.12142](https://doi.org/10.1111/1468-2346.12142)
+
+  *(另有 15 篇，见 CSV 完整索引)*
+
+### 经济胁迫理论
+
+- ★ **Henry Farrell, Abraham L. Newman (2019)** — Weaponized Interdependence: How Global Economic Networks Shape State Coercion
+  - International Security [T3] | 1291 citations
+  - DOI: [https://doi.org/10.1162/isec_a_00351](https://doi.org/10.1162/isec_a_00351)
+
+- ◆ **Robert D. Blackwill, Jennifer Harris (2016)** — War by Other Means: Geoeconomics and Statecraft
+  -  [other] | 305 citations
+  - DOI: [https://doi.org/10.4159/9780674545960](https://doi.org/10.4159/9780674545960)
+
+- ◆ **Dursun Peksen, Byunghwan Son (2015)** — Economic coercion and currency crises in target countries
+  - Journal of Peace Research [T3] | 112 citations
+  - DOI: [https://doi.org/10.1177/0022343314563636](https://doi.org/10.1177/0022343314563636)
 
 ### 国际金融体系
-
-- ★ **Kenneth Rogoff, M. Ayhan Köse et al. (2004)** — Effects on Financial Globalization on Developing Countries: Some Empirical Evidence
-  -  [other] | 1238 citations
-  - DOI: [https://doi.org/10.5089/9787504933096.084](https://doi.org/10.5089/9787504933096.084)
-
-- ★ **Barry Eichengreen (1997)** — Globalizing capital: a history of the international monetary system
-  - Choice Reviews Online [other] | 955 citations
-  - DOI: [https://doi.org/10.5860/choice.34-6376](https://doi.org/10.5860/choice.34-6376)
-
-- ★ **M. Ayhan Köse, Eswar Prasad et al. (2006)** — Financial Globalization: A Reappraisal
-  - National Bureau of Economic Research [WP] | 929 citations
-  - DOI: [https://doi.org/10.3386/w12484](https://doi.org/10.3386/w12484)
 
 - ★ **Xavier Gabaix, Matteo Maggiori (2015)** — International Liquidity and Exchange Rate Dynamics*
   - The Quarterly Journal of Economics [T1] | 811 citations
   - DOI: [https://doi.org/10.1093/qje/qjv016](https://doi.org/10.1093/qje/qjv016)
 
-- ★ **Barry Eichengreen (2001)** — Capital Account Liberalization: What Do Cross-Country Studies Tell Us?
-  - The World Bank Economic Review [WP] | 713 citations
-  - DOI: [https://doi.org/10.1093/wber/15.3.341](https://doi.org/10.1093/wber/15.3.341)
-
-- ★ **Eswar Prasad, Raghuram Rajan et al. (2007)** — Foreign Capital and Economic Growth
-  - National Bureau of Economic Research [WP] | 571 citations
-  - DOI: [https://doi.org/10.3386/w13619](https://doi.org/10.3386/w13619)
-
-- ★ **Richard N. Cooper, Barry Eichengreen (1997)** — Globalizing Capital: A History of the International Monetary System
-  - Foreign Affairs [T3] | 502 citations
-  - DOI: [https://doi.org/10.2307/20047965](https://doi.org/10.2307/20047965)
-
-- ◆ **Michael D. Bordo, Barry Eichengreen (1993)** — A Retrospective on the Bretton Woods System
-  -  [other] | 488 citations
-  - DOI: [https://doi.org/10.7208/chicago/9780226066905.001.0001](https://doi.org/10.7208/chicago/9780226066905.001.0001)
-
-- ◆ **M. Ayhan Köse, Eswar Prasad et al. (2006)** — Financial Globalization: A Reappraisal
-  - IMF Working Paper [WP] | 336 citations
-  - DOI: [https://doi.org/10.5089/9781451864496.001](https://doi.org/10.5089/9781451864496.001)
-
-- ◆ **M. Ayhan Köse, Kenneth Rogoff et al. (2003)** — Effects of Financial Globalization on Developing Countries: Some Empirical Evidence
-  - Occasional paper/Occasional paper  [WP] | 327 citations
-  - DOI: [https://doi.org/10.5089/9781589062214.084](https://doi.org/10.5089/9781589062214.084)
-
-- ◆ **M. Ayhan Köse, Eswar Prasad et al. (2008)** — Does financial globalization promote risk sharing?
-  - Journal of Development Economics [T2] | 298 citations
-  - DOI: [https://doi.org/10.1016/j.jdeveco.2008.09.001](https://doi.org/10.1016/j.jdeveco.2008.09.001)
-
 - ◆ **Emmanuel Farhi, Matteo Maggiori (2017)** — A Model of the International Monetary System*
   - The Quarterly Journal of Economics [T1] | 261 citations
   - DOI: [https://doi.org/10.1093/qje/qjx031](https://doi.org/10.1093/qje/qjx031)
 
-- ◆ **Eswar Prasad, Shang‐Jin Wei (2005)** — The Chinese Approach to Capital Inflows: Patterns and Possible Explanations
-  - National Bureau of Economic Research [WP] | 223 citations
-  - DOI: [https://doi.org/10.3386/w11306](https://doi.org/10.3386/w11306)
-
 ### 金融市场与资产定价
-
-- ★ **Markus K. Brunnermeier (2009)** — Deciphering the Liquidity and Credit Crunch 2007–2008
-  - The Journal of Economic Perspectives [T2] | 3367 citations
-  - DOI: [https://doi.org/10.1257/jep.23.1.77](https://doi.org/10.1257/jep.23.1.77)
-
-- ★ **Eugene F. Fama, Kenneth R. French (2004)** — The Capital Asset Pricing Model: Theory and Evidence
-  - The Journal of Economic Perspectives [T2] | 1910 citations
-  - DOI: [https://doi.org/10.1257/0895330042162430](https://doi.org/10.1257/0895330042162430)
 
 - ◆ **Martin Lettau, Matteo Maggiori et al. (2014)** — Conditional risk premia in currency markets and other asset classes
   - Journal of Financial Economics [T1] | 418 citations
@@ -144,24 +106,6 @@
 - ◆ **Matteo Maggiori, Brent Neiman et al. (2019)** — International Currencies and Capital Allocation
   - Journal of Political Economy [T1] | 258 citations
   - DOI: [https://doi.org/10.1086/705688](https://doi.org/10.1086/705688)
-
-### 经济胁迫理论
-
-- ★ **Henry Farrell, Abraham L. Newman (2019)** — Weaponized Interdependence: How Global Economic Networks Shape State Coercion
-  - International Security [T3] | 1291 citations
-  - DOI: [https://doi.org/10.1162/isec_a_00351](https://doi.org/10.1162/isec_a_00351)
-
-- ◆ **Daniel W. Drezner (2003)** — The Hidden Hand of Economic Coercion
-  - International Organization [T3] | 414 citations
-  - DOI: [https://doi.org/10.1017/s0020818303573052](https://doi.org/10.1017/s0020818303573052)
-
-- ◆ **Robert D. Blackwill, Jennifer Harris (2016)** — War by Other Means: Geoeconomics and Statecraft
-  -  [other] | 305 citations
-  - DOI: [https://doi.org/10.4159/9780674545960](https://doi.org/10.4159/9780674545960)
-
-- ◆ **Dursun Peksen, Byunghwan Son (2015)** — Economic coercion and currency crises in target countries
-  - Journal of Peace Research [T3] | 112 citations
-  - DOI: [https://doi.org/10.1177/0022343314563636](https://doi.org/10.1177/0022343314563636)
 
 ### 人民币国际化与替代体系
 
@@ -181,16 +125,6 @@
   - Review of International Political Economy [T2] | 59 citations
   - DOI: [https://doi.org/10.1080/09692290.2017.1319400](https://doi.org/10.1080/09692290.2017.1319400)
 
-### 制裁有效性与设计
-
-- ◆ **Dursun Peksen (2008)** — Better or Worse? The Effect of Economic Sanctions on Human Rights
-  - Journal of Peace Research [T3] | 353 citations
-  - DOI: [https://doi.org/10.1177/0022343308098404](https://doi.org/10.1177/0022343308098404)
-
-- ◆ **Daniel W. Drezner (2000)** — Bargaining, Enforcement, and Multilateral Sanctions: When Is Cooperation Counterproductive?
-  - International Organization [T3] | 291 citations
-  - DOI: [https://doi.org/10.1162/002081800551127](https://doi.org/10.1162/002081800551127)
-
 ### 美元霸权与储备多元化
 
 - ○ **Serkan Arslanalp, Chima Simpson-Bell et al. (2022)** — The Stealth Erosion of Dollar Dominance: Active Diversifiers and the Rise of Nontraditional Reserve Currencies
@@ -199,41 +133,13 @@
 
 ---
 
-## T2: 贸易与产业竞争 (141 篇)
+## T2: 贸易与产业竞争 (64 篇)
 
 ### 其他
-
-- ★ **John Gerard Ruggie (1982)** — International regimes, transactions, and change: embedded liberalism in the postwar economic order
-  - International Organization [T3] | 4384 citations
-  - DOI: [https://doi.org/10.1017/s0020818300018993](https://doi.org/10.1017/s0020818300018993)
-
-- ★ **W. M. Corden, J. Peter Neary (1982)** — Booming Sector and De-Industrialisation in a Small Open Economy
-  - The Economic Journal [T2] | 3167 citations
-  - DOI: [https://doi.org/10.2307/2232670](https://doi.org/10.2307/2232670)
 
 - ★ **Marcel P. Timmer, Erik Dietzenbacher et al. (2015)** — An Illustrated User Guide to the World Input–Output Database: the Case of Global Automotive Production
   - Review of International Economics [T2] | 2403 citations
   - DOI: [https://doi.org/10.1111/roie.12178](https://doi.org/10.1111/roie.12178)
-
-- ★ **Francisco Rodríguez, Dani Rodrik (2000)** — Trade Policy and Economic Growth: A Skeptic's Guide to the Cross-National Evidence
-  - NBER Macroeconomics Annual [WP] | 2345 citations
-  - DOI: [https://doi.org/10.1086/654419](https://doi.org/10.1086/654419)
-
-- ★ **HOOGHE LIESBET, MARKS GARY (2003)** — Unraveling the Central State, but How? Types of Multi-level Governance
-  - American Political Science Review [T3] | 2320 citations
-  - DOI: [https://doi.org/10.1017/s0003055403000649](https://doi.org/10.1017/s0003055403000649)
-
-- ★ **Jean‐Jacques Laffont, David Martimort (2001)** — The Theory of Incentives: The Principal-Agent Model
-  - Toulouse Capitole Publications (University Toulouse 1 Capitole) [other] | 2069 citations
-  - DOI: [https://doi.org/10.1515/9781400829453](https://doi.org/10.1515/9781400829453)
-
-- ★ **Peter Dia­mond, Jerry A. Hausman (1994)** — Contingent Valuation: Is Some Number Better than No Number?
-  - The Journal of Economic Perspectives [T2] | 1949 citations
-  - DOI: [https://doi.org/10.1257/jep.8.4.45](https://doi.org/10.1257/jep.8.4.45)
-
-- ★ **Benkler, Yochai (2006)** — The wealth of networks: how social production transforms markets and freedom
-  - Choice Reviews Online [other] | 1929 citations
-  - DOI: [https://doi.org/10.5860/choice.44-0999](https://doi.org/10.5860/choice.44-0999)
 
 - ★ **Jan De Loecker, Jan Eeckhout et al. (2020)** — The Rise of Market Power and the Macroeconomic Implications*
   - The Quarterly Journal of Economics [T1] | 1763 citations
@@ -243,129 +149,55 @@
   - Journal of Economic Growth [T2] | 1708 citations
   - DOI: [https://doi.org/10.1007/s10887-015-9122-3](https://doi.org/10.1007/s10887-015-9122-3)
 
-- ★ **Michael C. Jensen (1993)** — The Modern Industrial Revolution, Exit, and the Failure of Internal Control Systems
-  - The Journal of Finance [T1] | 1698 citations
-  - DOI: [https://doi.org/10.2307/2329018](https://doi.org/10.2307/2329018)
+- ★ **Nicholas Bloom, John Van Reenen (2010)** — Why Do Management Practices Differ across Firms and Countries?
+  - The Journal of Economic Perspectives [T2] | 1457 citations
+  - DOI: [https://doi.org/10.1257/jep.24.1.203](https://doi.org/10.1257/jep.24.1.203)
 
-- ★ **Dani Rodrik (2008)** — The Real Exchange Rate and Economic Growth
-  - Brookings Papers on Economic Activity [T2] | 1695 citations
-  - DOI: [https://doi.org/10.1353/eca.0.0020](https://doi.org/10.1353/eca.0.0020)
+- ★ **Dani Rodrik (2018)** — Understanding Economic Policy Reform
+  -  [other] | 1283 citations
+  - DOI: [https://doi.org/10.4324/9780429498893-10](https://doi.org/10.4324/9780429498893-10)
 
-- ★ **Bina Agarwal (1997)** — ''Bargaining'' and Gender Relations: Within and Beyond the Household
-  - Feminist Economics [other] | 1619 citations
-  - DOI: [https://doi.org/10.1080/135457097338799](https://doi.org/10.1080/135457097338799)
+- ★ **Dani Rodrik (2018)** — Populism and the economics of globalization
+  - Journal of International Business Policy [other] | 1268 citations
+  - DOI: [https://doi.org/10.1057/s42214-018-0001-4](https://doi.org/10.1057/s42214-018-0001-4)
 
-- ★ **Jeffrey D. Sachs, Andrew M. Warner (1997)** — Sources of Slow Growth in African Economies
-  - Journal of African Economies [other] | 1523 citations
-  - DOI: [https://doi.org/10.1093/oxfordjournals.jae.a020932](https://doi.org/10.1093/oxfordjournals.jae.a020932)
+- ★ **Vikas Soekhai, Esther W. de Bekker‐Grob et al. (2018)** — Discrete Choice Experiments in Health Economics: Past, Present and Future
+  - PharmacoEconomics [other] | 790 citations
+  - DOI: [https://doi.org/10.1007/s40273-018-0734-2](https://doi.org/10.1007/s40273-018-0734-2)
 
-- ★ **Gene M. Grossman, Elhanan Helpman (1994)** — Endogenous Innovation in the Theory of Growth
-  - The Journal of Economic Perspectives [T2] | 1508 citations
-  - DOI: [https://doi.org/10.1257/jep.8.1.23](https://doi.org/10.1257/jep.8.1.23)
+- ★ **Jonathan D. Ostry, Atish R. Ghosh et al. (2010)** — Capital Inflows: The Role of Controls
+  - IMF Staff Position Note [WP] | 703 citations
+  - DOI: [https://doi.org/10.5089/9781462347513.004](https://doi.org/10.5089/9781462347513.004)
 
-  *(另有 45 篇，见 CSV 完整索引)*
+- ★ **Mary Amiti, Oleg Itskhoki et al. (2014)** — Importers, Exporters, and Exchange Rate Disconnect
+  - American Economic Review [T1] | 612 citations
+  - DOI: [https://doi.org/10.1257/aer.104.7.1942](https://doi.org/10.1257/aer.104.7.1942)
 
-### 贸易自由化与福利
+- ★ **Daron Acemoğlu, Ufuk Akcigit et al. (2018)** — Innovation, Reallocation, and Growth
+  - American Economic Review [T1] | 599 citations
+  - DOI: [https://doi.org/10.1257/aer.20130470](https://doi.org/10.1257/aer.20130470)
 
-- ★ **Brian R. Copeland, M. Scott Taylor (2004)** — Trade, Growth, and the Environment
-  - Journal of Economic Literature [T2] | 1631 citations
-  - DOI: [https://doi.org/10.1257/.42.1.7](https://doi.org/10.1257/.42.1.7)
+- ★ **Ha‐Joon Chang (2010)** — Institutions and economic development: theory, policy and history
+  - Journal of Institutional Economics [other] | 528 citations
+  - DOI: [https://doi.org/10.1017/s1744137410000378](https://doi.org/10.1017/s1744137410000378)
 
-- ★ **Lorenzo Caliendo, Fernando Parro (2014)** — Estimates of the Trade and Welfare Effects of NAFTA
-  - The Review of Economic Studies [T1] | 1371 citations
-  - DOI: [https://doi.org/10.1093/restud/rdu035](https://doi.org/10.1093/restud/rdu035)
+- ★ **Nicholas Bloom, John Van Reenen et al. (2019)** — A Toolkit of Policies to Promote Innovation
+  - The Journal of Economic Perspectives [T2] | 527 citations
+  - DOI: [https://doi.org/10.1257/jep.33.3.163](https://doi.org/10.1257/jep.33.3.163)
 
-- ★ **Joseph P. Newhouse (1992)** — Medical Care Costs: How Much Welfare Loss?
-  - The Journal of Economic Perspectives [T2] | 1209 citations
-  - DOI: [https://doi.org/10.1257/jep.6.3.3](https://doi.org/10.1257/jep.6.3.3)
+- ◆ **Bettina Becker (2014)** — PUBLIC R&amp;D POLICIES AND PRIVATE R&amp;D INVESTMENT: A SURVEY OF THE EMPIRICAL EVIDENCE
+  - Journal of Economic Surveys [T2] | 458 citations
+  - DOI: [https://doi.org/10.1111/joes.12074](https://doi.org/10.1111/joes.12074)
 
-- ★ **Robert W. Staiger, Kyle Bagwell (None)** — An Economic Theory of GATT
-  - RePEc: Research Papers in Economics [WP] | 990 citations
-  - DOI: [https://doi.org/10.1257/aer.89.1.215](https://doi.org/10.1257/aer.89.1.215)
+- ◆ **Pablo Fajgelbaum, Gene M. Grossman et al. (2011)** — Income Distribution, Product Quality, and International Trade
+  - Journal of Political Economy [T1] | 360 citations
+  - DOI: [https://doi.org/10.1086/662628](https://doi.org/10.1086/662628)
 
-- ★ **Giancarlo Corsetti, Paolo Pesenti (2001)** — Welfare and Macroeconomic Interdependence
-  - The Quarterly Journal of Economics [T1] | 748 citations
-  - DOI: [https://doi.org/10.1162/00335530151144069](https://doi.org/10.1162/00335530151144069)
+- ◆ **Alberto Cavallo (2016)** — Are Online and Offline Prices Similar? Evidence from Large Multi-Channel Retailers
+  - American Economic Review [T1] | 327 citations
+  - DOI: [https://doi.org/10.1257/aer.20160542](https://doi.org/10.1257/aer.20160542)
 
-- ★ **Paúl Krugman (1987)** — Is Free Trade Passé?
-  - The Journal of Economic Perspectives [T2] | 676 citations
-  - DOI: [https://doi.org/10.1257/jep.1.2.131](https://doi.org/10.1257/jep.1.2.131)
-
-- ★ **Petia Topalova (2010)** — Factor Immobility and Regional Impacts of Trade Liberalization: Evidence on Poverty from India
-  - American Economic Journal Applied Economics [T2] | 661 citations
-  - DOI: [https://doi.org/10.1257/app.2.4.1](https://doi.org/10.1257/app.2.4.1)
-
-- ★ **Emilie M. Hafner‐Burton (2005)** — Trading Human Rights: How Preferential Trade Agreements Influence Government Repression
-  - International Organization [T3] | 614 citations
-  - DOI: [https://doi.org/10.1017/s0020818305050216](https://doi.org/10.1017/s0020818305050216)
-
-- ★ **Richard Baldwin (2006)** — Multilateralising Regionalism: Spaghetti Bowls as Building Blocs on the Path to Global Free Trade
-  - World Economy [T2] | 550 citations
-  - DOI: [https://doi.org/10.1111/j.1467-9701.2006.00852.x](https://doi.org/10.1111/j.1467-9701.2006.00852.x)
-
-- ★ **Patrick Conway, Kyle Bagwell et al. (2004)** — The Economics of the World Trading System
-  - Southern Economic Journal [T2] | 535 citations
-  - DOI: [https://doi.org/10.2307/4135340](https://doi.org/10.2307/4135340)
-
-- ★ **Fritz W. Scharpf (1997)** — Economic integration, democracy and the welfare state
-  - Journal of European Public Policy [T3] | 531 citations
-  - DOI: [https://doi.org/10.1080/135017697344217](https://doi.org/10.1080/135017697344217)
-
-- ◆ **Kyle Bagwell, Robert W. Staiger (2002)** — The Economics of the World Trading System
-  - The MIT Press eBooks [other] | 498 citations
-  - DOI: [https://doi.org/10.7551/mitpress/2628.001.0001](https://doi.org/10.7551/mitpress/2628.001.0001)
-
-- ◆ **Dani Rodrik (2018)** — What Do Trade Agreements Really Do?
-  - The Journal of Economic Perspectives [T2] | 486 citations
-  - DOI: [https://doi.org/10.1257/jep.32.2.73](https://doi.org/10.1257/jep.32.2.73)
-
-- ◆ **Judith L. Goldstein, Douglas Rivers et al. (2007)** — Institutions in International Relations: Understanding the Effects of the GATT and the WTO on World Trade
-  - International Organization [T3] | 421 citations
-  - DOI: [https://doi.org/10.1017/s0020818307070014](https://doi.org/10.1017/s0020818307070014)
-
-- ◆ **Mary Amiti, Jozef Konings (2005)** — Trade Liberalization, Intermediate Inputs, and Productivity: Evidence from Indonesia
-  - SSRN Electronic Journal [WP] | 409 citations
-  - DOI: [https://doi.org/10.2139/ssrn.888015](https://doi.org/10.2139/ssrn.888015)
-
-  *(另有 14 篇，见 CSV 完整索引)*
-
-### FDI与跨国企业
-
-- ★ **John H. Dunning (1988)** — The Eclectic Paradigm of International Production: A Restatement and Some Possible Extensions
-  - Journal of International Business Studies [other] | 4225 citations
-  - DOI: [https://doi.org/10.1057/palgrave.jibs.8490372](https://doi.org/10.1057/palgrave.jibs.8490372)
-
-- ★ **John H. Dunning (1998)** — Location and the Multinational Enterprise: A Neglected Factor?
-  - Journal of International Business Studies [other] | 2423 citations
-  - DOI: [https://doi.org/10.1057/palgrave.jibs.8490024](https://doi.org/10.1057/palgrave.jibs.8490024)
-
-- ★ **Uri Gneezy, Stephan Meier et al. (2011)** — When and Why Incentives (Don't) Work to Modify Behavior
-  - The Journal of Economic Perspectives [T2] | 1709 citations
-  - DOI: [https://doi.org/10.1257/jep.25.4.191](https://doi.org/10.1257/jep.25.4.191)
-
-- ★ **Holger Görg (2004)** — Much Ado about Nothing? Do Domestic Firms Really Benefit from Foreign Direct Investment?
-  - The World Bank Research Observer [WP] | 1613 citations
-  - DOI: [https://doi.org/10.1093/wbro/lkh019](https://doi.org/10.1093/wbro/lkh019)
-
-- ★ **Zachary Elkins, Andrew T. Guzmán et al. (2006)** — Competing for Capital: The Diffusion of Bilateral Investment Treaties, 1960–2000
-  - International Organization [T3] | 931 citations
-  - DOI: [https://doi.org/10.1017/s0020818306060279](https://doi.org/10.1017/s0020818306060279)
-
-- ★ **AnnaLee Saxenian (2001)** — The Silicon Valley-Hsinchu Connection: Technical Communities and Industrial Upgrading
-  - Industrial and Corporate Change [other] | 608 citations
-  - DOI: [https://doi.org/10.1093/icc/10.4.893](https://doi.org/10.1093/icc/10.4.893)
-
-- ◆ **Olga Petricević, David J. Teece (2019)** — The structural reshaping of globalization: Implications for strategic sectors, profiting from innovation, and the multinational enterprise
-  - Journal of International Business Studies [other] | 444 citations
-  - DOI: [https://doi.org/10.1057/s41267-019-00269-x](https://doi.org/10.1057/s41267-019-00269-x)
-
-- ◆ **Laura Alfaro, Andrew Charlton (2009)** — Intra-Industry Foreign Direct Investment
-  - American Economic Review [T1] | 383 citations
-  - DOI: [https://doi.org/10.1257/aer.99.5.2096](https://doi.org/10.1257/aer.99.5.2096)
-
-- ◆ **Pol Antràs, Mihir A. Desai et al. (2009)** — Multinational Firms, FDI Flows, and Imperfect Capital Markets<sup>*</sup>
-  - The Quarterly Journal of Economics [T1] | 241 citations
-  - DOI: [https://doi.org/10.1162/qjec.2009.124.3.1171](https://doi.org/10.1162/qjec.2009.124.3.1171)
+  *(另有 7 篇，见 CSV 完整索引)*
 
 ### 贸易与劳动力市场
 
@@ -377,27 +209,53 @@
   - Journal of Economic Literature [T2] | 2799 citations
   - DOI: [https://doi.org/10.1257/jel.20160995](https://doi.org/10.1257/jel.20160995)
 
-- ★ **Richard B. Freeman (1995)** — Are Your Wages Set in Beijing?
-  - The Journal of Economic Perspectives [T2] | 749 citations
-  - DOI: [https://doi.org/10.1257/jep.9.3.15](https://doi.org/10.1257/jep.9.3.15)
+### 贸易自由化与福利
 
-- ◆ **Mary Amiti, S.-J. Wei (2005)** — Fear of service outsourcing: is it justified?
-  - Economic Policy [T2] | 436 citations
-  - DOI: [https://doi.org/10.1111/j.1468-0327.2005.00140.x](https://doi.org/10.1111/j.1468-0327.2005.00140.x)
+- ★ **Lorenzo Caliendo, Fernando Parro (2014)** — Estimates of the Trade and Welfare Effects of NAFTA
+  - The Review of Economic Studies [T1] | 1371 citations
+  - DOI: [https://doi.org/10.1093/restud/rdu035](https://doi.org/10.1093/restud/rdu035)
 
-- ◆ **Mary Amiti, Shang‐Jin Wei (2009)** — Service Offshoring and Productivity: Evidence from the US
-  - World Economy [T2] | 342 citations
-  - DOI: [https://doi.org/10.1111/j.1467-9701.2008.01149.x](https://doi.org/10.1111/j.1467-9701.2008.01149.x)
+- ★ **Petia Topalova (2010)** — Factor Immobility and Regional Impacts of Trade Liberalization: Evidence on Poverty from India
+  - American Economic Journal Applied Economics [T2] | 661 citations
+  - DOI: [https://doi.org/10.1257/app.2.4.1](https://doi.org/10.1257/app.2.4.1)
 
-- ◆ **Pol Antràs, Robert W. Staiger (None)** — Offshoring and the Role of Trade Agreements
-  - RePEc: Research Papers in Economics [WP] | 295 citations
-  - DOI: [https://doi.org/10.1257/aer.102.7.3140](https://doi.org/10.1257/aer.102.7.3140)
+- ◆ **Dani Rodrik (2018)** — What Do Trade Agreements Really Do?
+  - The Journal of Economic Perspectives [T2] | 486 citations
+  - DOI: [https://doi.org/10.1257/jep.32.2.73](https://doi.org/10.1257/jep.32.2.73)
+
+- ◆ **Pablo Fajgelbaum, Amit Khandelwal (2016)** — Measuring the Unequal Gains from Trade *
+  - The Quarterly Journal of Economics [T1] | 329 citations
+  - DOI: [https://doi.org/10.1093/qje/qjw013](https://doi.org/10.1093/qje/qjw013)
+
+- ◆ **Ralph Ossa (2011)** — A “New Trade” Theory of GATT/WTO Negotiations
+  - Journal of Political Economy [T1] | 230 citations
+  - DOI: [https://doi.org/10.1086/659371](https://doi.org/10.1086/659371)
+
+- ◆ **Chad P. Bown, Meredith A. Crowley (2013)** — Self-Enforcing Trade Agreements: Evidence from Time-Varying Trade Policy
+  - American Economic Review [T1] | 127 citations
+  - DOI: [https://doi.org/10.1257/aer.103.2.1071](https://doi.org/10.1257/aer.103.2.1071)
+
+- ◆ **Kyle Bagwell, Chad P. Bown et al. (2016)** — Is the WTO Passé?
+  - Journal of Economic Literature [T2] | 113 citations
+  - DOI: [https://doi.org/10.1257/jel.20151192](https://doi.org/10.1257/jel.20151192)
+
+- ◆ **Amy Finkelstein, Nathaniel Hendren (2020)** — Welfare Analysis Meets Causal Inference
+  - The Journal of Economic Perspectives [T2] | 107 citations
+  - DOI: [https://doi.org/10.1257/jep.34.4.146](https://doi.org/10.1257/jep.34.4.146)
+
+- ○ **Ralph Ossa (2010)** — A 'New Trade' Theory of GATT/WTO Negotiations
+  - National Bureau of Economic Research [WP] | 63 citations
+  - DOI: [https://doi.org/10.3386/w16388](https://doi.org/10.3386/w16388)
+
+- ○ **Pablo Fajgelbaum, Cécile Gaubert (2018)** — Optimal Spatial Policies, Geography and Sorting
+  - The Quarterly Journal of Economics [T1] | 53 citations
+  - DOI: [https://doi.org/10.1093/qje/qjaa001](https://doi.org/10.1093/qje/qjaa001)
+
+- ○ **Giovanni Maggi, Ralph Ossa (2021)** — The Political Economy of Deep Integration
+  - Annual Review of Economics [T2] | 33 citations
+  - DOI: [https://doi.org/10.1146/annurev-economics-121020-032425](https://doi.org/10.1146/annurev-economics-121020-032425)
 
 ### 关税与贸易战
-
-- ★ **Mary Amiti, Jozef Konings (2007)** — Trade Liberalization, Intermediate Inputs, and Productivity: Evidence from Indonesia
-  - American Economic Review [T1] | 2203 citations
-  - DOI: [https://doi.org/10.1257/aer.97.5.1611](https://doi.org/10.1257/aer.97.5.1611)
 
 - ★ **Pablo Fajgelbaum, Pinelopi Goldberg et al. (2019)** — The Return to Protectionism*
   - The Quarterly Journal of Economics [T1] | 774 citations
@@ -411,10 +269,6 @@
   - The Review of Economics and Statistics [T2] | 508 citations
   - DOI: [https://doi.org/10.1162/rest_a_00271](https://doi.org/10.1162/rest_a_00271)
 
-- ◆ **Richard Baldwin (1989)** — The Political Economy of Trade Policy
-  - The Journal of Economic Perspectives [T2] | 424 citations
-  - DOI: [https://doi.org/10.1257/jep.3.4.119](https://doi.org/10.1257/jep.3.4.119)
-
 - ◆ **Ralph Ossa (2014)** — Trade Wars and Trade Talks with Data
   - American Economic Review [T1] | 328 citations
   - DOI: [https://doi.org/10.1257/aer.104.12.4104](https://doi.org/10.1257/aer.104.12.4104)
@@ -426,10 +280,6 @@
 - ◆ **Kyle Bagwell, Robert W. Staiger (2011)** — What Do Trade Negotiators Negotiate About? Empirical Evidence from the World Trade Organization
   - American Economic Review [T1] | 256 citations
   - DOI: [https://doi.org/10.1257/aer.101.4.1238](https://doi.org/10.1257/aer.101.4.1238)
-
-- ◆ **Kyle Bagwell, Robert W. Staiger (1997)** — Multilateral Tariff Cooperation during the Formation of Free Trade Areas
-  - International Economic Review [T2] | 220 citations
-  - DOI: [https://doi.org/10.2307/2527376](https://doi.org/10.2307/2527376)
 
 - ◆ **Emily J. Blanchard, Chad P. Bown et al. (2016)** — Global Supply Chains and Trade Policy
   - National Bureau of Economic Research [WP] | 148 citations
@@ -455,21 +305,11 @@
   - World Bank, Washington, DC eBooks [WP] | 56 citations
   - DOI: [https://doi.org/10.1596/1813-9450-9894](https://doi.org/10.1596/1813-9450-9894)
 
-  *(另有 1 篇，见 CSV 完整索引)*
-
 ### 产业政策
-
-- ★ **Dani Rodrik (2004)** — Industrial Policy for the Twenty-First Century
-  - SSRN Electronic Journal [WP] | 1509 citations
-  - DOI: [https://doi.org/10.2139/ssrn.617544](https://doi.org/10.2139/ssrn.617544)
 
 - ★ **Daron Acemoğlu, Ufuk Akcigit et al. (2016)** — Transition to Clean Technology
   - Journal of Political Economy [T1] | 950 citations
   - DOI: [https://doi.org/10.1086/684511](https://doi.org/10.1086/684511)
-
-- ★ **Howard Pack (2006)** — Is There a Case for Industrial Policy? A Critical Survey
-  - The World Bank Research Observer [WP] | 558 citations
-  - DOI: [https://doi.org/10.1093/wbro/lkl001](https://doi.org/10.1093/wbro/lkl001)
 
 - ◆ **Chiara Criscuolo, Ralf Martin et al. (2019)** — Some Causal Effects of an Industrial Policy
   - American Economic Review [T1] | 487 citations
@@ -491,10 +331,6 @@
   - The Quarterly Journal of Economics [T1] | 197 citations
   - DOI: [https://doi.org/10.1093/qje/qjab014](https://doi.org/10.1093/qje/qjab014)
 
-- ◆ **Kyle Bagwell, Robert W. Staiger (2006)** — Will International Rules on Subsidies Disrupt the World Trading System?
-  - American Economic Review [T1] | 172 citations
-  - DOI: [https://doi.org/10.1257/aer.96.3.877](https://doi.org/10.1257/aer.96.3.877)
-
 - ◆ **Antonio Coppola, Matteo Maggiori et al. (2020)** — Redrawing the Map of Global Capital Flows: The Role of Cross-Border Financing and Tax Havens
   - National Bureau of Economic Research [WP] | 128 citations
   - DOI: [https://doi.org/10.3386/w26855](https://doi.org/10.3386/w26855)
@@ -515,6 +351,16 @@
   - National Bureau of Economic Research [WP] | 17 citations
   - DOI: [https://doi.org/10.3386/w20975](https://doi.org/10.3386/w20975)
 
+### FDI与跨国企业
+
+- ★ **Uri Gneezy, Stephan Meier et al. (2011)** — When and Why Incentives (Don't) Work to Modify Behavior
+  - The Journal of Economic Perspectives [T2] | 1709 citations
+  - DOI: [https://doi.org/10.1257/jep.25.4.191](https://doi.org/10.1257/jep.25.4.191)
+
+- ◆ **Olga Petricević, David J. Teece (2019)** — The structural reshaping of globalization: Implications for strategic sectors, profiting from innovation, and the multinational enterprise
+  - Journal of International Business Studies [other] | 444 citations
+  - DOI: [https://doi.org/10.1057/s41267-019-00269-x](https://doi.org/10.1057/s41267-019-00269-x)
+
 ### 反倾销与贸易救济
 
 - ★ **Nicholas Bloom, Mark Schankerman et al. (2013)** — Identifying Technology Spillovers and Product Market Rivalry
@@ -533,37 +379,11 @@
   - World Bank, Washington, DC eBooks [WP] | 139 citations
   - DOI: [https://doi.org/10.1596/1813-9450-5436](https://doi.org/10.1596/1813-9450-5436)
 
-- ◆ **Chad P. Bown, Meredith A. Crowley (2006)** — Policy externalities: How US antidumping affects Japanese exports to the EU
-  - European Journal of Political Economy [T1] | 108 citations
-  - DOI: [https://doi.org/10.1016/j.ejpoleco.2005.12.004](https://doi.org/10.1016/j.ejpoleco.2005.12.004)
-
-### 贸易理论与引力模型
-
-- ★ **T. D. Stanley (2001)** — Wheat From Chaff: Meta-Analysis As Quantitative Literature Review
-  - The Journal of Economic Perspectives [T2] | 952 citations
-  - DOI: [https://doi.org/10.1257/jep.15.3.131](https://doi.org/10.1257/jep.15.3.131)
-
-- ★ **Paul A. Samuelson (2004)** — Where Ricardo and Mill Rebut and Confirm Arguments of Mainstream Economists Supporting Globalization
-  - The Journal of Economic Perspectives [T2] | 731 citations
-  - DOI: [https://doi.org/10.1257/0895330042162403](https://doi.org/10.1257/0895330042162403)
-
 ---
 
-## T3: 供应链与关键资源 (94 篇)
+## T3: 供应链与关键资源 (48 篇)
 
 ### 其他
-
-- ★ **John Gerard Ruggie (1982)** — International regimes, transactions, and change: embedded liberalism in the postwar economic order
-  - International Organization [T3] | 4384 citations
-  - DOI: [https://doi.org/10.1017/s0020818300018993](https://doi.org/10.1017/s0020818300018993)
-
-- ★ **John H. Dunning (1988)** — The Eclectic Paradigm of International Production: A Restatement and Some Possible Extensions
-  - Journal of International Business Studies [other] | 4225 citations
-  - DOI: [https://doi.org/10.1057/palgrave.jibs.8490372](https://doi.org/10.1057/palgrave.jibs.8490372)
-
-- ★ **Laura Alfaro, Areendam Chanda et al. (2003)** — FDI and economic growth: the role of local financial markets
-  - Journal of International Economics [T2] | 2527 citations
-  - DOI: [https://doi.org/10.1016/s0022-1996(03)00081-3](https://doi.org/10.1016/s0022-1996(03)00081-3)
 
 - ★ **Marcel P. Timmer, Erik Dietzenbacher et al. (2015)** — An Illustrated User Guide to the World Input–Output Database: the Case of Global Automotive Production
   - Review of International Economics [T2] | 2403 citations
@@ -573,14 +393,6 @@
   - Journal of Economic Literature [T2] | 2149 citations
   - DOI: [https://doi.org/10.1257/jel.52.3.740](https://doi.org/10.1257/jel.52.3.740)
 
-- ★ **Jean‐Jacques Laffont, David Martimort (2001)** — The Theory of Incentives: The Principal-Agent Model
-  - Toulouse Capitole Publications (University Toulouse 1 Capitole) [other] | 2069 citations
-  - DOI: [https://doi.org/10.1515/9781400829453](https://doi.org/10.1515/9781400829453)
-
-- ★ **Glenn W. Harrison, John A. List (2004)** — Field Experiments
-  - Journal of Economic Literature [T2] | 2037 citations
-  - DOI: [https://doi.org/10.1257/0022051043004577](https://doi.org/10.1257/0022051043004577)
-
 - ★ **David Autor, David Dorn et al. (2020)** — The Fall of the Labor Share and the Rise of Superstar Firms*
   - The Quarterly Journal of Economics [T1] | 2001 citations
   - DOI: [https://doi.org/10.1093/qje/qjaa004](https://doi.org/10.1093/qje/qjaa004)
@@ -589,41 +401,51 @@
   - The Journal of Economic Perspectives [T2] | 1988 citations
   - DOI: [https://doi.org/10.1257/jep.33.2.3](https://doi.org/10.1257/jep.33.2.3)
 
-- ★ **Eugene F. Fama, Kenneth R. French (2004)** — The Capital Asset Pricing Model: Theory and Evidence
-  - The Journal of Economic Perspectives [T2] | 1910 citations
-  - DOI: [https://doi.org/10.1257/0895330042162430](https://doi.org/10.1257/0895330042162430)
-
-- ★ **Julio J. Rotemberg, Michael Woodford (1997)** — An Optimization-Based Econometric Framework for the Evaluation of Monetary Policy
-  - NBER Macroeconomics Annual [WP] | 1899 citations
-  - DOI: [https://doi.org/10.1086/654340](https://doi.org/10.1086/654340)
-
-- ★ **Fischer Black (1986)** — Noise
-  - The Journal of Finance [T1] | 1790 citations
-  - DOI: [https://doi.org/10.1111/j.1540-6261.1986.tb04513.x](https://doi.org/10.1111/j.1540-6261.1986.tb04513.x)
-
-- ★ **Michael C. Jensen (1993)** — The Modern Industrial Revolution, Exit, and the Failure of Internal Control Systems
-  - The Journal of Finance [T1] | 1698 citations
-  - DOI: [https://doi.org/10.2307/2329018](https://doi.org/10.2307/2329018)
-
 - ★ **Douglas R. MacFarlane, Pavel V. Cherepanov et al. (2020)** — A Roadmap to the Ammonia Economy
   - Joule [other] | 1694 citations
   - DOI: [https://doi.org/10.1016/j.joule.2020.04.004](https://doi.org/10.1016/j.joule.2020.04.004)
 
-- ★ **Karen Palmer, Wallace E. Oates et al. (1995)** — Tightening Environmental Standards: The Benefit-Cost or the No-Cost Paradigm?
-  - The Journal of Economic Perspectives [T2] | 1672 citations
-  - DOI: [https://doi.org/10.1257/jep.9.4.119](https://doi.org/10.1257/jep.9.4.119)
+- ★ **Valerie Ramey (2011)** — Identifying Government Spending Shocks: It's all in the Timing*
+  - The Quarterly Journal of Economics [T1] | 1640 citations
+  - DOI: [https://doi.org/10.1093/qje/qjq008](https://doi.org/10.1093/qje/qjq008)
 
-  *(另有 55 篇，见 CSV 完整索引)*
+- ★ **Pierluigi Mancarella (2013)** — MES (multi-energy systems): An overview of concepts and evaluation models
+  - Energy [other] | 1347 citations
+  - DOI: [https://doi.org/10.1016/j.energy.2013.10.041](https://doi.org/10.1016/j.energy.2013.10.041)
 
-### 国际新创企业与知识
+- ★ **Philip Oreopoulos, Till von Wachter et al. (2012)** — The Short- and Long-Term Career Effects of Graduating in a Recession
+  - American Economic Journal Applied Economics [T2] | 1252 citations
+  - DOI: [https://doi.org/10.1257/app.4.1.1](https://doi.org/10.1257/app.4.1.1)
 
-- ★ **Bruce Kogut, Udo Zander (1993)** — Knowledge of the Firm and the Evolutionary Theory of the Multinational Corporation
-  - Journal of International Business Studies [other] | 3964 citations
-  - DOI: [https://doi.org/10.1057/palgrave.jibs.8490248](https://doi.org/10.1057/palgrave.jibs.8490248)
+- ★ **Gianmarco I.P. Ottaviano, Frédéric Robert‐Nicoud et al. (2011)** — Economic Geography and Public Policy
+  - Princeton University Press eBooks [other] | 1009 citations
+  - DOI: [https://doi.org/10.1515/9781400841233](https://doi.org/10.1515/9781400841233)
 
-- ★ **Benjamin M. Oviatt, Patricia P. McDougall (1994)** — Toward a Theory of International New ventures
-  - Journal of International Business Studies [other] | 3840 citations
-  - DOI: [https://doi.org/10.1057/palgrave.jibs.8490193](https://doi.org/10.1057/palgrave.jibs.8490193)
+- ★ **Jeffrey Rissman, Chris Bataille et al. (2020)** — Technologies and policies to decarbonize global industry: Review and assessment of mitigation drivers through 2070
+  - Applied Energy [other] | 952 citations
+  - DOI: [https://doi.org/10.1016/j.apenergy.2020.114848](https://doi.org/10.1016/j.apenergy.2020.114848)
+
+- ★ **Daron Acemoğlu, Ufuk Akcigit et al. (2016)** — Transition to Clean Technology
+  - Journal of Political Economy [T1] | 950 citations
+  - DOI: [https://doi.org/10.1086/684511](https://doi.org/10.1086/684511)
+
+- ★ **Pol Antràs, Davin Chor et al. (2012)** — Measuring the Upstreamness of Production and Trade Flows
+  - American Economic Review [T1] | 801 citations
+  - DOI: [https://doi.org/10.1257/aer.102.3.412](https://doi.org/10.1257/aer.102.3.412)
+
+- ★ **Andreas Hein, Maximilian Schreieck et al. (2019)** — Digital platform ecosystems
+  - Electronic Markets [other] | 790 citations
+  - DOI: [https://doi.org/10.1007/s12525-019-00377-4](https://doi.org/10.1007/s12525-019-00377-4)
+
+- ★ **Mary Amiti, Stephen J. Redding et al. (2019)** — The Impact of the 2018 Tariffs on Prices and Welfare
+  - The Journal of Economic Perspectives [T2] | 729 citations
+  - DOI: [https://doi.org/10.1257/jep.33.4.187](https://doi.org/10.1257/jep.33.4.187)
+
+- ★ **Benjamin K. Sovacool, Matthew J. Burke et al. (2017)** — New frontiers and conceptual frameworks for energy justice
+  - Energy Policy [other] | 723 citations
+  - DOI: [https://doi.org/10.1016/j.enpol.2017.03.005](https://doi.org/10.1016/j.enpol.2017.03.005)
+
+  *(另有 15 篇，见 CSV 完整索引)*
 
 ### 全球价值链与生产网络
 
@@ -634,10 +456,6 @@
 - ★ **Richard Baldwin, Javier López-González (2014)** — Supply‐chain Trade: A Portrait of Global Patterns and Several Testable Hypotheses
   - World Economy [T2] | 801 citations
   - DOI: [https://doi.org/10.1111/twec.12189](https://doi.org/10.1111/twec.12189)
-
-- ★ **Jason Dedrick, Kenneth L. Kraemer et al. (2009)** — Who profits from innovation in global value chains?: a study of the iPod and notebook PCs
-  - Industrial and Corporate Change [other] | 713 citations
-  - DOI: [https://doi.org/10.1093/icc/dtp032](https://doi.org/10.1093/icc/dtp032)
 
 - ★ **Liena Kano, Eric W. K. Tsang et al. (2020)** — Global value chains: A review of the multi-disciplinary literature
   - Journal of International Business Studies [other] | 660 citations
@@ -673,10 +491,6 @@
 
 ### 能源安全与地缘政治
 
-- ★ **Ben Bernanke, Mark Gertler et al. (1997)** — Systematic Monetary Policy and the Effects of Oil Price Shocks
-  - Brookings Papers on Economic Activity [T2] | 1591 citations
-  - DOI: [https://doi.org/10.2307/2534702](https://doi.org/10.2307/2534702)
-
 - ★ **Lutz Kilian, Daniel Murphy (2013)** — THE ROLE OF INVENTORIES AND SPECULATIVE TRADING IN THE GLOBAL MARKET FOR CRUDE OIL
   - Journal of Applied Econometrics [other] | 1398 citations
   - DOI: [https://doi.org/10.1002/jae.2322](https://doi.org/10.1002/jae.2322)
@@ -697,103 +511,91 @@
   - Economic Policy [T2] | 223 citations
   - DOI: [https://doi.org/10.1111/1468-0327.12039](https://doi.org/10.1111/1468-0327.12039)
 
-### 荷兰病与资源经济
-
-- ★ **W. M. Corden, J. Peter Neary (1982)** — Booming Sector and De-Industrialisation in a Small Open Economy
-  - The Economic Journal [T2] | 3167 citations
-  - DOI: [https://doi.org/10.2307/2232670](https://doi.org/10.2307/2232670)
-
-- ◆ **Richard Baldwin (2025)** — Global supply chains : why they emerged, why they matter, and where they are going
-  - Graduate Institute Geneva Institutional Repository (Graduate Institute of International and Development Studies) [other] | 405 citations
-  - DOI: [https://doi.org/10.71609/iheid-2ykv-0p36](https://doi.org/10.71609/iheid-2ykv-0p36)
-
 ### 粮食安全与农业贸易
 
 - ★ **Bekele Shiferaw, B. M. Prasanna et al. (2011)** — Crops that feed the world 6. Past successes and future challenges to the role played by maize in global food security
   - Food Security [other] | 1532 citations
   - DOI: [https://doi.org/10.1007/s12571-011-0140-5](https://doi.org/10.1007/s12571-011-0140-5)
 
-- ★ **T. D. Stanley (2001)** — Wheat From Chaff: Meta-Analysis As Quantitative Literature Review
-  - The Journal of Economic Perspectives [T2] | 952 citations
-  - DOI: [https://doi.org/10.1257/jep.15.3.131](https://doi.org/10.1257/jep.15.3.131)
-
 - ★ **Tamee R. Albrecht, Arica Crootof et al. (2018)** — The Water-Energy-Food Nexus: A systematic review of methods for nexus assessment
   - Environmental Research Letters [other] | 842 citations
   - DOI: [https://doi.org/10.1088/1748-9326/aaa9c6](https://doi.org/10.1088/1748-9326/aaa9c6)
 
+### 荷兰病与资源经济
+
+- ◆ **Richard Baldwin (2025)** — Global supply chains : why they emerged, why they matter, and where they are going
+  - Graduate Institute Geneva Institutional Repository (Graduate Institute of International and Development Studies) [other] | 405 citations
+  - DOI: [https://doi.org/10.71609/iheid-2ykv-0p36](https://doi.org/10.71609/iheid-2ykv-0p36)
+
 ---
 
-## T4: 技术竞争与数字治理 (65 篇)
+## T4: 技术竞争与数字治理 (36 篇)
 
 ### 其他
-
-- ★ **Eduardo Borensztein, J De Gregorio et al. (1998)** — How does foreign direct investment affect economic growth?
-  - Journal of International Economics [T2] | 5870 citations
-  - DOI: [https://doi.org/10.1016/s0022-1996(97)00033-0](https://doi.org/10.1016/s0022-1996(97)00033-0)
 
 - ★ **Robert C. Feenstra, Robert Inklaar et al. (2015)** — The Next Generation of the Penn World Table
   - American Economic Review [T1] | 4640 citations
   - DOI: [https://doi.org/10.1257/aer.20130954](https://doi.org/10.1257/aer.20130954)
 
-- ★ **John Gerard Ruggie (1982)** — International regimes, transactions, and change: embedded liberalism in the postwar economic order
-  - International Organization [T3] | 4384 citations
-  - DOI: [https://doi.org/10.1017/s0020818300018993](https://doi.org/10.1017/s0020818300018993)
-
-- ★ **John H. Dunning (1988)** — The Eclectic Paradigm of International Production: A Restatement and Some Possible Extensions
-  - Journal of International Business Studies [other] | 4225 citations
-  - DOI: [https://doi.org/10.1057/palgrave.jibs.8490372](https://doi.org/10.1057/palgrave.jibs.8490372)
-
 - ★ **David Autor, David Dorn et al. (2013)** — The China Syndrome: Local Labor Market Effects of Import Competition in the United States
   - American Economic Review [T1] | 4184 citations
   - DOI: [https://doi.org/10.1257/aer.103.6.2121](https://doi.org/10.1257/aer.103.6.2121)
-
-- ★ **Bruce Kogut, Udo Zander (1993)** — Knowledge of the Firm and the Evolutionary Theory of the Multinational Corporation
-  - Journal of International Business Studies [other] | 3964 citations
-  - DOI: [https://doi.org/10.1057/palgrave.jibs.8490248](https://doi.org/10.1057/palgrave.jibs.8490248)
-
-- ★ **Gregor Andrade, Mark L. Mitchell et al. (2001)** — New Evidence and Perspectives on Mergers
-  - The Journal of Economic Perspectives [T2] | 2708 citations
-  - DOI: [https://doi.org/10.1257/jep.15.2.103](https://doi.org/10.1257/jep.15.2.103)
 
 - ★ **Marcel P. Timmer, Erik Dietzenbacher et al. (2015)** — An Illustrated User Guide to the World Input–Output Database: the Case of Global Automotive Production
   - Review of International Economics [T2] | 2403 citations
   - DOI: [https://doi.org/10.1111/roie.12178](https://doi.org/10.1111/roie.12178)
 
-- ★ **Erin Anderson, Hubert Gatignon (1986)** — Modes of Foreign Entry: A Transaction Cost Analysis and Propositions
-  - Journal of International Business Studies [other] | 2348 citations
-  - DOI: [https://doi.org/10.1057/palgrave.jibs.8490432](https://doi.org/10.1057/palgrave.jibs.8490432)
-
 - ★ **David Autor, David Dorn et al. (2020)** — The Fall of the Labor Share and the Rise of Superstar Firms*
   - The Quarterly Journal of Economics [T1] | 2001 citations
   - DOI: [https://doi.org/10.1093/qje/qjaa004](https://doi.org/10.1093/qje/qjaa004)
 
-- ★ **Benkler, Yochai (2006)** — The wealth of networks: how social production transforms markets and freedom
-  - Choice Reviews Online [other] | 1929 citations
-  - DOI: [https://doi.org/10.5860/choice.44-0999](https://doi.org/10.5860/choice.44-0999)
+- ★ **Nicholas Bloom, John Van Reenen (2010)** — Why Do Management Practices Differ across Firms and Countries?
+  - The Journal of Economic Perspectives [T2] | 1457 citations
+  - DOI: [https://doi.org/10.1257/jep.24.1.203](https://doi.org/10.1257/jep.24.1.203)
 
-- ★ **Eugene F. Fama, Kenneth R. French (2004)** — The Capital Asset Pricing Model: Theory and Evidence
-  - The Journal of Economic Perspectives [T2] | 1910 citations
-  - DOI: [https://doi.org/10.1257/0895330042162430](https://doi.org/10.1257/0895330042162430)
+- ★ **Philip Oreopoulos, Till von Wachter et al. (2012)** — The Short- and Long-Term Career Effects of Graduating in a Recession
+  - American Economic Journal Applied Economics [T2] | 1252 citations
+  - DOI: [https://doi.org/10.1257/app.4.1.1](https://doi.org/10.1257/app.4.1.1)
 
-- ★ **Eli Berman, John Bound et al. (1994)** — Changes in the Demand for Skilled Labor within U. S. Manufacturing: Evidence from the Annual Survey of Manufactures
-  - The Quarterly Journal of Economics [T1] | 1897 citations
-  - DOI: [https://doi.org/10.2307/2118467](https://doi.org/10.2307/2118467)
+- ★ **David Autor, David Dorn et al. (2016)** — The China Shock: Learning from Labor-Market Adjustment to Large Changes in Trade
+  - Annual Review of Economics [T2] | 1239 citations
+  - DOI: [https://doi.org/10.1146/annurev-economics-080315-015041](https://doi.org/10.1146/annurev-economics-080315-015041)
 
-- ★ **Sanjeev Agarwal, Sridhar N. Ramaswami (1992)** — Choice of Foreign Market Entry Mode: Impact of Ownership, Location and Internalization Factors
-  - Journal of International Business Studies [other] | 1517 citations
-  - DOI: [https://doi.org/10.1057/palgrave.jibs.8490257](https://doi.org/10.1057/palgrave.jibs.8490257)
+- ★ **Shaen Corbet, Brian M. Lucey et al. (2018)** — RETRACTED: Cryptocurrencies as a financial asset: A systematic analysis
+  - International Review of Financial Analysis [other] | 1112 citations
+  - DOI: [https://doi.org/10.1016/j.irfa.2018.09.003](https://doi.org/10.1016/j.irfa.2018.09.003)
 
-- ★ **Yingyi Qian, Barry R. Weingast (1997)** — Federalism as a Commitment to Preserving Market Incentives
-  - The Journal of Economic Perspectives [T2] | 1475 citations
-  - DOI: [https://doi.org/10.1257/jep.11.4.83](https://doi.org/10.1257/jep.11.4.83)
+- ★ **Olaf Erenstein, Moti Jaleta et al. (2022)** — Global maize production, consumption and trade: trends and R&amp;D implications
+  - Food Security [other] | 1075 citations
+  - DOI: [https://doi.org/10.1007/s12571-022-01288-7](https://doi.org/10.1007/s12571-022-01288-7)
 
-  *(另有 29 篇，见 CSV 完整索引)*
+- ★ **Daron Acemoğlu, David Autor et al. (2015)** — Import Competition and the Great US Employment Sag of the 2000s
+  - Journal of Labor Economics [other] | 1069 citations
+  - DOI: [https://doi.org/10.1086/682384](https://doi.org/10.1086/682384)
+
+- ★ **Nicholas Bloom, Charles I. Jones et al. (2020)** — Are Ideas Getting Harder to Find?
+  - American Economic Review [T1] | 861 citations
+  - DOI: [https://doi.org/10.1257/aer.20180338](https://doi.org/10.1257/aer.20180338)
+
+- ★ **David Autor, David Dorn et al. (2014)** — Trade Adjustment: Worker-Level Evidence*
+  - The Quarterly Journal of Economics [T1] | 693 citations
+  - DOI: [https://doi.org/10.1093/qje/qju026](https://doi.org/10.1093/qje/qju026)
+
+- ★ **Richard T. Carson (2012)** — Contingent Valuation: A Practical Alternative when Prices Aren't Available
+  - The Journal of Economic Perspectives [T2] | 527 citations
+  - DOI: [https://doi.org/10.1257/jep.26.4.27](https://doi.org/10.1257/jep.26.4.27)
+
+- ★ **Ufuk Akcigit, William R. Kerr (2018)** — Growth through Heterogeneous Innovations
+  - Journal of Political Economy [T1] | 525 citations
+  - DOI: [https://doi.org/10.1086/697901](https://doi.org/10.1086/697901)
+
+- ◆ **Juliet B. Schor, William Attwood‐Charles et al. (2020)** — Dependence and precarity in the platform economy
+  - Theory and Society [other] | 469 citations
+  - DOI: [https://doi.org/10.1007/s11186-020-09408-y](https://doi.org/10.1007/s11186-020-09408-y)
+
+  *(另有 5 篇，见 CSV 完整索引)*
 
 ### 技术变革与劳动力
-
-- ★ **David Autor, Frank Levy et al. (2003)** — The Skill Content of Recent Technological Change: An Empirical Exploration
-  - The Quarterly Journal of Economics [T1] | 5626 citations
-  - DOI: [https://doi.org/10.1162/003355303322552801](https://doi.org/10.1162/003355303322552801)
 
 - ★ **David Autor, David Dorn (2013)** — The Growth of Low-Skill Service Jobs and the Polarization of the US Labor Market
   - American Economic Review [T1] | 3640 citations
@@ -803,19 +605,11 @@
   - The Journal of Economic Perspectives [T2] | 3347 citations
   - DOI: [https://doi.org/10.1257/jep.29.3.3](https://doi.org/10.1257/jep.29.3.3)
 
-- ★ **David Autor, Frank Levy et al. (2001)** — The Skill Content of Recent Technological Change: An Empirical Exploration
-  - National Bureau of Economic Research [WP] | 2627 citations
-  - DOI: [https://doi.org/10.3386/w8337](https://doi.org/10.3386/w8337)
-
 - ★ **Daron Acemoğlu, Pascual Restrepo (2019)** — Automation and New Tasks: How Technology Displaces and Reinstates Labor
   - The Journal of Economic Perspectives [T2] | 1988 citations
   - DOI: [https://doi.org/10.1257/jep.33.2.3](https://doi.org/10.1257/jep.33.2.3)
 
 ### 数字经济与数据治理
-
-- ★ **Patrick Dunleavy (2005)** — New Public Management Is Dead--Long Live Digital-Era Governance
-  - Journal of Public Administration Research and Theory [other] | 2394 citations
-  - DOI: [https://doi.org/10.1093/jopart/mui057](https://doi.org/10.1093/jopart/mui057)
 
 - ★ **Avi Goldfarb, Catherine E. Tucker (2019)** — Digital Economics
   - Journal of Economic Literature [T2] | 2088 citations
@@ -832,32 +626,6 @@
 - ◆ **Timothy J. Sturgeon (2019)** — Upgrading strategies for the digital economy
   - Global Strategy Journal [other] | 485 citations
   - DOI: [https://doi.org/10.1002/gsj.1364](https://doi.org/10.1002/gsj.1364)
-
-### AI治理与监管
-
-- ★ **Karen Palmer, Wallace E. Oates et al. (1995)** — Tightening Environmental Standards: The Benefit-Cost or the No-Cost Paradigm?
-  - The Journal of Economic Perspectives [T2] | 1672 citations
-  - DOI: [https://doi.org/10.1257/jep.9.4.119](https://doi.org/10.1257/jep.9.4.119)
-
-- ★ **Marcel Bogers, Henry Chesbrough et al. (2018)** — Open Innovation: Research, Practices, and Policies
-  - California Management Review [other] | 774 citations
-  - DOI: [https://doi.org/10.1177/0008125617745086](https://doi.org/10.1177/0008125617745086)
-
-- ★ **Shakir Mohamed, Marie-Thérèse Png et al. (2020)** — Decolonial AI: Decolonial Theory as Sociotechnical Foresight in Artificial Intelligence
-  - Philosophy & Technology [other] | 636 citations
-  - DOI: [https://doi.org/10.1007/s13347-020-00405-8](https://doi.org/10.1007/s13347-020-00405-8)
-
-- ★ **Paul M. Healy, Krishna G. Palepu (2003)** — The Fall of Enron
-  - The Journal of Economic Perspectives [T2] | 562 citations
-  - DOI: [https://doi.org/10.1257/089533003765888403](https://doi.org/10.1257/089533003765888403)
-
-- ◆ **Huw Roberts, Josh Cowls et al. (2020)** — The Chinese approach to artificial intelligence: an analysis of policy, ethics, and regulation
-  - AI & Society [other] | 496 citations
-  - DOI: [https://doi.org/10.1007/s00146-020-00992-2](https://doi.org/10.1007/s00146-020-00992-2)
-
-- ○ **Daniel Mügge (2024)** — EU AI sovereignty: for whom, to what end, and to whose benefit?
-  - Journal of European Public Policy [T3] | 61 citations
-  - DOI: [https://doi.org/10.1080/13501763.2024.2318475](https://doi.org/10.1080/13501763.2024.2318475)
 
 ### 创新政策与R&D
 
@@ -881,23 +649,29 @@
   - The Review of Economic Studies [T1] | 168 citations
   - DOI: [https://doi.org/10.1093/restud/rdaa061](https://doi.org/10.1093/restud/rdaa061)
 
+### AI治理与监管
+
+- ★ **Marcel Bogers, Henry Chesbrough et al. (2018)** — Open Innovation: Research, Practices, and Policies
+  - California Management Review [other] | 774 citations
+  - DOI: [https://doi.org/10.1177/0008125617745086](https://doi.org/10.1177/0008125617745086)
+
+- ★ **Shakir Mohamed, Marie-Thérèse Png et al. (2020)** — Decolonial AI: Decolonial Theory as Sociotechnical Foresight in Artificial Intelligence
+  - Philosophy & Technology [other] | 636 citations
+  - DOI: [https://doi.org/10.1007/s13347-020-00405-8](https://doi.org/10.1007/s13347-020-00405-8)
+
+- ◆ **Huw Roberts, Josh Cowls et al. (2020)** — The Chinese approach to artificial intelligence: an analysis of policy, ethics, and regulation
+  - AI & Society [other] | 496 citations
+  - DOI: [https://doi.org/10.1007/s00146-020-00992-2](https://doi.org/10.1007/s00146-020-00992-2)
+
+- ○ **Daniel Mügge (2024)** — EU AI sovereignty: for whom, to what end, and to whose benefit?
+  - Journal of European Public Policy [T3] | 61 citations
+  - DOI: [https://doi.org/10.1080/13501763.2024.2318475](https://doi.org/10.1080/13501763.2024.2318475)
+
 ---
 
-## T5: 地缘政治经济学 (161 篇)
+## T5: 地缘政治经济学 (79 篇)
 
 ### 其他
-
-- ★ **Eugene F. Fama, Kenneth R. French (1992)** — The Cross‐Section of Expected Stock Returns
-  - The Journal of Finance [T1] | 15057 citations
-  - DOI: [https://doi.org/10.1111/j.1540-6261.1992.tb04398.x](https://doi.org/10.1111/j.1540-6261.1992.tb04398.x)
-
-- ★ **Jan Johanson, Jan‐Erik Vahlne (1977)** — The Internationalization Process of the Firm—A Model of Knowledge Development and Increasing Foreign Market Commitments
-  - Journal of International Business Studies [other] | 10779 citations
-  - DOI: [https://doi.org/10.1057/palgrave.jibs.8490676](https://doi.org/10.1057/palgrave.jibs.8490676)
-
-- ★ **Kent Daniel, David Hirshleifer et al. (1998)** — Investor Psychology and Security Market Under‐ and Overreactions
-  - The Journal of Finance [T1] | 5687 citations
-  - DOI: [https://doi.org/10.1111/0022-1082.00077](https://doi.org/10.1111/0022-1082.00077)
 
 - ★ **Robert C. Feenstra, Robert Inklaar et al. (2015)** — The Next Generation of the Penn World Table
   - American Economic Review [T1] | 4640 citations
@@ -907,65 +681,65 @@
   - American Economic Review [T1] | 4184 citations
   - DOI: [https://doi.org/10.1257/aer.103.6.2121](https://doi.org/10.1257/aer.103.6.2121)
 
-- ★ **Rafael La Porta, Florencio López‐de‐Silanes et al. (2008)** — The Economic Consequences of Legal Origins
-  - Journal of Economic Literature [T2] | 3210 citations
-  - DOI: [https://doi.org/10.1257/jel.46.2.285](https://doi.org/10.1257/jel.46.2.285)
-
-- ★ **Mike W. Peng, Denis Y. L. Wang et al. (2008)** — An institution-based view of international business strategy: a focus on emerging economies
-  - Journal of International Business Studies [other] | 3101 citations
-  - DOI: [https://doi.org/10.1057/palgrave.jibs.8400377](https://doi.org/10.1057/palgrave.jibs.8400377)
-
-- ★ **Eduardo Bonilla‐Silva (1997)** — Rethinking Racism: Toward a Structural Interpretation
-  - American Sociological Review [other] | 2640 citations
-  - DOI: [https://doi.org/10.2307/2657316](https://doi.org/10.2307/2657316)
-
 - ★ **Martin Gilens, Benjamin I. Page (2014)** — Testing Theories of American Politics: Elites, Interest Groups, and Average Citizens
   - Perspectives on Politics [T3] | 2594 citations
   - DOI: [https://doi.org/10.1017/s1537592714001595](https://doi.org/10.1017/s1537592714001595)
 
-- ★ **Timothy J. Bartik (1991)** — Who Benefits from State and Local Economic Development Policies?
-  -  [other] | 2509 citations
-  - DOI: [https://doi.org/10.17848/9780585223940](https://doi.org/10.17848/9780585223940)
+- ★ **Daron Acemoğlu, Pascual Restrepo (2019)** — Automation and New Tasks: How Technology Displaces and Reinstates Labor
+  - The Journal of Economic Perspectives [T2] | 1988 citations
+  - DOI: [https://doi.org/10.1257/jep.33.2.3](https://doi.org/10.1257/jep.33.2.3)
 
-- ★ **Tania Murray Li (2007)** — The Will to Improve: Governmentality, Development, and the Practice of Politics
-  - TSpace [other] | 2467 citations
-  - DOI: [https://doi.org/10.1515/9780822389781](https://doi.org/10.1515/9780822389781)
+- ★ **Jason Hickel, Giorgos Kallis (2019)** — Is Green Growth Possible?
+  - New Political Economy [other] | 1773 citations
+  - DOI: [https://doi.org/10.1080/13563467.2019.1598964](https://doi.org/10.1080/13563467.2019.1598964)
 
-- ★ **Patrick Dunleavy (2005)** — New Public Management Is Dead--Long Live Digital-Era Governance
-  - Journal of Public Administration Research and Theory [other] | 2394 citations
-  - DOI: [https://doi.org/10.1093/jopart/mui057](https://doi.org/10.1093/jopart/mui057)
+- ★ **Jan De Loecker, Jan Eeckhout et al. (2020)** — The Rise of Market Power and the Macroeconomic Implications*
+  - The Quarterly Journal of Economics [T1] | 1763 citations
+  - DOI: [https://doi.org/10.1093/qje/qjz041](https://doi.org/10.1093/qje/qjz041)
 
-- ★ **N. Gregory Mankiw, Ricardo Reis (2002)** — Sticky Information versus Sticky Prices: A Proposal to Replace the New Keynesian Phillips Curve
-  - The Quarterly Journal of Economics [T1] | 2295 citations
-  - DOI: [https://doi.org/10.1162/003355302320935034](https://doi.org/10.1162/003355302320935034)
+- ★ **Dani Rodrik (2015)** — Premature deindustrialization
+  - Journal of Economic Growth [T2] | 1708 citations
+  - DOI: [https://doi.org/10.1007/s10887-015-9122-3](https://doi.org/10.1007/s10887-015-9122-3)
 
-- ★ **Charles F. Manski (2000)** — Economic Analysis of Social Interactions
-  - The Journal of Economic Perspectives [T2] | 2076 citations
-  - DOI: [https://doi.org/10.1257/jep.14.3.115](https://doi.org/10.1257/jep.14.3.115)
+- ★ **Dave Donaldson (2018)** — Railroads of the Raj: Estimating the Impact of Transportation Infrastructure
+  - American Economic Review [T1] | 1487 citations
+  - DOI: [https://doi.org/10.1257/aer.20101199](https://doi.org/10.1257/aer.20101199)
 
-- ★ **Jon Elster (1989)** — Social Norms and Economic Theory
-  - The Journal of Economic Perspectives [T2] | 2025 citations
-  - DOI: [https://doi.org/10.1257/jep.3.4.99](https://doi.org/10.1257/jep.3.4.99)
+- ★ **Rafael La Porta, Andrei Shleifer (2014)** — Informality and Development
+  - The Journal of Economic Perspectives [T2] | 1348 citations
+  - DOI: [https://doi.org/10.1257/jep.28.3.109](https://doi.org/10.1257/jep.28.3.109)
 
-  *(另有 78 篇，见 CSV 完整索引)*
+- ★ **Chunguang Bai, Patrick Dallasega et al. (2020)** — Industry 4.0 technologies assessment: A sustainability perspective
+  - International Journal of Production Economics [other] | 1321 citations
+  - DOI: [https://doi.org/10.1016/j.ijpe.2020.107776](https://doi.org/10.1016/j.ijpe.2020.107776)
+
+- ★ **Nick Couldry, Ulises A. Mejias (2018)** — Data Colonialism: Rethinking Big Data’s Relation to the Contemporary Subject
+  - Television & New Media [other] | 1315 citations
+  - DOI: [https://doi.org/10.1177/1527476418796632](https://doi.org/10.1177/1527476418796632)
+
+- ★ **Dani Rodrik (2018)** — Understanding Economic Policy Reform
+  -  [other] | 1283 citations
+  - DOI: [https://doi.org/10.4324/9780429498893-10](https://doi.org/10.4324/9780429498893-10)
+
+- ★ **Thomas Piketty, Emmanuel Saez et al. (2017)** — Distributional National Accounts: Methods and Estimates for the United States*
+  - The Quarterly Journal of Economics [T1] | 1063 citations
+  - DOI: [https://doi.org/10.1093/qje/qjx043](https://doi.org/10.1093/qje/qjx043)
+
+- ★ **Marcel P. Timmer, Abdul Azeez Erumban et al. (2014)** — Slicing Up Global Value Chains
+  - The Journal of Economic Perspectives [T2] | 935 citations
+  - DOI: [https://doi.org/10.1257/jep.28.2.99](https://doi.org/10.1257/jep.28.2.99)
+
+- ★ **Jesús Fernández‐Villaverde, Pablo Guerrón-Quintana et al. (2015)** — Fiscal Volatility Shocks and Economic Activity
+  - American Economic Review [T1] | 917 citations
+  - DOI: [https://doi.org/10.1257/aer.20121236](https://doi.org/10.1257/aer.20121236)
+
+  *(另有 29 篇，见 CSV 完整索引)*
 
 ### 全球不平等
 
 - ★ **Thomas Piketty (2014)** — Capital in the Twenty-First Century
   - Harvard University Press eBooks [other] | 13281 citations
   - DOI: [https://doi.org/10.4159/9780674369542](https://doi.org/10.4159/9780674369542)
-
-- ★ **Thomas Piketty, Emmanuel Saez (2003)** — Income Inequality in the United States, 1913-1998
-  - The Quarterly Journal of Economics [T1] | 3771 citations
-  - DOI: [https://doi.org/10.1162/00335530360535135](https://doi.org/10.1162/00335530360535135)
-
-- ★ **Daron Acemoğlu, Simon Johnson et al. (2002)** — Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution
-  - The Quarterly Journal of Economics [T1] | 2691 citations
-  - DOI: [https://doi.org/10.1162/003355302320935025](https://doi.org/10.1162/003355302320935025)
-
-- ★ **David Autor, Lawrence F. Katz et al. (2008)** — Trends in U.S. Wage Inequality: Revising the Revisionists
-  - The Review of Economics and Statistics [T2] | 2379 citations
-  - DOI: [https://doi.org/10.1162/rest.90.2.300](https://doi.org/10.1162/rest.90.2.300)
 
 - ★ **Anthony B. Atkinson, Thomas Piketty et al. (2011)** — Top Incomes in the Long Run of History
   - Journal of Economic Literature [T2] | 2298 citations
@@ -974,18 +748,6 @@
 - ★ **Daron Acemoğlu, David Autor (2010)** — Skills, Tasks and Technologies: Implications for Employment and Earnings
   - National Bureau of Economic Research [WP] | 2195 citations
   - DOI: [https://doi.org/10.3386/w16082](https://doi.org/10.3386/w16082)
-
-- ★ **Lawrence F. Katz, David Autor (1999)** — Changes in the Wage Structure and Earnings Inequality
-  - Handbook of labour economics [other] | 2063 citations
-  - DOI: [https://doi.org/10.1016/s1573-4463(99)03007-2](https://doi.org/10.1016/s1573-4463(99)03007-2)
-
-- ★ **David Autor, Lawrence F. Katz et al. (1998)** — Computing Inequality: Have Computers Changed the Labor Market?
-  - The Quarterly Journal of Economics [T1] | 1809 citations
-  - DOI: [https://doi.org/10.1162/003355398555874](https://doi.org/10.1162/003355398555874)
-
-- ★ **Thomas Piketty (1995)** — Social Mobility and Redistributive Politics
-  - The Quarterly Journal of Economics [T1] | 1379 citations
-  - DOI: [https://doi.org/10.2307/2946692](https://doi.org/10.2307/2946692)
 
 - ★ **Thomas Piketty, Gabriel Zucman (2014)** — Capital is Back: Wealth-Income Ratios in Rich Countries 1700–2010 *
   - The Quarterly Journal of Economics [T1] | 1308 citations
@@ -1003,49 +765,35 @@
   - American Economic Journal Economic Policy [T2] | 707 citations
   - DOI: [https://doi.org/10.1257/pol.6.1.230](https://doi.org/10.1257/pol.6.1.230)
 
-- ★ **Thomas Piketty, Emmanuel Saez (2006)** — The Evolution of Top Incomes: A Historical and International Perspective
-  - American Economic Review [T1] | 616 citations
-  - DOI: [https://doi.org/10.1257/000282806777212116](https://doi.org/10.1257/000282806777212116)
-
 - ★ **Annette Alstadsæter, Niels Johannesen et al. (2019)** — Tax Evasion and Inequality
   - American Economic Review [T1] | 553 citations
   - DOI: [https://doi.org/10.1257/aer.20172043](https://doi.org/10.1257/aer.20172043)
 
-  *(另有 7 篇，见 CSV 完整索引)*
+- ◆ **Thomas Piketty, Li Yang et al. (2019)** — Capital Accumulation, Private Property, and Rising Inequality in China, 1978–2015
+  - American Economic Review [T1] | 475 citations
+  - DOI: [https://doi.org/10.1257/aer.20170973](https://doi.org/10.1257/aer.20170973)
+
+- ◆ **Elhanan Helpman, Oleg Itskhoki et al. (2016)** — Trade and Inequality: From Theory to Estimation
+  - The Review of Economic Studies [T1] | 428 citations
+  - DOI: [https://doi.org/10.1093/restud/rdw025](https://doi.org/10.1093/restud/rdw025)
+
+- ◆ **Sylvanus Kwaku Afesorgbor, Renuka Mahadevan (2016)** — The Impact of Economic Sanctions on Income Inequality of Target States
+  - World Development [other] | 202 citations
+  - DOI: [https://doi.org/10.1016/j.worlddev.2016.03.015](https://doi.org/10.1016/j.worlddev.2016.03.015)
+
+- ◆ **Pol Antràs, Alonso de Gortari et al. (2017)** — Globalization, inequality and welfare
+  - Journal of International Economics [T2] | 181 citations
+  - DOI: [https://doi.org/10.1016/j.jinteco.2017.07.009](https://doi.org/10.1016/j.jinteco.2017.07.009)
+
+- ◆ **Anders Åkerman, Elhanan Helpman et al. (2013)** — Sources of Wage Inequality
+  - American Economic Review [T1] | 120 citations
+  - DOI: [https://doi.org/10.1257/aer.103.3.214](https://doi.org/10.1257/aer.103.3.214)
 
 ### 制度与发展
-
-- ★ **Ross Levine (1999)** — Financial Development and Economic Growth: Views and Agenda
-  - World Bank policy research working paper [WP] | 3034 citations
-  - DOI: [https://doi.org/10.1596/1813-9450-1678](https://doi.org/10.1596/1813-9450-1678)
-
-- ★ **Raj Chetty, Adam Looney et al. (2009)** — Salience and Taxation: Theory and Evidence
-  - American Economic Review [T1] | 2616 citations
-  - DOI: [https://doi.org/10.1257/aer.99.4.1145](https://doi.org/10.1257/aer.99.4.1145)
 
 - ★ **Chenggang Xu (2011)** — The Fundamental Institutions of China's Reforms and Development
   - Journal of Economic Literature [T2] | 2508 citations
   - DOI: [https://doi.org/10.1257/jel.49.4.1076](https://doi.org/10.1257/jel.49.4.1076)
-
-- ★ **Daron Acemoğlu, Simon Johnson et al. (2004)** — Institutions as the Fundamental Cause of Long-Run Growth
-  - National Bureau of Economic Research [WP] | 2030 citations
-  - DOI: [https://doi.org/10.3386/w10481](https://doi.org/10.3386/w10481)
-
-- ★ **Pranab Bardhan (2002)** — Decentralization of Governance and Development
-  - The Journal of Economic Perspectives [T2] | 1765 citations
-  - DOI: [https://doi.org/10.1257/089533002320951037](https://doi.org/10.1257/089533002320951037)
-
-- ★ **Dani Rodrik, Arvind Subramanian et al. (2002)** — Institutions Rule: The Primacy of Institutions over Geography and Integration in Economic Development
-  - National Bureau of Economic Research [WP] | 1711 citations
-  - DOI: [https://doi.org/10.3386/w9305](https://doi.org/10.3386/w9305)
-
-- ★ **Laura Alfaro, Ṣebnem Kalemli‐Özcan et al. (2008)** — Why Doesn't Capital Flow from Rich to Poor Countries? An Empirical Investigation
-  - The Review of Economics and Statistics [T2] | 1000 citations
-  - DOI: [https://doi.org/10.1162/rest.90.2.347](https://doi.org/10.1162/rest.90.2.347)
-
-- ★ **Dani Rodrik (2000)** — Institutions for high-quality growth: What they are and how to acquire them
-  - Studies in Comparative International Development [other] | 984 citations
-  - DOI: [https://doi.org/10.1007/bf02699764](https://doi.org/10.1007/bf02699764)
 
 - ★ **Tomislav Klarin (2018)** — The Concept of Sustainable Development: From its Beginning to the Contemporary Issues
   - Zagreb international review of economics and business/Zagreb international review of economics & business [other] | 803 citations
@@ -1055,95 +803,7 @@
   - Journal of Institutional Economics [other] | 528 citations
   - DOI: [https://doi.org/10.1017/s1744137410000378](https://doi.org/10.1017/s1744137410000378)
 
-- ◆ **Laura Alfaro, Ṣebnem Kalemli‐Özcan et al. (2005)** — Why Doesn't Capital Flow from Rich to Poor Countries? An Empirical Investigation
-  - National Bureau of Economic Research [WP] | 181 citations
-  - DOI: [https://doi.org/10.3386/w11901](https://doi.org/10.3386/w11901)
-
-### 国际关系与秩序
-
-- ★ **John Gerard Ruggie (1982)** — International regimes, transactions, and change: embedded liberalism in the postwar economic order
-  - International Organization [T3] | 4384 citations
-  - DOI: [https://doi.org/10.1017/s0020818300018993](https://doi.org/10.1017/s0020818300018993)
-
-- ★ **Alexander Dyck, Luigi Zingales (2004)** — Private Benefits of Control: An International Comparison
-  - The Journal of Finance [T1] | 2607 citations
-  - DOI: [https://doi.org/10.1111/j.1540-6261.2004.00642.x](https://doi.org/10.1111/j.1540-6261.2004.00642.x)
-
-- ★ **Michael Barnett, Martha Finnemore (1999)** — The Politics, Power, and Pathologies of International Organizations
-  - International Organization [T3] | 2070 citations
-  - DOI: [https://doi.org/10.1162/002081899551048](https://doi.org/10.1162/002081899551048)
-
-- ★ **Peter Gourevitch (1978)** — The second image reversed: the international sources of domestic politics
-  - International Organization [T3] | 1579 citations
-  - DOI: [https://doi.org/10.1017/s002081830003201x](https://doi.org/10.1017/s002081830003201x)
-
-- ★ **Robert M. Entman (2003)** — Cascading Activation: Contesting the White House's Frame After 9/11
-  - Political Communication [other] | 959 citations
-  - DOI: [https://doi.org/10.1080/10584600390244176](https://doi.org/10.1080/10584600390244176)
-
-- ★ **John J. Mearsheimer (2019)** — Bound to Fail: The Rise and Fall of the Liberal International Order
-  - International Security [T3] | 860 citations
-  - DOI: [https://doi.org/10.1162/isec_a_00342](https://doi.org/10.1162/isec_a_00342)
-
-- ★ **Liena Kano, Eric W. K. Tsang et al. (2020)** — Global value chains: A review of the multi-disciplinary literature
-  - Journal of International Business Studies [other] | 660 citations
-  - DOI: [https://doi.org/10.1057/s41267-020-00304-2](https://doi.org/10.1057/s41267-020-00304-2)
-
-- ★ **Patrick Conway, Kyle Bagwell et al. (2004)** — The Economics of the World Trading System
-  - Southern Economic Journal [T2] | 535 citations
-  - DOI: [https://doi.org/10.2307/4135340](https://doi.org/10.2307/4135340)
-
-- ◆ **Kyle Bagwell, Robert W. Staiger (2002)** — The Economics of the World Trading System
-  - The MIT Press eBooks [other] | 498 citations
-  - DOI: [https://doi.org/10.7551/mitpress/2628.001.0001](https://doi.org/10.7551/mitpress/2628.001.0001)
-
-- ◆ **Judith L. Goldstein, Douglas Rivers et al. (2007)** — Institutions in International Relations: Understanding the Effects of the GATT and the WTO on World Trade
-  - International Organization [T3] | 421 citations
-  - DOI: [https://doi.org/10.1017/s0020818307070014](https://doi.org/10.1017/s0020818307070014)
-
-- ◆ **Kyle Bagwell, Robert W. Staiger (2001)** — Domestic Policies, National Sovereignty, and International Economic Institutions
-  - The Quarterly Journal of Economics [T1] | 329 citations
-  - DOI: [https://doi.org/10.1162/00335530151144096](https://doi.org/10.1162/00335530151144096)
-
-- ◆ **Alexander Thompson (2006)** — Coercion Through IOs: The Security Council and the Logic of Information Transmission
-  - International Organization [T3] | 293 citations
-  - DOI: [https://doi.org/10.1017/s0020818306060012](https://doi.org/10.1017/s0020818306060012)
-
-- ◆ **Henry Farrell, Abraham L. Newman (2014)** — Domestic Institutions beyond the Nation-State: Charting the New Interdependence Approach
-  - World Politics [T3] | 214 citations
-  - DOI: [https://doi.org/10.1017/s0043887114000057](https://doi.org/10.1017/s0043887114000057)
-
-- ○ **Xiaoli Chen, Yin‐Wong Cheung (2011)** — Renminbi Going Global
-  - China & World Economy [T2] | 80 citations
-  - DOI: [https://doi.org/10.1111/j.1749-124x.2011.01232.x](https://doi.org/10.1111/j.1749-124x.2011.01232.x)
-
-- ○ **Christopher A. McNally, Julian Gruin (2017)** — A novel pathway to power? Contestation and adaptation in China's internationalization of the RMB
-  - Review of International Political Economy [T2] | 59 citations
-  - DOI: [https://doi.org/10.1080/09692290.2017.1319400](https://doi.org/10.1080/09692290.2017.1319400)
-
-### 政治经济学方法论
-
-- ★ **Guido W. Imbens, Jeffrey M. Wooldridge (2009)** — Recent Developments in the Econometrics of Program Evaluation
-  - Journal of Economic Literature [T2] | 4801 citations
-  - DOI: [https://doi.org/10.1257/jel.47.1.5](https://doi.org/10.1257/jel.47.1.5)
-
-- ★ **Alberto Alesina, Paola Giuliano (2015)** — Culture and Institutions
-  - Journal of Economic Literature [T2] | 1404 citations
-  - DOI: [https://doi.org/10.1257/jel.53.4.898](https://doi.org/10.1257/jel.53.4.898)
-
-- ★ **Horst Siebert (1997)** — Labor Market Rigidities: At the Root of Unemployment in Europe
-  - The Journal of Economic Perspectives [T2] | 919 citations
-  - DOI: [https://doi.org/10.1257/jep.11.3.37](https://doi.org/10.1257/jep.11.3.37)
-
-- ◆ **Henry Farrell, Abraham L. Newman (2016)** — The new interdependence approach: theoretical development and empirical demonstration
-  - Review of International Political Economy [T2] | 199 citations
-  - DOI: [https://doi.org/10.1080/09692290.2016.1247009](https://doi.org/10.1080/09692290.2016.1247009)
-
 ### 全球化与治理
-
-- ★ **Beth A. Simmons, Zachary Elkins (2004)** — The Globalization of Liberalization: Policy Diffusion in the International Political Economy
-  - American Political Science Review [T3] | 1611 citations
-  - DOI: [https://doi.org/10.1017/s0003055404001078](https://doi.org/10.1017/s0003055404001078)
 
 - ★ **Dani Rodrik (2018)** — Populism and the economics of globalization
   - Journal of International Business Policy [other] | 1268 citations
@@ -1156,10 +816,6 @@
 - ★ **Julia C. Morse, Robert O. Keohane (2014)** — Contested multilateralism
   - The Review of International Organizations [T3] | 601 citations
   - DOI: [https://doi.org/10.1007/s11558-014-9188-2](https://doi.org/10.1007/s11558-014-9188-2)
-
-- ◆ **Daniel W. Drezner (2000)** — Bargaining, Enforcement, and Multilateral Sanctions: When Is Cooperation Counterproductive?
-  - International Organization [T3] | 291 citations
-  - DOI: [https://doi.org/10.1162/002081800551127](https://doi.org/10.1162/002081800551127)
 
 - ◆ **Shekhar Aiyar, Anna Ilyina et al. (2023)** — Geo-Economic Fragmentation and the Future of Multilateralism
   - IMF staff discussion note [WP] | 270 citations
@@ -1179,10 +835,6 @@
   -  [other] | 506 citations
   - DOI: [https://doi.org/10.1093/acprof:osobl/9780199576081.001.0001](https://doi.org/10.1093/acprof:osobl/9780199576081.001.0001)
 
-- ◆ **Neil Brenner, Nik Theodore (2005)** — Neoliberalism and the urban condition
-  - City [other] | 437 citations
-  - DOI: [https://doi.org/10.1080/13604810500092106](https://doi.org/10.1080/13604810500092106)
-
 - ◆ **Robert D. Blackwill, Jennifer Harris (2016)** — War by Other Means: Geoeconomics and Statecraft
   -  [other] | 305 citations
   - DOI: [https://doi.org/10.4159/9780674545960](https://doi.org/10.4159/9780674545960)
@@ -1191,11 +843,39 @@
   - International Security [T3] | 207 citations
   - DOI: [https://doi.org/10.1162/isec_a_00311](https://doi.org/10.1162/isec_a_00311)
 
-### 民族分裂与政治
+### 国际关系与秩序
 
-- ★ **Lars-Erik Cederman, Andreas Wimmer et al. (2009)** — Why Do Ethnic Groups Rebel? New Data and Analysis
-  - World Politics [T3] | 1334 citations
-  - DOI: [https://doi.org/10.1017/s0043887109990219](https://doi.org/10.1017/s0043887109990219)
+- ★ **John J. Mearsheimer (2019)** — Bound to Fail: The Rise and Fall of the Liberal International Order
+  - International Security [T3] | 860 citations
+  - DOI: [https://doi.org/10.1162/isec_a_00342](https://doi.org/10.1162/isec_a_00342)
+
+- ★ **Liena Kano, Eric W. K. Tsang et al. (2020)** — Global value chains: A review of the multi-disciplinary literature
+  - Journal of International Business Studies [other] | 660 citations
+  - DOI: [https://doi.org/10.1057/s41267-020-00304-2](https://doi.org/10.1057/s41267-020-00304-2)
+
+- ◆ **Henry Farrell, Abraham L. Newman (2014)** — Domestic Institutions beyond the Nation-State: Charting the New Interdependence Approach
+  - World Politics [T3] | 214 citations
+  - DOI: [https://doi.org/10.1017/s0043887114000057](https://doi.org/10.1017/s0043887114000057)
+
+- ○ **Xiaoli Chen, Yin‐Wong Cheung (2011)** — Renminbi Going Global
+  - China & World Economy [T2] | 80 citations
+  - DOI: [https://doi.org/10.1111/j.1749-124x.2011.01232.x](https://doi.org/10.1111/j.1749-124x.2011.01232.x)
+
+- ○ **Christopher A. McNally, Julian Gruin (2017)** — A novel pathway to power? Contestation and adaptation in China's internationalization of the RMB
+  - Review of International Political Economy [T2] | 59 citations
+  - DOI: [https://doi.org/10.1080/09692290.2017.1319400](https://doi.org/10.1080/09692290.2017.1319400)
+
+### 政治经济学方法论
+
+- ★ **Alberto Alesina, Paola Giuliano (2015)** — Culture and Institutions
+  - Journal of Economic Literature [T2] | 1404 citations
+  - DOI: [https://doi.org/10.1257/jel.53.4.898](https://doi.org/10.1257/jel.53.4.898)
+
+- ◆ **Henry Farrell, Abraham L. Newman (2016)** — The new interdependence approach: theoretical development and empirical demonstration
+  - Review of International Political Economy [T2] | 199 citations
+  - DOI: [https://doi.org/10.1080/09692290.2016.1247009](https://doi.org/10.1080/09692290.2016.1247009)
+
+### 民族分裂与政治
 
 - ★ **Lars‐Erik Cederman, Nils B. Weidmann et al. (2011)** — Horizontal Inequalities and Ethnonationalist Civil War: A Global Comparison
   - American Political Science Review [T3] | 1011 citations
