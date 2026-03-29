@@ -243,24 +243,37 @@
 
 ## 背景参考
 
-### 2月 | 政策发布 | 特朗普宣布 Project Vault——美国战略关键矿产储备
+### 2月2日 | 政策发布 | 特朗普宣布 Project Vault——美国战略关键矿产储备
 
 - 在白宫仪式上宣布，内阁部长和主要制造商高管出席
 - 背景：2025年全年中国对稀土、镓、锗、锑等关键矿产实施出口管制，导致美国国防和商业供应链生产放缓
+- Project Vault是美国首次建立OEM需求驱动的公私合营矿产储备，规模120亿美元（EXIM 100亿 + 私人20亿）
+
+**来源**：[White House](https://www.whitehouse.gov/videos/introducing-project-vault-a-critical-mineral-stockpile-for-american-businesses); [CNBC](https://www.cnbc.com/2026/02/03/trump-stockpile-critical-minerals-reserve-project-vault.html/)
 
 ### 2月4日 | 政策发布 | 特朗普政府提议建立关键矿产优惠贸易区
 
-- 向盟友和合作伙伴开放，通过可执行的公平市场价格标准保护成员免受全球价格波动
-- 为后续的价格下限谈判奠定框架
+- 在关键矿产部长级会议上提出，向盟友和合作伙伴开放
+- 核心机制：通过可执行的公平市场价格标准（price floors）保护成员免受中国补贴导致的全球价格波动
+- 为后续3月的美日EU三方价格下限谈判奠定框架
 
-### 2月 | 外交动态 | 国务卿 Rubio 主持关键矿产部长级会议
+**来源**：[State Department](https://www.state.gov/releases/office-of-the-spokesperson/2026/02/2026-critical-minerals-ministerial)
+
+### 2月4日 | 外交动态 | 国务卿 Rubio 主持关键矿产部长级会议
 
 - 宣布与阿根廷、库克群岛、厄瓜多尔、几内亚、摩洛哥、巴拉圭、秘鲁、菲律宾、UAE、英国、乌兹别克斯坦签署新的双边框架协议
+- 至此双边矿产框架签署国达11个，另有17国谈判中——构建"盟友优先"供应架构
 
-### 2025年 | 政策发布 | 特朗普政府将联邦拨款转化为7家矿业公司的股权投资
+**来源**：[State Department](https://www.state.gov/releases/office-of-the-spokesperson/2026/02/2026-critical-minerals-ministerial); [State Department (Rubio开幕致辞)](https://www.state.gov/releases/office-of-the-spokesperson/2026/02/opening-remarks-of-the-critical-minerals-ministerial)
 
-- 直接为私营企业注资以对抗国家支持的中国竞争
+### 2025年3月 | 行政命令 | 特朗普签署行政令加速国内矿产开采，后续将联邦拨款转化为矿企股权
+
+- 2025年3月签署"Immediate Measures to Increase American Mineral Production"行政令
+- 在此授权下，政府直接入股7家矿业公司以对抗中国国家支持的竞争
+- 最大单笔：向USA Rare Earth注资16亿美元换取10%股权
 - 还在考虑收购格陵兰 Tanbreez 稀土矿约8%的股权
+
+**来源**：[White House (2025 EO)](https://www.whitehouse.gov/presidential-actions/2025/03/immediate-measures-to-increase-american-mineral-production/); [Reuters](https://www.reuters.com/business/us-inject-16-billion-into-rare-earths-miner-10-stake-ft-reports-2026-01-25/)
 
 ---
 

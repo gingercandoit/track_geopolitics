@@ -204,36 +204,52 @@
 
 ### 1月13日 | 出口管制 | BIS 发布 AI 半导体出口许可审查修订最终规则
 
-- BIS 发布最终规则文本
-- 同日 CFR 评论认为新政策"战略不连贯且不可执行"
+- BIS 发布最终规则文本，将对华AI芯片出口审查政策从"全面推定拒绝"改为逐案审查（附严格最终用户认证）
+- 同日 CFR 发表评论，认为新政策"战略不连贯且不可执行"——放松管制与加强认证之间存在内在矛盾
+
+**来源**：[BIS](https://www.bis.gov/press-release/department-commerce-revises-license-review-policy-semiconductors-exported-china); [Federal Register](https://www.federalregister.gov/documents/2026/01/15/2026-00789/revision-to-license-review-policy-for-advanced-computing-commodities); [CFR](https://www.cfr.org/article/new-ai-chip-export-policy-china-strategically-incoherent-and-unenforceable)
 
 ### 1月15日 | 行政命令 | Proclamation 11002 生效，25% 先进半导体进口关税开征
 
 - 对中国产先进半导体征收25%进口关税正式开征，覆盖高端GPU、AI加速器等品类
-- 这是特朗普政府将半导体从出口管制扩展到进口关税的关键一步
+- 这是特朗普政府将半导体从出口管制扩展到进口关税的关键一步——双管齐下形成"门控框架"
+
+**来源**：[White House](https://www.whitehouse.gov/presidential-actions/2026/01/adjusting-imports-of-semiconductors-semiconductor-manufacturing-equipment-and-their-derivative-products-into-the-united-states/)
 
 ### 2月9日 | 媒体深度 | BISI 指出特朗普已实质性逆转拜登时代对华 AI 芯片出口政策
 
-- 报道揭示特朗普政府对华AI芯片出口政策已从拜登时代的"推定拒绝"转向逐案审查
-- 核心变化：放松管制的同时附加更严格的最终用户认证要求
+- Bloomsbury Intelligence报告揭示特朗普政府对华AI芯片出口政策已从拜登时代的"推定拒绝"转向逐案审查
+- 核心变化：放松管制的同时附加更严格的最终用户认证要求——政策方向从"禁止"转向"有条件许可"
+
+**来源**：[BISI](https://bisi.org.uk/reports/trump-reverses-us-ai-chip-export-policy-to-china)
 
 ### 2月20日 | 行政命令 | 白宫签署"Ending Certain Tariff Actions"行政令
 
 - 终止部分此前基于IEEPA紧急权力征收的关税，标志着贸易执法从紧急令回归常规法律框架
-- 为后续的Section 301调查替代方案铺路
+- 为后续的Section 301调查替代方案铺路——3月的大规模301调查正是在此基础上发起
+
+**来源**：[White House](https://www.whitehouse.gov/presidential-actions/2026/02/ending-certain-tariff-actions/)
 
 ### 2月23日 | 智库分析 | ITIF 报告：跨国公司转移产线但价值链仍重度依赖中国
 
 - 虽然跨国公司纷纷将生产线转移到美国，但内部价值链依然严重依赖中国
-- 中方由此拥有显著的议价杠杆
+- 中方由此拥有显著的议价杠杆——这解释了为何3月中国能启动反向贸易壁垒调查
+
+**来源**：[ITIF](https://itif.org/publications/2026/02/23/internal-value-chains-dependent-china-multinationals-shift-production-to-america/)
 
 ### 2月26日 | 媒体深度 | Reuters：中国出口管制体系快速"成熟"
 
-- 北京不再只是被管制方，其出口管制工具箱在快速充实
+- 北京不再只是被管制方，其出口管制工具箱在快速充实——稀土、镓、锗、锑等相继纳入管制
+- 该报道为理解3月中国商务部启动对美贸易壁垒调查提供了工具箱背景
+
+**来源**：[Reuters](https://www.reuters.com/world/china/trump-reins-china-tech-curbs-beijings-export-controls-come-age-2026-02-26/)
 
 ### 2月27日 | 媒体深度 | Bloomberg：所谓"中美脱钩"更像一个神话
 
-- 追踪贸易数据发现商品仍通过东南亚和墨西哥等中转地大量流动
+- Bloomberg调查追踪贸易数据发现，商品仍通过东南亚和墨西哥等中转地大量流动——中国对美出口的"消失"只是统计幻觉
+- 为理解3月USTR发起针对76个经济体的301调查提供了动机背景
+
+**来源**：[Bloomberg](https://www.bloomberg.com/news/newsletters/2026-02-27/a-trade-whodunnit-shows-how-us-china-decoupling-is-just-a-myth)
 
 ---
 
