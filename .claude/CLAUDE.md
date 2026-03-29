@@ -38,7 +38,7 @@ track_geopolitics/
 ├── file/                       # 文档与参考资料
 ├── literature/                 # Prompt 3 文献库（与 reports 同级）
 │   ├── classic/                # Library A: 经典文献（一次性建库）
-│   │   ├── classic.json        # 主数据库（76篇）
+│   │   ├── classic.json        # 主数据库（92篇）
 │   │   ├── classic.csv         # CSV 结构化索引
 │   │   ├── references.bib      # BibTeX 引用文件
 │   │   ├── reading-roadmap.md  # 阅读路线图
@@ -103,6 +103,7 @@ track_geopolitics/
   - Tier 分布：WP:38, T1:2, T2:1, T3:4
   - Priority：core:23, recommended:21, reference:1
   - 42/45 有摘要（93%）
+  - 每篇均含 `data_zh`（数据来源）和 `method_zh`（方法论）字段，基于摘要逐篇手写（无摘要者标注"待读全文确认"）
   - 核心论文：Clayton/Maggiori 地缘经济三部曲、Auclert 关税宏观冲击(16引)、Ossa/Redding 关税经济学综述、Gopinath/Neiman 关税负担、CHIPS法案就业影响
 
 ## 自动化脚本
@@ -113,6 +114,7 @@ track_geopolitics/
 | `scripts/build_phase2.py` | 从 JSON 生成 CSV/BibTeX/阅读路线图 | `.\.venv\Scripts\python.exe scripts/build_phase2.py` |
 | `scripts/generate_views.py` | 从 JSON 生成 7 个 Markdown 视图 | `.\.venv\Scripts\python.exe scripts/generate_views.py` |
 | `scripts/fetch_sources.py` | Prompt 1 信息侦察：RSS+Reddit 拉取 | `.\.venv\Scripts\python.exe scripts/fetch_sources.py [--days N] [--topic T]` |
+| `scripts/generate_views_new.py` | Library B 视图 + CSV 同步生成 | `.\.venv\Scripts\python.exe scripts/generate_views_new.py` |
 
 ## 技术约定
 

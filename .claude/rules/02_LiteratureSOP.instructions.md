@@ -351,6 +351,8 @@ international monetary system reform
       "citations": 850,
       "tags": ["theory", "weaponized-interdependence", "network-effects"],
       "notes_zh": "制裁经济学必读。提出'武器化相互依赖'概念框架，解释如何利用全球网络节点实施经济胁迫。",
+      "data_zh": "（Library B 新增字段）数据来源中文描述，如"NBER-CPS就业数据+企业面板"",
+      "method_zh": "（Library B 新增字段）方法论中文描述，如"DiD/RDD + LLM文本分析"",
       "added_date": "2026-03-29",
       "read_status": "unread"
     }
@@ -369,6 +371,8 @@ international monetary system reform
 | `priority` | `core`（必读） / `recommended`（推荐） / `reference`（参考） |
 | `tags` | 自由标签，用于交叉检索 |
 | `notes_zh` | 中文简评（1-2句），说明为什么收录 |
+| `data_zh` | 数据来源中文说明（Library B 专属），描述论文使用的核心数据集 |
+| `method_zh` | 方法论中文说明（Library B 专属），描述识别策略或计量方法 |
 | `read_status` | `unread` / `reading` / `read` / `noted`（已做笔记） |
 | `webvpn_url` | 复旦 WebVPN 代理链接（付费论文用） |
 
@@ -457,9 +461,13 @@ international monetary system reform
    ↓
 8. 去重（与经典库 + 已有追踪条目对比，以 DOI 为 key）
    ↓
-9. 输出 new-papers-YYYY-MM.md + 更新 JSON
+9. 为每篇新论文填写 `data_zh`（数据来源）和 `method_zh`（方法论），基于摘要手写；无摘要者标"待读全文确认"
    ↓
-10. Git 提交
+10. 输出 new-papers-YYYY-MM.md + 更新 JSON
+    ↓
+11. 运行 `scripts/generate_views_new.py` 刷新 Markdown 视图 + CSV
+    ↓
+12. Git 提交
 ```
 
 ---
@@ -525,6 +533,7 @@ literature/                             # 与 reports/ 同级
 - [ ] 核心必读（core）论文每 topic 不少于 3 篇
 - [ ] 每篇论文有 abstract（91%+覆盖率）和 notes_zh
 - [ ] **notes_zh 必须准确描述论文实际内容**——禁止用关键词桶匹配生成（如把 NAFTA 论文标注为"中美贸易战"）
+- [ ] Library B 每篇必须有 `data_zh` 和 `method_zh`（无摘要者标注"待读全文确认"）
 - [ ] DOI 链接有效
 - [ ] JSON 数据库无重复条目（以 DOI 去重）
 - [ ] 阅读清单按 tier desc → year desc 排列
@@ -539,6 +548,7 @@ literature/                             # 与 reports/ 同级
 | AI 编造论文（幻觉） | 抽查 5 篇，用 DOI 验证。OpenAlex API 数据最可靠 |
 | 搜索词太宽，大量无关论文混入 | 必须人工审核关键词匹配结果，约 20-30% 需删除 |
 | notes_zh 用关键词桶匹配生成 | 必须基于每篇论文的实际 title+abstract 撰写，手写或分篇生成 |
+| data_zh/method_zh 写得太泛 | 必须写具体数据集名称（如"earnings call transcripts + LLM"），不能写"面板数据"、"回归分析"等通用描述 |
 | 只搜到一般经济学，无地缘政治角色 | 判断标准："这篇论文直接研究地缘政治现象吗？"背景理论不收 |
 | OpenAlex 日期 ≠ 期刊期号 | OpenAlex 用 online first 日期，查具体某期内容请看期刊官网 |
 | OpenAlex 收录延迟 | 刚发表几天的论文可能未被收录，搭配期刊 RSS 补充 |
