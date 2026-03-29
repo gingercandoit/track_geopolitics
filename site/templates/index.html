@@ -23,7 +23,7 @@
         <span class="digest-label">{{ d.name_short }}</span>
         <div class="digest-text">
           {% for para in d.digest.split('\n\n') %}
-          {% if para.strip() %}<p>{{ para.strip() }}</p>{% endif %}
+          {% if para.strip() %}<p>{{ para.strip() | replace('**', '<strong>', 1) | replace('**', '</strong>', 1) | safe }}</p>{% endif %}
           {% endfor %}
         </div>
         <span class="digest-more">阅读全部 →</span>
