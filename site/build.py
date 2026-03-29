@@ -227,10 +227,18 @@ def build_site(clean=False):
 
             # Build weeks list for template
             weeks_list = []
+            # Parse month for calendar-based week ranges
+            year, mon = int(month[:4]), int(month[5:7])
+            import calendar as cal_mod
+            _, num_days = cal_mod.monthrange(year, mon)
             for week_num, week_events in sorted(events_by_week.items()):
-                dates = [e.get("date", "") for e in week_events if e.get("date")]
-                if dates:
-                    date_range = f"{dates[0][5:]} — {dates[-1][5:]}"
+                if week_num == 0:
+                    date_range = ""
+                elif week_num >= 1:
+                    # Calendar-based: Week 1 = day 1-7, Week 2 = day 8-14, etc.
+                    w_start = (week_num - 1) * 7 + 1
+                    w_end = min(week_num * 7, num_days)
+                    date_range = f"{mon:02d}-{w_start:02d} — {mon:02d}-{w_end:02d}"
                 else:
                     date_range = ""
                 weeks_list.append({
