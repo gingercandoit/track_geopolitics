@@ -1,23 +1,26 @@
 # 文献库 — 按作者索引
 
 > 自动生成于 2026-03-29
-> 仅显示有 2 篇及以上论文的作者，共 27 位
+> 仅显示有 2 篇及以上论文的作者，共 32 位
 
 ---
 
-## David Autor (2 篇, 5423 总引用)
+## David Autor (3 篇, 5504 总引用)
 
 - [4184 cites] (2013) The China Syndrome: Local Labor Market Effects of Import Competition in the Unit — *American Economic Review* [T1] T2,T4,T5
+- [81 cites] (2022) On the Persistence of the China Shock — *Brookings Papers on Economic Activity* [T2] T2,T5
 - [1239 cites] (2016) The China Shock: Learning from Labor-Market Adjustment to Large Changes in Trade — *Annual Review of Economics* [T2] T1,T4
 
-## David Dorn (2 篇, 5423 总引用)
+## David Dorn (3 篇, 5504 总引用)
 
 - [4184 cites] (2013) The China Syndrome: Local Labor Market Effects of Import Competition in the Unit — *American Economic Review* [T1] T2,T4,T5
+- [81 cites] (2022) On the Persistence of the China Shock — *Brookings Papers on Economic Activity* [T2] T2,T5
 - [1239 cites] (2016) The China Shock: Learning from Labor-Market Adjustment to Large Changes in Trade — *Annual Review of Economics* [T2] T1,T4
 
-## Gordon Hanson (2 篇, 5423 总引用)
+## Gordon Hanson (3 篇, 5504 总引用)
 
 - [4184 cites] (2013) The China Syndrome: Local Labor Market Effects of Import Competition in the Unit — *American Economic Review* [T1] T2,T4,T5
+- [81 cites] (2022) On the Persistence of the China Shock — *Brookings Papers on Economic Activity* [T2] T2,T5
 - [1239 cites] (2016) The China Shock: Learning from Labor-Market Adjustment to Large Changes in Trade — *Annual Review of Economics* [T2] T1,T4
 
 ## Dani Rodrik (4 篇, 4745 总引用)
@@ -27,17 +30,20 @@
 - [1283 cites] (2018) Understanding Economic Policy Reform — ** [other] T2,T5
 - [1268 cites] (2018) Populism and the economics of globalization — *Journal of International Business Policy* [other] T2,T5
 
-## Henry Farrell (4 篇, 1918 总引用)
+## Abraham L. Newman (6 篇, 2063 总引用)
 
 - [199 cites] (2016) The new interdependence approach: theoretical development and empirical demonstr — *Review of International Political Econom* [T2] T5
 - [214 cites] (2010) Making global markets: Historical institutionalism in international political ec — *Review of International Political Econom* [T2] T5
+- [78 cites] (2021) The Janus Face of the Liberal International Information Order: When Global Insti — *International Organization* [T3] T1,T4
 - [1291 cites] (2019) Weaponized Interdependence: How Global Economic Networks Shape State Coercion — *International Security* [T3] T1
+- [67 cites] (2018) Mobilizing Market Power: Jurisdictional Expansion as Economic Statecraft — *International Organization* [T3] T1,T5
 - [214 cites] (2014) Domestic Institutions beyond the Nation-State: Charting the New Interdependence  — *World Politics* [T3] T5
 
-## Abraham L. Newman (4 篇, 1918 总引用)
+## Henry Farrell (5 篇, 1996 总引用)
 
 - [199 cites] (2016) The new interdependence approach: theoretical development and empirical demonstr — *Review of International Political Econom* [T2] T5
 - [214 cites] (2010) Making global markets: Historical institutionalism in international political ec — *Review of International Political Econom* [T2] T5
+- [78 cites] (2021) The Janus Face of the Liberal International Information Order: When Global Insti — *International Organization* [T3] T1,T4
 - [1291 cites] (2019) Weaponized Interdependence: How Global Economic Networks Shape State Coercion — *International Security* [T3] T1
 - [214 cites] (2014) Domestic Institutions beyond the Nation-State: Charting the New Interdependence  — *World Politics* [T3] T5
 
@@ -107,6 +113,11 @@
 - [148 cites] (2016) Global Supply Chains and Trade Policy — *National Bureau of Economic Research* [WP] T2,T3
 - [139 cites] (2010) Taking stock of antidumping, safeguards, and countervailing duties, 1990-2009 — *World Bank, Washington, DC eBooks* [WP] T2
 
+## Stephen J. Redding (2 篇, 842 总引用)
+
+- [113 cites] (2024) When Tariffs Disrupt Global Supply Chains — *American Economic Review* [T1] T2,T3
+- [729 cites] (2019) The Impact of the 2018 Tariffs on Prices and Welfare — *The Journal of Economic Perspectives* [T2] T2,T3
+
 ## Davin Chor (4 篇, 756 总引用)
 
 - [138 cites] (2021) Growing like China: Firm performance and global production line position — *Journal of International Economics* [T2] T3,T5
@@ -155,6 +166,11 @@
 - [200 cites] (2014) SOVEREIGNS, UPSTREAM CAPITAL FLOWS, AND GLOBAL IMBALANCES — *Journal of the European Economic Associa* [T2] T3
 - [116 cites] (2023) Global Supply Chains: The Looming “Great Reallocation” — *National Bureau of Economic Research* [WP] T3,T5
 
+## Hong Ma (2 篇, 298 总引用)
+
+- [63 cites] (2023) Trade wars and industrial policy competitions: Understanding the US-China econom — *Journal of Monetary Economics* [T2] T2
+- [235 cites] (2020) Trade policy uncertainty and innovation: Firm level evidence from China’s WTO ac — *Journal of International Economics* [T2] T2
+
 ## Emily J. Blanchard (2 篇, 240 总引用)
 
 - [92 cites] (2019) Did Trump's Trade War Impact the 2018 Election? — *National Bureau of Economic Research* [WP] T2
@@ -170,3 +186,18 @@
 - [80 cites] (2024) The US-China Trade War and Global Reallocations — *American Economic Review Insights* [T1] T2
 - [56 cites] (2022) The US-China Trade War and Global Reallocations — *World Bank, Washington, DC eBooks* [WP] T2
 - [77 cites] (2021) The US-China Trade War and Global Reallocations — *National Bureau of Economic Research* [WP] T2
+
+## Gene M. Grossman (2 篇, 202 总引用)
+
+- [113 cites] (2024) When Tariffs Disrupt Global Supply Chains — *American Economic Review* [T1] T2,T3
+- [89 cites] (2023) Supply Chain Resilience: Should Policy Promote International Diversification or  — *Journal of Political Economy* [T1] T3
+
+## Elhanan Helpman (2 篇, 202 总引用)
+
+- [113 cites] (2024) When Tariffs Disrupt Global Supply Chains — *American Economic Review* [T1] T2,T3
+- [89 cites] (2023) Supply Chain Resilience: Should Policy Promote International Diversification or  — *Journal of Political Economy* [T1] T3
+
+## Yi Lu (2 篇, 188 总引用)
+
+- [118 cites] (2022) Responses of exporters to trade protectionism: Inferences from the US-China trad — *Journal of International Economics* [T2] T2
+- [70 cites] (2022) Did trade liberalization with China influence US elections? — *Journal of International Economics* [T2] T2,T5

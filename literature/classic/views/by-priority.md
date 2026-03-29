@@ -1,6 +1,6 @@
 # 文献库 — 按优先级排列
 
-> 自动生成于 2026-03-29，共 76 篇
+> 自动生成于 2026-03-29，共 94 篇
 
 ---
 
@@ -156,7 +156,27 @@
 
 ---
 
-## 推荐阅读 (Recommended) (48 篇)
+## 推荐阅读 (Recommended) (66 篇)
+
+### Gene M. Grossman, Elhanan Helpman, Stephen J. Redding (2024) — When Tariffs Disrupt Global Supply Chains
+- **期刊**：American Economic Review [T1]
+- **引用**：113
+- **优先级**：recommended
+- **议题**：T2, T3
+- **DOI**：[10.1257/aer.20211519](https://doi.org/10.1257/aer.20211519)
+- **简评**：研究关税如何通过企业间供应关系传导、扰乱全球供应链。发现关税的供应链传导效应显著，企业需付出巨大搜索成本重建供应关系。
+
+---
+
+### Gene M. Grossman, Elhanan Helpman, Hugo Lhuillier (2023) — Supply Chain Resilience: Should Policy Promote International Diversification or Reshoring?
+- **期刊**：Journal of Political Economy [T1]
+- **引用**：89
+- **优先级**：recommended
+- **议题**：T3
+- **DOI**：[10.1086/725173](https://doi.org/10.1086/725173)
+- **简评**：研究供应链韧性的最优政策设计：政府应促进国际多元化还是国内替代？理论模型表明答案取决于冲击类型和供应链结构。
+
+---
 
 ### Antonio Coppola, Matteo Maggiori, Brent Neiman et al. (2021) — Redrawing the Map of Global Capital Flows: The Role of Cross-Border Financing and Tax Havens
 - **期刊**：The Quarterly Journal of Economics [T1]
@@ -165,6 +185,16 @@
 - **议题**：T2
 - **DOI**：[10.1093/qje/qjab014](https://doi.org/10.1093/qje/qjab014)
 - **简评**：剥离避税港壳公司后重绘全球资本流动真实地理，揭示跨境融资结构如何扭曲官方FDI统计。
+
+---
+
+### Pol Antràs, Alonso de Gortari (2020) — On the Geography of Global Value Chains
+- **期刊**：Econometrica [T1]
+- **引用**：359
+- **优先级**：recommended
+- **议题**：T2, T3
+- **DOI**：[10.3982/ecta15362](https://doi.org/10.3982/ecta15362)
+- **简评**：构建全球价值链地理分布的多阶段一般均衡模型。揭示各国在GVC中的专业化模式及其与贸易成本、要素禀赋的关系。
 
 ---
 
@@ -195,6 +225,16 @@
 - **议题**：T1
 - **DOI**：[10.1093/qje/qjx031](https://doi.org/10.1093/qje/qjx031)
 - **简评**：构建国际货币体系理论模型，分析储备资产供给中的'特里芬困境'与安全资产短缺问题，核心关切是美元体系的内在脆弱性。
+
+---
+
+### Loren Brandt, Johannes Van Biesebroeck, Luhang Wang et al. (2017) — WTO Accession and Performance of Chinese Manufacturing Firms
+- **期刊**：American Economic Review [T1]
+- **引用**：824
+- **优先级**：recommended
+- **议题**：T2
+- **DOI**：[10.1257/aer.20121266](https://doi.org/10.1257/aer.20121266)
+- **简评**：研究中国加入WTO后制造业企业的绩效变化。发现贸易自由化通过竞争加剧和资源重新配置提高了整体生产率。AER。
 
 ---
 
@@ -248,6 +288,36 @@
 
 ---
 
+### Caroline Freund, Aaditya Mattoo, Alen Mulabdić et al. (2024) — Is US trade policy reshaping global supply chains?
+- **期刊**：Journal of International Economics [T2]
+- **引用**：79
+- **优先级**：recommended
+- **议题**：T2, T3
+- **DOI**：[10.1016/j.jinteco.2024.104011](https://doi.org/10.1016/j.jinteco.2024.104011)
+- **简评**：评估美国贸易政策（2018-2022关税战）是否正在重塑全球供应链格局。分析贸易转移、友岸外包等政策效应。
+
+---
+
+### Yi Huang, Chen Lin, Sibo Liu et al. (2023) — Trade networks and firm value: Evidence from the U.S.-China trade war
+- **期刊**：Journal of International Economics [T2]
+- **引用**：213
+- **优先级**：recommended
+- **议题**：T1, T2
+- **DOI**：[10.1016/j.jinteco.2023.103811](https://doi.org/10.1016/j.jinteco.2023.103811)
+- **简评**：利用企业层面贸易网络数据研究中美贸易战对企业价值的影响。发现贸易网络暴露程度显著影响企业股票价值。
+
+---
+
+### Jiandong Ju, Hong Ma, Zi Wang et al. (2023) — Trade wars and industrial policy competitions: Understanding the US-China economic conflicts
+- **期刊**：Journal of Monetary Economics [T2]
+- **引用**：63
+- **优先级**：recommended
+- **议题**：T2
+- **DOI**：[10.1016/j.jmoneco.2023.10.012](https://doi.org/10.1016/j.jmoneco.2023.10.012)
+- **简评**：将中美经济冲突建模为贸易战与产业政策竞争的双重博弈。分析关税与补贴的互动效应及全球福利影响。
+
+---
+
 ### Pablo Fajgelbaum, Amit Khandelwal (2022) — The Economic Impacts of the US–China Trade War
 - **期刊**：Annual Review of Economics [T2]
 - **引用**：310
@@ -268,6 +338,36 @@
 
 ---
 
+### David Autor, David Dorn, Gordon Hanson (2022) — On the Persistence of the China Shock
+- **期刊**：Brookings Papers on Economic Activity [T2]
+- **引用**：81
+- **优先级**：recommended
+- **议题**：T2, T5
+- **DOI**：[10.1353/eca.2022.0005](https://doi.org/10.1353/eca.2022.0005)
+- **简评**：China Shock的延续研究：评估中国贸易冲击对美国劳动力市场的持久影响(2000-2019)，发现效应远比预期持久。BPEA。
+
+---
+
+### Lingduo Jiang, Yi Lu, Hong Song et al. (2022) — Responses of exporters to trade protectionism: Inferences from the US-China trade war
+- **期刊**：Journal of International Economics [T2]
+- **引用**：118
+- **优先级**：recommended
+- **议题**：T2
+- **DOI**：[10.1016/j.jinteco.2022.103687](https://doi.org/10.1016/j.jinteco.2022.103687)
+- **简评**：研究中美贸易战中出口商的应对策略。发现企业通过调整价格、产品组合和目的地市场来应对保护主义关税。
+
+---
+
+### Yi Che, Yi Lu, Justin R. Pierce et al. (2022) — Did trade liberalization with China influence US elections?
+- **期刊**：Journal of International Economics [T2]
+- **引用**：70
+- **优先级**：recommended
+- **议题**：T2, T5
+- **DOI**：[10.1016/j.jinteco.2022.103652](https://doi.org/10.1016/j.jinteco.2022.103652)
+- **简评**：研究对华贸易自由化是否影响了美国选举结果。发现受进口冲击更大的选区政治极化加剧，影响国会选举。
+
+---
+
 ### Davin Chor, Kalina Manova, Zhihong Yu (2021) — Growing like China: Firm performance and global production line position
 - **期刊**：Journal of International Economics [T2]
 - **引用**：138
@@ -275,6 +375,36 @@
 - **议题**：T3, T5
 - **DOI**：[10.1016/j.jinteco.2021.103445](https://doi.org/10.1016/j.jinteco.2021.103445)
 - **简评**：研究中国企业在全球生产线上的位置如何影响其增长表现，分析全球价值链参与对中国经济增长模式的塑造。
+
+---
+
+### Barthélémy Bonadio, Zhen Huo, Andrei A. Levchenko et al. (2021) — Global supply chains in the pandemic
+- **期刊**：Journal of International Economics [T2]
+- **引用**：352
+- **优先级**：recommended
+- **议题**：T2, T3
+- **DOI**：[10.1016/j.jinteco.2021.103534](https://doi.org/10.1016/j.jinteco.2021.103534)
+- **简评**：量化分析新冠疫情期间全球供应链的角色。发现供应链传导放大了疫情对GDP的负面影响约25%。
+
+---
+
+### Qing Liu, Hong Ma (2020) — Trade policy uncertainty and innovation: Firm level evidence from China’s WTO accession
+- **期刊**：Journal of International Economics [T2]
+- **引用**：235
+- **优先级**：recommended
+- **议题**：T2
+- **DOI**：[10.1016/j.jinteco.2020.103387](https://doi.org/10.1016/j.jinteco.2020.103387)
+- **简评**：利用中国加入WTO前后的企业数据研究贸易政策不确定性对创新的影响。发现不确定性降低显著刺激了企业创新投入。
+
+---
+
+### Joseph B. Steinberg (2019) — Brexit and the macroeconomic impact of trade policy uncertainty
+- **期刊**：Journal of International Economics [T2]
+- **引用**：172
+- **优先级**：recommended
+- **议题**：T2, T5
+- **DOI**：[10.1016/j.jinteco.2019.01.009](https://doi.org/10.1016/j.jinteco.2019.01.009)
+- **简评**：量化分析脱欧带来的贸易政策不确定性的宏观经济影响。发现不确定性本身（而非实际脱欧）已造成显著GDP损失。
 
 ---
 
@@ -418,6 +548,46 @@
 
 ---
 
+### Sung Eun Kim, Yotam Margalit (2021) — Tariffs As Electoral Weapons: The Political Geography of the US–China Trade War
+- **期刊**：International Organization [T3]
+- **引用**：77
+- **优先级**：recommended
+- **议题**：T2, T5
+- **DOI**：[10.1017/s0020818320000612](https://doi.org/10.1017/s0020818320000612)
+- **简评**：研究中美贸易战中关税作为选举武器的政治地理学。中国精准瞄准摇摆州实施报复性关税，以最大化总统选举的政治压力。IO。
+
+---
+
+### David A. Lake, Lisa L. Martin, Thomas Risse (2021) — Challenges to the Liberal Order: Reflections on<i>International Organization</i>
+- **期刊**：International Organization [T3]
+- **引用**：386
+- **优先级**：recommended
+- **议题**：T5
+- **DOI**：[10.1017/s0020818320000636](https://doi.org/10.1017/s0020818320000636)
+- **简评**：IO创刊75周年特稿，反思自由主义国际秩序的挑战与前景。多位学者审视威权崛起、民粹主义、技术变革对国际秩序的冲击。
+
+---
+
+### Jessica Chen Weiss, Jeremy Wallace (2021) — Domestic Politics, China's Rise, and the Future of the Liberal International Order
+- **期刊**：International Organization [T3]
+- **引用**：154
+- **优先级**：recommended
+- **议题**：T5
+- **DOI**：[10.1017/s002081832000048x](https://doi.org/10.1017/s002081832000048x)
+- **简评**：分析国内政治与中国崛起如何共同塑造自由国际秩序的未来。提出自由秩序的韧性取决于民主国家的国内政治走向。IO。
+
+---
+
+### Henry Farrell, Abraham L. Newman (2021) — The Janus Face of the Liberal International Information Order: When Global Institutions Are Self-Undermining
+- **期刊**：International Organization [T3]
+- **引用**：78
+- **优先级**：recommended
+- **议题**：T1, T4
+- **DOI**：[10.1017/s0020818320000302](https://doi.org/10.1017/s0020818320000302)
+- **简评**：Farrell与Newman对'武器化相互依赖'的延伸：分析自由主义全球信息秩序的两面性——开放的信息网络既促进自由也为国家监控和胁迫提供了工具。IO。
+
+---
+
 ### Gerasimos Tsourapas (2019) — The Syrian Refugee Crisis and Foreign Policy Decision-Making in Jordan, Lebanon, and Turkey
 - **期刊**：Journal of Global Security Studies [T3]
 - **引用**：207
@@ -435,6 +605,16 @@
 - **议题**：T5
 - **DOI**：[10.1162/isec_a_00311](https://doi.org/10.1162/isec_a_00311)
 - **简评**：分析美国大战略为何未发生根本性改变——权力、习惯和外交政策机构如何维持美国的全球介入。
+
+---
+
+### Nikhil Kalyanpur, Abraham L. Newman (2018) — Mobilizing Market Power: Jurisdictional Expansion as Economic Statecraft
+- **期刊**：International Organization [T3]
+- **引用**：67
+- **优先级**：recommended
+- **议题**：T1, T5
+- **DOI**：[10.1017/s0020818318000334](https://doi.org/10.1017/s0020818318000334)
+- **简评**：研究大国如何通过管辖权扩张来动员市场权力作为经济治国工具。分析美国和欧盟在反垄断、数据保护等领域的域外管辖实践。IO。
 
 ---
 

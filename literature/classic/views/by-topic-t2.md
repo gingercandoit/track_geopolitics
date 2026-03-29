@@ -1,11 +1,11 @@
 # T2 贸易与产业竞争 (Trade & Industrial Policy) — 阅读清单
 
-> 自动生成于 2026-03-29，共 39 篇
+> 自动生成于 2026-03-29，共 52 篇
 > 数据来源：`literature-classic.json`
 
 ---
 
-## T1 — General Top 5 + Finance Top (13 篇)
+## T1 — General Top 5 + Finance Top (16 篇)
 
 ### Pablo Fajgelbaum, Pinelopi Goldberg, Patrick Kennedy et al. (2024) — The US-China Trade War and Global Reallocations
 - **期刊**：American Economic Review Insights [T1]
@@ -17,6 +17,16 @@
 
 ---
 
+### Gene M. Grossman, Elhanan Helpman, Stephen J. Redding (2024) — When Tariffs Disrupt Global Supply Chains
+- **期刊**：American Economic Review [T1]
+- **引用**：113
+- **优先级**：recommended
+- **议题**：T2, T3
+- **DOI**：[10.1257/aer.20211519](https://doi.org/10.1257/aer.20211519)
+- **简评**：研究关税如何通过企业间供应关系传导、扰乱全球供应链。发现关税的供应链传导效应显著，企业需付出巨大搜索成本重建供应关系。
+
+---
+
 ### Antonio Coppola, Matteo Maggiori, Brent Neiman et al. (2021) — Redrawing the Map of Global Capital Flows: The Role of Cross-Border Financing and Tax Havens
 - **期刊**：The Quarterly Journal of Economics [T1]
 - **引用**：197
@@ -24,6 +34,16 @@
 - **议题**：T2
 - **DOI**：[10.1093/qje/qjab014](https://doi.org/10.1093/qje/qjab014)
 - **简评**：剥离避税港壳公司后重绘全球资本流动真实地理，揭示跨境融资结构如何扭曲官方FDI统计。
+
+---
+
+### Pol Antràs, Alonso de Gortari (2020) — On the Geography of Global Value Chains
+- **期刊**：Econometrica [T1]
+- **引用**：359
+- **优先级**：recommended
+- **议题**：T2, T3
+- **DOI**：[10.3982/ecta15362](https://doi.org/10.3982/ecta15362)
+- **简评**：构建全球价值链地理分布的多阶段一般均衡模型。揭示各国在GVC中的专业化模式及其与贸易成本、要素禀赋的关系。
 
 ---
 
@@ -44,6 +64,16 @@
 - **议题**：T2
 - **DOI**：[10.1257/aer.20160034](https://doi.org/10.1257/aer.20160034)
 - **简评**：利用英国区域选择性援助(RSA)政策的断点设计，评估产业政策对就业和投资的因果效应，为产业政策有效性提供因果识别证据。
+
+---
+
+### Loren Brandt, Johannes Van Biesebroeck, Luhang Wang et al. (2017) — WTO Accession and Performance of Chinese Manufacturing Firms
+- **期刊**：American Economic Review [T1]
+- **引用**：824
+- **优先级**：recommended
+- **议题**：T2
+- **DOI**：[10.1257/aer.20121266](https://doi.org/10.1257/aer.20121266)
+- **简评**：研究中国加入WTO后制造业企业的绩效变化。发现贸易自由化通过竞争加剧和资源重新配置提高了整体生产率。AER。
 
 ---
 
@@ -137,7 +167,37 @@
 
 ---
 
-## T2 — Field Top Journals (13 篇)
+## T2 — Field Top Journals (22 篇)
+
+### Caroline Freund, Aaditya Mattoo, Alen Mulabdić et al. (2024) — Is US trade policy reshaping global supply chains?
+- **期刊**：Journal of International Economics [T2]
+- **引用**：79
+- **优先级**：recommended
+- **议题**：T2, T3
+- **DOI**：[10.1016/j.jinteco.2024.104011](https://doi.org/10.1016/j.jinteco.2024.104011)
+- **简评**：评估美国贸易政策（2018-2022关税战）是否正在重塑全球供应链格局。分析贸易转移、友岸外包等政策效应。
+
+---
+
+### Yi Huang, Chen Lin, Sibo Liu et al. (2023) — Trade networks and firm value: Evidence from the U.S.-China trade war
+- **期刊**：Journal of International Economics [T2]
+- **引用**：213
+- **优先级**：recommended
+- **议题**：T1, T2
+- **DOI**：[10.1016/j.jinteco.2023.103811](https://doi.org/10.1016/j.jinteco.2023.103811)
+- **简评**：利用企业层面贸易网络数据研究中美贸易战对企业价值的影响。发现贸易网络暴露程度显著影响企业股票价值。
+
+---
+
+### Jiandong Ju, Hong Ma, Zi Wang et al. (2023) — Trade wars and industrial policy competitions: Understanding the US-China economic conflicts
+- **期刊**：Journal of Monetary Economics [T2]
+- **引用**：63
+- **优先级**：recommended
+- **议题**：T2
+- **DOI**：[10.1016/j.jmoneco.2023.10.012](https://doi.org/10.1016/j.jmoneco.2023.10.012)
+- **简评**：将中美经济冲突建模为贸易战与产业政策竞争的双重博弈。分析关税与补贴的互动效应及全球福利影响。
+
+---
 
 ### Pablo Fajgelbaum, Amit Khandelwal (2022) — The Economic Impacts of the US–China Trade War
 - **期刊**：Annual Review of Economics [T2]
@@ -146,6 +206,36 @@
 - **议题**：T2
 - **DOI**：[10.1146/annurev-economics-051420-110410](https://doi.org/10.1146/annurev-economics-051420-110410)
 - **简评**：综合量化中美贸易战的经济影响：关税传导、贸易转移、福利损失和政治经济效应。
+
+---
+
+### David Autor, David Dorn, Gordon Hanson (2022) — On the Persistence of the China Shock
+- **期刊**：Brookings Papers on Economic Activity [T2]
+- **引用**：81
+- **优先级**：recommended
+- **议题**：T2, T5
+- **DOI**：[10.1353/eca.2022.0005](https://doi.org/10.1353/eca.2022.0005)
+- **简评**：China Shock的延续研究：评估中国贸易冲击对美国劳动力市场的持久影响(2000-2019)，发现效应远比预期持久。BPEA。
+
+---
+
+### Lingduo Jiang, Yi Lu, Hong Song et al. (2022) — Responses of exporters to trade protectionism: Inferences from the US-China trade war
+- **期刊**：Journal of International Economics [T2]
+- **引用**：118
+- **优先级**：recommended
+- **议题**：T2
+- **DOI**：[10.1016/j.jinteco.2022.103687](https://doi.org/10.1016/j.jinteco.2022.103687)
+- **简评**：研究中美贸易战中出口商的应对策略。发现企业通过调整价格、产品组合和目的地市场来应对保护主义关税。
+
+---
+
+### Yi Che, Yi Lu, Justin R. Pierce et al. (2022) — Did trade liberalization with China influence US elections?
+- **期刊**：Journal of International Economics [T2]
+- **引用**：70
+- **优先级**：recommended
+- **议题**：T2, T5
+- **DOI**：[10.1016/j.jinteco.2022.103652](https://doi.org/10.1016/j.jinteco.2022.103652)
+- **简评**：研究对华贸易自由化是否影响了美国选举结果。发现受进口冲击更大的选区政治极化加剧，影响国会选举。
 
 ---
 
@@ -169,6 +259,26 @@
 
 ---
 
+### Barthélémy Bonadio, Zhen Huo, Andrei A. Levchenko et al. (2021) — Global supply chains in the pandemic
+- **期刊**：Journal of International Economics [T2]
+- **引用**：352
+- **优先级**：recommended
+- **议题**：T2, T3
+- **DOI**：[10.1016/j.jinteco.2021.103534](https://doi.org/10.1016/j.jinteco.2021.103534)
+- **简评**：量化分析新冠疫情期间全球供应链的角色。发现供应链传导放大了疫情对GDP的负面影响约25%。
+
+---
+
+### Qing Liu, Hong Ma (2020) — Trade policy uncertainty and innovation: Firm level evidence from China’s WTO accession
+- **期刊**：Journal of International Economics [T2]
+- **引用**：235
+- **优先级**：recommended
+- **议题**：T2
+- **DOI**：[10.1016/j.jinteco.2020.103387](https://doi.org/10.1016/j.jinteco.2020.103387)
+- **简评**：利用中国加入WTO前后的企业数据研究贸易政策不确定性对创新的影响。发现不确定性降低显著刺激了企业创新投入。
+
+---
+
 ### Mary Amiti, Stephen J. Redding, David E. Weinstein (2019) — The Impact of the 2018 Tariffs on Prices and Welfare
 - **期刊**：The Journal of Economic Perspectives [T2]
 - **引用**：729
@@ -176,6 +286,16 @@
 - **议题**：T2, T3
 - **DOI**：[10.1257/jep.33.4.187](https://doi.org/10.1257/jep.33.4.187)
 - **简评**：量化2018年美国关税对进口价格和消费者福利的影响，发现关税几乎完全由美国进口商承担，是贸易战实证文献的核心参考。
+
+---
+
+### Joseph B. Steinberg (2019) — Brexit and the macroeconomic impact of trade policy uncertainty
+- **期刊**：Journal of International Economics [T2]
+- **引用**：172
+- **优先级**：recommended
+- **议题**：T2, T5
+- **DOI**：[10.1016/j.jinteco.2019.01.009](https://doi.org/10.1016/j.jinteco.2019.01.009)
+- **简评**：量化分析脱欧带来的贸易政策不确定性的宏观经济影响。发现不确定性本身（而非实际脱欧）已造成显著GDP损失。
 
 ---
 
@@ -269,7 +389,7 @@
 
 ---
 
-## T3 — Political Science / IR Top (2 篇)
+## T3 — Political Science / IR Top (3 篇)
 
 ### Donato Di Carlo, Luuk Schmitz (2023) — Europe first? The rise of EU industrial policy promoting and protecting the single market
 - **期刊**：Journal of European Public Policy [T3]
@@ -288,6 +408,16 @@
 - **议题**：T2, T5
 - **DOI**：[10.1080/13501763.2023.2248204](https://doi.org/10.1080/13501763.2023.2248204)
 - **简评**：分析'技术主权'与'地缘政治导向型国家主义'——欧盟如何在技术竞争中避免落后，是大国技术竞争的欧洲视角。
+
+---
+
+### Sung Eun Kim, Yotam Margalit (2021) — Tariffs As Electoral Weapons: The Political Geography of the US–China Trade War
+- **期刊**：International Organization [T3]
+- **引用**：77
+- **优先级**：recommended
+- **议题**：T2, T5
+- **DOI**：[10.1017/s0020818320000612](https://doi.org/10.1017/s0020818320000612)
+- **简评**：研究中美贸易战中关税作为选举武器的政治地理学。中国精准瞄准摇摆州实施报复性关税，以最大化总统选举的政治压力。IO。
 
 ---
 

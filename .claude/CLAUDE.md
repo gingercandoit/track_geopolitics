@@ -91,11 +91,11 @@ track_geopolitics/
 - 产出：`literature/classic/` (classic.json + CSV + BibTeX + roadmap + views) + `literature/new/` (new.json + CSV + BibTeX + views)
 - SOP：`.claude/rules/02_LiteratureSOP.instructions.md`
 - **Library A 当前状态**（2026-03-29）：
-  - 76 篇论文，经严格地缘政治相关性筛选（原始 460→217→159→76）
-  - notes_zh 全部手工重写，逐篇验证准确性
-  - Topic 分布：T1:16, T2:39, T3:11, T4:7, T5:29（T4 偏少，待补充）
-  - Tier 分布：T1:15, T2:23, T3:15, WP:11, other:12
-  - 6 篇缺摘要（OpenAlex/S2 源数据缺失）
+  - 94 篇论文（76篇基础 + 18篇滚雪球补充），经严格地缘政治相关性筛选
+  - notes_zh 全部手工撰写，逐篇验证准确性
+  - Topic 分布：T1:19, T2:52, T3:16, T4:8, T5:36（T4 经济学文献结构性偏少）
+  - Tier 分布：T1:19, T2:32, T3:20, WP:11, other:12
+  - 80/94 有摘要（85%）
   - Library B 尚未执行首次月度追踪
 
 ## 自动化脚本

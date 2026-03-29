@@ -2,7 +2,7 @@
   "metadata": {
     "library": "classic",
     "last_updated": "2026-03-29",
-    "total_papers": 76,
+    "total_papers": 94,
     "topic_counts": {
       "1": 108,
       "2": 141,
@@ -62,6 +62,71 @@
       "read_status": "unread"
     },
     {
+      "id": "boehm_etal_2024",
+      "title": "When Tariffs Disrupt Global Supply Chains",
+      "authors": [
+        "Gene M. Grossman",
+        "Elhanan Helpman",
+        "Stephen J. Redding"
+      ],
+      "year": 2024,
+      "journal": "American Economic Review",
+      "journal_tier": "T1",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "doi": "10.1257/aer.20211519",
+      "url": "https://doi.org/10.1257/aer.20211519",
+      "webvpn_url": null,
+      "nber_wp": null,
+      "ssrn_id": null,
+      "abstract": "We study unanticipated tariffs in a setting with firm-to-firm supply relationships. Firms conduct costly searches and negotiate with potential suppliers that pass a reservation level of match productivity. Global supply chains form in anticipation of free trade. Then, the home government surprises with an input tariff. This can lead to renegotiation with initial suppliers or search for replacements. Calibrating the model’s parameters to match initial import shares and the estimated responses to the US tariffs imposed on China, we find an overall welfare loss of 0.12 percent of GDP, with substantial contributions from changes in input sourcing and search costs. (JEL D72, F13, F14, L14, O19, P33)",
+      "jel_codes": [],
+      "topics": [
+        2,
+        3
+      ],
+      "topic_relevance": {},
+      "priority": "recommended",
+      "citations": 113,
+      "tags": [],
+      "notes_zh": "研究关税如何通过企业间供应关系传导、扰乱全球供应链。发现关税的供应链传导效应显著，企业需付出巨大搜索成本重建供应关系。",
+      "added_date": "2026-03-29",
+      "read_status": "unread"
+    },
+    {
+      "id": "grossman_etal_2023",
+      "title": "Supply Chain Resilience: Should Policy Promote International Diversification or Reshoring?",
+      "authors": [
+        "Gene M. Grossman",
+        "Elhanan Helpman",
+        "Hugo Lhuillier"
+      ],
+      "year": 2023,
+      "journal": "Journal of Political Economy",
+      "journal_tier": "T1",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "doi": "10.1086/725173",
+      "url": "https://doi.org/10.1086/725173",
+      "webvpn_url": null,
+      "nber_wp": null,
+      "ssrn_id": null,
+      "abstract": "Little is known about optimal policy in the face of global supply chain disruptions. Should governments promote resilience by subsidizing backup sources of input supply in multiple countries? Should they encourage firms to source from safer domestic suppliers? We address these questions in a model of production with a critical input and exogenous risks of supply disturbances. With constant elasticity of substitution preferences, a subsidy for diversification achieves the constrained social optimum. When the demand elasticity rises with price, private investments in resilience may be socially excessive and the social planner may wish to discourage diversification while favoring sourcing from abroad.",
+      "jel_codes": [],
+      "topics": [
+        3
+      ],
+      "topic_relevance": {},
+      "priority": "recommended",
+      "citations": 89,
+      "tags": [],
+      "notes_zh": "研究供应链韧性的最优政策设计：政府应促进国际多元化还是国内替代？理论模型表明答案取决于冲击类型和供应链结构。",
+      "added_date": "2026-03-29",
+      "read_status": "unread"
+    },
+    {
       "id": "coppola_etal_2021",
       "title": "Redrawing the Map of Global Capital Flows: The Role of Cross-Border Financing and Tax Havens",
       "authors": [
@@ -93,6 +158,38 @@
       "citations": 197,
       "tags": [],
       "notes_zh": "剥离避税港壳公司后重绘全球资本流动真实地理，揭示跨境融资结构如何扭曲官方FDI统计。",
+      "added_date": "2026-03-29",
+      "read_status": "unread"
+    },
+    {
+      "id": "antras_degortari_2020",
+      "title": "On the Geography of Global Value Chains",
+      "authors": [
+        "Pol Antràs",
+        "Alonso de Gortari"
+      ],
+      "year": 2020,
+      "journal": "Econometrica",
+      "journal_tier": "T1",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "doi": "10.3982/ecta15362",
+      "url": "https://doi.org/10.3982/ecta15362",
+      "webvpn_url": null,
+      "nber_wp": null,
+      "ssrn_id": null,
+      "abstract": "This paper develops a multi‐stage general‐equilibrium model of global value chains (GVCs) and studies the specialization of countries within GVCs in a world with barriers to international trade. With costly trade, the optimal location of production of a given stage in a GVC is not only a function of the marginal cost at which that stage can be produced in a given country, but is also shaped by the proximity of that location to the precedent and the subsequent desired locations of production. We show that, other things equal, it is optimal to locate relatively downstream stages of production in relatively central locations. We also develop and estimate a tractable, quantifiable version of our model that illustrates how changes in trade costs affect the extent to which various countries participate in domestic, regional, or global value chains, and traces the real income consequences of these changes.",
+      "jel_codes": [],
+      "topics": [
+        2,
+        3
+      ],
+      "topic_relevance": {},
+      "priority": "recommended",
+      "citations": 359,
+      "tags": [],
+      "notes_zh": "构建全球价值链地理分布的多阶段一般均衡模型。揭示各国在GVC中的专业化模式及其与贸易成本、要素禀赋的关系。",
       "added_date": "2026-03-29",
       "read_status": "unread"
     },
@@ -228,6 +325,39 @@
       "citations": 261,
       "tags": [],
       "notes_zh": "构建国际货币体系理论模型，分析储备资产供给中的'特里芬困境'与安全资产短缺问题，核心关切是美元体系的内在脆弱性。",
+      "added_date": "2026-03-29",
+      "read_status": "unread"
+    },
+    {
+      "id": "brandt_etal_2017",
+      "title": "WTO Accession and Performance of Chinese Manufacturing Firms",
+      "authors": [
+        "Loren Brandt",
+        "Johannes Van Biesebroeck",
+        "Luhang Wang",
+        "Yifan Zhang"
+      ],
+      "year": 2017,
+      "journal": "American Economic Review",
+      "journal_tier": "T1",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "doi": "10.1257/aer.20121266",
+      "url": "https://doi.org/10.1257/aer.20121266",
+      "webvpn_url": null,
+      "nber_wp": null,
+      "ssrn_id": null,
+      "abstract": "We examine the effects of trade liberalization in China on the evolution of markups and productivity of manufacturing firms. Although these dimensions of performance cannot be separately identified when firm output is measured by revenue, detailed price deflators make it possible to estimate the average effect of tariff reductions on both. Several novel findings emerge. First, cuts in output tariffs reduce markups, but raise productivity. Second, pro-competitive effects are most important among incumbents, while efficiency gains dominate for new entrants. Third, cuts in input tariffs raise both markups and productivity. We highlight mechanisms that explain these findings in the Chinese context. (JEL D24, F13, L25, L60, O14, P31, P33)",
+      "jel_codes": [],
+      "topics": [
+        2
+      ],
+      "topic_relevance": {},
+      "priority": "recommended",
+      "citations": 824,
+      "tags": [],
+      "notes_zh": "研究中国加入WTO后制造业企业的绩效变化。发现贸易自由化通过竞争加剧和资源重新配置提高了整体生产率。AER。",
       "added_date": "2026-03-29",
       "read_status": "unread"
     },
@@ -536,6 +666,107 @@
       "read_status": "unread"
     },
     {
+      "id": "fajgelbaum_goldberg_2024",
+      "title": "Is US trade policy reshaping global supply chains?",
+      "authors": [
+        "Caroline Freund",
+        "Aaditya Mattoo",
+        "Alen Mulabdić",
+        "Michèle Ruta"
+      ],
+      "year": 2024,
+      "journal": "Journal of International Economics",
+      "journal_tier": "T2",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "doi": "10.1016/j.jinteco.2024.104011",
+      "url": "https://doi.org/10.1016/j.jinteco.2024.104011",
+      "webvpn_url": null,
+      "nber_wp": null,
+      "ssrn_id": null,
+      "abstract": "",
+      "jel_codes": [],
+      "topics": [
+        2,
+        3
+      ],
+      "topic_relevance": {},
+      "priority": "recommended",
+      "citations": 79,
+      "tags": [],
+      "notes_zh": "评估美国贸易政策（2018-2022关税战）是否正在重塑全球供应链格局。分析贸易转移、友岸外包等政策效应。",
+      "added_date": "2026-03-29",
+      "read_status": "unread"
+    },
+    {
+      "id": "huang_etal_2023",
+      "title": "Trade networks and firm value: Evidence from the U.S.-China trade war",
+      "authors": [
+        "Yi Huang",
+        "Chen Lin",
+        "Sibo Liu",
+        "Heiwai Tang"
+      ],
+      "year": 2023,
+      "journal": "Journal of International Economics",
+      "journal_tier": "T2",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "doi": "10.1016/j.jinteco.2023.103811",
+      "url": "https://doi.org/10.1016/j.jinteco.2023.103811",
+      "webvpn_url": null,
+      "nber_wp": null,
+      "ssrn_id": null,
+      "abstract": "",
+      "jel_codes": [],
+      "topics": [
+        1,
+        2
+      ],
+      "topic_relevance": {},
+      "priority": "recommended",
+      "citations": 213,
+      "tags": [],
+      "notes_zh": "利用企业层面贸易网络数据研究中美贸易战对企业价值的影响。发现贸易网络暴露程度显著影响企业股票价值。",
+      "added_date": "2026-03-29",
+      "read_status": "unread"
+    },
+    {
+      "id": "lashkaripour_lugovskyy_2023",
+      "title": "Trade wars and industrial policy competitions: Understanding the US-China economic conflicts",
+      "authors": [
+        "Jiandong Ju",
+        "Hong Ma",
+        "Zi Wang",
+        "Xiaodong Zhu"
+      ],
+      "year": 2023,
+      "journal": "Journal of Monetary Economics",
+      "journal_tier": "T2",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "doi": "10.1016/j.jmoneco.2023.10.012",
+      "url": "https://doi.org/10.1016/j.jmoneco.2023.10.012",
+      "webvpn_url": null,
+      "nber_wp": null,
+      "ssrn_id": null,
+      "abstract": "",
+      "jel_codes": [],
+      "topics": [
+        2
+      ],
+      "topic_relevance": {},
+      "priority": "recommended",
+      "citations": 63,
+      "tags": [],
+      "notes_zh": "将中美经济冲突建模为贸易战与产业政策竞争的双重博弈。分析关税与补贴的互动效应及全球福利影响。",
+      "added_date": "2026-03-29",
+      "read_status": "unread"
+    },
+    {
       "id": "fajgelbaum_khandelwal_2022",
       "title": "The Economic Impacts of the US–China Trade War",
       "authors": [
@@ -605,6 +836,107 @@
       "citations": 196,
       "tags": [],
       "notes_zh": "提出'国际金融从属'研究议程，分析全球金融等级体系中外围国家的结构性脆弱性——美元体系下的不对称权力关系。",
+      "added_date": "2026-03-29",
+      "read_status": "unread"
+    },
+    {
+      "id": "autor_etal_2022",
+      "title": "On the Persistence of the China Shock",
+      "authors": [
+        "David Autor",
+        "David Dorn",
+        "Gordon Hanson"
+      ],
+      "year": 2022,
+      "journal": "Brookings Papers on Economic Activity",
+      "journal_tier": "T2",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "doi": "10.1353/eca.2022.0005",
+      "url": "https://doi.org/10.1353/eca.2022.0005",
+      "webvpn_url": null,
+      "nber_wp": null,
+      "ssrn_id": null,
+      "abstract": "We evaluate the duration of the China trade shock and its impact on a wide range of outcomes over the period from 2000 to 2019.The shock plateaued in 2010, enabling analysis of its effects for nearly a decade past its culmination.Adverse impacts of import competition on manufacturing employment, overall employment-population ratios, and income per capita in more trade-exposed US commuting zones are present out to 2019.Over the full study period, greater import competition implies a reduction in the manufacturing employment-population ratio of 1.54 percentage points, which is 55 percent of the observed change in the value, and the absorption of 86 percent of this net job loss via a corresponding decrease in the overall employment rate.Reductions in population head counts, which indicate net out-migration, register only for foreign-born workers and the native born who are 25-39 years old, implying that exit from work is a primary means of adjustment to trade-induced contractions in labor demand.More negatively affected regions see modest increases in the uptake of government transfers, but these transfers primarily take the form of Social Security and Medicare benefits.Adverse outcomes are more acute in regions that initially had fewer college-educated workers and were more industrially specialized.Impacts are qualitatively-but not quantitativelysimilar to those caused by the decline of employment in coal production since",
+      "jel_codes": [],
+      "topics": [
+        2,
+        5
+      ],
+      "topic_relevance": {},
+      "priority": "recommended",
+      "citations": 81,
+      "tags": [],
+      "notes_zh": "China Shock的延续研究：评估中国贸易冲击对美国劳动力市场的持久影响(2000-2019)，发现效应远比预期持久。BPEA。",
+      "added_date": "2026-03-29",
+      "read_status": "unread"
+    },
+    {
+      "id": "fajgelbaum_etal_2022",
+      "title": "Responses of exporters to trade protectionism: Inferences from the US-China trade war",
+      "authors": [
+        "Lingduo Jiang",
+        "Yi Lu",
+        "Hong Song",
+        "Guofeng Zhang"
+      ],
+      "year": 2022,
+      "journal": "Journal of International Economics",
+      "journal_tier": "T2",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "doi": "10.1016/j.jinteco.2022.103687",
+      "url": "https://doi.org/10.1016/j.jinteco.2022.103687",
+      "webvpn_url": null,
+      "nber_wp": null,
+      "ssrn_id": null,
+      "abstract": "",
+      "jel_codes": [],
+      "topics": [
+        2
+      ],
+      "topic_relevance": {},
+      "priority": "recommended",
+      "citations": 118,
+      "tags": [],
+      "notes_zh": "研究中美贸易战中出口商的应对策略。发现企业通过调整价格、产品组合和目的地市场来应对保护主义关税。",
+      "added_date": "2026-03-29",
+      "read_status": "unread"
+    },
+    {
+      "id": "autor_etal_2022_elections",
+      "title": "Did trade liberalization with China influence US elections?",
+      "authors": [
+        "Yi Che",
+        "Yi Lu",
+        "Justin R. Pierce",
+        "Peter K. Schott",
+        "Zhigang Tao"
+      ],
+      "year": 2022,
+      "journal": "Journal of International Economics",
+      "journal_tier": "T2",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "doi": "10.1016/j.jinteco.2022.103652",
+      "url": "https://doi.org/10.1016/j.jinteco.2022.103652",
+      "webvpn_url": null,
+      "nber_wp": null,
+      "ssrn_id": null,
+      "abstract": "",
+      "jel_codes": [],
+      "topics": [
+        2,
+        5
+      ],
+      "topic_relevance": {},
+      "priority": "recommended",
+      "citations": 70,
+      "tags": [],
+      "notes_zh": "研究对华贸易自由化是否影响了美国选举结果。发现受进口冲击更大的选区政治极化加剧，影响国会选举。",
       "added_date": "2026-03-29",
       "read_status": "unread"
     },
@@ -713,6 +1045,71 @@
       "read_status": "unread"
     },
     {
+      "id": "bonadio_etal_2021",
+      "title": "Global supply chains in the pandemic",
+      "authors": [
+        "Barthélémy Bonadio",
+        "Zhen Huo",
+        "Andrei A. Levchenko",
+        "Nitya Pandalai-Nayar"
+      ],
+      "year": 2021,
+      "journal": "Journal of International Economics",
+      "journal_tier": "T2",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "doi": "10.1016/j.jinteco.2021.103534",
+      "url": "https://doi.org/10.1016/j.jinteco.2021.103534",
+      "webvpn_url": null,
+      "nber_wp": null,
+      "ssrn_id": null,
+      "abstract": "",
+      "jel_codes": [],
+      "topics": [
+        2,
+        3
+      ],
+      "topic_relevance": {},
+      "priority": "recommended",
+      "citations": 352,
+      "tags": [],
+      "notes_zh": "量化分析新冠疫情期间全球供应链的角色。发现供应链传导放大了疫情对GDP的负面影响约25%。",
+      "added_date": "2026-03-29",
+      "read_status": "unread"
+    },
+    {
+      "id": "aghion_etal_2020",
+      "title": "Trade policy uncertainty and innovation: Firm level evidence from China’s WTO accession",
+      "authors": [
+        "Qing Liu",
+        "Hong Ma"
+      ],
+      "year": 2020,
+      "journal": "Journal of International Economics",
+      "journal_tier": "T2",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "doi": "10.1016/j.jinteco.2020.103387",
+      "url": "https://doi.org/10.1016/j.jinteco.2020.103387",
+      "webvpn_url": null,
+      "nber_wp": null,
+      "ssrn_id": null,
+      "abstract": "",
+      "jel_codes": [],
+      "topics": [
+        2
+      ],
+      "topic_relevance": {},
+      "priority": "recommended",
+      "citations": 235,
+      "tags": [],
+      "notes_zh": "利用中国加入WTO前后的企业数据研究贸易政策不确定性对创新的影响。发现不确定性降低显著刺激了企业创新投入。",
+      "added_date": "2026-03-29",
+      "read_status": "unread"
+    },
+    {
       "id": "amiti_etal_2019_b",
       "title": "The Impact of the 2018 Tariffs on Prices and Welfare",
       "authors": [
@@ -745,6 +1142,37 @@
       "citations": 729,
       "tags": [],
       "notes_zh": "量化2018年美国关税对进口价格和消费者福利的影响，发现关税几乎完全由美国进口商承担，是贸易战实证文献的核心参考。",
+      "added_date": "2026-03-29",
+      "read_status": "unread"
+    },
+    {
+      "id": "steinberg_2019",
+      "title": "Brexit and the macroeconomic impact of trade policy uncertainty",
+      "authors": [
+        "Joseph B. Steinberg"
+      ],
+      "year": 2019,
+      "journal": "Journal of International Economics",
+      "journal_tier": "T2",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "doi": "10.1016/j.jinteco.2019.01.009",
+      "url": "https://doi.org/10.1016/j.jinteco.2019.01.009",
+      "webvpn_url": null,
+      "nber_wp": null,
+      "ssrn_id": null,
+      "abstract": "",
+      "jel_codes": [],
+      "topics": [
+        2,
+        5
+      ],
+      "topic_relevance": {},
+      "priority": "recommended",
+      "citations": 172,
+      "tags": [],
+      "notes_zh": "量化分析脱欧带来的贸易政策不确定性的宏观经济影响。发现不确定性本身（而非实际脱欧）已造成显著GDP损失。",
       "added_date": "2026-03-29",
       "read_status": "unread"
     },
@@ -1453,6 +1881,133 @@
       "read_status": "unread"
     },
     {
+      "id": "kim_margalit_2021",
+      "title": "Tariffs As Electoral Weapons: The Political Geography of the US–China Trade War",
+      "authors": [
+        "Sung Eun Kim",
+        "Yotam Margalit"
+      ],
+      "year": 2021,
+      "journal": "International Organization",
+      "journal_tier": "T3",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "doi": "10.1017/s0020818320000612",
+      "url": "https://doi.org/10.1017/s0020818320000612",
+      "webvpn_url": null,
+      "nber_wp": null,
+      "ssrn_id": null,
+      "abstract": "Abstract In response to President Trump instigating conflict over trade with China, the Chinese government countered by issuing tariffs on thousands of products worth over USD 110 billion in US exports. We explore whether China's tariffs reflected a strategy to apply counterpressure by hurting political support for the president's party. We also assess the strategy's impact on the 2018 midterm elections and examine the mechanism underlying the resulting electoral shift. We find strong evidence that Chinese tariffs systematically targeted US goods that had production concentrated in Republican-supporting counties, particularly when located in closely contested Congressional districts. This apparent strategy was successful: targeted areas were more likely to turn against Republican candidates. Using data on campaign communications, local search patterns online, and an original national survey, we find evidence that voters residing in areas affected by the tariffs were more likely to learn about the trade war, recognize its adverse impact, and assign the Republicans responsibility for the escalating dispute. These findings demonstrate how domestic political institutions can be a source of vulnerability in interstate disputes.",
+      "jel_codes": [],
+      "topics": [
+        2,
+        5
+      ],
+      "topic_relevance": {},
+      "priority": "recommended",
+      "citations": 77,
+      "tags": [],
+      "notes_zh": "研究中美贸易战中关税作为选举武器的政治地理学。中国精准瞄准摇摆州实施报复性关税，以最大化总统选举的政治压力。IO。",
+      "added_date": "2026-03-29",
+      "read_status": "unread"
+    },
+    {
+      "id": "lake_etal_2021",
+      "title": "Challenges to the Liberal Order: Reflections on<i>International Organization</i>",
+      "authors": [
+        "David A. Lake",
+        "Lisa L. Martin",
+        "Thomas Risse"
+      ],
+      "year": 2021,
+      "journal": "International Organization",
+      "journal_tier": "T3",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "doi": "10.1017/s0020818320000636",
+      "url": "https://doi.org/10.1017/s0020818320000636",
+      "webvpn_url": null,
+      "nber_wp": null,
+      "ssrn_id": null,
+      "abstract": "Abstract As International Organization commemorates its seventy-fifth anniversary, the Liberal International Order (LIO) that authors in this journal have long analyzed is under challenge, perhaps as never before. The articles in this issue explore the nature of these challenges by examining how the Westphalian order and the LIO have co-constituted one another over time; how both political and economic dynamics internal to the LIO threaten its core aspects; and how external threats combine with these internal dynamics to render the LIO more fragile than ever before. This introduction begins by defining and clarifying what is “liberal,” “international,” and “orderly” about the LIO. It then discusses some central challenges to the LIO, illustrated by the contributors to this issue as well as other sources. Finally, we reflect on the analytical lessons we have learned—or should learn—as the study of the LIO, represented by scholarship in International Organization , has sometimes overlooked or marginalized dynamics that now appear central to the functioning, and dysfunction, of the order itself.",
+      "jel_codes": [],
+      "topics": [
+        5
+      ],
+      "topic_relevance": {},
+      "priority": "recommended",
+      "citations": 386,
+      "tags": [],
+      "notes_zh": "IO创刊75周年特稿，反思自由主义国际秩序的挑战与前景。多位学者审视威权崛起、民粹主义、技术变革对国际秩序的冲击。",
+      "added_date": "2026-03-29",
+      "read_status": "unread"
+    },
+    {
+      "id": "owen_2021",
+      "title": "Domestic Politics, China's Rise, and the Future of the Liberal International Order",
+      "authors": [
+        "Jessica Chen Weiss",
+        "Jeremy Wallace"
+      ],
+      "year": 2021,
+      "journal": "International Organization",
+      "journal_tier": "T3",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "doi": "10.1017/s002081832000048x",
+      "url": "https://doi.org/10.1017/s002081832000048x",
+      "webvpn_url": null,
+      "nber_wp": null,
+      "ssrn_id": null,
+      "abstract": "Abstract With the future of liberal internationalism in question, how will China's growing power and influence reshape world politics? We argue that views of the Liberal International Order (LIO) as integrative and resilient have been too optimistic for two reasons. First, China's ability to profit from within the system has shaken the domestic consensus in the United States on preserving the existing LIO. Second, features of Chinese Communist Party rule chafe against many of the fundamental principles of the LIO, but could coexist with a return to Westphalian principles and markets that are embedded in domestic systems of control. How, then, do authoritarian states like China pick and choose how to engage with key institutions and norms within the LIO? We propose a framework that highlights two domestic variables—centrality and heterogeneity—and their implications for China's international behavior. We illustrate the framework with examples from China's approach to climate change, trade and exchange rates, Internet governance, territorial sovereignty, arms control, and humanitarian intervention. Finally, we conclude by considering what alternative versions of international order might emerge as China's influence grows.",
+      "jel_codes": [],
+      "topics": [
+        5
+      ],
+      "topic_relevance": {},
+      "priority": "recommended",
+      "citations": 154,
+      "tags": [],
+      "notes_zh": "分析国内政治与中国崛起如何共同塑造自由国际秩序的未来。提出自由秩序的韧性取决于民主国家的国内政治走向。IO。",
+      "added_date": "2026-03-29",
+      "read_status": "unread"
+    },
+    {
+      "id": "farrell_newman_2021_janus",
+      "title": "The Janus Face of the Liberal International Information Order: When Global Institutions Are Self-Undermining",
+      "authors": [
+        "Henry Farrell",
+        "Abraham L. Newman"
+      ],
+      "year": 2021,
+      "journal": "International Organization",
+      "journal_tier": "T3",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "doi": "10.1017/s0020818320000302",
+      "url": "https://doi.org/10.1017/s0020818320000302",
+      "webvpn_url": null,
+      "nber_wp": null,
+      "ssrn_id": null,
+      "abstract": "Abstract Scholars and policymakers long believed that norms of global information openness and private-sector governance helped to sustain and promote liberalism. These norms are being increasingly contested within liberal democracies. In this article, we argue that a key source of debate over the Liberal International Information Order (LIIO), a sub-order of the Liberal International Order (LIO), is generated internally by “self-undermining feedback effects,” that is, mechanisms through which institutional arrangements undermine their own political conditions of survival over time. Empirically, we demonstrate how global governance of the Internet, transnational disinformation campaigns, and domestic information governance interact to sow the seeds of this contention. In particular, illiberal states converted norms of openness into a vector of attack, unsettling political bargains in liberal states concerning the LIIO. More generally, we set out a broader research agenda to show how the international relations discipline might better understand institutional change as well as the informational aspects of the current crisis in the LIO.",
+      "jel_codes": [],
+      "topics": [
+        1,
+        4
+      ],
+      "topic_relevance": {},
+      "priority": "recommended",
+      "citations": 78,
+      "tags": [],
+      "notes_zh": "Farrell与Newman对'武器化相互依赖'的延伸：分析自由主义全球信息秩序的两面性——开放的信息网络既促进自由也为国家监控和胁迫提供了工具。IO。",
+      "added_date": "2026-03-29",
+      "read_status": "unread"
+    },
+    {
       "id": "farrell_newman_2019",
       "title": "Weaponized Interdependence: How Global Economic Networks Shape State Coercion",
       "authors": [
@@ -1578,6 +2133,38 @@
       "citations": 207,
       "tags": [],
       "notes_zh": "分析美国大战略为何未发生根本性改变——权力、习惯和外交政策机构如何维持美国的全球介入。",
+      "added_date": "2026-03-29",
+      "read_status": "unread"
+    },
+    {
+      "id": "brautigam_2018",
+      "title": "Mobilizing Market Power: Jurisdictional Expansion as Economic Statecraft",
+      "authors": [
+        "Nikhil Kalyanpur",
+        "Abraham L. Newman"
+      ],
+      "year": 2018,
+      "journal": "International Organization",
+      "journal_tier": "T3",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "doi": "10.1017/s0020818318000334",
+      "url": "https://doi.org/10.1017/s0020818318000334",
+      "webvpn_url": null,
+      "nber_wp": null,
+      "ssrn_id": null,
+      "abstract": "Abstract States with large markets routinely compete with one another to shield domestic regulatory policies from global pressure, export their rules to other jurisdictions, and provide their firms with competitive advantages. Most arguments about market power tend to operationalize the concept in economic terms. In this paper, we argue that a state's ability to leverage or block these adjustment pressures is not only conditioned by their relative economic position but also by the political institutions that govern their markets. Specifically, we expect that where a state chooses to draw jurisdictional boundaries over markets directly shapes its global influence. When a state expands its jurisdiction, harmonizing rules across otherwise distinct subnational or national markets, for example, it can curtail a rival's authority. We test the theory by assessing how changes in internal governance within the European Union altered firm behavior in response to US extraterritorial pressure. Empirically, we examine foreign firm delisting decisions from US stock markets after the adoption of the Sarbanes–Oxley accounting legislation. The act, which included an exogenous compliance shock, follows the harmonization of stock market governance across various European jurisdictions. Econometric analysis of firm-level data illustrates that EU-based companies, which benefited from jurisdictional expansion, were substantially more likely to leave the American market and avoid adjustment pressures. Our findings contribute to debates on the role of political institutions in economic statecraft and suggest the conditions under which future regulatory conflicts will arise between status quo and rising economic powers.",
+      "jel_codes": [],
+      "topics": [
+        1,
+        5
+      ],
+      "topic_relevance": {},
+      "priority": "recommended",
+      "citations": 67,
+      "tags": [],
+      "notes_zh": "研究大国如何通过管辖权扩张来动员市场权力作为经济治国工具。分析美国和欧盟在反垄断、数据保护等领域的域外管辖实践。IO。",
       "added_date": "2026-03-29",
       "read_status": "unread"
     },

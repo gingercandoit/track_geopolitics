@@ -1,11 +1,41 @@
 # T3 供应链与关键资源 (Supply Chains & Resources) — 阅读清单
 
-> 自动生成于 2026-03-29，共 11 篇
+> 自动生成于 2026-03-29，共 16 篇
 > 数据来源：`literature-classic.json`
 
 ---
 
-## T1 — General Top 5 + Finance Top (1 篇)
+## T1 — General Top 5 + Finance Top (4 篇)
+
+### Gene M. Grossman, Elhanan Helpman, Stephen J. Redding (2024) — When Tariffs Disrupt Global Supply Chains
+- **期刊**：American Economic Review [T1]
+- **引用**：113
+- **优先级**：recommended
+- **议题**：T2, T3
+- **DOI**：[10.1257/aer.20211519](https://doi.org/10.1257/aer.20211519)
+- **简评**：研究关税如何通过企业间供应关系传导、扰乱全球供应链。发现关税的供应链传导效应显著，企业需付出巨大搜索成本重建供应关系。
+
+---
+
+### Gene M. Grossman, Elhanan Helpman, Hugo Lhuillier (2023) — Supply Chain Resilience: Should Policy Promote International Diversification or Reshoring?
+- **期刊**：Journal of Political Economy [T1]
+- **引用**：89
+- **优先级**：recommended
+- **议题**：T3
+- **DOI**：[10.1086/725173](https://doi.org/10.1086/725173)
+- **简评**：研究供应链韧性的最优政策设计：政府应促进国际多元化还是国内替代？理论模型表明答案取决于冲击类型和供应链结构。
+
+---
+
+### Pol Antràs, Alonso de Gortari (2020) — On the Geography of Global Value Chains
+- **期刊**：Econometrica [T1]
+- **引用**：359
+- **优先级**：recommended
+- **议题**：T2, T3
+- **DOI**：[10.3982/ecta15362](https://doi.org/10.3982/ecta15362)
+- **简评**：构建全球价值链地理分布的多阶段一般均衡模型。揭示各国在GVC中的专业化模式及其与贸易成本、要素禀赋的关系。
+
+---
 
 ### Daron Acemoğlu, Ufuk Akcigit, Douglas Hanley et al. (2016) — Transition to Clean Technology
 - **期刊**：Journal of Political Economy [T1]
@@ -17,7 +47,17 @@
 
 ---
 
-## T2 — Field Top Journals (4 篇)
+## T2 — Field Top Journals (6 篇)
+
+### Caroline Freund, Aaditya Mattoo, Alen Mulabdić et al. (2024) — Is US trade policy reshaping global supply chains?
+- **期刊**：Journal of International Economics [T2]
+- **引用**：79
+- **优先级**：recommended
+- **议题**：T2, T3
+- **DOI**：[10.1016/j.jinteco.2024.104011](https://doi.org/10.1016/j.jinteco.2024.104011)
+- **简评**：评估美国贸易政策（2018-2022关税战）是否正在重塑全球供应链格局。分析贸易转移、友岸外包等政策效应。
+
+---
 
 ### Davin Chor, Kalina Manova, Zhihong Yu (2021) — Growing like China: Firm performance and global production line position
 - **期刊**：Journal of International Economics [T2]
@@ -26,6 +66,16 @@
 - **议题**：T3, T5
 - **DOI**：[10.1016/j.jinteco.2021.103445](https://doi.org/10.1016/j.jinteco.2021.103445)
 - **简评**：研究中国企业在全球生产线上的位置如何影响其增长表现，分析全球价值链参与对中国经济增长模式的塑造。
+
+---
+
+### Barthélémy Bonadio, Zhen Huo, Andrei A. Levchenko et al. (2021) — Global supply chains in the pandemic
+- **期刊**：Journal of International Economics [T2]
+- **引用**：352
+- **优先级**：recommended
+- **议题**：T2, T3
+- **DOI**：[10.1016/j.jinteco.2021.103534](https://doi.org/10.1016/j.jinteco.2021.103534)
+- **简评**：量化分析新冠疫情期间全球供应链的角色。发现供应链传导放大了疫情对GDP的负面影响约25%。
 
 ---
 

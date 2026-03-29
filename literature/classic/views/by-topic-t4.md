@@ -1,6 +1,6 @@
 # T4 技术竞争与数字治理 (Tech Competition & Digital Governance) — 阅读清单
 
-> 自动生成于 2026-03-29，共 7 篇
+> 自动生成于 2026-03-29，共 8 篇
 > 数据来源：`literature-classic.json`
 
 ---
@@ -29,7 +29,7 @@
 
 ---
 
-## T3 — Political Science / IR Top (2 篇)
+## T3 — Political Science / IR Top (3 篇)
 
 ### Daniel Mügge (2024) — EU AI sovereignty: for whom, to what end, and to whose benefit?
 - **期刊**：Journal of European Public Policy [T3]
@@ -48,6 +48,16 @@
 - **议题**：T4
 - **DOI**：[10.1162/isec_a_00447](https://doi.org/10.1162/isec_a_00447)
 - **简评**：分析中国党国资本主义模式引发的国际反弹——从相互依赖到对抗，研究中国经济模式如何重塑全球经济治理。
+
+---
+
+### Henry Farrell, Abraham L. Newman (2021) — The Janus Face of the Liberal International Information Order: When Global Institutions Are Self-Undermining
+- **期刊**：International Organization [T3]
+- **引用**：78
+- **优先级**：recommended
+- **议题**：T1, T4
+- **DOI**：[10.1017/s0020818320000302](https://doi.org/10.1017/s0020818320000302)
+- **简评**：Farrell与Newman对'武器化相互依赖'的延伸：分析自由主义全球信息秩序的两面性——开放的信息网络既促进自由也为国家监控和胁迫提供了工具。IO。
 
 ---
 

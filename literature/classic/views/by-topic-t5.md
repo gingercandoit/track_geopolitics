@@ -1,6 +1,6 @@
 # T5 地缘政治经济学 (Geopolitical Economy) — 阅读清单
 
-> 自动生成于 2026-03-29，共 29 篇
+> 自动生成于 2026-03-29，共 36 篇
 > 数据来源：`literature-classic.json`
 
 ---
@@ -27,7 +27,7 @@
 
 ---
 
-## T2 — Field Top Journals (9 篇)
+## T2 — Field Top Journals (12 篇)
 
 ### Ilias Alami, Carolina Alves, Bruno Bonizzi et al. (2022) — International financial subordination: a critical research agenda
 - **期刊**：Review of International Political Economy [T2]
@@ -39,6 +39,26 @@
 
 ---
 
+### David Autor, David Dorn, Gordon Hanson (2022) — On the Persistence of the China Shock
+- **期刊**：Brookings Papers on Economic Activity [T2]
+- **引用**：81
+- **优先级**：recommended
+- **议题**：T2, T5
+- **DOI**：[10.1353/eca.2022.0005](https://doi.org/10.1353/eca.2022.0005)
+- **简评**：China Shock的延续研究：评估中国贸易冲击对美国劳动力市场的持久影响(2000-2019)，发现效应远比预期持久。BPEA。
+
+---
+
+### Yi Che, Yi Lu, Justin R. Pierce et al. (2022) — Did trade liberalization with China influence US elections?
+- **期刊**：Journal of International Economics [T2]
+- **引用**：70
+- **优先级**：recommended
+- **议题**：T2, T5
+- **DOI**：[10.1016/j.jinteco.2022.103652](https://doi.org/10.1016/j.jinteco.2022.103652)
+- **简评**：研究对华贸易自由化是否影响了美国选举结果。发现受进口冲击更大的选区政治极化加剧，影响国会选举。
+
+---
+
 ### Davin Chor, Kalina Manova, Zhihong Yu (2021) — Growing like China: Firm performance and global production line position
 - **期刊**：Journal of International Economics [T2]
 - **引用**：138
@@ -46,6 +66,16 @@
 - **议题**：T3, T5
 - **DOI**：[10.1016/j.jinteco.2021.103445](https://doi.org/10.1016/j.jinteco.2021.103445)
 - **简评**：研究中国企业在全球生产线上的位置如何影响其增长表现，分析全球价值链参与对中国经济增长模式的塑造。
+
+---
+
+### Joseph B. Steinberg (2019) — Brexit and the macroeconomic impact of trade policy uncertainty
+- **期刊**：Journal of International Economics [T2]
+- **引用**：172
+- **优先级**：recommended
+- **议题**：T2, T5
+- **DOI**：[10.1016/j.jinteco.2019.01.009](https://doi.org/10.1016/j.jinteco.2019.01.009)
+- **简评**：量化分析脱欧带来的贸易政策不确定性的宏观经济影响。发现不确定性本身（而非实际脱欧）已造成显著GDP损失。
 
 ---
 
@@ -119,7 +149,7 @@
 
 ---
 
-## T3 — Political Science / IR Top (6 篇)
+## T3 — Political Science / IR Top (10 篇)
 
 ### Donato Di Carlo, Luuk Schmitz (2023) — Europe first? The rise of EU industrial policy promoting and protecting the single market
 - **期刊**：Journal of European Public Policy [T3]
@@ -141,6 +171,36 @@
 
 ---
 
+### Sung Eun Kim, Yotam Margalit (2021) — Tariffs As Electoral Weapons: The Political Geography of the US–China Trade War
+- **期刊**：International Organization [T3]
+- **引用**：77
+- **优先级**：recommended
+- **议题**：T2, T5
+- **DOI**：[10.1017/s0020818320000612](https://doi.org/10.1017/s0020818320000612)
+- **简评**：研究中美贸易战中关税作为选举武器的政治地理学。中国精准瞄准摇摆州实施报复性关税，以最大化总统选举的政治压力。IO。
+
+---
+
+### David A. Lake, Lisa L. Martin, Thomas Risse (2021) — Challenges to the Liberal Order: Reflections on<i>International Organization</i>
+- **期刊**：International Organization [T3]
+- **引用**：386
+- **优先级**：recommended
+- **议题**：T5
+- **DOI**：[10.1017/s0020818320000636](https://doi.org/10.1017/s0020818320000636)
+- **简评**：IO创刊75周年特稿，反思自由主义国际秩序的挑战与前景。多位学者审视威权崛起、民粹主义、技术变革对国际秩序的冲击。
+
+---
+
+### Jessica Chen Weiss, Jeremy Wallace (2021) — Domestic Politics, China's Rise, and the Future of the Liberal International Order
+- **期刊**：International Organization [T3]
+- **引用**：154
+- **优先级**：recommended
+- **议题**：T5
+- **DOI**：[10.1017/s002081832000048x](https://doi.org/10.1017/s002081832000048x)
+- **简评**：分析国内政治与中国崛起如何共同塑造自由国际秩序的未来。提出自由秩序的韧性取决于民主国家的国内政治走向。IO。
+
+---
+
 ### John J. Mearsheimer (2019) — Bound to Fail: The Rise and Fall of the Liberal International Order
 - **期刊**：International Security [T3]
 - **引用**：860
@@ -158,6 +218,16 @@
 - **议题**：T5
 - **DOI**：[10.1162/isec_a_00311](https://doi.org/10.1162/isec_a_00311)
 - **简评**：分析美国大战略为何未发生根本性改变——权力、习惯和外交政策机构如何维持美国的全球介入。
+
+---
+
+### Nikhil Kalyanpur, Abraham L. Newman (2018) — Mobilizing Market Power: Jurisdictional Expansion as Economic Statecraft
+- **期刊**：International Organization [T3]
+- **引用**：67
+- **优先级**：recommended
+- **议题**：T1, T5
+- **DOI**：[10.1017/s0020818318000334](https://doi.org/10.1017/s0020818318000334)
+- **简评**：研究大国如何通过管辖权扩张来动员市场权力作为经济治国工具。分析美国和欧盟在反垄断、数据保护等领域的域外管辖实践。IO。
 
 ---
 

@@ -1,6 +1,6 @@
 # T1 制裁与经济管制 (Sanctions & Economic Coercion) — 阅读清单
 
-> 自动生成于 2026-03-29，共 16 篇
+> 自动生成于 2026-03-29，共 19 篇
 > 数据来源：`literature-classic.json`
 
 ---
@@ -17,7 +17,17 @@
 
 ---
 
-## T2 — Field Top Journals (4 篇)
+## T2 — Field Top Journals (5 篇)
+
+### Yi Huang, Chen Lin, Sibo Liu et al. (2023) — Trade networks and firm value: Evidence from the U.S.-China trade war
+- **期刊**：Journal of International Economics [T2]
+- **引用**：213
+- **优先级**：recommended
+- **议题**：T1, T2
+- **DOI**：[10.1016/j.jinteco.2023.103811](https://doi.org/10.1016/j.jinteco.2023.103811)
+- **简评**：利用企业层面贸易网络数据研究中美贸易战对企业价值的影响。发现贸易网络暴露程度显著影响企业股票价值。
+
+---
 
 ### Ilias Alami, Carolina Alves, Bruno Bonizzi et al. (2022) — International financial subordination: a critical research agenda
 - **期刊**：Review of International Political Economy [T2]
@@ -59,7 +69,17 @@
 
 ---
 
-## T3 — Political Science / IR Top (7 篇)
+## T3 — Political Science / IR Top (9 篇)
+
+### Henry Farrell, Abraham L. Newman (2021) — The Janus Face of the Liberal International Information Order: When Global Institutions Are Self-Undermining
+- **期刊**：International Organization [T3]
+- **引用**：78
+- **优先级**：recommended
+- **议题**：T1, T4
+- **DOI**：[10.1017/s0020818320000302](https://doi.org/10.1017/s0020818320000302)
+- **简评**：Farrell与Newman对'武器化相互依赖'的延伸：分析自由主义全球信息秩序的两面性——开放的信息网络既促进自由也为国家监控和胁迫提供了工具。IO。
+
+---
 
 ### Henry Farrell, Abraham L. Newman (2019) — Weaponized Interdependence: How Global Economic Networks Shape State Coercion
 - **期刊**：International Security [T3]
@@ -78,6 +98,16 @@
 - **议题**：T1
 - **DOI**：[10.1093/jogss/ogz016](https://doi.org/10.1093/jogss/ogz016)
 - **简评**：分析叙利亚难民危机对约旦、黎巴嫩和土耳其外交政策决策的影响——难民问题如何成为地缘政治博弈的筹码。
+
+---
+
+### Nikhil Kalyanpur, Abraham L. Newman (2018) — Mobilizing Market Power: Jurisdictional Expansion as Economic Statecraft
+- **期刊**：International Organization [T3]
+- **引用**：67
+- **优先级**：recommended
+- **议题**：T1, T5
+- **DOI**：[10.1017/s0020818318000334](https://doi.org/10.1017/s0020818318000334)
+- **简评**：研究大国如何通过管辖权扩张来动员市场权力作为经济治国工具。分析美国和欧盟在反垄断、数据保护等领域的域外管辖实践。IO。
 
 ---
 

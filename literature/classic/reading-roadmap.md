@@ -1,9 +1,9 @@
 # 阅读路线图 (Reading Roadmap)
 
 > 按议题 → 子主题 → 优先级排列。Core 必读，Recommended 推荐，Reference 参考。
-> 总计 76 篇论文
+> 总计 94 篇论文
 
-## T1: 制裁与经济管制 (16 篇)
+## T1: 制裁与经济管制 (19 篇)
 
 ### 国际金融体系
 
@@ -14,6 +14,11 @@
 
 ### 其他
 
+- ◆ **Yi Huang, Chen Lin et al. (2023)** — Trade networks and firm value: Evidence from the U.S.-China trade war
+  - Journal of International Economics [T2] | 213 citations
+  - DOI: [https://doi.org/10.1016/j.jinteco.2023.103811](https://doi.org/10.1016/j.jinteco.2023.103811)
+  - 📝 利用企业层面贸易网络数据研究中美贸易战对企业价值的影响。发现贸易网络暴露程度显著影响企业股票价值。
+
 - ◆ **Ilias Alami, Carolina Alves et al. (2022)** — International financial subordination: a critical research agenda
   - Review of International Political Economy [T2] | 196 citations
   - DOI: [https://doi.org/10.1080/09692290.2022.2098359](https://doi.org/10.1080/09692290.2022.2098359)
@@ -23,6 +28,11 @@
   - Annual Review of Economics [T2] | 1239 citations
   - DOI: [https://doi.org/10.1146/annurev-economics-080315-015041](https://doi.org/10.1146/annurev-economics-080315-015041)
   - 📝 综述'中国冲击'文献：中国贸易扩张对美国劳动力市场的大规模调整效应，直接关联中美经贸关系和保护主义回潮。
+
+- ◆ **Henry Farrell, Abraham L. Newman (2021)** — The Janus Face of the Liberal International Information Order: When Global Institutions Are Self-Undermining
+  - International Organization [T3] | 78 citations
+  - DOI: [https://doi.org/10.1017/s0020818320000302](https://doi.org/10.1017/s0020818320000302)
+  - 📝 Farrell与Newman对'武器化相互依赖'的延伸：分析自由主义全球信息秩序的两面性——开放的信息网络既促进自由也为国家监控和胁迫提供了工具。IO。
 
 - ◆ **Gerasimos Tsourapas (2019)** — The Syrian Refugee Crisis and Foreign Policy Decision-Making in Jordan, Lebanon, and Turkey
   - Journal of Global Security Studies [T3] | 207 citations
@@ -78,6 +88,11 @@
   - DOI: [https://doi.org/10.1162/isec_a_00351](https://doi.org/10.1162/isec_a_00351)
   - 📝 '武器化相互依赖'核心论文：全球经济网络的中心节点如何被国家用作胁迫工具——制裁经济学的理论基石。
 
+- ◆ **Nikhil Kalyanpur, Abraham L. Newman (2018)** — Mobilizing Market Power: Jurisdictional Expansion as Economic Statecraft
+  - International Organization [T3] | 67 citations
+  - DOI: [https://doi.org/10.1017/s0020818318000334](https://doi.org/10.1017/s0020818318000334)
+  - 📝 研究大国如何通过管辖权扩张来动员市场权力作为经济治国工具。分析美国和欧盟在反垄断、数据保护等领域的域外管辖实践。IO。
+
 - ◆ **Dursun Peksen, Byunghwan Son (2015)** — Economic coercion and currency crises in target countries
   - Journal of Peace Research [T3] | 112 citations
   - DOI: [https://doi.org/10.1177/0022343314563636](https://doi.org/10.1177/0022343314563636)
@@ -97,7 +112,7 @@
 
 ---
 
-## T2: 贸易与产业竞争 (39 篇)
+## T2: 贸易与产业竞争 (52 篇)
 
 ### 关税与贸易战
 
@@ -106,10 +121,20 @@
   - DOI: [https://doi.org/10.1257/aeri.20230094](https://doi.org/10.1257/aeri.20230094)
   - 📝 量化中美贸易战引发的全球贸易重新配置：'旁观者'国家从被加税产品中获得净出口机会，贸易战效应不仅是双边转移。
 
+- ◆ **Gene M. Grossman, Elhanan Helpman et al. (2024)** — When Tariffs Disrupt Global Supply Chains
+  - American Economic Review [T1] | 113 citations
+  - DOI: [https://doi.org/10.1257/aer.20211519](https://doi.org/10.1257/aer.20211519)
+  - 📝 研究关税如何通过企业间供应关系传导、扰乱全球供应链。发现关税的供应链传导效应显著，企业需付出巨大搜索成本重建供应关系。
+
 - ★ **Pablo Fajgelbaum, Pinelopi Goldberg et al. (2019)** — The Return to Protectionism*
   - The Quarterly Journal of Economics [T1] | 774 citations
   - DOI: [https://doi.org/10.1093/qje/qjz036](https://doi.org/10.1093/qje/qjz036)
   - 📝 量化2018年美国加征关税及贸易伙伴报复的短期福利影响，发现关税完全传导至美国进口价格，消费者承担全部成本。
+
+- ◆ **Loren Brandt, Johannes Van Biesebroeck et al. (2017)** — WTO Accession and Performance of Chinese Manufacturing Firms
+  - American Economic Review [T1] | 824 citations
+  - DOI: [https://doi.org/10.1257/aer.20121266](https://doi.org/10.1257/aer.20121266)
+  - 📝 研究中国加入WTO后制造业企业的绩效变化。发现贸易自由化通过竞争加剧和资源重新配置提高了整体生产率。AER。
 
 - ◆ **Ralph Ossa (2014)** — Trade Wars and Trade Talks with Data
   - American Economic Review [T1] | 328 citations
@@ -121,15 +146,35 @@
   - DOI: [https://doi.org/10.1257/aer.101.4.1238](https://doi.org/10.1257/aer.101.4.1238)
   - 📝 实证分析WTO谈判的实际内容——各国到底在谈什么？发现成员国在关税约束和市场准入方面存在系统性的谈判模式。
 
+- ◆ **Yi Huang, Chen Lin et al. (2023)** — Trade networks and firm value: Evidence from the U.S.-China trade war
+  - Journal of International Economics [T2] | 213 citations
+  - DOI: [https://doi.org/10.1016/j.jinteco.2023.103811](https://doi.org/10.1016/j.jinteco.2023.103811)
+  - 📝 利用企业层面贸易网络数据研究中美贸易战对企业价值的影响。发现贸易网络暴露程度显著影响企业股票价值。
+
+- ◆ **Jiandong Ju, Hong Ma et al. (2023)** — Trade wars and industrial policy competitions: Understanding the US-China economic conflicts
+  - Journal of Monetary Economics [T2] | 63 citations
+  - DOI: [https://doi.org/10.1016/j.jmoneco.2023.10.012](https://doi.org/10.1016/j.jmoneco.2023.10.012)
+  - 📝 将中美经济冲突建模为贸易战与产业政策竞争的双重博弈。分析关税与补贴的互动效应及全球福利影响。
+
 - ◆ **Pablo Fajgelbaum, Amit Khandelwal (2022)** — The Economic Impacts of the US–China Trade War
   - Annual Review of Economics [T2] | 310 citations
   - DOI: [https://doi.org/10.1146/annurev-economics-051420-110410](https://doi.org/10.1146/annurev-economics-051420-110410)
   - 📝 综合量化中美贸易战的经济影响：关税传导、贸易转移、福利损失和政治经济效应。
 
+- ◆ **Lingduo Jiang, Yi Lu et al. (2022)** — Responses of exporters to trade protectionism: Inferences from the US-China trade war
+  - Journal of International Economics [T2] | 118 citations
+  - DOI: [https://doi.org/10.1016/j.jinteco.2022.103687](https://doi.org/10.1016/j.jinteco.2022.103687)
+  - 📝 研究中美贸易战中出口商的应对策略。发现企业通过调整价格、产品组合和目的地市场来应对保护主义关税。
+
 - ★ **Mary Amiti, Stephen J. Redding et al. (2019)** — The Impact of the 2018 Tariffs on Prices and Welfare
   - The Journal of Economic Perspectives [T2] | 729 citations
   - DOI: [https://doi.org/10.1257/jep.33.4.187](https://doi.org/10.1257/jep.33.4.187)
   - 📝 量化2018年美国关税对进口价格和消费者福利的影响，发现关税几乎完全由美国进口商承担，是贸易战实证文献的核心参考。
+
+- ◆ **Sung Eun Kim, Yotam Margalit (2021)** — Tariffs As Electoral Weapons: The Political Geography of the US–China Trade War
+  - International Organization [T3] | 77 citations
+  - DOI: [https://doi.org/10.1017/s0020818320000612](https://doi.org/10.1017/s0020818320000612)
+  - 📝 研究中美贸易战中关税作为选举武器的政治地理学。中国精准瞄准摇摆州实施报复性关税，以最大化总统选举的政治压力。IO。
 
 - ○ **Pablo Fajgelbaum, Pinelopi Goldberg et al. (2022)** — The US-China Trade War and Global Reallocations
   - World Bank, Washington, DC eBooks [WP] | 56 citations
@@ -146,10 +191,7 @@
   - DOI: [https://doi.org/10.3386/w26434](https://doi.org/10.3386/w26434)
   - 📝 研究特朗普贸易战是否影响了2018年中期选举——贸易政策的政治经济反馈效应。
 
-- ◆ **Emily J. Blanchard, Chad P. Bown et al. (2016)** — Global Supply Chains and Trade Policy
-  - National Bureau of Economic Research [WP] | 148 citations
-  - DOI: [https://doi.org/10.3386/w21883](https://doi.org/10.3386/w21883)
-  - 📝 分析全球供应链如何改变各国贸易政策激励——上下游产业链接使保护主义成本更高，改变了最优关税计算。
+  *(另有 1 篇，见 CSV 完整索引)*
 
 ### 产业政策
 
@@ -193,6 +235,68 @@
   - DOI: [https://doi.org/10.1111/dech.12570](https://doi.org/10.1111/dech.12570)
   - 📝 Ha-Joon Chang论21世纪产业政策——为什么产业政策回归？新一代产业政策的理论基础和实践模式。
 
+### 其他
+
+- ◆ **Pol Antràs, Alonso de Gortari (2020)** — On the Geography of Global Value Chains
+  - Econometrica [T1] | 359 citations
+  - DOI: [https://doi.org/10.3982/ecta15362](https://doi.org/10.3982/ecta15362)
+  - 📝 构建全球价值链地理分布的多阶段一般均衡模型。揭示各国在GVC中的专业化模式及其与贸易成本、要素禀赋的关系。
+
+- ○ **Ralph Ossa (2012)** — Profits in the “New Trade” Approach to Trade Negotiations
+  - American Economic Review [T1] | 27 citations
+  - DOI: [https://doi.org/10.1257/aer.102.3.466](https://doi.org/10.1257/aer.102.3.466)
+  - 📝 在'新贸易'理论框架下分析贸易谈判中的利润转移动机，揭示企业利润在贸易协定谈判中的核心作用。
+
+- ◆ **JaeBin Ahn, Mary Amiti et al. (2011)** — Trade Finance and the Great Trade Collapse
+  - American Economic Review [T1] | 221 citations
+  - DOI: [https://doi.org/10.1257/aer.101.3.298](https://doi.org/10.1257/aer.101.3.298)
+  - 📝 研究贸易融资渠道在2008-09年全球贸易大崩溃中的作用，分析金融危机如何通过贸易信贷收缩放大贸易下降。
+
+- ◆ **Caroline Freund, Aaditya Mattoo et al. (2024)** — Is US trade policy reshaping global supply chains?
+  - Journal of International Economics [T2] | 79 citations
+  - DOI: [https://doi.org/10.1016/j.jinteco.2024.104011](https://doi.org/10.1016/j.jinteco.2024.104011)
+  - 📝 评估美国贸易政策（2018-2022关税战）是否正在重塑全球供应链格局。分析贸易转移、友岸外包等政策效应。
+
+- ○ **Holger Breinlich, Elsa Leromain et al. (2021)** — THE BREXIT VOTE, INFLATION AND U.K. LIVING STANDARDS
+  - International Economic Review [T2] | 55 citations
+  - DOI: [https://doi.org/10.1111/iere.12541](https://doi.org/10.1111/iere.12541)
+  - 📝 量化脱欧公投通过汇率贬值对英国消费者物价和生活水平的影响，是地缘政治事件（脱欧）经济后果的直接度量。
+
+- ◆ **Barthélémy Bonadio, Zhen Huo et al. (2021)** — Global supply chains in the pandemic
+  - Journal of International Economics [T2] | 352 citations
+  - DOI: [https://doi.org/10.1016/j.jinteco.2021.103534](https://doi.org/10.1016/j.jinteco.2021.103534)
+  - 📝 量化分析新冠疫情期间全球供应链的角色。发现供应链传导放大了疫情对GDP的负面影响约25%。
+
+- ◆ **Joseph B. Steinberg (2019)** — Brexit and the macroeconomic impact of trade policy uncertainty
+  - Journal of International Economics [T2] | 172 citations
+  - DOI: [https://doi.org/10.1016/j.jinteco.2019.01.009](https://doi.org/10.1016/j.jinteco.2019.01.009)
+  - 📝 量化分析脱欧带来的贸易政策不确定性的宏观经济影响。发现不确定性本身（而非实际脱欧）已造成显著GDP损失。
+
+- ★ **Dani Rodrik (2015)** — Premature deindustrialization
+  - Journal of Economic Growth [T2] | 1708 citations
+  - DOI: [https://doi.org/10.1007/s10887-015-9122-3](https://doi.org/10.1007/s10887-015-9122-3)
+  - 📝 提出'过早去工业化'概念：发展中国家在更低收入水平就开始去工业化，对全球南方的发展战略和产业政策选择有重大影响。
+
+- ◆ **Ralph Ossa (2015)** — Why trade matters after all
+  - Journal of International Economics [T2] | 240 citations
+  - DOI: [https://doi.org/10.1016/j.jinteco.2015.07.002](https://doi.org/10.1016/j.jinteco.2015.07.002)
+  - 📝 论证贸易为何依然重要——通过纳入产品内专业化，证明贸易福利收益远超传统模型估计。
+
+- ◆ **Bettina Becker (2014)** — PUBLIC R&amp;D POLICIES AND PRIVATE R&amp;D INVESTMENT: A SURVEY OF THE EMPIRICAL EVIDENCE
+  - Journal of Economic Surveys [T2] | 458 citations
+  - DOI: [https://doi.org/10.1111/joes.12074](https://doi.org/10.1111/joes.12074)
+  - 📝 综述公共R&D政策对私人R&D投资的影响文献——产业政策中技术补贴有效性的实证依据汇总。
+
+- ★ **Dani Rodrik (2018)** — Understanding Economic Policy Reform
+  -  [other] | 1283 citations
+  - DOI: [https://doi.org/10.4324/9780429498893-10](https://doi.org/10.4324/9780429498893-10)
+  - 📝 Dani Rodrik论经济政策改革——全球化背景下发展中国家的政策空间、制度约束和改革路径。
+
+- ★ **Dani Rodrik (2018)** — Populism and the economics of globalization
+  - Journal of International Business Policy [other] | 1268 citations
+  - DOI: [https://doi.org/10.1057/s42214-018-0001-4](https://doi.org/10.1057/s42214-018-0001-4)
+  - 📝 分析贸易协定到底做了什么——超越传统的市场准入视角，揭示现代贸易协定如何重塑国内制度和监管空间。
+
 ### 贸易自由化与福利
 
 - ★ **Lorenzo Caliendo, Fernando Parro (2014)** — Estimates of the Trade and Welfare Effects of NAFTA
@@ -210,10 +314,20 @@
   - DOI: [https://doi.org/10.1086/659371](https://doi.org/10.1086/659371)
   - 📝 提出GATT/WTO贸易谈判的'新贸易'理论，在规模经济和不完全竞争条件下推导最优关税与谈判结构。
 
+- ◆ **Yi Che, Yi Lu et al. (2022)** — Did trade liberalization with China influence US elections?
+  - Journal of International Economics [T2] | 70 citations
+  - DOI: [https://doi.org/10.1016/j.jinteco.2022.103652](https://doi.org/10.1016/j.jinteco.2022.103652)
+  - 📝 研究对华贸易自由化是否影响了美国选举结果。发现受进口冲击更大的选区政治极化加剧，影响国会选举。
+
 - ○ **Giovanni Maggi, Ralph Ossa (2021)** — The Political Economy of Deep Integration
   - Annual Review of Economics [T2] | 33 citations
   - DOI: [https://doi.org/10.1146/annurev-economics-121020-032425](https://doi.org/10.1146/annurev-economics-121020-032425)
   - 📝 分析'深度一体化'(边境后规则)的政治经济学——为什么贸易协定越来越涉及国内监管？揭示贸易治理从关税到规则的转变。
+
+- ◆ **Qing Liu, Hong Ma (2020)** — Trade policy uncertainty and innovation: Firm level evidence from China’s WTO accession
+  - Journal of International Economics [T2] | 235 citations
+  - DOI: [https://doi.org/10.1016/j.jinteco.2020.103387](https://doi.org/10.1016/j.jinteco.2020.103387)
+  - 📝 利用中国加入WTO前后的企业数据研究贸易政策不确定性对创新的影响。发现不确定性降低显著刺激了企业创新投入。
 
 - ◆ **Dani Rodrik (2018)** — What Do Trade Agreements Really Do?
   - The Journal of Economic Perspectives [T2] | 486 citations
@@ -242,47 +356,10 @@
   - DOI: [https://doi.org/10.1257/aer.103.6.2121](https://doi.org/10.1257/aer.103.6.2121)
   - 📝 估计中国进口竞争对美国本地劳动力市场的冲击('中国综合征')，开创了贸易冲击的区域劳动市场分析范式，直接关联中美经贸摩擦。
 
-### 其他
-
-- ○ **Ralph Ossa (2012)** — Profits in the “New Trade” Approach to Trade Negotiations
-  - American Economic Review [T1] | 27 citations
-  - DOI: [https://doi.org/10.1257/aer.102.3.466](https://doi.org/10.1257/aer.102.3.466)
-  - 📝 在'新贸易'理论框架下分析贸易谈判中的利润转移动机，揭示企业利润在贸易协定谈判中的核心作用。
-
-- ◆ **JaeBin Ahn, Mary Amiti et al. (2011)** — Trade Finance and the Great Trade Collapse
-  - American Economic Review [T1] | 221 citations
-  - DOI: [https://doi.org/10.1257/aer.101.3.298](https://doi.org/10.1257/aer.101.3.298)
-  - 📝 研究贸易融资渠道在2008-09年全球贸易大崩溃中的作用，分析金融危机如何通过贸易信贷收缩放大贸易下降。
-
-- ○ **Holger Breinlich, Elsa Leromain et al. (2021)** — THE BREXIT VOTE, INFLATION AND U.K. LIVING STANDARDS
-  - International Economic Review [T2] | 55 citations
-  - DOI: [https://doi.org/10.1111/iere.12541](https://doi.org/10.1111/iere.12541)
-  - 📝 量化脱欧公投通过汇率贬值对英国消费者物价和生活水平的影响，是地缘政治事件（脱欧）经济后果的直接度量。
-
-- ★ **Dani Rodrik (2015)** — Premature deindustrialization
-  - Journal of Economic Growth [T2] | 1708 citations
-  - DOI: [https://doi.org/10.1007/s10887-015-9122-3](https://doi.org/10.1007/s10887-015-9122-3)
-  - 📝 提出'过早去工业化'概念：发展中国家在更低收入水平就开始去工业化，对全球南方的发展战略和产业政策选择有重大影响。
-
-- ◆ **Ralph Ossa (2015)** — Why trade matters after all
-  - Journal of International Economics [T2] | 240 citations
-  - DOI: [https://doi.org/10.1016/j.jinteco.2015.07.002](https://doi.org/10.1016/j.jinteco.2015.07.002)
-  - 📝 论证贸易为何依然重要——通过纳入产品内专业化，证明贸易福利收益远超传统模型估计。
-
-- ◆ **Bettina Becker (2014)** — PUBLIC R&amp;D POLICIES AND PRIVATE R&amp;D INVESTMENT: A SURVEY OF THE EMPIRICAL EVIDENCE
-  - Journal of Economic Surveys [T2] | 458 citations
-  - DOI: [https://doi.org/10.1111/joes.12074](https://doi.org/10.1111/joes.12074)
-  - 📝 综述公共R&D政策对私人R&D投资的影响文献——产业政策中技术补贴有效性的实证依据汇总。
-
-- ★ **Dani Rodrik (2018)** — Understanding Economic Policy Reform
-  -  [other] | 1283 citations
-  - DOI: [https://doi.org/10.4324/9780429498893-10](https://doi.org/10.4324/9780429498893-10)
-  - 📝 Dani Rodrik论经济政策改革——全球化背景下发展中国家的政策空间、制度约束和改革路径。
-
-- ★ **Dani Rodrik (2018)** — Populism and the economics of globalization
-  - Journal of International Business Policy [other] | 1268 citations
-  - DOI: [https://doi.org/10.1057/s42214-018-0001-4](https://doi.org/10.1057/s42214-018-0001-4)
-  - 📝 分析贸易协定到底做了什么——超越传统的市场准入视角，揭示现代贸易协定如何重塑国内制度和监管空间。
+- ◆ **David Autor, David Dorn et al. (2022)** — On the Persistence of the China Shock
+  - Brookings Papers on Economic Activity [T2] | 81 citations
+  - DOI: [https://doi.org/10.1353/eca.2022.0005](https://doi.org/10.1353/eca.2022.0005)
+  - 📝 China Shock的延续研究：评估中国贸易冲击对美国劳动力市场的持久影响(2000-2019)，发现效应远比预期持久。BPEA。
 
 ### 反倾销与贸易救济
 
@@ -310,14 +387,29 @@
 
 ---
 
-## T3: 供应链与关键资源 (11 篇)
+## T3: 供应链与关键资源 (16 篇)
 
 ### 其他
+
+- ◆ **Gene M. Grossman, Elhanan Helpman et al. (2024)** — When Tariffs Disrupt Global Supply Chains
+  - American Economic Review [T1] | 113 citations
+  - DOI: [https://doi.org/10.1257/aer.20211519](https://doi.org/10.1257/aer.20211519)
+  - 📝 研究关税如何通过企业间供应关系传导、扰乱全球供应链。发现关税的供应链传导效应显著，企业需付出巨大搜索成本重建供应关系。
 
 - ★ **Daron Acemoğlu, Ufuk Akcigit et al. (2016)** — Transition to Clean Technology
   - Journal of Political Economy [T1] | 950 citations
   - DOI: [https://doi.org/10.1086/684511](https://doi.org/10.1086/684511)
   - 📝 研究环境政策如何引导从污染技术向清洁技术的创新转型，涉及碳关税(CBAM)和绿色产业政策竞争的理论基础。
+
+- ◆ **Caroline Freund, Aaditya Mattoo et al. (2024)** — Is US trade policy reshaping global supply chains?
+  - Journal of International Economics [T2] | 79 citations
+  - DOI: [https://doi.org/10.1016/j.jinteco.2024.104011](https://doi.org/10.1016/j.jinteco.2024.104011)
+  - 📝 评估美国贸易政策（2018-2022关税战）是否正在重塑全球供应链格局。分析贸易转移、友岸外包等政策效应。
+
+- ◆ **Barthélémy Bonadio, Zhen Huo et al. (2021)** — Global supply chains in the pandemic
+  - Journal of International Economics [T2] | 352 citations
+  - DOI: [https://doi.org/10.1016/j.jinteco.2021.103534](https://doi.org/10.1016/j.jinteco.2021.103534)
+  - 📝 量化分析新冠疫情期间全球供应链的角色。发现供应链传导放大了疫情对GDP的负面影响约25%。
 
 - ★ **Mary Amiti, Stephen J. Redding et al. (2019)** — The Impact of the 2018 Tariffs on Prices and Welfare
   - The Journal of Economic Perspectives [T2] | 729 citations
@@ -349,7 +441,19 @@
   - DOI: [https://doi.org/10.1057/s41267-019-00269-x](https://doi.org/10.1057/s41267-019-00269-x)
   - 📝 分析全球化的结构性重塑——地缘政治、技术变革和制度碎片化如何改变跨国企业的战略部门和知识产权保护。
 
+### 供应链韧性与重组
+
+- ◆ **Gene M. Grossman, Elhanan Helpman et al. (2023)** — Supply Chain Resilience: Should Policy Promote International Diversification or Reshoring?
+  - Journal of Political Economy [T1] | 89 citations
+  - DOI: [https://doi.org/10.1086/725173](https://doi.org/10.1086/725173)
+  - 📝 研究供应链韧性的最优政策设计：政府应促进国际多元化还是国内替代？理论模型表明答案取决于冲击类型和供应链结构。
+
 ### 全球价值链与生产网络
+
+- ◆ **Pol Antràs, Alonso de Gortari (2020)** — On the Geography of Global Value Chains
+  - Econometrica [T1] | 359 citations
+  - DOI: [https://doi.org/10.3982/ecta15362](https://doi.org/10.3982/ecta15362)
+  - 📝 构建全球价值链地理分布的多阶段一般均衡模型。揭示各国在GVC中的专业化模式及其与贸易成本、要素禀赋的关系。
 
 - ◆ **Davin Chor, Kalina Manova et al. (2021)** — Growing like China: Firm performance and global production line position
   - Journal of International Economics [T2] | 138 citations
@@ -377,7 +481,7 @@
 
 ---
 
-## T4: 技术竞争与数字治理 (7 篇)
+## T4: 技术竞争与数字治理 (8 篇)
 
 ### 其他
 
@@ -408,6 +512,11 @@
   - DOI: [https://doi.org/10.1080/13501763.2024.2318475](https://doi.org/10.1080/13501763.2024.2318475)
   - 📝 批判性分析欧盟AI主权话语——为谁的利益？达成什么目标？揭示技术主权政策背后的政治经济逻辑。
 
+- ◆ **Henry Farrell, Abraham L. Newman (2021)** — The Janus Face of the Liberal International Information Order: When Global Institutions Are Self-Undermining
+  - International Organization [T3] | 78 citations
+  - DOI: [https://doi.org/10.1017/s0020818320000302](https://doi.org/10.1017/s0020818320000302)
+  - 📝 Farrell与Newman对'武器化相互依赖'的延伸：分析自由主义全球信息秩序的两面性——开放的信息网络既促进自由也为国家监控和胁迫提供了工具。IO。
+
 - ◆ **Huw Roberts, Josh Cowls et al. (2020)** — The Chinese approach to artificial intelligence: an analysis of policy, ethics, and regulation
   - AI & Society [other] | 496 citations
   - DOI: [https://doi.org/10.1007/s00146-020-00992-2](https://doi.org/10.1007/s00146-020-00992-2)
@@ -422,7 +531,7 @@
 
 ---
 
-## T5: 地缘政治经济学 (29 篇)
+## T5: 地缘政治经济学 (36 篇)
 
 ### 其他
 
@@ -440,6 +549,16 @@
   - Review of International Political Economy [T2] | 196 citations
   - DOI: [https://doi.org/10.1080/09692290.2022.2098359](https://doi.org/10.1080/09692290.2022.2098359)
   - 📝 提出'国际金融从属'研究议程，分析全球金融等级体系中外围国家的结构性脆弱性——美元体系下的不对称权力关系。
+
+- ◆ **David Autor, David Dorn et al. (2022)** — On the Persistence of the China Shock
+  - Brookings Papers on Economic Activity [T2] | 81 citations
+  - DOI: [https://doi.org/10.1353/eca.2022.0005](https://doi.org/10.1353/eca.2022.0005)
+  - 📝 China Shock的延续研究：评估中国贸易冲击对美国劳动力市场的持久影响(2000-2019)，发现效应远比预期持久。BPEA。
+
+- ◆ **Yi Che, Yi Lu et al. (2022)** — Did trade liberalization with China influence US elections?
+  - Journal of International Economics [T2] | 70 citations
+  - DOI: [https://doi.org/10.1016/j.jinteco.2022.103652](https://doi.org/10.1016/j.jinteco.2022.103652)
+  - 📝 研究对华贸易自由化是否影响了美国选举结果。发现受进口冲击更大的选区政治极化加剧，影响国会选举。
 
 - ◆ **Davin Chor, Kalina Manova et al. (2021)** — Growing like China: Firm performance and global production line position
   - Journal of International Economics [T2] | 138 citations
@@ -466,6 +585,11 @@
   - DOI: [https://doi.org/10.1080/13501763.2023.2202684](https://doi.org/10.1080/13501763.2023.2202684)
   - 📝 '欧洲优先'？分析欧盟产业政策的崛起——从自由市场到保护和促进单一市场的战略转向，是地缘政治驱动的产业政策转型。
 
+- ◆ **Sung Eun Kim, Yotam Margalit (2021)** — Tariffs As Electoral Weapons: The Political Geography of the US–China Trade War
+  - International Organization [T3] | 77 citations
+  - DOI: [https://doi.org/10.1017/s0020818320000612](https://doi.org/10.1017/s0020818320000612)
+  - 📝 研究中美贸易战中关税作为选举武器的政治地理学。中国精准瞄准摇摆州实施报复性关税，以最大化总统选举的政治压力。IO。
+
 - ◆ **Laura Alfaro, Davin Chor (2023)** — Global Supply Chains: The Looming “Great Reallocation”
   - National Bureau of Economic Research [WP] | 116 citations
   - DOI: [https://doi.org/10.3386/w31661](https://doi.org/10.3386/w31661)
@@ -486,20 +610,29 @@
   - DOI: [https://doi.org/10.1007/s00146-020-00992-2](https://doi.org/10.1007/s00146-020-00992-2)
   - 📝 系统分析中国的人工智能发展路径——政策框架、伦理考量和国际标准竞争，是理解中美AI竞争的关键参考。
 
-- ◆ **Manfred Häfner, Simone Tagliapietra (2020)** — The Geopolitics of the Global Energy Transition
-  - Lecture notes in energy [other] | 223 citations
-  - DOI: [https://doi.org/10.1007/978-3-030-39066-2](https://doi.org/10.1007/978-3-030-39066-2)
-  - 📝 分析全球能源转型的地缘政治维度——清洁能源如何重塑能源出口国与进口国的权力关系。
+  *(另有 3 篇，见 CSV 完整索引)*
 
-- ★ **Dani Rodrik (2018)** — Understanding Economic Policy Reform
-  -  [other] | 1283 citations
-  - DOI: [https://doi.org/10.4324/9780429498893-10](https://doi.org/10.4324/9780429498893-10)
-  - 📝 Dani Rodrik论经济政策改革——全球化背景下发展中国家的政策空间、制度约束和改革路径。
+### 地缘政治风险
 
-- ◆ **Robert Wade (2018)** — The Developmental State: Dead or Alive?
-  - Development and Change [other] | 304 citations
-  - DOI: [https://doi.org/10.1111/dech.12381](https://doi.org/10.1111/dech.12381)
-  - 📝 分析'发展型国家'模式是否仍然有效——东亚产业政策经验对当代产业政策辩论（如中国模式）的启示。
+- ◆ **Joseph B. Steinberg (2019)** — Brexit and the macroeconomic impact of trade policy uncertainty
+  - Journal of International Economics [T2] | 172 citations
+  - DOI: [https://doi.org/10.1016/j.jinteco.2019.01.009](https://doi.org/10.1016/j.jinteco.2019.01.009)
+  - 📝 量化分析脱欧带来的贸易政策不确定性的宏观经济影响。发现不确定性本身（而非实际脱欧）已造成显著GDP损失。
+
+- ◆ **Patrick Porter (2018)** — Why America's Grand Strategy Has Not Changed: Power, Habit, and the U.S. Foreign Policy Establishment
+  - International Security [T3] | 207 citations
+  - DOI: [https://doi.org/10.1162/isec_a_00311](https://doi.org/10.1162/isec_a_00311)
+  - 📝 分析美国大战略为何未发生根本性改变——权力、习惯和外交政策机构如何维持美国的全球介入。
+
+- ◆ **Nikhil Kalyanpur, Abraham L. Newman (2018)** — Mobilizing Market Power: Jurisdictional Expansion as Economic Statecraft
+  - International Organization [T3] | 67 citations
+  - DOI: [https://doi.org/10.1017/s0020818318000334](https://doi.org/10.1017/s0020818318000334)
+  - 📝 研究大国如何通过管辖权扩张来动员市场权力作为经济治国工具。分析美国和欧盟在反垄断、数据保护等领域的域外管辖实践。IO。
+
+- ◆ **Robert D. Blackwill, Jennifer Harris (2016)** — War by Other Means: Geoeconomics and Statecraft
+  -  [other] | 305 citations
+  - DOI: [https://doi.org/10.4159/9780674545960](https://doi.org/10.4159/9780674545960)
+  - 📝 '以其他手段进行的战争'：地缘经济学与治国术——系统论述经济工具（制裁、贸易、金融）如何服务于地缘政治目标。
 
 ### 国际关系与秩序
 
@@ -512,6 +645,16 @@
   - China & World Economy [T2] | 80 citations
   - DOI: [https://doi.org/10.1111/j.1749-124x.2011.01232.x](https://doi.org/10.1111/j.1749-124x.2011.01232.x)
   - 📝 研究人民币国际化的早期进展：离岸人民币市场、双边货币互换协议和人民币在国际贸易结算中的角色扩展。
+
+- ◆ **David A. Lake, Lisa L. Martin et al. (2021)** — Challenges to the Liberal Order: Reflections on<i>International Organization</i>
+  - International Organization [T3] | 386 citations
+  - DOI: [https://doi.org/10.1017/s0020818320000636](https://doi.org/10.1017/s0020818320000636)
+  - 📝 IO创刊75周年特稿，反思自由主义国际秩序的挑战与前景。多位学者审视威权崛起、民粹主义、技术变革对国际秩序的冲击。
+
+- ◆ **Jessica Chen Weiss, Jeremy Wallace (2021)** — Domestic Politics, China's Rise, and the Future of the Liberal International Order
+  - International Organization [T3] | 154 citations
+  - DOI: [https://doi.org/10.1017/s002081832000048x](https://doi.org/10.1017/s002081832000048x)
+  - 📝 分析国内政治与中国崛起如何共同塑造自由国际秩序的未来。提出自由秩序的韧性取决于民主国家的国内政治走向。IO。
 
 - ★ **John J. Mearsheimer (2019)** — Bound to Fail: The Rise and Fall of the Liberal International Order
   - International Security [T3] | 860 citations
@@ -563,18 +706,6 @@
   - Journal of International Business Policy [other] | 1268 citations
   - DOI: [https://doi.org/10.1057/s42214-018-0001-4](https://doi.org/10.1057/s42214-018-0001-4)
   - 📝 分析贸易协定到底做了什么——超越传统的市场准入视角，揭示现代贸易协定如何重塑国内制度和监管空间。
-
-### 地缘政治风险
-
-- ◆ **Patrick Porter (2018)** — Why America's Grand Strategy Has Not Changed: Power, Habit, and the U.S. Foreign Policy Establishment
-  - International Security [T3] | 207 citations
-  - DOI: [https://doi.org/10.1162/isec_a_00311](https://doi.org/10.1162/isec_a_00311)
-  - 📝 分析美国大战略为何未发生根本性改变——权力、习惯和外交政策机构如何维持美国的全球介入。
-
-- ◆ **Robert D. Blackwill, Jennifer Harris (2016)** — War by Other Means: Geoeconomics and Statecraft
-  -  [other] | 305 citations
-  - DOI: [https://doi.org/10.4159/9780674545960](https://doi.org/10.4159/9780674545960)
-  - 📝 '以其他手段进行的战争'：地缘经济学与治国术——系统论述经济工具（制裁、贸易、金融）如何服务于地缘政治目标。
 
 ### 全球不平等
 
