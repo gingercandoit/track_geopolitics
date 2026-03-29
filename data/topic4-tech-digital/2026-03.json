@@ -29,7 +29,10 @@
         "tpp_threshold": 21000,
         "dram_bandwidth_threshold_gbps": 6500
       },
-      "week": 1
+      "week": 1,
+      "footnotes": [
+        "BIS = Bureau of Industry and Security（美国商务部工业和安全局）"
+      ]
     },
     {
       "date": "2026-03-05",

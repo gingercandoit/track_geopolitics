@@ -75,7 +75,11 @@
         }
       ],
       "metrics": {},
-      "week": 3
+      "week": 3,
+      "footnotes": [
+        "BRICS = Brazil, Russia, India, China, South Africa（金砖国家）",
+        "NATO = North Atlantic Treaty Organization（北大西洋公约织织）"
+      ]
     },
     {
       "date": "2026-03-16",

@@ -32,7 +32,10 @@
       "metrics": {
         "oil_price_jump_pct": "10-13"
       },
-      "week": 1
+      "week": 1,
+      "footnotes": [
+        "IRGC = Islamic Revolutionary Guard Corps（伊朗伊斯兰革命卫队）"
+      ]
     },
     {
       "date": "2026-03-01",
@@ -53,7 +56,10 @@
       "metrics": {
         "funding_usd": 500000000
       },
-      "week": 1
+      "week": 1,
+      "footnotes": [
+        "DOE = Department of Energy（美国能源部）"
+      ]
     },
     {
       "date": "2026-03-02",
@@ -114,7 +120,10 @@
         "rumaila_capacity_bpd": 1500000,
         "eu_gas_price_eur_mwh": 60
       },
-      "week": 1
+      "week": 1,
+      "footnotes": [
+        "IEA = International Energy Agency（国际能源署）"
+      ]
     },
     {
       "date": "2026-03-03",
@@ -230,7 +239,10 @@
       "metrics": {
         "hormuz_oil_share_pct": 20
       },
-      "week": 2
+      "week": 2,
+      "footnotes": [
+        "LNG = Liquefied Natural Gas（液化天然气）"
+      ]
     },
     {
       "date": "2026-03-11",
@@ -257,7 +269,10 @@
         "iea_member_countries": 32,
         "opec_increase_bpd": 206000
       },
-      "week": 2
+      "week": 2,
+      "footnotes": [
+        "OPEC = Organization of the Petroleum Exporting Countries（石油输出国组织）"
+      ]
     },
     {
       "date": "2026-03-11",
@@ -341,7 +356,10 @@
         }
       ],
       "metrics": {},
-      "week": 2
+      "week": 2,
+      "footnotes": [
+        "USTR = United States Trade Representative（美国贸易代表办公室）"
+      ]
     },
     {
       "date": "2026-03-12",
@@ -363,7 +381,10 @@
         "bilateral_frameworks_signed": 11,
         "bilateral_frameworks_negotiating": 17
       },
-      "week": 2
+      "week": 2,
+      "footnotes": [
+        "EXIM = Export-Import Bank of the United States（美国进出口银行）"
+      ]
     },
     {
       "date": "2026-03-13",

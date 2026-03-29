@@ -22,7 +22,10 @@
         }
       ],
       "metrics": {},
-      "week": 1
+      "week": 1,
+      "footnotes": [
+        "USTR = United States Trade Representative（美国贸易代表办公室）"
+      ]
     },
     {
       "date": "2026-03-09",
@@ -122,7 +125,10 @@
         }
       ],
       "metrics": {},
-      "week": 3
+      "week": 3,
+      "footnotes": [
+        "OECD = Organisation for Economic Co-operation and Development（经济合作与发展组织）"
+      ]
     },
     {
       "date": "2026-03-26",
@@ -167,7 +173,11 @@
         "global_trade_under_wto": "72%",
         "members_not_submitting_subsidy_notifications": 102
       },
-      "week": 4
+      "week": 4,
+      "footnotes": [
+        "WTO = World Trade Organization（世界贸易组织）",
+        "MC14 = WTO 14th Ministerial Conference（WTO第14届部长级会议）"
+      ]
     },
     {
       "date": "2026-03-27",
@@ -220,7 +230,10 @@
       "metrics": {
         "deal_value_eur": 2200000000
       },
-      "week": 4
+      "week": 4,
+      "footnotes": [
+        "FDI = Foreign Direct Investment（外国直接投资）"
+      ]
     },
     {
       "date": "2026-03-28",
