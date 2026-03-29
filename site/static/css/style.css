@@ -714,15 +714,25 @@ h1, h2, h3, h4 {
 }
 
 .event-row-dot {
-  width: 5px; height: 5px;
+  width: 6px; height: 6px;
   border-radius: 50%;
   flex-shrink: 0;
+}
+
+.event-row-type {
+  font-family: 'DM Sans', 'Noto Sans SC', sans-serif;
+  font-size: 0.68rem;
+  font-weight: 600;
+  color: #999;
+  flex-shrink: 0;
+  width: 5rem;
 }
 
 .event-row-title {
   font-size: 0.88rem;
   color: #333;
   flex: 1;
+  min-width: 0;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -737,23 +747,15 @@ h1, h2, h3, h4 {
 
 .event-row.expanded .event-row-arrow { transform: rotate(90deg); }
 
-.event-row-body {
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.2s ease;
-  padding: 0 0.75rem;
-}
-.event-row.expanded + .event-row-body,
-.event-row.expanded .event-row-body { max-height: 200px; }
-
 .event-row-detail {
-  padding: 0.5rem 0 0.75rem 3.5rem;
+  padding: 0.6rem 0.75rem 0.8rem 7rem;
   border-bottom: 1px solid #F0EDE8;
   max-height: 0;
   overflow: hidden;
-  transition: max-height 0.2s ease;
+  transition: max-height 0.25s ease;
 }
-.event-row.expanded + .event-row-detail { max-height: 200px; }
+/* JS sets inline max-height; CSS sibling selector as fallback */
+.event-row.expanded + .event-row-detail { max-height: 300px; }
 
 .event-row-summary {
   font-size: 0.85rem;
