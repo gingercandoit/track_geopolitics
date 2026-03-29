@@ -5,7 +5,7 @@
     "period_start": "2026-03-01",
     "period_end": "2026-03-28",
     "generated_at": "2026-03-29T12:00:00+08:00",
-    "version": "1.0"
+    "version": "1.1"
   },
   "events": [
     {
@@ -406,6 +406,23 @@
       "week": 3
     },
     {
+      "date": "2026-03-16",
+      "type": "政策发布",
+      "title_zh": "美国能源部$5亿关键矿产加工计划",
+      "summary_zh": "美国能源部（DOE）正式启动5亿美元关键矿产加工和电池材料供应链扩展计划，重点包括电池材料加工能力扩展，旨在减少对中国加工环节的依赖。与3月1日宣布的DOE/DIBC资金通道形成配套，进入具体实施阶段。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Mining Reporters",
+          "url": "https://www.miningreporters.com/noticia/news/2026/03/us-doe-500-million-critical-minerals-processing-battery-materials"
+        }
+      ],
+      "metrics": {
+        "funding_usd": 500000000
+      },
+      "week": 3
+    },
+    {
       "date": "2026-03-17",
       "type": "政策发布",
       "title_zh": "联邦公报评估太阳能电池板进口救济有效性",
@@ -529,6 +546,40 @@
         }
       ],
       "metrics": {},
+      "week": 3
+    },
+    {
+      "date": "2026-03-19",
+      "type": "政策发布",
+      "title_zh": "美日关键矿产联合框架正式化",
+      "summary_zh": "美日正式确立关键矿产联合框架，覆盖稀土、锂、铜等战略矿种。首批4个初始项目启动，标志框架从谈判进入落地阶段。这是供应链\"友岸外包\"战略的具体落地举措，与Project Vault形成政策矩阵。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Rare Earth Exchanges",
+          "url": "https://rareearthexchanges.com/news/u-s-japan-move-on-critical-minerals-a-strategic-supply-chain-reset/"
+        }
+      ],
+      "metrics": {
+        "initial_projects": 4
+      },
+      "week": 3
+    },
+    {
+      "date": "2026-03-19",
+      "type": "企业动态",
+      "title_zh": "中国境外最大重稀土冶炼工厂开工",
+      "summary_zh": "REalloys Inc. (ALOY) 宣布全额融资建设中国以外最大的重稀土冶金工厂。重稀土（镝、铽等）是永磁体和军事装备的关键材料，目前全球90%以上加工在中国。这是关键矿产去中国化进程的标志性项目。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Newswire/OilPrice",
+          "url": "http://www.newswire.ca/news-releases/the-largest-heavy-rare-earth-metallization-plant-outside-china-is-now-underway-845423197.html"
+        }
+      ],
+      "metrics": {
+        "china_heavy_ree_processing_share_pct": 90
+      },
       "week": 3
     },
     {
@@ -833,6 +884,8 @@
     "canada_india_uranium_agreement": "19亿美元",
     "solar_tariff": "100%+（印度/印尼/老挝）",
     "urea_price_increase": "+50%",
-    "gulf_aluminum_export_share": "约20%（EGA冶炼厂受损）"
+    "gulf_aluminum_export_share": "约20%（EGA冶炼厂受损）",
+    "us_japan_minerals_framework": "4个初始项目（稀土、锂、铜）",
+    "realloys_heavy_ree_plant": "REalloys Inc. (ALOY) 全额融资开工"
   }
 }

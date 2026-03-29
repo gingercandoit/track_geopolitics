@@ -5,7 +5,7 @@
     "period_start": "2026-03-01",
     "period_end": "2026-03-28",
     "generated_at": "2026-03-29T12:00:00+08:00",
-    "version": "1.0"
+    "version": "1.1"
   },
   "events": [
     {
@@ -48,6 +48,21 @@
       "week": 1
     },
     {
+      "date": "2026-03-08",
+      "type": "外交动态",
+      "title_zh": "王毅：经济技术脱钩只会适得其反",
+      "summary_zh": "中国外交部长王毅在全国人大记者会上表示，“经济和技术脱钩只会适得其反”。这是中方高层对“技术脱钩”趋势最直接的政策表态之一，回应当前中美在半导体、AI等领域的限制措施。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "新华社",
+          "url": "https://english.news.cn/20260308/ba846d7edd9047b7a9f711564dff054d/c.html"
+        }
+      ],
+      "metrics": {},
+      "week": 2
+    },
+    {
       "date": "2026-03-13",
       "type": "媒体深度",
       "title_zh": "Reuters 完整揭示半导体出口管制与关税的联动“门控框架”",
@@ -85,6 +100,40 @@
       ],
       "metrics": {},
       "week": 2
+    },
+    {
+      "date": "2026-03-17",
+      "type": "出口管制",
+      "title_zh": "BIS撤回AI芯片出口管制草案规则",
+      "summary_zh": "BIS已从机构间审查流程中撤回一项可能设定全球AI芯片出口许可新规的草案规则。撤回原因据称与特朗普政府「AI行动计划」方向调整有关，政策信号从严格管制转向更灵活框架。当前管制框架将暂时维持现状。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Export Compliance Daily",
+          "url": "https://exportcompliancedaily.com/article/2026/03/17/bis-withdraws-draft-ai-chip-export-control-rule-2603160006"
+        }
+      ],
+      "metrics": {},
+      "week": 3
+    },
+    {
+      "date": "2026-03-17",
+      "type": "政策发布",
+      "title_zh": "欧盟AI治理框架取得实质进展",
+      "summary_zh": "3月17日EDPS发布文件为AI法案在欧盟公共行政领域的实施提供指南，是EU AI Act从立法到执行阶段的里程碑。3月25日GPPi分析欧洲委员会AI框架公约作为首个具有法律约束力的国际AI条约的意义。中美技术博弈之外，欧盟正构建自主的AI治理路径。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "EDPS",
+          "url": "https://www.edps.europa.eu/data-protection/our-work/publications/ai-act/2026-03-17-towards-trustworthy-ai-eu-public-administration-edps-compass-its-new-role-under-ai-act_en"
+        },
+        {
+          "name": "GPPi",
+          "url": "https://gppi.net/2026/03/25/global-ai-regulation-at-a-time-of-transformation"
+        }
+      ],
+      "metrics": {},
+      "week": 3
     },
     {
       "date": "2026-03-21",
@@ -132,6 +181,21 @@
         {
           "name": "CNBC",
           "url": "https://www.cnbc.com/2026/03/27/meta-manus-china-review-singapore-washing-model-regulation-.html"
+        }
+      ],
+      "metrics": {},
+      "week": 4
+    },
+    {
+      "date": "2026-03-27",
+      "type": "企业动态",
+      "title_zh": "中国科研团体抵制AI学术会议",
+      "summary_zh": "多个中国科学团体宣布抵制某AI学术会议，原因是制裁措施导致中国研究人员被排除在外。学术领域成为技术竞争的新战场，反映出中方在政策表态之外正以具体行动表达对技术遏制的不满。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "新华社",
+          "url": "https://english.news.cn/20260327/ca409f62b8ae42e686cdb9e0064b57f6/c.html"
         }
       ],
       "metrics": {},
@@ -202,6 +266,9 @@
     "pax_silica_fund": "2.5亿美元（半导体外交）",
     "investment_for_export_threshold": "20万颗以上需在美投资",
     "semiconductor_trade_agreement_deadline": "4月14日（商务部长+USTR）",
-    "semiconductor_market_report_deadline": "7月1日（商务部长→总统）"
+    "semiconductor_market_report_deadline": "7月1日（商务部长→总统）",
+    "bis_draft_rule_status": "已撤回（3月17日，原定设定AI芯片全球出口许可新规）",
+    "chinese_ai_conference_boycott": "多个科研团体参与（3月27日）",
+    "eu_ai_act_progress": "EDPS发布公共行政应用指南（3月17日）"
   }
 }

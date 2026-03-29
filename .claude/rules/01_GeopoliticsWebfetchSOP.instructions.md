@@ -284,7 +284,7 @@ site:english.news.cn + technology / chip / semiconductor / AI
 "Xinhua" + export control / technology restriction / chip
 ```
 
-#### Topic 5：地缘政治信息池 (topic5-inbox)
+#### Topic 5：地缘政治信息池 (topic5-geopolitics)
 
 > **定位**：T5 是不设门槛的信息漏斗入口（catch-all inbox）。所有 A-D 层的地缘政治/外交/安全事件，只要不明确属于 T1-T4 的某一个议题，都收入 T5。用户浏览 T5 时发现感兴趣的条目，可以讨论后升级（promote）到 T1-T4 对应议题。
 
@@ -308,6 +308,8 @@ site:www.fmprc.gov.cn/eng + spokesperson / press conference
 ```
 
 > **T5 收录原则**：宁多勿漏。T1-T4 执行严格筛选，T5 执行宽松收录。低持久性条目排除规则（第四节）对 T5 **不适用**——口头警告、例行访问、安理会投票姿态等在 T1-T4 中被排除的事件，T5 照收。唯一排除标准：与地缘政治完全无关的内容（娱乐、体育、纯国内社会新闻）。
+>
+> **排列优先级**：T5 月度总览和条目排列中，最重要的外交/地缘事件（如峰会、联盟变化、军事冲突转折点）放在最前面，低持久性事件排在后面。信息池虽不设门槛，但不等于不分轻重。
 >
 > **升级机制**：用户在浏览 T5 时发现有价值的条目，可指示 AI 将其「升级」到 T1-T4。升级时：(1) 按目标议题的严格标准重新撰写条目，(2) 从 T5 报告中标注「已升级至 TX」但保留原条目，(3) 更新目标议题的报告和 JSON。
 

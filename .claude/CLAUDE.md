@@ -26,7 +26,7 @@ track_geopolitics/
 │   ├── topic2-trade-industrial/ # T2 贸易与产业竞争
 │   ├── topic3-supply-resources/ # T3 供应链与关键资源
 │   ├── topic4-tech-digital/    # T4 技术竞争与数字治理
-│   ├── topic5-diplomacy/       # T5 地缘政治信息池（catch-all inbox）
+│   ├── topic5-geopolitics/     # T5 地缘政治信息池（catch-all inbox）
 │   └── raw/                    # fetch_sources.py 原始拉取
 │       └── 2026-03/            # 按月归档
 ├── reports/                    # 生成的简报产出
@@ -34,7 +34,7 @@ track_geopolitics/
 │   ├── topic2-trade-industrial/ # T2 报告
 │   ├── topic3-supply-resources/ # T3 报告
 │   ├── topic4-tech-digital/    # T4 报告
-│   └── topic5-diplomacy/       # T5 报告
+│   └── topic5-geopolitics/     # T5 报告
 ├── prompts/                    # Prompt 模板存档
 ├── scripts/                    # 自动化脚本（fetch_sources.py）
 ├── config/                     # 工具配置（mcporter.json）
@@ -50,7 +50,7 @@ track_geopolitics/
 | T2 | topic2-trade-industrial | 贸易与产业竞争 | 关税/贸易战, 301/反倾销, 产业政策(CHIPS/IRA), WTO, CBAM |
 | T3 | topic3-supply-resources | 供应链与关键资源 | 供应链重组, 关键矿产, 能源安全, OPEC, 粮食安全 |
 | T4 | topic4-tech-digital | 技术竞争与数字治理 | BIS出口管制, 半导体/AI限制, AI治理, 数据主权 |
-| T5 | topic5-diplomacy | 地缘政治信息池 | 不设门槛的 catch-all inbox，收录 T1-T4 未覆盖的所有地缘政治事件，供浏览发现后升级 |
+| T5 | topic5-geopolitics | 地缘政治信息池 | 不设门槛的 catch-all inbox，收录 T1-T4 未覆盖的所有地缘政治事件，供浏览发现后升级 |
 
 ### 文件命名规范
 
