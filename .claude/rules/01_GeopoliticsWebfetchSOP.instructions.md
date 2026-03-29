@@ -118,6 +118,17 @@ https://www.federalreserve.gov/feeds/press_all.xml
 https://www.eia.gov/rss/press_rss.xml
 ```
 
+**A层中国政府 RSS / 信息源**（英文版优先，中文版补充）：
+```
+https://english.news.cn/rss/world.xml                 # 新华社英文版World
+https://english.news.cn/rss/china.xml                 # 新华社英文版China  
+http://www.news.cn/english/rss/worldrss.xml           # 新华社英文备用
+http://english.mofcom.gov.cn/article/newsrelease/rss  # 商务部英文版（如可用）
+```
+> **中国A层现状**：新华社英文版有RSS且质量高（含全文），外交部/商务部/发改委无可用RSS，需用Exa搜索覆盖。建议搜索关键词：`site:english.news.cn`、`site:english.mofcom.gov.cn`、`site:www.fmprc.gov.cn/eng`。
+> 
+> **注意**：中方官方来源是SOP要求的A层"必须覆盖"，不可用西方媒体转述替代。至少在每条涉及中方行动/反应的事件中，应有一条中方官方来源（新华社/商务部/外交部）作为直接引用。
+
 **补充 C 层 RSS**（高价值，上面未列的）：
 ```
 https://feeds.npr.org/1004/rss.xml                  # NPR World（全文）
@@ -204,6 +215,14 @@ Trump + China + trade / visit / summit
 whitehouse.gov / USTR + China + trade policy
 China Ministry of Commerce + response / tariffs / investigation
 semiconductor / chip + export / restriction / AI
+```
+**中方视角补充搜索**（Exa，每次报告抓取必须至少执行3组）：
+```
+site:english.news.cn + trade / tariff / export control / sanctions
+site:english.mofcom.gov.cn + trade barrier / investigation / countermeasure
+site:www.fmprc.gov.cn/eng + spokesperson / press conference / US
+"China Ministry of Commerce" + investigation / countermeasure / response
+"Xinhua" + trade / tariff / retaliation / countermeasure
 ```
 
 #### 议题2：供应链/贸易政策
@@ -450,6 +469,8 @@ nuclear energy + uranium / enrichment / geopolitics
 - [ ] 已人工审核关键词匹配结果，剔除误匹配（SCMP社会新闻、体育等）
 - [ ] Reddit/X 帖子不作为来源引用，仅用于事件发现（引用其链接到的原始来源）
 - [ ] RSS 重复条目已去重（特别是 State Dept 两个 feed、Bloomberg 三个频道）
+- [ ] **中方官方来源检查**：涉及中方行动/反应的事件，至少有一条中方A层来源（新华社英文版/商务部/外交部）直接引用，不可仅依赖西方媒体转述
+- [ ] **叙事视角平衡**：月度总览中同时呈现"美方行动逻辑"和"中方行动逻辑"，避免单一主体叙事
 - [ ] 已 Git 提交
 
 ---

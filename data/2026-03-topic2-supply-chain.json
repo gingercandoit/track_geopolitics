@@ -4,31 +4,59 @@
     "topic_name_zh": "供应链与贸易政策",
     "period_start": "2026-03-01",
     "period_end": "2026-03-28",
-    "generated_at": "2026-03-28T22:30:00+08:00",
-    "version": "1.0"
+    "generated_at": "2026-03-29T09:00:00+08:00",
+    "version": "2.0"
   },
   "events": [
     {
       "date": "2026-03-01",
       "type": "政策发布",
       "title_zh": "DOE 开放5亿美元关键矿产加工与电池制造资金",
-      "summary_zh": "美国能源部和国防工业基地联盟联合开放5亿美元资金，用于国内关键矿产加工、电池材料制造和回收。",
+      "summary_zh": "美国能源部（DOE）和国防工业基地联盟（DIBC）联合开放5亿美元资金通道，用于国内关键矿产加工、电池材料制造和回收，旨在减少对中国加工环节的依赖。Holland & Knight和DLA Piper均发布了详细法律分析。",
       "source_tier": "A",
       "sources": [
-        {"name": "DLA Piper", "url": "https://www.dlapiper.com/en-us/insights/publications/2026/03/doe-critical-minerals-funding"},
-        {"name": "Holland & Knight", "url": "https://www.hklaw.com/en/insights/publications/2026/03/doe-opens-500m-funding-opportunity-for-battery-materials-processing"}
+        {
+          "name": "DLA Piper",
+          "url": "https://www.dlapiper.com/en-us/insights/publications/2026/03/doe-critical-minerals-funding"
+        },
+        {
+          "name": "Holland & Knight",
+          "url": "https://www.hklaw.com/en/insights/publications/2026/03/doe-opens-500m-funding-opportunity-for-battery-materials-processing"
+        }
       ],
-      "metrics": {"funding_usd_million": 500},
+      "metrics": {
+        "funding_usd": "5亿美元"
+      },
+      "week": 1
+    },
+    {
+      "date": "2026-03-02",
+      "type": "外交动态",
+      "title_zh": "加拿大-印度签署19亿美元铀供应协议，深化关键矿产合作",
+      "summary_zh": "WSJ报道加拿大与印度签署总值19亿美元铀供应协议及多项关键矿产和能源合作框架。在加美关系因关税威胁紧张之际，渥太华积极拓展盟友网络，该协议兼具核能供应安全和构建非中国依赖矿产供应链的双重战略意义。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "WSJ",
+          "url": "https://www.wsj.com/economy/canada-india-strike-1-9-billion-uranium-supply-agreement-as-they-firm-ties-b025d2ca"
+        }
+      ],
+      "metrics": {
+        "deal_value_usd": "19亿美元"
+      },
       "week": 1
     },
     {
       "date": "2026-03-03",
       "type": "智库分析",
       "title_zh": "KPMG 半年度供应链报告：五大趋势重塑经济格局",
-      "summary_zh": "KPMG发布报告认为美国供应链正从间歇性中断进入持续性风险管理新阶段。",
+      "summary_zh": "KPMG发布2026年3月供应链更新报告，核心判断是美国供应链正从\"间歇性中断\"进入\"持续性风险管理\"新阶段，企业从被动应对转向主动构建韧性。",
       "source_tier": "C",
       "sources": [
-        {"name": "KPMG", "url": "https://kpmg.com/us/en/articles/2026/march-2026-supply-chain-update.html"}
+        {
+          "name": "KPMG",
+          "url": "https://kpmg.com/us/en/articles/2026/march-2026-supply-chain-update.html"
+        }
       ],
       "metrics": {},
       "week": 1
@@ -37,22 +65,30 @@
       "date": "2026-03-06",
       "type": "数据发布",
       "title_zh": "2026年回流的真实成本：1840亿美元的供应链大转向",
-      "summary_zh": "Fynqo分析显示美国制造业回流投资总额达1840亿美元，全球化生产模式正在断裂。",
+      "summary_zh": "Fynqo发布分析文章量化美国制造业回流总体规模，回流投资总额达1840亿美元。核心判断：\"哪里生产、哪里交付\"的全球化模式已在贸易保护主义重压下断裂。",
       "source_tier": "C",
       "sources": [
-        {"name": "Fynqo", "url": "https://fynqo.org/2026/03/06/the-true-cost-of-reshoring-2026-a-184-billion-supply-chain-pivot/"}
+        {
+          "name": "Fynqo",
+          "url": "https://fynqo.org/2026/03/06/the-true-cost-of-reshoring-2026-a-184-billion-supply-chain-pivot/"
+        }
       ],
-      "metrics": {"reshoring_investment_usd_billion": 184},
+      "metrics": {
+        "reshoring_investment_usd": "1840亿美元"
+      },
       "week": 1
     },
     {
       "date": "2026-03-09",
       "type": "智库分析",
       "title_zh": "CHIPS Act 是否引发了制造业建设投资热潮？",
-      "summary_zh": "Factory Settings发表深度分析，对CHIPS Act的产业政策效果进行法务会计式审计。",
+      "summary_zh": "Skanda Amarnath在Briefing Book/Factory Settings发表深度分析，对CHIPS Act的产业政策效果进行\"法务会计式\"精细审计，评估联邦补贴与制造业建设投资激增之间的因果关系。",
       "source_tier": "C",
       "sources": [
-        {"name": "Factory Settings", "url": "https://www.factorysettings.org/p/did-the-chips-act-trigger-the-manufacturing"}
+        {
+          "name": "Factory Settings",
+          "url": "https://www.factorysettings.org/p/did-the-chips-act-trigger-the-manufacturing"
+        }
       ],
       "metrics": {},
       "week": 2
@@ -61,22 +97,34 @@
       "date": "2026-03-10",
       "type": "国际机构",
       "title_zh": "UNCTAD 警告霍尔木兹海峡航运中断危及全球贸易",
-      "summary_zh": "UNCTAD发布报告警告美伊冲突导致的霍尔木兹海峡航运中断威胁能源、化肥和脆弱经济体贸易。",
+      "summary_zh": "联合国贸易和发展会议（UNCTAD）发布报告，警告因美伊冲突导致的霍尔木兹海峡航运中断正在威胁能源、化肥和脆弱经济体。全球约20%的石油运输和大量LNG贸易经过该海峡。",
       "source_tier": "B",
       "sources": [
-        {"name": "UNCTAD", "url": "https://unctad.org/node/51538"}
+        {
+          "name": "UNCTAD",
+          "url": "https://unctad.org/node/51538"
+        },
+        {
+          "name": "UN Geneva Newsroom",
+          "url": "https://www.unognewsroom.org/story/en/3061/unog-news-strait-of-hormuz-report-unctad-19mar2026"
+        }
       ],
-      "metrics": {},
+      "metrics": {
+        "oil_transit_share": "约20%"
+      },
       "week": 2
     },
     {
       "date": "2026-03-11",
       "type": "政策发布",
       "title_zh": "欧盟关键原材料法案分析：目标宏大但矿山缺位",
-      "summary_zh": "Materials Dispatch分析EU CRMA设定了激进的2030目标，但许可延迟和资金缺口意味着EU难以弥合战略材料赤字。",
+      "summary_zh": "Materials Dispatch分析欧盟关键原材料法案（CRMA）设定了雄心勃勃的2030供应目标，但许可审批延迟、资金缺口和对中国/刚果（金）的极端依赖意味着EU不太可能弥合其战略材料赤字，与美国Project Vault形成对比。",
       "source_tier": "C",
       "sources": [
-        {"name": "Materials Dispatch", "url": "https://www.materialsdispatch.com/en/blog/europe-s-critical-raw-materials-act-big-targets"}
+        {
+          "name": "Materials Dispatch",
+          "url": "https://www.materialsdispatch.com/en/blog/europe-s-critical-raw-materials-act-big-targets"
+        }
       ],
       "metrics": {},
       "week": 2
@@ -85,20 +133,33 @@
       "date": "2026-03-11",
       "type": "贸易调查",
       "title_zh": "Section 301 产能过剩调查：供应链维度分析",
-      "summary_zh": "USTR两轮301调查涵盖6大行业76经济体，将替代IEEPA关税。中国钢铁产能超需求50%、太阳能占全球80%、电池加工占70%。",
+      "summary_zh": "USTR两轮301调查的供应链影响面极广，涵盖六大行业（钢铁铝材、太阳能、EV、电池与关键矿产、半导体、造船）。中国产能过剩数据突出，USTR明确表示301调查将替代此前IEEPA关税，调查时间线12-18个月，可能影响第三国转运。",
       "source_tier": "A",
       "sources": [
-        {"name": "TariffCenter.AI", "url": "https://tariffcenter.ai/blog/section-301-overcapacity-investigation-2026"},
-        {"name": "Mayer Brown", "url": "https://www.mayerbrown.com/en/insights/publications/2026/03/new-section-301-investigations-on-countries-with-manufacturing-overcapacity-and-forced-labor-enforcement"},
-        {"name": "USTR Federal Register", "url": "https://ustr.gov/sites/default/files/files/Press/Releases/2026/USTR%20301%20FRN%20Industrial%20Excess%20Capacity%203-11-26.pdf"}
+        {
+          "name": "TariffCenter.AI",
+          "url": "https://tariffcenter.ai/blog/section-301-overcapacity-investigation-2026"
+        },
+        {
+          "name": "Mayer Brown",
+          "url": "https://www.mayerbrown.com/en/insights/publications/2026/03/new-section-301-investigations-on-countries-with-manufacturing-overcapacity-and-forced-labor-enforcement"
+        },
+        {
+          "name": "ArentFox Schiff",
+          "url": "https://www.afslaw.com/perspectives/customs-import-compliance-blog/new-tariffs-replace-ieepa-ustr-initiates-sweeping"
+        },
+        {
+          "name": "USTR联邦公报PDF",
+          "url": "https://ustr.gov/sites/default/files/files/Press/Releases/2026/USTR%20301%20FRN%20Industrial%20Excess%20Capacity%203-11-26.pdf"
+        }
       ],
       "metrics": {
-        "target_sectors": 6,
+        "target_industries": 6,
         "economies_investigated": 76,
-        "china_steel_overcapacity_pct": 50,
-        "china_solar_global_share_pct": 80,
-        "china_battery_processing_global_share_pct": 70,
-        "investigation_timeline_months": "6-18"
+        "timeline_months": "12-18（快速程序6-9）",
+        "china_steel_overcapacity": "产能超出国内需求约50%",
+        "china_solar_global_share": "约80%",
+        "china_battery_processing_share": "约70%"
       },
       "week": 2
     },
@@ -106,11 +167,21 @@
       "date": "2026-03-12",
       "type": "外交动态",
       "title_zh": "美国、EU、日本推进关键矿产贸易协定以对抗中国",
-      "summary_zh": "三方即将宣布关键矿产贸易协定框架，核心是价格下限机制。延续2025年10月澳日框架。",
-      "source_tier": "A",
+      "summary_zh": "美国、日本和EU即将宣布建立关键矿产贸易协定框架，核心机制为价格下限框架（border-adjustable price floors），确保盟国生产商能与中国补贴供应竞争。USTR同时征求公众意见，截止3月19日。",
+      "source_tier": "C",
       "sources": [
-        {"name": "Bloomberg Law", "url": "https://news.bloomberglaw.com/environment-and-energy/us-critical-minerals-talks-advance-with-eu-japan-on-price-floor"},
-        {"name": "TT News", "url": "https://www.ttnews.com/articles/us-eu-japan-minerals-china"}
+        {
+          "name": "Bloomberg Law",
+          "url": "https://news.bloomberglaw.com/environment-and-energy/us-critical-minerals-talks-advance-with-eu-japan-on-price-floor"
+        },
+        {
+          "name": "Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/03/13/critical-mineral-talks-us/"
+        },
+        {
+          "name": "TT News",
+          "url": "https://www.ttnews.com/articles/us-eu-japan-minerals-china"
+        }
       ],
       "metrics": {},
       "week": 2
@@ -119,18 +190,21 @@
       "date": "2026-03-12",
       "type": "政策发布",
       "title_zh": "Project Vault：120亿美元美国战略关键矿产储备全解",
-      "summary_zh": "Mayer Brown详解Project Vault：EXIM 100亿+私人资本20亿，覆盖60种关键矿产，OEM需求驱动，配套政府入股、价格下限和承购融资。",
-      "source_tier": "A",
+      "summary_zh": "Mayer Brown发布详尽法律分析揭示Project Vault运作机制：EXIM提供100亿美元直接贷款（92年历史最大笔）配合约20亿美元私人资本，覆盖全部60种USGS 2025关键矿产，初始重点为稀土。运作模式为OEM需求驱动，已与11国签署双边框架、17国谈判中，形成\"盟友优先\"供应架构。",
+      "source_tier": "C",
       "sources": [
-        {"name": "Mayer Brown", "url": "https://www.mayerbrown.com/en/insights/publications/2026/03/critical-minerals-project-vault-and-the-new-us-critical-minerals-playbook"}
+        {
+          "name": "Mayer Brown",
+          "url": "https://www.mayerbrown.com/en/insights/publications/2026/03/critical-minerals-project-vault-and-the-new-us-critical-minerals-playbook"
+        }
       ],
       "metrics": {
-        "project_vault_total_usd_billion": 12,
-        "exim_loan_usd_billion": 10,
-        "private_capital_usd_billion": 2,
-        "critical_minerals_covered": 60,
-        "bilateral_frameworks_signed": 11,
-        "bilateral_frameworks_negotiating": 17
+        "total_scale_usd": "120亿美元",
+        "exim_loan_usd": "100亿美元",
+        "private_capital_usd": "约20亿美元",
+        "minerals_covered": 60,
+        "bilateral_agreements_signed": 11,
+        "bilateral_negotiations_ongoing": 17
       },
       "week": 2
     },
@@ -138,10 +212,13 @@
       "date": "2026-03-13",
       "type": "贸易调查",
       "title_zh": "US ITC 否决对中国阳极材料征收反倾销和反补贴税",
-      "summary_zh": "美国国际贸易委员会投票否决对中国活性阳极材料的AD/CVD，为少见的中国在美贸易救济案中胜诉案例。",
+      "summary_zh": "美国国际贸易委员会（ITC）投票否决对中国产活性阳极材料（AAM）征收反倾销税和反补贴税，是一个少见的中国在美国贸易救济案中\"胜诉\"的案例，中国阳极材料对美出口暂时免于额外关税。",
       "source_tier": "A",
       "sources": [
-        {"name": "Benchmark Minerals", "url": "https://source.benchmarkminerals.com/article/us-itc-votes-against-antidumping-duty-and-countervailing-duty-on-chinese-active-anode-material"}
+        {
+          "name": "Benchmark Minerals",
+          "url": "https://source.benchmarkminerals.com/article/us-itc-votes-against-antidumping-duty-and-countervailing-duty-on-chinese-active-anode-material"
+        }
       ],
       "metrics": {},
       "week": 2
@@ -150,46 +227,50 @@
       "date": "2026-03-16",
       "type": "企业动态",
       "title_zh": "Lynas 签署9600万美元稀土承购协议与价格下限承诺",
-      "summary_zh": "Lynas与美国国防部签署4年期9600万美元稀土氧化物承购协议，Project Vault价格下限机制的具体落地。",
+      "summary_zh": "澳大利亚稀土企业Lynas Rare Earths与美国国防部签署约9600万美元意向书，4年期间购买Lynas美国子公司的轻稀土和重稀土氧化物，是Project Vault价格下限机制的具体落地。",
       "source_tier": "A",
       "sources": [
-        {"name": "Benchmark Minerals", "url": "https://source.benchmarkminerals.com/article/lynas-rare-earths-signs-us-96m-rare-earth-offtake-and-price-floor-commitment-with-dow"}
+        {
+          "name": "Benchmark Minerals",
+          "url": "https://source.benchmarkminerals.com/article/lynas-rare-earths-signs-us-96m-rare-earth-offtake-and-price-floor-commitment-with-dow"
+        }
       ],
-      "metrics": {"lynas_dow_agreement_usd_million": 96, "agreement_years": 4},
+      "metrics": {
+        "offtake_value_usd": "9600万美元",
+        "duration_years": 4
+      },
       "week": 3
     },
     {
       "date": "2026-03-17",
       "type": "数据发布",
       "title_zh": "美国电池进口跌至五年低点",
-      "summary_zh": "Section 301关税提至25%后，美国锂电池进口降至2021年以来最低。2026年美国锂电需求预计182GWh，37%来自BESS。",
+      "summary_zh": "Section 301关税提高至25%后，美国锂电池进口降至2021年以来最低水平。2026年美国锂电需求预计达182GWh（37%来自储能），但仍严重依赖中国LFP电池，暴露\"征税容易替代难\"的困境。",
       "source_tier": "C",
       "sources": [
-        {"name": "Benchmark Minerals", "url": "https://source.benchmarkminerals.com/article/us-battery-imports-fall-to-five-year-low-after-section-301-tariffs-raised-to-25-"}
+        {
+          "name": "Benchmark Minerals",
+          "url": "https://source.benchmarkminerals.com/article/us-battery-imports-fall-to-five-year-low-after-section-301-tariffs-raised-to-25-"
+        }
       ],
-      "metrics": {"us_battery_demand_2026_gwh": 182, "bess_share_pct": 37, "battery_import_low_since": 2021},
-      "week": 3
-    },
-    {
-      "date": "2026-03-17",
-      "type": "国际机构",
-      "title_zh": "UNCTAD 全球贸易更新（2026年3月）",
-      "summary_zh": "UNCTAD发布月度报告，主题为改革贸易规则以推动发展，在WTO部长级会议前夕强调多边体系重要性。",
-      "source_tier": "B",
-      "sources": [
-        {"name": "UNCTAD", "url": "https://unctad.org/publication/global-trade-update-march-2026-reforming-trade-rules-drive-development"}
-      ],
-      "metrics": {},
+      "metrics": {
+        "battery_demand_2026_gwh": 182,
+        "bess_share": "37%",
+        "section_301_tariff_rate": "25%"
+      },
       "week": 3
     },
     {
       "date": "2026-03-19",
       "type": "企业动态",
       "title_zh": "墨西哥近岸外包在2026年持续加速",
-      "summary_zh": "企业因关税波动和远洋运输时间过长，将更多制造和仓储转移到墨西哥。",
+      "summary_zh": "3PL Center报道企业将更多制造和仓储转移到墨西哥的趋势在2026年加速，驱动因素为关税波动性和远洋运输时间过长，墨西哥作为\"友岸外包\"目的地吸引力持续上升。",
       "source_tier": "C",
       "sources": [
-        {"name": "3PL Center", "url": "https://3plcenter.com/nearshoring-to-mexico-2026/"}
+        {
+          "name": "3PL Center",
+          "url": "https://3plcenter.com/nearshoring-to-mexico-2026/"
+        }
       ],
       "metrics": {},
       "week": 3
@@ -198,10 +279,13 @@
       "date": "2026-03-19",
       "type": "政策发布",
       "title_zh": "USTR 征求关键矿产复边协定设计意见",
-      "summary_zh": "关键矿产贸易谈判进入具体条款设计阶段，CTA等行业组织提交公开评论。",
+      "summary_zh": "CTA等行业组织向USTR提交公开评论，涉及复边关键矿产贸易协定的设计、价格下限机制覆盖矿种等核心问题，标志着谈判正从框架意向走向具体条款设计。",
       "source_tier": "A",
       "sources": [
-        {"name": "CTA", "url": "https://www.cta.tech/media/x3gf3esm/cta-comments-to-ustr-on-design-of-plurilateral-agreements-on-critical-minerals.pdf"}
+        {
+          "name": "CTA评论PDF",
+          "url": "https://www.cta.tech/media/x3gf3esm/cta-comments-to-ustr-on-design-of-plurilateral-agreements-on-critical-minerals.pdf"
+        }
       ],
       "metrics": {},
       "week": 3
@@ -210,10 +294,17 @@
       "date": "2026-03-20",
       "type": "外交动态",
       "title_zh": "美日关键矿产伙伴关系进入下一阶段",
-      "summary_zh": "USTR宣布美日矿产伙伴关系新进展，旨在对抗中国主导地位，推进防止供应中断的合作机制。",
-      "source_tier": "A",
+      "summary_zh": "USTR宣布美日关键矿产伙伴关系新进展，旨在对抗中国在关键矿产领域的主导地位，同时推进防止关键矿产供应中断的合作机制。",
+      "source_tier": "C",
       "sources": [
-        {"name": "E&E News / Politico", "url": "https://www.eenews.net/articles/us-japan-take-next-step-on-critical-minerals-partnership-to-counter-china/"}
+        {
+          "name": "E&E News / Politico",
+          "url": "https://www.eenews.net/articles/us-japan-take-next-step-on-critical-minerals-partnership-to-counter-china/"
+        },
+        {
+          "name": "Japan Times",
+          "url": "https://beta.japantimes.co.jp/business/2026/03/16/economy/us-mineral-supply-chain/"
+        }
       ],
       "metrics": {},
       "week": 3
@@ -221,11 +312,14 @@
     {
       "date": "2026-03-25",
       "type": "立法动态",
-      "title_zh": "美国众议院自然资源委员会：释放美国矿产潜力",
-      "summary_zh": "众议院推动加快国内矿产开采许可和审批流程，与行政部门Project Vault形成立法—行政协同。",
+      "title_zh": "美国众议院自然资源委员会：\"释放美国矿产潜力\"",
+      "summary_zh": "众议院自然资源委员会发布\"Unleashing America's Mineral Potential\"声明，推动加快国内矿产开采许可和审批流程，与行政部门的Project Vault形成立法-行政协同。",
       "source_tier": "A",
       "sources": [
-        {"name": "House Natural Resources Committee", "url": "https://naturalresources.house.gov/news/documentsingle.aspx?DocumentID=418689"}
+        {
+          "name": "House Natural Resources Committee",
+          "url": "https://naturalresources.house.gov/news/documentsingle.aspx?DocumentID=418689"
+        }
       ],
       "metrics": {},
       "week": 4
@@ -233,91 +327,193 @@
     {
       "date": "2026-03-26",
       "type": "国际机构",
-      "title_zh": "WTO第14届部长级会议开幕：总干事称世界秩序已不可逆转地改变",
-      "summary_zh": "WTO MC14在雅温得开幕，总干事直言世界秩序不可逆转改变。72%全球贸易仍在WTO规则下，但争端解决瘫痪，102国未提交补贴通知。",
+      "title_zh": "WTO 第14届部长级会议开幕：总干事称\"世界秩序已不可逆转地改变\"",
+      "summary_zh": "WTO MC14在喀麦隆雅温得开幕，总干事奥孔乔-伊韦阉拉称世界秩序和多边体系已不可逆转地改变。72%全球贸易仍在WTO规则下进行，但争端解决机制处于瘫痪状态，102个成员未提交2025年补贴通知。",
       "source_tier": "B",
       "sources": [
-        {"name": "Reuters", "url": "https://www.reuters.com/business/wto-chief-world-order-has-irrevocably-changed-2026-03-26/"}
+        {
+          "name": "WTO",
+          "url": ""
+        }
       ],
-      "metrics": {"wto_subsidy_notifications_filed": 64, "wto_subsidy_notifications_missing": 102, "global_trade_under_wto_rules_pct": 72},
+      "metrics": {
+        "global_trade_under_wto_rules": "72%",
+        "subsidy_notification_submitted": "64/166（38.6%）",
+        "subsidy_notification_missing": 102
+      },
       "week": 4
     },
     {
-      "date": "2026-03-26",
+      "date": "2026-03-27",
       "type": "国际机构",
-      "title_zh": "UNCTAD-WTO 联合贸易数据揭示全球趋势转变",
-      "summary_zh": "在部长级会议前夕联合发布贸易数据分析，揭示全球贸易格局的结构性转变。",
+      "title_zh": "EU对取向电工钢发起保障措施调查",
+      "summary_zh": "WTO通报欧盟对进口取向电工钢（grain-oriented electrical steel）发起保障措施调查。取向电工钢是变压器和电网基础设施核心材料，反映欧盟在关键工业材料上的供应安全关切。",
       "source_tier": "B",
       "sources": [
-        {"name": "UNCTAD", "url": "https://unctad.org/news/unctad-wto-trade-data-highlights-shifting-global-trends-ahead-key-ministerial-talks"}
+        {
+          "name": "WTO",
+          "url": "https://www.wto.org/english/news_e/news26_e/safe_eec_27mar26_348_e.htm"
+        }
       ],
       "metrics": {},
       "week": 4
-    }
-  ],
-  "analysis_articles": [
-    {
-      "date": "2026-03-12",
-      "source": "Mayer Brown",
-      "title": "Critical Minerals: Project Vault and the New US Critical Minerals Playbook",
-      "url": "https://www.mayerbrown.com/en/insights/publications/2026/03/critical-minerals-project-vault-and-the-new-us-critical-minerals-playbook",
-      "key_insight": "Project Vault形成两轨制——盟国投资者配合者获益，未配合者将被排除在盟友供应链之外"
     },
     {
-      "date": "2026-03-17",
-      "source": "TariffCenter.AI",
-      "title": "Section 301 Overcapacity Investigation 2026: What Importers Must Know",
-      "url": "https://tariffcenter.ai/blog/section-301-overcapacity-investigation-2026",
-      "key_insight": "301调查将替代IEEPA关税，6-18个月时间线，如发现第三国转运也可能被征税"
+      "date": "2026-03-27",
+      "type": "媒体深度",
+      "title_zh": "伊朗战争引发氦气供应危机，俄罗斯可能渔翁得利",
+      "summary_zh": "CNBC深度分析氦气已成为伊朗战争对半导体供应链的关键威胁点，波斯湾氦气供应路线中断。俄罗斯作为全球第二大氦气来源（阿穆尔气体加工厂）可能获利，揭示半导体供应链在生产用气体上的隐蔽地缘政治风险。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/03/27/russia-helium-supply-crunch-iran-war.html"
+        }
+      ],
+      "metrics": {},
+      "week": 4
     },
     {
-      "date": "2026-03-03",
-      "source": "KPMG",
-      "title": "Biannual Supply Chain Report: Five Trends Shaping the Economic Landscape",
-      "url": "https://kpmg.com/us/en/articles/2026/march-2026-supply-chain-update.html",
-      "key_insight": "美国供应链从间歇性中断进入持续性风险管理新阶段"
+      "date": "2026-03-27",
+      "type": "企业动态",
+      "title_zh": "全球最大化肥商Yara警告：农民在价格飙升中被挤压",
+      "summary_zh": "WSJ报道全球最大化肥制造商Yara International CEO警告投入成本显著上升但农作物价格未同步上涨，伊朗战争导致全球三分之一经由霍尔木兹的化肥供应中断，尿素价格已上涨50%，威胁北半球春播和2027年粮食供应。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "WSJ",
+          "url": "https://www.wsj.com/finance/commodities-futures/fertilizer-maker-yara-warns-farmers-are-being-squeezed-by-price-surge-amid-war-7d03d933"
+        }
+      ],
+      "metrics": {
+        "urea_price_increase": "+50%",
+        "hormuz_fertilizer_share": "全球三分之一"
+      },
+      "week": 4
+    },
+    {
+      "date": "2026-03-28",
+      "type": "国际机构",
+      "title_zh": "WTO MC14达成电子商务协定路径——66个成员覆盖70%全球贸易",
+      "summary_zh": "WTO MC14取得实质性成果：66个成员通过临时安排为电子商务协定正式生效铺平道路，覆盖约70%全球贸易。同日总干事称MPIA是争端解决改革前的\"信心建设桥梁\"，显示WTO仍有推进多边贸易规则的能力。",
+      "source_tier": "B",
+      "sources": [
+        {
+          "name": "WTO",
+          "url": "https://www.wto.org/english/news_e/news26_e/mc14_28mar26_341_e.htm"
+        },
+        {
+          "name": "WTO MPIA",
+          "url": "https://www.wto.org/english/news_e/news26_e/mc14_28mar26_350_e.htm"
+        }
+      ],
+      "metrics": {
+        "ecommerce_agreement_members": 66,
+        "global_trade_coverage": "约70%"
+      },
+      "week": 4
+    },
+    {
+      "date": "2026-03-28",
+      "type": "数据发布",
+      "title_zh": "中东最大铝生产商冶炼厂在伊朗导弹袭击中严重受损",
+      "summary_zh": "Bloomberg报道阿联酋全球铝业（EGA）最大金属冶炼厂在伊朗导弹和无人机袭击中\"严重受损\"。EGA是中东最大铝生产商，海湾地区占全球原铝出口约20%，意味着供应短缺将从能源扩展到金属。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-28/emirates-global-aluminium-says-smelter-site-damaged-in-attack-mnaeo4uk"
+        }
+      ],
+      "metrics": {
+        "gulf_aluminum_export_share": "约20%"
+      },
+      "week": 4
     }
   ],
+  "analysis_articles": [],
   "background_context": [
     {
-      "date": "2026-02",
-      "title_zh": "特朗普宣布Project Vault——美国战略关键矿产储备",
-      "summary_zh": "白宫仪式发布，背景为2025年中国对稀土镓锗锑实施出口管制"
+      "date": "2026-02-02",
+      "type": "政策发布",
+      "title_zh": "特朗普宣布 Project Vault——美国战略关键矿产储备",
+      "summary_zh": "在白宫仪式上宣布，内阁部长和主要制造商高管出席。背景是2025年全年中国对稀土、镓、锗、锑等关键矿产实施出口管制导致美国供应链生产放缓。Project Vault是美国首次建立OEM需求驱动的公私合营矿产储备，规模120亿美元。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "White House",
+          "url": "https://www.whitehouse.gov/videos/introducing-project-vault-a-critical-mineral-stockpile-for-american-businesses"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/02/03/trump-stockpile-critical-minerals-reserve-project-vault.html/"
+        }
+      ]
     },
     {
       "date": "2026-02-04",
+      "type": "政策发布",
       "title_zh": "特朗普政府提议建立关键矿产优惠贸易区",
-      "summary_zh": "向盟友开放，通过可执行的公平市场价格标准保护成员"
+      "summary_zh": "在关键矿产部长级会议上提出，向盟友和合作伙伴开放。核心机制为通过可执行的公平市场价格标准（price floors）保护成员免受中国补贴导致的全球价格波动，为后续3月美日EU三方价格下限谈判奠定框架。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "State Department",
+          "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/02/2026-critical-minerals-ministerial"
+        }
+      ]
     },
     {
-      "date": "2026-02",
-      "title_zh": "国务卿Rubio主持关键矿产部长级会议",
-      "summary_zh": "与阿根廷、库克群岛等11国签署新双边框架协议"
+      "date": "2026-02-04",
+      "type": "外交动态",
+      "title_zh": "国务卿 Rubio 主持关键矿产部长级会议",
+      "summary_zh": "宣布与阿根廷、库克群岛、厄瓜多尔、几内亚、摩洛哥、巴拉圭、秘鲁、菲律宾、UAE、英国、乌兹别克斯坦签署新的双边框架协议，至此双边矿产框架签署国达11个，另有17国谈判中，构建\"盟友优先\"供应架构。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "State Department",
+          "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/02/2026-critical-minerals-ministerial"
+        },
+        {
+          "name": "State Department (Rubio开幕致辞)",
+          "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/02/opening-remarks-of-the-critical-minerals-ministerial"
+        }
+      ]
     },
     {
-      "date": "2025",
-      "title_zh": "联邦拨款转化为7家矿业公司的股权投资",
-      "summary_zh": "政府直接为私营矿企注资对抗中国国家支持的竞争"
+      "date": "2025-03-01",
+      "type": "行政命令",
+      "title_zh": "特朗普签署行政令加速国内矿产开采，后续将联邦拨款转化为矿企股权",
+      "summary_zh": "2025年3月签署\"Immediate Measures to Increase American Mineral Production\"行政令，在此授权下政府直接入股7家矿业公司，最大单笔为向USA Rare Earth注资16亿美元换取10%股权，还在考虑收购格陵兰Tanbreez稀土矿约8%股权。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "White House (2025 EO)",
+          "url": "https://www.whitehouse.gov/presidential-actions/2025/03/immediate-measures-to-increase-american-mineral-production/"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/us-inject-16-billion-into-rare-earths-miner-10-stake-ft-reports-2026-01-25/"
+        }
+      ]
     }
   ],
   "key_metrics": {
-    "project_vault_total_usd_billion": 12,
-    "exim_loan_usd_billion": 10,
-    "critical_minerals_covered": 60,
-    "doe_battery_funding_usd_million": 500,
-    "lynas_dow_agreement_usd_million": 96,
-    "bilateral_frameworks_signed": 11,
-    "bilateral_frameworks_negotiating": 17,
-    "us_battery_demand_2026_gwh": 182,
-    "battery_import_five_year_low": true,
-    "reshoring_investment_usd_billion": 184,
-    "section_301_target_sectors": 6,
-    "section_301_economies": 76,
-    "china_steel_overcapacity_pct": 50,
-    "china_solar_global_share_pct": 80,
-    "china_battery_processing_global_share_pct": 70,
-    "wto_subsidy_notifications_filed": 64,
-    "wto_subsidy_notifications_missing": 102,
-    "copper_section_232_tariff_pct": 50
+    "project_vault_total": "120亿美元（EXIM 100亿 + 私人资本20亿）",
+    "critical_minerals_covered": "60种（USGS 2025清单全覆盖）",
+    "doe_battery_funding": "5亿美元",
+    "lynas_dow_offtake": "9600万美元/4年",
+    "bilateral_mineral_frameworks": "11国已签 + 17国谈判中",
+    "us_battery_imports": "跌至2021年以来最低",
+    "us_lithium_battery_demand_2026": "182GWh（37%来自BESS）",
+    "section_301_target_industries": "6个（钢铁、太阳能、EV、电池、半导体、造船）",
+    "section_301_economies": "76个",
+    "us_reshoring_investment": "1840亿美元",
+    "wto_subsidy_notification_rate": "64/166（38.6%）",
+    "copper_semis_tariff": "50%（Section 232）",
+    "wto_mc14_ecommerce": "66成员达成路径，覆盖70%全球贸易",
+    "canada_india_uranium_deal": "19亿美元",
+    "urea_price_increase": "+50%（伊朗战争导致）",
+    "gulf_aluminum_export_share": "约20%（EGA冶炼厂受损）"
   }
 }

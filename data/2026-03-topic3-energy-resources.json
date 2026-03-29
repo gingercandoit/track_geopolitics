@@ -4,117 +4,211 @@
     "topic_name_zh": "能源与资源地缘政治",
     "period_start": "2026-03-01",
     "period_end": "2026-03-28",
-    "generated_at": "2026-03-28T23:30:00+08:00",
-    "version": "1.0"
+    "generated_at": "2026-03-29T09:00:00+08:00",
+    "version": "2.0"
   },
   "events": [
     {
       "date": "2026-03-01",
       "type": "数据发布",
       "title_zh": "油价暴涨10-13%，伊朗首轮攻击商船",
-      "summary_zh": "美以空袭伊朗后数小时内布伦特原油跳涨10-13%。IRGC攻击至少四艘油轮，Maersk等主要航运公司暂停霍尔木兹海峡及红海航线。",
-      "source_tier": "A",
+      "summary_zh": "美以空袭后数小时内布伦特原油跳涨10-13%，分析师警告可能触及100美元/桶。同日伊朗革命卫队攻击至少四艘油轮，包括MT Skylight和MKD VYOM，造成人员伤亡。Maersk、CMA CGM、Hapag-Lloyd暂停霍尔木兹海峡及红海航线。",
+      "source_tier": "C",
       "sources": [
-        {"name": "Reuters", "url": "https://www.reuters.com/business/energy/oil-jumps-10-iran-conflict-could-spike-100-barrel-analysts-say-2026-03-01"},
-        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/3/1/how-us-israel-attacks-on-iran-threaten-the-strait-of-hormuz-oil-markets"}
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/energy/oil-jumps-10-iran-conflict-could-spike-100-barrel-analysts-say-2026-03-01"
+        },
+        {
+          "name": "NYT",
+          "url": "https://www.nytimes.com/2026/03/01/business/energy-environment/iran-war-oil-prices.html"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/3/1/how-us-israel-attacks-on-iran-threaten-the-strait-of-hormuz-oil-markets"
+        }
       ],
-      "metrics": {"brent_price_jump_pct": "10-13", "strait_oil_flow_mb_per_day": 20},
+      "metrics": {
+        "oil_price_surge": "10-13%",
+        "tankers_attacked": 4,
+        "global_oil_via_hormuz_pct": "20%"
+      },
       "week": 1
     },
     {
       "date": "2026-03-02",
       "type": "外交动态",
       "title_zh": "IRGC正式宣布封锁霍尔木兹海峡，卡塔尔停产天然气",
-      "summary_zh": "伊朗革命卫队正式确认海峡关闭。卡塔尔停止天然气生产。油轮AIS信号显示海峡通行量降至零。欧洲天然气价格暴涨45%至€46/MWh。",
-      "source_tier": "A",
+      "summary_zh": "伊朗革命卫队高级官员正式确认海峡关闭，威胁任何通过的船只。卡塔尔能源停止天然气生产。油轮AIS信号显示海峡内交通量降至零。欧洲天然气价格暴涨45%，从€30/MWh跃至€46/MWh。",
+      "source_tier": "C",
       "sources": [
-        {"name": "Reuters", "url": "https://www.reuters.com/business/energy/hormuz-shutdown-worsens-after-us-hits-iranian-warship-tankers-stranded-fifth-day-2026-03-04/"},
-        {"name": "Euronews", "url": "https://www.euronews.com/business/2026/03/02/european-gas-prices-jump-by-as-much-as-45-as-qatar-stops-lng-production"}
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/energy/hormuz-shutdown-worsens-after-us-hits-iranian-warship-tankers-stranded-fifth-day-2026-03-04/"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/business/2026/03/02/european-gas-prices-jump-by-as-much-as-45-as-qatar-stops-lng-production"
+        },
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis"
+        }
       ],
-      "metrics": {"eu_gas_price_eur_mwh": 46, "eu_gas_price_jump_pct": 45, "strait_traffic": "zero"},
+      "metrics": {
+        "eu_gas_price_surge": "45%",
+        "eu_gas_price_EUR_MWh": "€30→€46",
+        "insurance_rate_increase": "0.125%→0.2%-0.4%"
+      },
       "week": 1
     },
     {
       "date": "2026-03-03",
       "type": "国际机构",
-      "title_zh": "IEA准备稳定石油市场，伊拉克鲁迈拉油田开始关闭",
-      "summary_zh": "IEA向成员国发出动用战略储备的准备信号。伊拉克因储存空间耗尽开始关闭鲁迈拉油田。欧洲天然气峰值触及€60/MWh。",
-      "source_tier": "A",
+      "title_zh": "IEA准备稳定石油市场，伊拉克开始关闭鲁迈拉油田",
+      "summary_zh": "IEA向成员国发出准备信号，准备动用战略储备。伊拉克因储存空间耗尽开始关闭世界最大油田之一的鲁迈拉油田。欧洲天然气价格继续飙升至€60/MWh。",
+      "source_tier": "C",
       "sources": [
-        {"name": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-03-03/iea-ready-to-stabilize-oil-market-roiled-by-iran-war-document"},
-        {"name": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-03-03/iraq-starts-shutting-oil-output-at-rumaila-as-storage-fills-up"}
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-03/iea-ready-to-stabilize-oil-market-roiled-by-iran-war-document"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-03/iraq-starts-shutting-oil-output-at-rumaila-as-storage-fills-up"
+        }
       ],
-      "metrics": {"eu_gas_price_peak_eur_mwh": 60},
+      "metrics": {
+        "rumaila_capacity_bpd": "1500000",
+        "eu_gas_price_EUR_MWh": "€60"
+      },
       "week": 1
     },
     {
       "date": "2026-03-04",
       "type": "外交动态",
-      "title_zh": "伊朗仅允许中国船只通过海峡，QatarEnergy天然气不可抗力",
-      "summary_zh": "伊朗宣布仅允许中国船只通过霍尔木兹海峡。QatarEnergy正式宣布天然气合同不可抗力。海峡通行权成为地缘政治筹码。",
-      "source_tier": "A",
+      "title_zh": "伊朗仅允许中国船只通过海峡，卡塔尔宣布天然气不可抗力",
+      "summary_zh": "伊朗宣布仅允许中国船只通过霍尔木兹海峡。散货船Iron Maiden广播\"CHINA OWNER\"信号成功通过。QatarEnergy正式宣布天然气合同不可抗力。海峡通行权成为地缘政治筹码。",
+      "source_tier": "C",
       "sources": [
-        {"name": "NDTV/Bloomberg", "url": "https://www.ndtv.com/world-news/iran-to-allow-only-chinese-vessels-through-strait-of-hormuz-sources-11167611"},
-        {"name": "FT", "url": "https://www.ft.com/content/be122b17-e667-478d-be19-89d605e978ea"}
+        {
+          "name": "NDTV",
+          "url": "https://www.ndtv.com/world-news/iran-to-allow-only-chinese-vessels-through-strait-of-hormuz-sources-11167611"
+        },
+        {
+          "name": "FT",
+          "url": "https://www.ft.com/content/be122b17-e667-478d-be19-89d605e978ea"
+        },
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis"
+        }
       ],
-      "metrics": {},
+      "metrics": {
+        "china_strategic_reserves_barrels": "1000000000",
+        "china_oil_import_via_hormuz_pct": "33%"
+      },
       "week": 1
     },
     {
       "date": "2026-03-05",
       "type": "数据发布",
-      "title_zh": "普京暗示中断供应，欧洲天然气再跳涨8%；美对太阳能征100%+关税",
-      "summary_zh": "普京暗示可能中断对欧洲天然气供应，引发欧洲气价跳涨8%。IRGC宣布海峡仅对西方关闭。美商务部终裁对印度、印尼、老挝太阳能板征100%+关税。",
-      "source_tier": "A",
+      "title_zh": "普京暗示中断供应，欧洲天然气价格再跳涨8%",
+      "summary_zh": "普京在电视讲话中暗示可能中断对欧洲的天然气供应，引发欧洲天然气价格跳涨8%。IRGC宣布海峡仅对美国、以色列及其西方盟友关闭。美国商务部最终裁定对印度、印尼、老挝太阳能电池板征收100%以上关税。",
+      "source_tier": "C",
       "sources": [
-        {"name": "Novinite", "url": "https://www.novinite.com/articles/237324/European+Gas+Prices+Jump+8+After+Putin+Hints+at+Halting+Supplies"},
-        {"name": "Solar Power World", "url": "https://now.solar/2026/03/04/commerce-decides-on-100-tariffs-for-solar-panels-from-india-indonesia-laos-solar-power-world/"}
+        {
+          "name": "Novinite",
+          "url": "https://www.novinite.com/articles/237324/European+Gas+Prices+Jump+8+After+Putin+Hints+at+Halting+Supplies"
+        },
+        {
+          "name": "Solar Power World",
+          "url": "https://now.solar/2026/03/04/commerce-decides-on-100-tariffs-for-solar-panels-from-india-indonesia-laos-solar-power-world/"
+        }
       ],
-      "metrics": {"eu_gas_jump_pct": 8, "solar_tariff_pct": "100+"},
+      "metrics": {
+        "eu_gas_price_surge": "8%",
+        "solar_tariff_pct": "100%+"
+      },
       "week": 1
     },
     {
       "date": "2026-03-08",
       "type": "数据发布",
-      "title_zh": "原油突破$100/桶，四年来首次，峰值$126",
-      "summary_zh": "布伦特原油突破$100/桶关口，日内最高触及$126。科威特、巴林Bapco宣布不可抗力。伊拉克南部油田产量下降70%。加州汽油突破$5/加仑。",
-      "source_tier": "A",
+      "title_zh": "原油价格突破100美元/桶，四年来首次",
+      "summary_zh": "布伦特原油突破100美元/桶关口，日内最高触及126美元。科威特宣布不可抗力并削减产量。伊拉克南部三个主要油田产量下降70%。加州汽油价格突破5美元/加仑。",
+      "source_tier": "C",
       "sources": [
-        {"name": "CNBC", "url": "https://www.cnbc.com/2026/03/08/crude-oil-prices-today-iran-war.html"}
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/03/08/crude-oil-prices-today-iran-war.html"
+        },
+        {
+          "name": "Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/mar/09/california-gas-prices-iran-war"
+        }
       ],
-      "metrics": {"brent_high_usd": 126, "iraq_south_production_drop_pct": 70, "california_gas_per_gallon_usd": 5},
+      "metrics": {
+        "brent_high_usd": 126,
+        "brent_threshold_usd": 100,
+        "iraq_south_production_decline_pct": "70%",
+        "iraq_south_production_bpd": "4300000→1300000",
+        "california_gas_usd_gallon": 5
+      },
       "week": 2
     },
     {
       "date": "2026-03-11",
       "type": "国际机构",
       "title_zh": "IEA 32国释放4亿桶战略石油储备——史上最大规模",
-      "summary_zh": "IEA 32个成员国一致同意释放4亿桶战略石油储备。美国同时暂停对19M桶俄罗斯原油的制裁。OPEC+承诺增产206,000桶/日。但油价仍坚挺在$92附近。",
-      "source_tier": "A",
+      "summary_zh": "IEA 32个成员国一致同意释放4亿桶战略石油储备，为保护全球经济免受中东战争供应中断的影响。美国同时暂停对19M桶俄罗斯原油的制裁（30天窗口）。OPEC+承诺增产206,000桶/日。",
+      "source_tier": "C",
       "sources": [
-        {"name": "NYT", "url": "https://www.nytimes.com/2026/03/11/business/energy-environment/iran-oil-reserves-release.html"},
-        {"name": "CNBC", "url": "https://www.cnbc.com/2026/03/12/iea-oil-stockpile-release-middle-east-war-brent-hormuz.html"}
+        {
+          "name": "NYT",
+          "url": "https://www.nytimes.com/2026/03/11/business/energy-environment/iran-oil-reserves-release.html"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/03/12/iea-oil-stockpile-release-middle-east-war-brent-hormuz.html"
+        },
+        {
+          "name": "Reuters/OPEC",
+          "url": "https://polling.reuters.com/business/energy/opec-confirms-big-saudi-oil-production-hike-ahead-iran-war-holds-forecasts-2026-03-11/"
+        }
       ],
-      "metrics": {"spr_release_million_barrels": 400, "iea_member_countries": 32, "opec_plus_increase_kb_per_day": 206, "russian_oil_exemption_million_barrels": 19},
+      "metrics": {
+        "spr_release_barrels": "400000000",
+        "iea_member_states": 32,
+        "russian_oil_unsanctioned_barrels": "19000000",
+        "opec_increase_bpd": 206000
+      },
       "week": 2
     },
     {
       "date": "2026-03-12",
       "type": "国际机构",
-      "title_zh": "IEA月报确认'史上最大石油供应中断'，全球供应骤降800万桶/日",
-      "summary_zh": "IEA 3月石油市场报告发布。海湾国家原油产量被迫削减至少800万桶/日。超过400万桶/日炼油产能面临风险。全球可观察库存8,210百万桶。",
-      "source_tier": "A",
+      "title_zh": "IEA月报：史上最大石油供应中断，全球供应骤降800万桶/日",
+      "summary_zh": "IEA 3月石油市场报告\"Dire Straits\"确认\"全球石油市场历史上最大的供应中断\"。海湾国家原油产量被迫削减至少800万桶/日，凝析油和NGL额外减产200万桶/日。下调2026年全球石油需求增长预期210千桶/日至640千桶/日。",
+      "source_tier": "B",
       "sources": [
-        {"name": "IEA", "url": "https://www.iea.org/reports/oil-market-report-march-2026"}
+        {
+          "name": "IEA",
+          "url": "https://www.iea.org/reports/oil-market-report-march-2026"
+        },
+        {
+          "name": "Insurance Journal",
+          "url": "https://www.insurancejournal.com/news/international/2026/03/12/861599.htm"
+        }
       ],
       "metrics": {
-        "global_supply_drop_mb_per_day": 8,
-        "gulf_crude_curtailment_mb_per_day": 8,
-        "condensate_ngl_curtailment_mb_per_day": 2,
-        "refining_capacity_at_risk_mb_per_day": 4,
-        "global_observed_stocks_mb": 8210,
-        "oecd_emergency_reserves_mb": 1250,
-        "demand_growth_forecast_2026_kb_per_day": 640
+        "crude_production_cut_bpd": "8000000",
+        "condensate_ngl_cut_bpd": "2000000",
+        "refining_capacity_at_risk_bpd": "4000000",
+        "observable_inventories_million_barrels": 8210,
+        "oecd_emergency_reserves_barrels": "1250000000",
+        "demand_growth_revision_kbpd": -210,
+        "demand_growth_forecast_kbpd": 640
       },
       "week": 2
     },
@@ -122,61 +216,80 @@
       "date": "2026-03-12",
       "type": "政策发布",
       "title_zh": "DOE发布UPRISE计划：2029年前增加5GW核电容量",
-      "summary_zh": "美国能源部发布UPRISE计划，目标通过核电站升级和重启在2029年前增加5GW核电容量。在石油危机背景下核能获得前所未有的政策推力。",
-      "source_tier": "A",
+      "summary_zh": "美国能源部发布UPRISE计划，目标通过核电站升级和重启在2029年前增加5GW核电容量。UPRISE聚焦压水堆升级和已关闭核电站重启。在石油危机背景下，核能作为能源安全支柱获得前所未有的政策推力。",
+      "source_tier": "C",
       "sources": [
-        {"name": "Power Magazine", "url": "https://www.powermag.com/doe-unveils-initiative-to-add-5-gw-of-nuclear-capacity-through-uprates-and-restarts/"},
-        {"name": "GlobeNewsWire/Lightbridge", "url": "https://www.globenewswire.com/news-release/2026/03/16/3256188/0/en/Lightbridge-Commends-U-S-Department-of-Energy-s-Launch-of-UPRISE-Initiative-to-Accelerate-U-S-Nuclear-Energy-Expansion.html"}
+        {
+          "name": "Power Magazine",
+          "url": "https://www.powermag.com/doe-unveils-initiative-to-add-5-gw-of-nuclear-capacity-through-uprates-and-restarts/"
+        },
+        {
+          "name": "GlobeNewsWire/Lightbridge",
+          "url": "https://www.globenewswire.com/news-release/2026/03/16/3256188/0/en/Lightbridge-Commends-U-S-Department-of-Energy-s-Launch-of-UPRISE-Initiative-to-Accelerate-U-S-Nuclear-Energy-Expansion.html"
+        }
       ],
-      "metrics": {"nuclear_capacity_target_gw": 5, "target_year": 2029},
+      "metrics": {
+        "nuclear_capacity_target_gw": 5,
+        "target_year": 2029
+      },
       "week": 2
     },
     {
       "date": "2026-03-13",
       "type": "数据发布",
-      "title_zh": "沙特减产20%至800万桶/日，中东出口暴跌60%",
-      "summary_zh": "沙特阿拉伯在萨法尼亚等海上油田关闭后产量降至800万桶/日。中东石油出口量从2500万桶/日暴跌60%至约1000万桶/日。",
-      "source_tier": "A",
+      "title_zh": "沙特减产20%至800万桶/日",
+      "summary_zh": "沙特阿拉伯在两个海上油田（包括世界最大近海油田萨法尼亚）关闭后，产量从1000万桶/日降至800万桶/日。中东石油出口量从战前2500万桶/日暴跌60%至约1000万桶/日。",
+      "source_tier": "C",
       "sources": [
-        {"name": "Reuters", "url": "https://www.reuters.com/business/energy/saudi-arabia-cuts-oil-output-20-8-million-bpd-amid-iran-war-sources-say-2026-03-13/"}
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/energy/saudi-arabia-cuts-oil-output-20-8-million-bpd-amid-iran-war-sources-say-2026-03-13/"
+        },
+        {
+          "name": "OilPrice.com",
+          "url": "https://oilprice.com/Energy/Energy-General/The-Disappearance-of-Arab-Heavy-and-Medium-Crude-Hits-Asian-Refineries-Hard.html"
+        }
       ],
-      "metrics": {"saudi_production_mb_per_day": 8, "saudi_cut_pct": 20, "mideast_export_drop_pct": 60},
+      "metrics": {
+        "saudi_production_cut_pct": "20%",
+        "saudi_production_bpd": "10000000→8000000",
+        "mideast_export_decline_pct": "60%",
+        "mideast_export_bpd": "25000000→10000000"
+      },
       "week": 2
-    },
-    {
-      "date": "2026-03-16",
-      "type": "数据发布",
-      "title_zh": "中东石油成为全球最贵，OPEC+面临'最严峻供应危机'",
-      "summary_zh": "中东原油基准价格创历史新高。OPEC+ Data Deck分析显示该组织正面临有史以来最严峻的供应危机。",
-      "source_tier": "A",
-      "sources": [
-        {"name": "Reuters", "url": "https://www.reuters.com/business/energy/middle-east-oil-benchmarks-hit-record-highs-war-cuts-supply-2026-03-16"},
-        {"name": "Commodity Context", "url": "https://www.commoditycontext.com/p/opec-data-deck-march-2026"}
-      ],
-      "metrics": {},
-      "week": 3
     },
     {
       "date": "2026-03-17",
       "type": "政策发布",
       "title_zh": "联邦公报：评估太阳能电池板进口救济有效性",
-      "summary_zh": "美国联邦公报发布对晶硅光伏电池进口救济措施有效性的评估通知。美国关税使印度太阳能出口下降35%。",
+      "summary_zh": "美国联邦公报发布对晶硅光伏电池进口救济措施有效性的评估通知。叠加Section 301对中国清洁能源产品的调查，太阳能供应链面临全方位关税压力。美国关税使印度太阳能出口下降35%。",
       "source_tier": "A",
       "sources": [
-        {"name": "Federal Register", "url": "https://www.federalregister.gov/documents/2026/03/17/2026-05170/crystalline-silicon-photovoltaic-cells-whether-or-not-partially-or-fully-assembled-into-other"},
-        {"name": "Down to Earth", "url": "https://www.downtoearth.org.in/energy/us-tariffs-slash-indias-solar-exports-by-35-report"}
+        {
+          "name": "Federal Register",
+          "url": "https://www.federalregister.gov/documents/2026/03/17/2026-05170/crystalline-silicon-photovoltaic-cells-whether-or-not-partially-or-fully-assembled-into-other"
+        },
+        {
+          "name": "Down to Earth",
+          "url": "https://www.downtoearth.org.in/energy/us-tariffs-slash-indias-solar-exports-by-35-report"
+        }
       ],
-      "metrics": {"india_solar_export_drop_pct": 35},
+      "metrics": {
+        "india_solar_export_decline_pct": "35%"
+      },
       "week": 3
     },
     {
       "date": "2026-03-18",
       "type": "政策发布",
       "title_zh": "津巴布韦禁止关键矿产出口",
-      "summary_zh": "津巴布韦宣布对关键矿产实施出口禁令，推动国内加工增值，加入全球资源民族主义浪潮。",
-      "source_tier": "A",
+      "summary_zh": "津巴布韦宣布对关键矿产实施出口禁令，加入全球资源民族主义浪潮。该国拥有非洲最大的锂矿储量之一，出口禁令旨在推动国内加工增值。",
+      "source_tier": "C",
       "sources": [
-        {"name": "African Climate Wire", "url": "https://africanclimatewire.org/2026/03/export-restrictions-on-critical-minerals-what-zimbabwes-recent-ban-tells-us/"}
+        {
+          "name": "African Climate Wire",
+          "url": "https://africanclimatewire.org/2026/03/export-restrictions-on-critical-minerals-what-zimbabwes-recent-ban-tells-us/"
+        }
       ],
       "metrics": {},
       "week": 3
@@ -185,37 +298,68 @@
       "date": "2026-03-19",
       "type": "国际机构",
       "title_zh": "QatarEnergy对意大利、比利时、韩国、中国LNG合同宣布不可抗力",
-      "summary_zh": "QatarEnergy正式对四国LNG长期合同宣布不可抗力。迪拜原油创$166/桶历史纪录。欧洲面临'付特朗普高价买LNG还是向普京低头'的困境。",
-      "source_tier": "A",
+      "summary_zh": "QatarEnergy正式对意大利、比利时、韩国和中国的LNG长期合同宣布不可抗力。迪拜原油价格创166美元/桶的历史纪录。欧洲被迫在\"付特朗普高价买美国LNG\"或\"向普京低头\"之间选择。",
+      "source_tier": "C",
       "sources": [
-        {"name": "Energy News Beat", "url": "http://energynewsbeat.co/qatarenergy-declares-force-majeure-on-lng-contracts-to-italy-belgium-south-korea-and-china-shockwaves-for-global-markets-and-a-major-boost-for-u-s-lng-producers/"},
-        {"name": "BBC", "url": "http://www.bbc.com/news/articles/c24de9e97vno"}
+        {
+          "name": "Energy News Beat",
+          "url": "http://energynewsbeat.co/qatarenergy-declares-force-majeure-on-lng-contracts-to-italy-belgium-south-korea-and-china-shockwaves-for-global-markets-and-a-major-boost-for-u-s-lng-producers/"
+        },
+        {
+          "name": "BBC",
+          "url": "http://www.bbc.com/news/articles/c24de9e97vno"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/03/19/166-a-barrel-middle-east-oil-gives-clue-to-where-all-prices-could-be-headed-if-iran-war-drags-on.html"
+        }
       ],
-      "metrics": {"dubai_crude_record_usd": 166, "qatar_lng_exports_global_share_pct": 20},
+      "metrics": {
+        "dubai_crude_record_usd": 166,
+        "qatar_global_lng_export_pct": "20%",
+        "europe_lng_from_qatar_pct": "12-14%"
+      },
       "week": 3
     },
     {
       "date": "2026-03-20",
       "type": "行政命令",
       "title_zh": "美国临时解除海上伊朗原油制裁以遏制油价",
-      "summary_zh": "财政部长Bessent授权购买已在海上的伊朗原油，为买家提供30天制裁豁免。总计约1.4亿桶被解除制裁。同时解除30艘俄关联油轮制裁。",
-      "source_tier": "A",
+      "summary_zh": "财政部长Bessent宣布临时授权购买已在海上的伊朗原油，为买家提供30天制裁豁免，总计约1.4亿桶。同时解除对30艘俄罗斯关联油轮的制裁（载有19M桶）。",
+      "source_tier": "C",
       "sources": [
-        {"name": "Reuters", "url": "https://www.reuters.com/business/energy/us-authorizes-temporary-delivery-sale-oil-originating-iran-2026-03-20/"},
-        {"name": "BBC", "url": "https://news.bbc.co.uk/news/articles/c9d415g55nno"},
-        {"name": "Washington Post", "url": "https://www.washingtonpost.com/business/2026/03/20/iran-oil-sanctions-trump/"}
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/energy/us-authorizes-temporary-delivery-sale-oil-originating-iran-2026-03-20/"
+        },
+        {
+          "name": "BBC",
+          "url": "https://news.bbc.co.uk/news/articles/c9d415g55nno"
+        },
+        {
+          "name": "Washington Post",
+          "url": "https://www.washingtonpost.com/business/2026/03/20/iran-oil-sanctions-trump/"
+        }
       ],
-      "metrics": {"iran_oil_at_sea_million_barrels": 140, "sanctions_window_days": 30},
+      "metrics": {
+        "iran_oil_unsanctioned_barrels": "140000000",
+        "russian_tankers_unsanctioned": 30,
+        "russian_oil_unsanctioned_barrels": "19000000",
+        "sanction_waiver_days": 30
+      },
       "week": 3
     },
     {
       "date": "2026-03-20",
       "type": "智库分析",
       "title_zh": "CGEP：美中贸易紧张与第三国清洁能源投资",
-      "summary_zh": "哥伦比亚大学CGEP分析美中贸易紧张如何影响第三国清洁能源投资格局及对美国政策的启示。",
+      "summary_zh": "哥伦比亚大学全球能源政策中心（CGEP）分析美中贸易紧张如何影响第三国清洁能源投资格局。中国清洁能源企业通过东南亚等第三国规避美国关税，政策制定者面临\"能源安全vs气候目标vs贸易保护\"的三难困境。",
       "source_tier": "C",
       "sources": [
-        {"name": "CGEP via Renewable Energy Asia", "url": "https://www.renewableenergyasia.org/2026/03/us-china-trade-tensions-and-clean.html"}
+        {
+          "name": "CGEP via Renewable Energy Asia Portal",
+          "url": "https://www.renewableenergyasia.org/2026/03/us-china-trade-tensions-and-clean.html"
+        }
       ],
       "metrics": {},
       "week": 3
@@ -223,156 +367,167 @@
     {
       "date": "2026-03-22",
       "type": "智库分析",
-      "title_zh": "'关键矿产北约'概念浮现，伊朗冲击波加速矿产地缘重组",
-      "summary_zh": "InvestorNews提出'关键矿产北约'概念，分析钴、钨、铀作为全球动荡晴雨表的角色。霍尔木兹危机暴露美国国防工业对海峡硫磺供应的依赖。",
+      "title_zh": "\"关键矿产北约\"概念浮现，伊朗冲击波加速矿产地缘重组",
+      "summary_zh": "InvestorNews发布关键矿产报告，提出\"关键矿产北约\"概念。霍尔木兹危机暴露美国国防工业对海峡过境硫磺的\"近乎完全\"依赖。铝价因海湾国家占全球20%原铝出口而上涨，化肥价格上涨50%。",
       "source_tier": "C",
       "sources": [
-        {"name": "InvestorNews", "url": "https://investornews.com/critical-minerals-rare-earths/the-critical-minerals-report-03-22-2026-building-a-critical-minerals-nato-iran-shockwaves-and-cobalt-tungsten-uranium-as-barometers-of-global-turbulence/"}
+        {
+          "name": "InvestorNews",
+          "url": "https://investornews.com/critical-minerals-rare-earths/the-critical-minerals-report-03-22-2026-building-a-critical-minerals-nato-iran-shockwaves-and-cobalt-tungsten-uranium-as-barometers-of-global-turbulence/"
+        },
+        {
+          "name": "Guardian/West Point",
+          "url": "https://www.theguardian.com/world/2026/mar/19/west-point-analysis-iran-war-costs"
+        }
       ],
-      "metrics": {"urea_price_increase_pct": 50, "gulf_aluminum_export_global_share_pct": 20},
-      "week": 4
-    },
-    {
-      "date": "2026-03-23",
-      "type": "外交动态",
-      "title_zh": "特朗普称与伊朗'非常好的对话'，布伦特跌至$102",
-      "summary_zh": "特朗普推迟对伊朗的48小时最后通牒，声称正在进行有成效的对话。伊朗否认谈判。布伦特从$114跌至$102/桶。",
-      "source_tier": "A",
-      "sources": [
-        {"name": "CNN", "url": "https://www.cnn.com/2026/03/23/business/oil-prices-energy-shock-1970s-intl"},
-        {"name": "Iran International", "url": "https://www.iranintl.com/en/202603234008"}
-      ],
-      "metrics": {"brent_drop_from": 114, "brent_drop_to": 102},
+      "metrics": {
+        "gulf_aluminum_export_global_pct": "20%",
+        "fertilizer_urea_price_increase_pct": "50%"
+      },
       "week": 4
     },
     {
       "date": "2026-03-26",
       "type": "国际机构",
-      "title_zh": "IEA发布2026能源危机政策响应追踪器；伊朗允许5国通过海峡",
-      "summary_zh": "IEA发布Policy Response Tracker，定义为'历史上最大供应中断'。伊朗外交部宣布允许中、俄、印、伊拉克、巴基斯坦五国船只通过海峡。IRGC以人民币征收通行费。",
-      "source_tier": "A",
+      "title_zh": "IEA发布2026年能源危机政策响应追踪器",
+      "summary_zh": "IEA发布\"2026能源危机政策响应追踪器\"，将当前危机定义为\"历史上最大的供应中断\"。同日伊朗允许中国、俄罗斯、印度、伊拉克和巴基斯坦五国船只通过海峡。IRGC开始对通过海峡的船只征收通行费（以人民币计价）。",
+      "source_tier": "B",
       "sources": [
-        {"name": "IEA", "url": "https://www.iea.org/data-and-statistics/data-tools/2026-energy-crisis-policy-response-tracker"},
-        {"name": "AP", "url": "https://apnews.com/article/iran-hormuz-shipping-tolls-china-de5159966cde7de7b964b3c2c67eec07"}
+        {
+          "name": "IEA",
+          "url": "https://www.iea.org/data-and-statistics/data-tools/2026-energy-crisis-policy-response-tracker"
+        },
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/india-among-five-nations-granted-passage-through-strait-of-hormuz-by-tehran/article70786984.ece"
+        },
+        {
+          "name": "AP",
+          "url": "https://apnews.com/article/iran-hormuz-shipping-tolls-china-de5159966cde7de7b964b3c2c67eec07"
+        }
       ],
-      "metrics": {"countries_allowed_passage": 5},
+      "metrics": {
+        "nations_granted_passage": 5,
+        "toll_currency": "CNY"
+      },
       "week": 4
     },
     {
       "date": "2026-03-27",
       "type": "数据发布",
-      "title_zh": "布伦特反弹$114，IRGC正式关闭海峡对美以盟友航行",
-      "summary_zh": "谈判未果后布伦特反弹至$114。IRGC宣布禁止往返美以盟友港口的船只通过。化肥价格上涨50%威胁北半球春播。",
-      "source_tier": "A",
+      "title_zh": "美以轰炸伊朗核设施和钢铁设施，胡塞武装威胁邻国",
+      "summary_zh": "美国和以色列轰炸伊朗核设施和钢铁设施，标志军事行动从常规目标扩展到战略性核基础设施。伊朗在波斯湾地区对沙特军事基地进行报复。胡塞武装威胁向沙特和阿联酋发动攻击。",
+      "source_tier": "C",
       "sources": [
-        {"name": "Anadolu Agency", "url": "https://www.aa.com.tr/en/economy/brent-oil-prices-exceed-114-up-57-/3882346"},
-        {"name": "PBS/AP", "url": "https://www.pbs.org/newshour/world/the-planting-season-is-now-but-war-in-iran-has-sparked-a-global-fertilizer-shortage"}
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-27/us-israel-hit-iran-s-nuclear-facilities-as-tehran-attacks-gulf"
+        }
       ],
-      "metrics": {"brent_usd": 114, "fertilizer_urea_price_increase_pct": 50},
+      "metrics": {},
+      "week": 4
+    },
+    {
+      "date": "2026-03-28",
+      "type": "数据发布",
+      "title_zh": "中东最大铝生产商冶炼厂在伊朗袭击中严重受损",
+      "summary_zh": "阿联酋全球铝业（EGA）最大金属冶炼厂在伊朗导弹和无人机袭击中\"严重受损\"。EGA是中东最大铝生产商，海湾地区占全球原铝出口约20%。战争经济冲击已从能源扩展到金属。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-28/emirates-global-aluminium-says-smelter-site-damaged-in-attack-mnaeo4uk"
+        }
+      ],
+      "metrics": {
+        "gulf_aluminum_export_global_pct": "20%"
+      },
+      "week": 4
+    },
+    {
+      "date": "2026-03-28",
+      "type": "智库分析",
+      "title_zh": "东盟能源冲击催生区域电网互联计划加速",
+      "summary_zh": "SCMP深度报道伊朗战争引发的能源冲击正在复活东盟长期搁置的区域电力互联计划。东南亚各国政府重新审视能源自主性，区域电网互联被视为减少对化石燃料进口依赖的结构性解决方案。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "SCMP",
+          "url": "https://www.scmp.com/week-asia/health-environment/article/3348186/iran-war-energy-shock-revives-aseans-power-grid-plans-its-way-go"
+        }
+      ],
+      "metrics": {},
       "week": 4
     }
   ],
-  "analysis_articles": [
-    {
-      "date": "2026-03-12",
-      "source": "IEA",
-      "title": "Oil Market Report - March 2026: Dire Straits",
-      "url": "https://www.iea.org/reports/oil-market-report-march-2026",
-      "key_insight": "全球石油市场历史上最大的供应中断，海湾产量削减至少800万桶/日，400万桶/日炼油产能面临风险"
-    },
-    {
-      "date": "2026-03-18",
-      "source": "Atlantic Council",
-      "title": "The Iran oil shock may be different from other price spikes",
-      "url": "https://www.atlanticcouncil.org/blogs/econographics/the-iran-oil-shock-may-be-different-from-other-price-spikes/",
-      "key_insight": "油价飙升速度超过乌克兰战争、海湾战争和伊拉克战争中的任何一次"
-    },
-    {
-      "date": "2026-03-22",
-      "source": "InvestorNews",
-      "title": "Critical Minerals NATO: Iran Shockwaves and Cobalt-Tungsten-Uranium as Barometers",
-      "url": "https://investornews.com/critical-minerals-rare-earths/the-critical-minerals-report-03-22-2026-building-a-critical-minerals-nato-iran-shockwaves-and-cobalt-tungsten-uranium-as-barometers-of-global-turbulence/",
-      "key_insight": "'关键矿产北约'概念——由美国及盟友构建矿产供应联盟以对抗中国/俄罗斯主导"
-    },
-    {
-      "date": "2026-03-19",
-      "source": "BBC",
-      "title": "How the Iran war has left Europe facing yet another energy crisis",
-      "url": "http://www.bbc.com/news/articles/c24de9e97vno",
-      "key_insight": "欧洲'梦游般再次陷入能源危机'——LNG断供+俄罗斯施压构成双重困境"
-    },
-    {
-      "date": "2026-03-27",
-      "source": "Atlantic Council",
-      "title": "The Iran war's economic fallout won't stop at oil—agriculture and aluminum are next",
-      "url": "https://www.atlanticcouncil.org/blogs/econographics/the-iran-wars-economic-fallout-wont-stop-at-oil-agriculture-and-aluminum-are-next/",
-      "key_insight": "战争经济外溢已超越石油——铝、化肥、氦气均受影响，可能推高2027年全球粮食价格"
-    }
-  ],
+  "analysis_articles": [],
   "background_context": [
     {
       "date": "2026-02-28",
-      "title_zh": "美以联合发动'史诗之怒行动'空袭伊朗",
-      "summary_zh": "美国和以色列对伊朗发动联合空袭，击杀最高领袖哈梅内伊。伊朗以导弹和无人机报复，攻击UAE、卡塔尔、巴林美军基地和以色列城市"
+      "type": "行政命令",
+      "title_zh": "\"史诗之怒行动\"：美以联合空袭伊朗，击杀最高领袖哈梅内伊",
+      "summary_zh": "美国中央司令部宣布对伊朗发动\"Operation Epic Fury\"空袭行动，以色列空军协同参与。伊朗最高领袖哈梅内伊在空袭中身亡。数小时内IRGC宣布对海湾国家和商船发动报复行动，霍尔木兹海峡危机随即爆发。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "U.S. CENTCOM",
+          "url": "https://www.centcom.mil/MEDIA/STATEMENTS/Statements-View/Article/4418396/us-forces-launch-operation-epic-fury/"
+        }
+      ]
     },
     {
-      "date": "2026-02-28",
-      "title_zh": "伊朗革命卫队宣布封锁霍尔木兹海峡",
-      "summary_zh": "IRGC在VHF无线电频道向所有船只发出禁止通行警告。全球20%石油和大量LNG经此通行"
+      "title_zh": "2026年霍尔木兹海峡危机时间线",
+      "summary_zh": "关键时间线：2月28日美以空袭→3月1日首批商船遇袭→3月2日IRGC关闭海峡→3月4日仅允许中国船只通过→3月8日布伦特破$100→3月11日IEA释放4亿桶储备→3月12日IEA确认史上最大中断→3月13日沙特减产20%→3月19日迪拜原油$166创纪录→3月20日美国解除伊朗油制裁→3月26日伊朗允许5国通过→3月27日美以轰炸核设施。",
+      "source_tier": "C",
+      "sources": []
     },
     {
-      "date": "2025",
-      "title_zh": "2025年日内瓦核谈判失败与十二日空战",
-      "summary_zh": "美伊核谈判在日内瓦破裂，随后爆发12天空中冲突，为2026年全面战争埋下伏笔"
+      "title_zh": "核能：危机催化的政策加速",
+      "summary_zh": "霍尔木兹危机强化核能作为不依赖化石燃料进口的基荷电力来源的战略价值。DOE的UPRISE计划、3月10日巴黎核能峰会、铀市场结构性供应赤字构成三重推力。世界核协会报告指出铀矿产量持续低于需求，2026年将是铀长协签约的\"大年\"。",
+      "source_tier": "B",
+      "sources": [
+        {
+          "name": "IAEA",
+          "url": "https://www.iaea.org/newscenter/news/global-leaders-affirm-central-role-for-nuclear-at-2026-nuclear-energy-summit"
+        },
+        {
+          "name": "WNA",
+          "url": "https://world-nuclear.org/our-association/publications/world-nuclear-outlook-report/appendix-1-impact-on-demand-for-nuclear-fuel-services"
+        }
+      ]
+    },
+    {
+      "title_zh": "清洁能源贸易壁垒升级",
+      "summary_zh": "太阳能、电池、电动车——中国主导的清洁能源价值链面临美国和EU的全方位贸易壁垒。美国对印度、印尼、老挝太阳能100%+关税 + Section 301对中国清洁能源产品调查 + 英国取消海上风电关税以降成本。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "Federal Register",
+          "url": "https://www.federalregister.gov/documents/2026/03/17/2026-05170/crystalline-silicon-photovoltaic-cells-whether-or-not-partially-or-fully-assembled-into-other"
+        },
+        {
+          "name": "Down to Earth",
+          "url": "https://www.downtoearth.org.in/energy/us-tariffs-slash-indias-solar-exports-by-35-report"
+        }
+      ]
     }
   ],
   "key_metrics": {
-    "hormuz_crisis": {
-      "onset_date": "2026-02-28",
-      "pre_war_oil_flow_mb_per_day": 20,
-      "global_oil_share_pct": 20,
-      "ships_attacked_confirmed": 21,
-      "mideast_export_drop_pct": 60,
-      "gulf_production_curtailment_mb_per_day": 10,
-      "crude_curtailment_mb_per_day": 8,
-      "condensate_ngl_curtailment_mb_per_day": 2,
-      "refining_capacity_at_risk_mb_per_day": 4,
-      "saudi_production_cut_to_mb_per_day": 8,
-      "saudi_cut_pct": 20,
-      "iraq_south_production_drop_pct": 70
-    },
-    "oil_prices": {
-      "brent_peak_usd": 126,
-      "dubai_crude_record_usd": 166,
-      "brent_range_usd": "92-126",
-      "brent_month_end_usd": 114,
-      "california_gas_per_gallon_usd": 5
-    },
-    "strategic_reserves": {
-      "iea_spr_release_million_barrels": 400,
-      "iea_member_countries": 32,
-      "global_observed_stocks_mb": 8210,
-      "oecd_emergency_reserves_mb": 1250,
-      "iran_oil_at_sea_exemption_million_barrels": 140,
-      "russian_oil_exemption_million_barrels": 19
-    },
-    "european_gas": {
-      "pre_crisis_price_eur_mwh": 30,
-      "peak_price_eur_mwh": 60,
-      "qatar_lng_force_majeure_countries": ["Italy", "Belgium", "South Korea", "China"]
-    },
-    "nuclear_energy": {
-      "uprise_target_gw": 5,
-      "uprise_target_year": 2029
-    },
-    "clean_energy_tariffs": {
-      "solar_tariff_india_indonesia_laos_pct": "100+",
-      "india_solar_export_drop_pct": 35
-    },
-    "commodity_spillover": {
-      "fertilizer_urea_price_increase_pct": 50,
-      "gulf_aluminum_export_global_share_pct": 20,
-      "hormuz_passage_countries_allowed": ["China", "Russia", "India", "Iraq", "Pakistan", "Malaysia", "Thailand"]
-    }
+    "iea_spr_release_barrels": "400000000（32国协调，史上最大）",
+    "global_oil_supply_cut_bpd": "8000000（3月预估）",
+    "gulf_production_cut_bpd": "至少10000000",
+    "mideast_oil_export_decline": "60%（从25000000→约10000000桶/日）",
+    "brent_crude_price_range_usd": "$92-$126/桶（月均约$105）",
+    "dubai_crude_record_usd": "$166/桶（3月19日）",
+    "eu_gas_price_EUR_MWh": "€30→€60+/MWh（翻倍）",
+    "qatar_force_majeure_countries": "意大利、比利时、韩国、中国",
+    "us_iran_oil_sanction_waiver_barrels": "140000000（30天窗口）",
+    "uprise_nuclear_capacity_target_gw": "5GW（2029年前）",
+    "solar_tariff_india_indonesia_laos_pct": "100%+",
+    "fertilizer_urea_price_increase_pct": "+50%",
+    "gulf_aluminum_export_global_pct": "20%",
+    "hormuz_passage_allowed_nations": "中俄印伊巴5国 + 马来西亚/泰国",
+    "ega_smelter_status": "伊朗袭击中\"严重受损\"",
+    "military_escalation": "美以轰炸伊朗核设施和钢铁设施（3月27日）"
   }
 }
