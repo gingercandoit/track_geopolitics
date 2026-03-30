@@ -147,8 +147,8 @@
     {
       "date": "2026-03-05",
       "type": "数据发布",
-      "title_zh": "普京暗示中断供应，欧洲天然气再跳涨8%；太阳能100%+关税",
-      "summary_zh": "普京在电视讲话中暗示可能中断对欧洲天然气供应，引发价格跳涨8%。同日美国商务部最终裁定对印度、印尼、老挝太阳能电池板征收100%以上关税。欧洲面临双重能源危机。",
+      "title_zh": "普京暗示中断供应，欧洲天然气再跳涨8%；太阳能超100%关税",
+      "summary_zh": "普京在电视讲话中暗示可能中断对欧洲天然气供应，引发价格跳涨8%。同日美国商务部最终裁定对印度、印尼、老挝太阳能电池板征收超过100%的反倾销/反补贴关税（税率因企业而异，最高逾108%）。欧洲面临双重能源危机。",
       "source_tier": "C",
       "sources": [
         {
@@ -162,7 +162,7 @@
       ],
       "metrics": {
         "eu_gas_price_jump_pct": 8,
-        "solar_tariff_pct": "100+"
+        "solar_tariff_pct": ">100% (up to 108%)"
       },
       "week": 1
     },
@@ -823,7 +823,7 @@
       "date": "2026-03",
       "type": "政策发布",
       "title_zh": "清洁能源贸易壁垒升级",
-      "summary_zh": "太阳能100%+关税、Section 301清洁能源调查、英国取消海上风电关税，不同国家对清洁能源贸易采取截然不同的策略。",
+      "summary_zh": "太阳能超100%关税（最高逾108%）、Section 301清洁能源调查、英国取消海上风电关税，不同国家对清洁能源贸易采取截然不同的策略。",
       "source_tier": "A",
       "sources": [
         {
@@ -853,7 +853,7 @@
     "us_lithium_battery_demand_2026": "182GWh（37%来自BESS）",
     "uprise_nuclear_target": "5GW新增容量（2029年前）",
     "canada_india_uranium_agreement": "19亿美元",
-    "solar_tariff": "100%+（印度/印尼/老挝）",
+    "solar_tariff": "超100%（印度/印尼/老挝，最高逾108%）",
     "urea_price_increase": "+50%",
     "gulf_aluminum_export_share": "约20%（EGA冶炼厂受损）",
     "us_japan_minerals_framework": "4个初始项目（稀土、锂、铜）",

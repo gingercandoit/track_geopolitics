@@ -95,7 +95,7 @@
       "date": "2026-03-20",
       "type": "制裁管制",
       "title_zh": "OFAC制裁真主党全球资金转移网络",
-      "summary_zh": "美国财政部制裁向真主党转移资金的跨国网络，新增10+个人（横跨黎巴嫩、卡塔尔、波兰、斯洛文尼亚、加拿大）和5+实体。同日有反毒品和俄罗斯相关制裁撤销。OFAC 3月最高密度行动日：制裁新增+撤销+伊朗油制裁临时解除三线并行。",
+      "summary_zh": "美国财政部制裁由真主党金融家Alaa Hassan Hamieh领导的跨国资金转移网络，新增10名个人和6个实体（横跨黎巴嫩、叙利亚、卡塔尔、波兰、斯洛文尼亚、加拿大），自2020年以来转移逾1亿美元。同日有反毒品和俄罗斯相关制裁撤销。OFAC 3月最高密度行动日：制裁新增+撤销+伊朗油制裁临时解除三线并行。",
       "source_tier": "A",
       "sources": [
         {
@@ -108,7 +108,10 @@
         }
       ],
       "metrics": {
-        "countries_covered": 5
+        "individuals_designated": 10,
+        "entities_designated": 6,
+        "countries_covered": 6,
+        "estimated_funds_diverted_usd": 100000000
       },
       "week": 3
     },

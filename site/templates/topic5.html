@@ -13,6 +13,12 @@
 
 <section class="container topic-body">
 
+  {% if overview_html %}
+  <div class="topic-overview">
+    {{ overview_html | safe }}
+  </div>
+  {% endif %}
+
   <div class="t5-event-list">
     {% for ev in events %}
       {{ render_event_row(ev, event_type_colors) }}

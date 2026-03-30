@@ -37,7 +37,7 @@
         });
         if (!isOpen) {
           row.classList.add('expanded');
-          detail.style.maxHeight = detail.scrollHeight + 'px';
+          detail.style.maxHeight = (detail.scrollHeight + 40) + 'px';
         }
       }
       return;

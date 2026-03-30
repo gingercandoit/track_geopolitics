@@ -945,7 +945,7 @@ h1, h2, h3, h4 {
 }
 /* JS sets inline max-height; CSS sibling selector as fallback */
 .event-row.expanded + .event-row-detail {
-  max-height: 300px;
+  max-height: 500px;
   padding: 0.6rem 0.75rem 0.8rem 7rem;
 }
 
@@ -1399,6 +1399,8 @@ h1, h2, h3, h4 {
   .topic-hero-title { font-size: 1.4rem; }
   .event-card-header { padding: 0.6rem 0.75rem; gap: 0.4rem; }
   .event-card-content { padding: 0 0.75rem 0.75rem; }
+  .event-row-detail { padding-left: 1rem; }
+  .event-row.expanded + .event-row-detail { padding-left: 1rem; }
   .lit-toolbar { flex-direction: column; align-items: stretch; }
   .lit-filters { flex-direction: column; align-items: stretch; }
   .year-range-wrap { width: 100%; }
