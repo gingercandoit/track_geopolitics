@@ -15,7 +15,9 @@
 
   {% if overview_html %}
   <div class="topic-overview">
-    {{ overview_html | safe }}
+    <h2 class="section-heading">月度总览</h2>
+    <div class="overview-text editorial-prose" id="overviewText">{{ overview_html | safe }}</div>
+    <button class="overview-toggle" id="overviewToggle" onclick="toggleOverview()">展开全文 ▾</button>
   </div>
   {% endif %}
 
