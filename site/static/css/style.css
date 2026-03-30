@@ -1189,12 +1189,19 @@ h1, h2, h3, h4 {
   user-select: none;
 }
 
+.paper-meta-left {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.15rem;
+  flex-shrink: 0;
+}
+
 .paper-year {
   font-family: 'DM Sans', sans-serif;
   font-size: 0.78rem;
   color: #999;
-  flex-shrink: 0;
-  width: 2.5rem;
+  white-space: nowrap;
 }
 
 .paper-tier-tag {
@@ -1393,7 +1400,10 @@ h1, h2, h3, h4 {
   .event-card-header { padding: 0.6rem 0.75rem; gap: 0.4rem; }
   .event-card-content { padding: 0 0.75rem 0.75rem; }
   .lit-toolbar { flex-direction: column; align-items: stretch; }
-  .lit-filters { flex-direction: column; }
+  .lit-filters { flex-direction: column; align-items: stretch; }
+  .year-range-wrap { width: 100%; }
+  .tier-filter-wrap { width: 100%; }
+  .tier-filter-btn { width: 100%; text-align: left; }
   .lit-topic-filter { align-items: flex-start; }
   .lit-topic-chip-list { gap: 0.35rem; }
   .lit-search-input { width: 100%; }

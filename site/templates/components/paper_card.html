@@ -1,10 +1,12 @@
 {% macro render_paper_card(paper, priority_labels, journal_tiers, topics, show_data_method=false) %}
 <div class="paper-card" data-topics="{{ paper.topics | join(',') }}" data-priority="{{ paper.priority }}">
   <div class="paper-card-header">
-    <span class="paper-year">{{ paper.pub_ym or paper.year }}</span>
-    {% if paper.journal %}
-    <span class="paper-tier-tag">{{ paper.journal_display or paper.journal }}</span>
-    {% endif %}
+    <div class="paper-meta-left">
+      <span class="paper-year">{{ paper.pub_ym or paper.year }}</span>
+      {% if paper.journal %}
+      <span class="paper-tier-tag">{{ paper.journal_display or paper.journal }}</span>
+      {% endif %}
+    </div>
     <div class="paper-title-group">
       <span class="paper-title">{{ paper.title }}</span>
       {% if paper.title_zh %}<span class="paper-title-zh">{{ paper.title_zh }}</span>{% endif %}
