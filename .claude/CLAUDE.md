@@ -90,22 +90,15 @@ track_geopolitics/
 - 文件结构：`literature/` 目录（与 reports 同级），classic/ + new/ 完全独立子目录
 - 产出：`literature/classic/` (classic.json + CSV + BibTeX + roadmap + views) + `literature/new/` (new.json + CSV + BibTeX + views)
 - SOP：`.claude/rules/02_LiteratureSOP.instructions.md`
-- **Library A 当前状态**（2026-03-29）：
-  - 92 篇论文（76篇基础 + 18篇滚雪球 - 5篇WP重复 + 3篇缺失经典补充），经严格地缘政治相关性筛选
+- **Library A 当前状态**（2026-03-30）：
+  - 91 篇论文（含从Library B迁入的 clayton_maggiori_schreger_2024）
+  - 所有论文含 `publication_date`（YYYY-MM-DD）和 `pub_ym`（YYYY-MM）字段
   - notes_zh 全部手工撰写，逐篇验证准确性
-  - Topic 分布：T1:19, T2:49, T3:18, T4:9, T5:38
-  - Tier 分布：T1:19, T2:33, T3:20, WP:7, other:13
-  - 81/92 有摘要（88%），11篇摘要 OpenAlex/S2 均无数据
-- **Library B 当前状态**（2026-07-18 建库，2026-03-29 质量审计）：
-  - 45 篇新文献（2024-mid 至 2026-present），聚焦经济学界最热门地缘政治研究
-  - 搜索覆盖：OpenAlex（知名作者+NBER WP+Top Journal）、Exa（SSRN+JMP）
-  - Topic 分布：T1:14, T2:24, T3:6, T4:3, T5:16
-  - Tier 分布：WP:38, T1:2, T2:1, T3:4
-  - Priority：core:23, recommended:21, reference:1
-  - 45/45 有摘要（100%），每篇均含 `data_zh` 和 `method_zh` 字段
-  - 2 篇 SocArXiv 论文已升级为 NBER WP（w34792 Cavani/Clayton/dos Santos, w34717 Clayton/Maggiori/Schreger）
-  - 38 篇 WP 已批量复查发表状态（截至 2026-03-29 均未正式发表）
-  - 核心论文：Clayton/Maggiori 地缘经济三部曲、Auclert 关税宏观冲击(16引)、Ossa/Redding 关税经济学综述、Gopinath/Neiman 关税负担、CHIPS法案就业影响
+- **Library B 当前状态**（2026-03-30）：
+  - 46 篇新文献（pub_ym >= 2025-03），含从Library A迁入的 head_etal_2026、baldwin_2025
+  - 12个月滑动窗口规则：pub_ym < cutoff 的论文每月迁入 Library A
+  - 46/46 有摘要（100%），每篇均含 `data_zh` 和 `method_zh` 字段
+  - 核心论文：Clayton/Maggiori 地缘经济三部曲、Auclert 关税宏观冲击、Ossa/Redding 关税经济学综述、Gopinath/Neiman 关税负担、CHIPS法案就业影响
 
 ## 自动化脚本
 

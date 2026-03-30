@@ -21,7 +21,10 @@ description: LiteratureSOP - 地缘政治经济学文献搜集与管理标准操
 
 ### Library B：新文献追踪库
 
-- **定位**：最新发表论文 + 最新工作论文（近 3-6 个月）
+- **定位**：近12个月内发表的最新论文 + 工作论文
+- **时间窗口**：以当前月份为基准，`pub_ym >= (当前年月 - 12个月)`，含当月（共13个月窗口）。例：当前2026-03，则 `pub_ym >= 2025-03` 的论文留在 Library B
+- **生命周期**：论文首次进入 Library B → 超过12个月窗口后迁入 Library A 长期保存
+- **月度维护**：每月初检查 Library B 中 `pub_ym` 超期的论文，迁移到 Library A
 - **更新频率**：月度扫描（随 Prompt 1 信息抓取一起做）
 - **质量线**：
   - Top journal 新发表（必收）
@@ -29,6 +32,18 @@ description: LiteratureSOP - 地缘政治经济学文献搜集与管理标准操
   - 知名领域内作者的最新挂网论文（即使非 top venue）
 - **规模**：每月新增 5-20 篇
 - **产出**：`literature/new/` 下（new.json + new.csv + references.bib + views/）
+
+### 库间迁移规则
+
+> 核心原则：Library B 是**滑动窗口**，Library A 是**永久存档**。
+
+- **B→A 迁移**（每月执行）：`pub_ym < cutoff` 的论文从 `new.json` 移入 `classic.json`
+- **A→B 迁移**（极少见）：仅在建库阶段发现错误归属时执行（如经典库误收了近期论文）
+- **迁移后处理**：
+  - B→A：保留 `data_zh`/`method_zh` 字段（虽然 Library A 不强制要求）
+  - A→B：补充 `data_zh`/`method_zh`（Library B 必填字段）
+  - 重建站点 `site/build.py --clean`
+  - 更新 `metadata.total_papers` 计数
 
 ---
 

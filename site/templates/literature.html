@@ -109,6 +109,25 @@
   </div>
 
   {# ── 文献列表 ── #}
+  <div class="lit-topic-filter" aria-label="按主题筛选">
+    <span class="lit-topic-filter-label">主题</span>
+    <div class="lit-topic-chip-list">
+      {% for slug, info in topics.items() %}
+        {% if not info.compact %}
+        <button
+          class="lit-topic-chip"
+          type="button"
+          data-topic="{{ info.id }}"
+          style="--topic-color: {{ info.color }};"
+        >
+          {{ info.name_short }}
+        </button>
+        {% endif %}
+      {% endfor %}
+    </div>
+    <button class="lit-topic-clear hidden" id="lit-topic-clear" type="button">清除主题</button>
+  </div>
+
   <div class="lit-list" id="lit-list">
     {% for p in papers %}
     <div class="lit-item"
@@ -146,6 +165,8 @@
   const items = Array.from(document.querySelectorAll('.lit-item'));
   const tabs = document.querySelectorAll('.lit-tab');
   const searchInput = document.getElementById('lit-search');
+  const topicChips = Array.from(document.querySelectorAll('.lit-topic-chip'));
+  const topicClearBtn = document.getElementById('lit-topic-clear');
   const emptyEl = document.getElementById('lit-empty');
   const paginationEl = document.getElementById('lit-pagination');
   const prevBtn = document.getElementById('pager-prev');
@@ -159,6 +180,7 @@
   // ── Year-Month filter state ──
   let activeYears = new Set();
   let activeYMs = new Set();   // "2024-05" style strings
+  let activeTopics = new Set();
 
   let currentPage = 1;
   let visibleItems = [];
@@ -330,6 +352,34 @@
   }
 
   // ════════════════════════════════════════════════════
+  topicChips.forEach(chip => {
+    chip.addEventListener('click', () => {
+      const topicId = chip.dataset.topic;
+      if (activeTopics.has(topicId)) {
+        activeTopics.delete(topicId);
+      } else {
+        activeTopics.add(topicId);
+      }
+      updateTopicChips();
+      filterItems();
+    });
+  });
+
+  topicClearBtn.addEventListener('click', () => {
+    activeTopics.clear();
+    updateTopicChips();
+    filterItems();
+  });
+
+  function updateTopicChips() {
+    topicChips.forEach(chip => {
+      const isActive = activeTopics.has(chip.dataset.topic);
+      chip.classList.toggle('active', isActive);
+      chip.setAttribute('aria-pressed', isActive ? 'true' : 'false');
+    });
+    topicClearBtn.classList.toggle('hidden', activeTopics.size === 0);
+  }
+
   // Main filter
   // ════════════════════════════════════════════════════
   function filterItems() {
@@ -355,6 +405,11 @@
         // year-level: match year prefix
         const elYear = elYM.substring(0, 4);
         if (!activeYears.has(elYear)) return false;
+      }
+
+      if (activeTopics.size > 0) {
+        const elTopics = (el.dataset.topics || '').split(',').filter(Boolean);
+        if (!elTopics.some(topicId => activeTopics.has(topicId))) return false;
       }
 
       if (q && !el.dataset.search.includes(q)) return false;
@@ -401,6 +456,7 @@
   });
 
   // Initial render
+  updateTopicChips();
   filterItems();
 })();
 </script>
