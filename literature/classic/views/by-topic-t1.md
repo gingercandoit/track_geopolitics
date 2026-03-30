@@ -1,6 +1,6 @@
 # T1 制裁与经济管制 (Sanctions & Economic Coercion) — 阅读清单
 
-> 自动生成于 2026-03-29，共 19 篇
+> 自动生成于 2026-03-30，共 20 篇
 > 数据来源：`literature-classic.json`
 
 ---
@@ -161,7 +161,17 @@
 
 ---
 
-## WP — Working Papers (NBER/CEPR/IMF/WB) (1 篇)
+## WP — Working Papers (NBER/CEPR/IMF/WB) (2 篇)
+
+### C.R.I. Clayton, Matteo Maggiori, Jesse Schreger (2024) — A Theory of Economic Coercion and Fragmentation
+- **期刊**：National Bureau of Economic Research [WP]
+- **引用**：23
+- **优先级**：core
+- **议题**：T1, T5
+- **DOI**：[10.3386/w33309](https://doi.org/10.3386/w33309)
+- **简评**：权力是非线性的——霸权国越接近垄断某部门投入品供给，其权力不成比例地增大。估算显示美国地缘经济权力依赖金融服务、中国依赖制造业。少量关键部门的供应来源多元化即可大幅降低安全风险而无需大规模碎片化。23引用，该库最高引论文。
+
+---
 
 ### Serkan Arslanalp, Chima Simpson-Bell, Barry Eichengreen (2022) — The Stealth Erosion of Dollar Dominance: Active Diversifiers and the Rise of Nontraditional Reserve Currencies
 - **期刊**：IMF Working Paper [WP]

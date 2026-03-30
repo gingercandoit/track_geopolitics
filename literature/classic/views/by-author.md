@@ -1,6 +1,6 @@
 # 文献库 — 按作者索引
 
-> 自动生成于 2026-03-29
+> 自动生成于 2026-03-30
 > 仅显示有 2 篇及以上论文的作者，共 31 位
 
 ---
@@ -54,14 +54,14 @@
 
 ## Pablo Fajgelbaum (3 篇, 1164 总引用)
 
-- [80 cites] (2024) The US-China Trade War and Global Reallocations — *American Economic Review Insights* [T1] T2
 - [774 cites] (2019) The Return to Protectionism* — *The Quarterly Journal of Economics* [T1] T2
+- [80 cites] (2024) The US-China Trade War and Global Reallocations — *American Economic Review Insights* [T2] T2
 - [310 cites] (2022) The Economic Impacts of the US–China Trade War — *Annual Review of Economics* [T2] T2
 
 ## Amit Khandelwal (3 篇, 1164 总引用)
 
-- [80 cites] (2024) The US-China Trade War and Global Reallocations — *American Economic Review Insights* [T1] T2
 - [774 cites] (2019) The Return to Protectionism* — *The Quarterly Journal of Economics* [T1] T2
+- [80 cites] (2024) The US-China Trade War and Global Reallocations — *American Economic Review Insights* [T2] T2
 - [310 cites] (2022) The Economic Impacts of the US–China Trade War — *Annual Review of Economics* [T2] T2
 
 ## Mary Amiti (2 篇, 950 总引用)
@@ -74,11 +74,12 @@
 - [221 cites] (2011) Trade Finance and the Great Trade Collapse — *American Economic Review* [T1] T2
 - [729 cites] (2019) The Impact of the 2018 Tariffs on Prices and Welfare — *The Journal of Economic Perspectives* [T2] T2,T3
 
-## Matteo Maggiori (3 篇, 909 总引用)
+## Matteo Maggiori (4 篇, 932 总引用)
 
 - [197 cites] (2021) Redrawing the Map of Global Capital Flows: The Role of Cross-Border Financing an — *The Quarterly Journal of Economics* [T1] T2
 - [451 cites] (2017) Financial Intermediation, International Risk Sharing, and Reserve Currencies — *American Economic Review* [T1] T5
 - [261 cites] (2017) A Model of the International Monetary System* — *The Quarterly Journal of Economics* [T1] T1
+- [23 cites] (2024) A Theory of Economic Coercion and Fragmentation — *National Bureau of Economic Research* [WP] T1,T5
 
 ## Ralph Ossa (5 篇, 858 总引用)
 
@@ -90,18 +91,13 @@
 
 ## Pinelopi Goldberg (2 篇, 854 总引用)
 
-- [80 cites] (2024) The US-China Trade War and Global Reallocations — *American Economic Review Insights* [T1] T2
 - [774 cites] (2019) The Return to Protectionism* — *The Quarterly Journal of Economics* [T1] T2
+- [80 cites] (2024) The US-China Trade War and Global Reallocations — *American Economic Review Insights* [T2] T2
 
 ## Patrick Kennedy (2 篇, 854 总引用)
 
-- [80 cites] (2024) The US-China Trade War and Global Reallocations — *American Economic Review Insights* [T1] T2
 - [774 cites] (2019) The Return to Protectionism* — *The Quarterly Journal of Economics* [T1] T2
-
-## Richard Baldwin (2 篇, 848 总引用)
-
-- [443 cites] (2013) Spiders and snakes: Offshoring and agglomeration in the global economy — *Journal of International Economics* [T2] T3,T2
-- [405 cites] (2025) Global supply chains : why they emerged, why they matter, and where they are goi — *Graduate Institute Geneva Institutional * [other] T3,T5
+- [80 cites] (2024) The US-China Trade War and Global Reallocations — *American Economic Review Insights* [T2] T2
 
 ## Stephen J. Redding (2 篇, 842 总引用)
 
@@ -164,6 +160,11 @@
 
 - [92 cites] (2019) Did Trump's Trade War Impact the 2018 Election? — *National Bureau of Economic Research* [WP] T2
 - [148 cites] (2016) Global Supply Chains and Trade Policy — *National Bureau of Economic Research* [WP] T2,T3
+
+## Jesse Schreger (2 篇, 220 总引用)
+
+- [197 cites] (2021) Redrawing the Map of Global Capital Flows: The Role of Cross-Border Financing an — *The Quarterly Journal of Economics* [T1] T2
+- [23 cites] (2024) A Theory of Economic Coercion and Fragmentation — *National Bureau of Economic Research* [WP] T1,T5
 
 ## Luuk Schmitz (2 篇, 220 总引用)
 

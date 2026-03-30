@@ -193,8 +193,8 @@
     {
       "date": "2026-03-27",
       "type": "企业动态",
-      "title_zh": "中国科研团体抵制AI学术会议",
-      "summary_zh": "多个中国科学团体宣布抵制某AI学术会议，原因是制裁措施导致中国研究人员被排除在外。学术领域成为技术竞争的新战场，反映出中方在政策表态之外正以具体行动表达对技术遏制的不满。",
+      "title_zh": "中国科协、CCF、CAA抵制NeurIPS 2026",
+      "summary_zh": "NeurIPS 2026在投稿指南中新增条款，援引美国制裁名单禁止华为及多所中国高校的学者投稿或参与同行评审。中国科协（CAST）宣布立即暂停资助学者参会，中国计算机学会（CCF）和中国自动化学会（CAA）呼吁中国计算机科学家拒绝向该会议投稿或提供学术服务。CCF警告若NeurIPS不及时纠正，将把其从推荐目录中移除。学术领域成为技术竞争的新战场，反映出中方在政策表态之外正以具体行动回应技术遏制。",
       "source_tier": "A",
       "sources": [
         {
@@ -272,7 +272,7 @@
     "semiconductor_trade_agreement_deadline": "4月14日（商务部长+USTR）",
     "semiconductor_market_report_deadline": "7月1日（商务部长→总统）",
     "bis_draft_rule_status": "已撤回（3月17日，原定设定AI芯片全球出口许可新规）",
-    "chinese_ai_conference_boycott": "多个科研团体参与（3月27日）",
+    "chinese_ai_conference_boycott": "中国科协/CCF/CAA抵制NeurIPS 2026（3月27日）",
     "eu_ai_act_progress": "EDPS发布公共行政应用指南（3月17日）"
   }
 }

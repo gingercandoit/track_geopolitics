@@ -1046,6 +1046,43 @@ h1, h2, h3, h4 {
 }
 .lit-search-input::placeholder { color: #BBB; }
 
+/* Year range filter */
+.year-range-wrap {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+}
+.year-range-label {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 0.82rem;
+  color: #666;
+  white-space: nowrap;
+}
+.year-range-input {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 0.82rem;
+  width: 4.5rem;
+  padding: 0.3rem 0.4rem;
+  border: 1px solid #E0DDD8;
+  border-radius: 4px;
+  color: #333;
+  text-align: center;
+}
+.year-range-input:focus { border-color: #8B0000; outline: none; }
+.year-range-sep {
+  font-size: 0.85rem;
+  color: #999;
+}
+.year-range-clear {
+  font-size: 0.75rem;
+  color: #999;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0 0.2rem;
+}
+.year-range-clear:hover { color: #8B0000; }
+
 .lit-topic-filter {
   display: flex;
   align-items: center;
@@ -1262,34 +1299,39 @@ h1, h2, h3, h4 {
   line-height: 1.6;
   color: #444;
 }
-
-.paper-notes {
-  margin-top: 0.5rem;
-  font-size: 0.85rem;
-  color: #8B0000;
-  font-weight: 500;
+.paper-abstract-zh {
+  font-family: 'Noto Serif SC', serif;
+  color: #333;
 }
 
-.paper-data-method {
-  margin-top: 0.4rem;
+/* Structured metadata row */
+.paper-meta-row {
+  margin-top: 0.6rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+.paper-meta-item {
   font-size: 0.82rem;
+  line-height: 1.5;
   color: #555;
 }
-.paper-data-method span { display: block; line-height: 1.5; }
-.paper-data-method strong {
+.paper-meta-item strong {
   font-family: 'DM Sans', sans-serif;
   font-size: 0.72rem;
   color: #999;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.04em;
+  margin-right: 0.4em;
 }
-
-.paper-doi {
-  margin-top: 0.5rem;
+.paper-meta-item a {
+  color: #2C5F7C;
+  text-decoration: none;
   font-family: 'DM Sans', sans-serif;
   font-size: 0.78rem;
 }
+.paper-meta-item a:hover { text-decoration: underline; }
 
 /* ── Archive page ─────────────────────────────────────────────── */
 .archive-body { padding: 2rem 0 3rem; }

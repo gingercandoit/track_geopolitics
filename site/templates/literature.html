@@ -69,39 +69,13 @@
         </div>
       </div>
 
-      {# ── Year-Month 两级筛选 ── #}
-      <div class="ym-filter-wrap" id="ym-filter-wrap">
-        <button class="tier-filter-btn" id="ym-filter-btn" type="button">
-          发布时间 <span class="tier-filter-arrow">▾</span>
-        </button>
-        <div class="tier-filter-panel" id="ym-filter-panel">
-          {% for yr, months in year_months.items() %}
-          <div class="tier-row">
-            <div class="tier-header" data-year="{{ yr }}">
-              <span class="tier-check">
-                <input type="checkbox" class="ym-year-cb" data-year="{{ yr }}" id="ycb-{{ yr }}">
-              </span>
-              <label for="ycb-{{ yr }}" class="tier-label">{{ yr }}</label>
-              {% if months %}
-              <span class="tier-expand-arrow">▸</span>
-              {% endif %}
-            </div>
-            {% if months %}
-            <div class="tier-journal-list" data-year="{{ yr }}">
-              {% for mo in months %}
-              <label class="journal-cb-label">
-                <input type="checkbox" class="ym-month-cb" data-year="{{ yr }}" data-month="{{ mo }}">
-                {{ yr }}-{{ mo }}
-              </label>
-              {% endfor %}
-            </div>
-            {% endif %}
-          </div>
-          {% endfor %}
-          <div class="tier-filter-footer">
-            <button class="tier-clear-btn" id="ym-clear-btn" type="button">清除筛选</button>
-          </div>
-        </div>
+      {# ── Year range filter ── #}
+      <div class="year-range-wrap" id="year-range-wrap">
+        <label class="year-range-label">年份</label>
+        <input type="number" id="year-from" class="year-range-input" min="{{ year_min }}" max="{{ year_max }}" value="{{ year_min }}" title="起始年份">
+        <span class="year-range-sep">—</span>
+        <input type="number" id="year-to" class="year-range-input" min="{{ year_min }}" max="{{ year_max }}" value="{{ year_max }}" title="截止年份">
+        <button class="year-range-clear hidden" id="year-range-clear" type="button">✕</button>
       </div>
 
       <input type="text" id="lit-search" class="lit-search-input" placeholder="搜索标题、作者…">
@@ -183,8 +157,9 @@
   let activeJournals = new Set();
 
   // ── Year-Month filter state ──
-  let activeYears = new Set();
-  let activeYMs = new Set();   // "2024-05" style strings
+  let yearFrom = parseInt(document.getElementById('year-from').value) || 0;
+  let yearTo = parseInt(document.getElementById('year-to').value) || 9999;
+  let yearRangeActive = false;
   let activeTopics = new Set();
 
   let currentPage = 1;
@@ -208,15 +183,11 @@
   }
 
   const tierPanel = setupPanel('tier-filter-btn', 'tier-filter-panel');
-  const ymPanel   = setupPanel('ym-filter-btn', 'ym-filter-panel');
 
   // close panels on outside click
   document.addEventListener('click', (e) => {
     if (!tierPanel.pnl.contains(e.target) && e.target !== tierPanel.btn) {
       tierPanel.pnl.classList.remove('open');
-    }
-    if (!ymPanel.pnl.contains(e.target) && e.target !== ymPanel.btn) {
-      ymPanel.pnl.classList.remove('open');
     }
   });
 
@@ -299,62 +270,32 @@
   }
 
   // ════════════════════════════════════════════════════
-  // YEAR-MONTH filter logic
+  // YEAR RANGE filter logic
   // ════════════════════════════════════════════════════
-  document.querySelectorAll('.ym-year-cb').forEach(cb => {
-    cb.addEventListener('change', () => {
-      const yr = cb.dataset.year;
-      if (cb.checked) {
-        activeYears.add(yr);
-        // uncheck month-level boxes for this year
-        document.querySelectorAll(`.ym-month-cb[data-year="${yr}"]`).forEach(mcb => {
-          mcb.checked = false;
-          activeYMs.delete(`${yr}-${mcb.dataset.month}`);
-        });
-      } else {
-        activeYears.delete(yr);
-      }
-      updateYMBtn();
-      filterItems();
-    });
-  });
+  const yearFromInput = document.getElementById('year-from');
+  const yearToInput = document.getElementById('year-to');
+  const yearRangeClear = document.getElementById('year-range-clear');
+  const defaultYearFrom = parseInt(yearFromInput.value);
+  const defaultYearTo = parseInt(yearToInput.value);
 
-  document.querySelectorAll('.ym-month-cb').forEach(cb => {
-    cb.addEventListener('change', () => {
-      const yr = cb.dataset.year;
-      const mo = cb.dataset.month;
-      const ym = `${yr}-${mo}`;
-      if (cb.checked) {
-        activeYMs.add(ym);
-        activeYears.delete(yr);
-        const masterCb = document.getElementById(`ycb-${yr}`);
-        if (masterCb) masterCb.checked = false;
-      } else {
-        activeYMs.delete(ym);
-      }
-      updateYMBtn();
-      filterItems();
-    });
-  });
+  function onYearRangeChange() {
+    yearFrom = parseInt(yearFromInput.value) || 0;
+    yearTo = parseInt(yearToInput.value) || 9999;
+    yearRangeActive = (yearFrom !== defaultYearFrom || yearTo !== defaultYearTo);
+    yearRangeClear.classList.toggle('hidden', !yearRangeActive);
+    filterItems();
+  }
 
-  document.getElementById('ym-clear-btn').addEventListener('click', () => {
-    activeYears.clear();
-    activeYMs.clear();
-    document.querySelectorAll('.ym-year-cb, .ym-month-cb').forEach(cb => { cb.checked = false; });
-    updateYMBtn();
+  yearFromInput.addEventListener('change', onYearRangeChange);
+  yearToInput.addEventListener('change', onYearRangeChange);
+
+  yearRangeClear.addEventListener('click', () => {
+    yearFromInput.value = defaultYearFrom;
+    yearToInput.value = defaultYearTo;
+    yearRangeActive = false;
+    yearRangeClear.classList.add('hidden');
     filterItems();
   });
-
-  function updateYMBtn() {
-    const total = activeYears.size + activeYMs.size;
-    if (total === 0) {
-      ymPanel.btn.firstChild.textContent = '发布时间 ';
-      ymPanel.btn.classList.remove('active');
-    } else {
-      ymPanel.btn.firstChild.textContent = `发布时间 (${total}) `;
-      ymPanel.btn.classList.add('active');
-    }
-  }
 
   // ════════════════════════════════════════════════════
   topicChips.forEach(chip => {
@@ -402,15 +343,11 @@
         if (!activeTiers.has(el.dataset.tier)) return false;
       }
 
-      // Year / month filter
+      // Year range filter
       const elYM = el.dataset.year;   // "2024-05" or "2024"
-      if (activeYMs.size > 0) {
-        // month-level: must match one of the selected year-months
-        if (!activeYMs.has(elYM)) return false;
-      } else if (activeYears.size > 0) {
-        // year-level: match year prefix
-        const elYear = elYM.substring(0, 4);
-        if (!activeYears.has(elYear)) return false;
+      if (yearRangeActive) {
+        const elYear = parseInt(elYM.substring(0, 4));
+        if (elYear < yearFrom || elYear > yearTo) return false;
       }
 
       if (activeTopics.size > 0) {

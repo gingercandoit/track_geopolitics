@@ -1,10 +1,10 @@
 # 文献库 — 按优先级排列
 
-> 自动生成于 2026-03-29，共 92 篇
+> 自动生成于 2026-03-30，共 91 篇
 
 ---
 
-## 核心必读 (Core) (17 篇)
+## 核心必读 (Core) (18 篇)
 
 ### Pablo Fajgelbaum, Pinelopi Goldberg, Patrick Kennedy et al. (2019) — The Return to Protectionism*
 - **期刊**：The Quarterly Journal of Economics [T1]
@@ -146,6 +146,16 @@
 
 ---
 
+### C.R.I. Clayton, Matteo Maggiori, Jesse Schreger (2024) — A Theory of Economic Coercion and Fragmentation
+- **期刊**：National Bureau of Economic Research [WP]
+- **引用**：23
+- **优先级**：core
+- **议题**：T1, T5
+- **DOI**：[10.3386/w33309](https://doi.org/10.3386/w33309)
+- **简评**：权力是非线性的——霸权国越接近垄断某部门投入品供给，其权力不成比例地增大。估算显示美国地缘经济权力依赖金融服务、中国依赖制造业。少量关键部门的供应来源多元化即可大幅降低安全风险而无需大规模碎片化。23引用，该库最高引论文。
+
+---
+
 ### Pol Antràs (2020) — De-Globalisation? Global Value Chains in the Post-COVID-19 Age
 - **期刊**：National Bureau of Economic Research [WP]
 - **引用**：61
@@ -176,7 +186,7 @@
 
 ---
 
-## 推荐阅读 (Recommended) (65 篇)
+## 推荐阅读 (Recommended) (64 篇)
 
 ### Gene M. Grossman, Elhanan Helpman, Stephen J. Redding (2024) — When Tariffs Disrupt Global Supply Chains
 - **期刊**：American Economic Review [T1]
@@ -728,16 +738,6 @@
 
 ---
 
-### Richard Baldwin (2025) — Global supply chains : why they emerged, why they matter, and where they are going
-- **期刊**：Graduate Institute Geneva Institutional Repository (Graduate Institute of International and Development Studies) [other]
-- **引用**：405
-- **优先级**：recommended
-- **议题**：T3, T5
-- **DOI**：[10.71609/iheid-2ykv-0p36](https://doi.org/10.71609/iheid-2ykv-0p36)
-- **简评**：Richard Baldwin综述全球供应链的起源、重要性和未来走向——分析技术变革和地缘政治如何重塑全球生产格局。
-
----
-
 ### Yadong Luo, Ari Van Assche (2023) — The rise of techno-geopolitical uncertainty: Implications of the United States CHIPS and Science Act
 - **期刊**：Journal of International Business Studies [other]
 - **引用**：249
@@ -828,17 +828,16 @@
 
 ---
 
-## 参考文献 (Reference) (10 篇)
+## 参考文献 (Reference) (9 篇)
 
 | 作者 | 年份 | 标题 | 期刊 | 引用 | 议题 |
 |------|------|------|------|------|------|
-| Fajgelbaum et al. | 2024 | The US-China Trade War and Global Reallocations | American Economic Review Insig | 80 | T2 |
 | Ossa | 2012 | Profits in the “New Trade” Approach to Trade Negot | American Economic Review | 27 | T2 |
+| Fajgelbaum et al. | 2024 | The US-China Trade War and Global Reallocations | American Economic Review Insig | 80 | T2 |
 | Breinlich et al. | 2021 | THE BREXIT VOTE, INFLATION AND U.K. LIVING STANDAR | International Economic Review | 55 | T2 |
 | Maggi et al. | 2021 | The Political Economy of Deep Integration | Annual Review of Economics | 33 | T2 |
 | McNally et al. | 2017 | A novel pathway to power? Contestation and adaptat | Review of International Politi | 59 | T1,T5 |
 | Chen et al. | 2011 | Renminbi Going Global | China & World Economy | 80 | T1,T5 |
 | Mügge | 2024 | EU AI sovereignty: for whom, to what end, and to w | Journal of European Public Pol | 61 | T4 |
-| Head et al. | 2026 | Industrial Policies for Multi-Stage Production: Th | National Bureau of Economic Re | 0 | T3 |
 | Arslanalp et al. | 2022 | The Stealth Erosion of Dollar Dominance: Active Di | IMF Working Paper | 94 | T1 |
 | Blanchard et al. | 2019 | Did Trump's Trade War Impact the 2018 Election? | National Bureau of Economic Re | 92 | T2 |

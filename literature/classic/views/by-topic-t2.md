@@ -1,21 +1,11 @@
 # T2 贸易与产业政策 (Trade & Industrial Policy) — 阅读清单
 
-> 自动生成于 2026-03-29，共 49 篇
+> 自动生成于 2026-03-30，共 49 篇
 > 数据来源：`literature-classic.json`
 
 ---
 
-## T1 — General Top 5 + Finance Top (16 篇)
-
-### Pablo Fajgelbaum, Pinelopi Goldberg, Patrick Kennedy et al. (2024) — The US-China Trade War and Global Reallocations
-- **期刊**：American Economic Review Insights [T1]
-- **引用**：80
-- **优先级**：reference
-- **议题**：T2
-- **DOI**：[10.1257/aeri.20230094](https://doi.org/10.1257/aeri.20230094)
-- **简评**：量化中美贸易战引发的全球贸易重新配置：'旁观者'国家从被加税产品中获得净出口机会，贸易战效应不仅是双边转移。
-
----
+## T1 — General Top 5 + Finance Top (15 篇)
 
 ### Gene M. Grossman, Elhanan Helpman, Stephen J. Redding (2024) — When Tariffs Disrupt Global Supply Chains
 - **期刊**：American Economic Review [T1]
@@ -167,7 +157,17 @@
 
 ---
 
-## T2 — Field Top Journals (23 篇)
+## T2 — Field Top Journals (24 篇)
+
+### Pablo Fajgelbaum, Pinelopi Goldberg, Patrick Kennedy et al. (2024) — The US-China Trade War and Global Reallocations
+- **期刊**：American Economic Review Insights [T2]
+- **引用**：80
+- **优先级**：reference
+- **议题**：T2
+- **DOI**：[10.1257/aeri.20230094](https://doi.org/10.1257/aeri.20230094)
+- **简评**：量化中美贸易战引发的全球贸易重新配置：'旁观者'国家从被加税产品中获得净出口机会，贸易战效应不仅是双边转移。
+
+---
 
 ### Caroline Freund, Aaditya Mattoo, Alen Mulabdić et al. (2024) — Is US trade policy reshaping global supply chains?
 - **期刊**：Journal of International Economics [T2]

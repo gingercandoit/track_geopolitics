@@ -1,6 +1,6 @@
 # T3 能源安全与资源角力 (Energy Security & Resource Contest) — 阅读清单
 
-> 自动生成于 2026-03-29，共 18 篇
+> 自动生成于 2026-03-30，共 16 篇
 > 数据来源：`literature-classic.json`
 
 ---
@@ -119,17 +119,7 @@
 
 ---
 
-## WP — Working Papers (NBER/CEPR/IMF/WB) (4 篇)
-
-### Keith Head, Thierry Mayer, Marc Melitz et al. (2026) — Industrial Policies for Multi-Stage Production: The Battle for Battery-Powered Vehicles
-- **期刊**：National Bureau of Economic Research [WP]
-- **引用**：0
-- **优先级**：reference
-- **议题**：T3
-- **DOI**：[10.3386/w34884](https://doi.org/10.3386/w34884)
-- **简评**：分析多阶段生产中的产业政策：各国围绕电动汽车电池产业链的政策竞争——产业政策的地缘政治维度。
-
----
+## WP — Working Papers (NBER/CEPR/IMF/WB) (3 篇)
 
 ### Laura Alfaro, Davin Chor (2023) — Global Supply Chains: The Looming “Great Reallocation”
 - **期刊**：National Bureau of Economic Research [WP]
@@ -161,17 +151,7 @@
 
 ---
 
-## other — Other Venues (3 篇)
-
-### Richard Baldwin (2025) — Global supply chains : why they emerged, why they matter, and where they are going
-- **期刊**：Graduate Institute Geneva Institutional Repository (Graduate Institute of International and Development Studies) [other]
-- **引用**：405
-- **优先级**：recommended
-- **议题**：T3, T5
-- **DOI**：[10.71609/iheid-2ykv-0p36](https://doi.org/10.71609/iheid-2ykv-0p36)
-- **简评**：Richard Baldwin综述全球供应链的起源、重要性和未来走向——分析技术变革和地缘政治如何重塑全球生产格局。
-
----
+## other — Other Venues (2 篇)
 
 ### Manfred Häfner, Simone Tagliapietra (2020) — The Geopolitics of the Global Energy Transition
 - **期刊**：Lecture notes in energy [other]
