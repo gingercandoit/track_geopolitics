@@ -489,6 +489,9 @@ h1, h2, h3, h4 {
   max-width: 540px;
   line-height: 1.6;
 }
+.lit-hero .lit-hero-desc {
+  display: none;
+}
 .lit-hero-desc strong {
   color: #777;
 }
@@ -1109,6 +1112,27 @@ h1, h2, h3, h4 {
 .lit-topic-clear:hover {
   border-color: #8B0000;
   color: #8B0000;
+}
+
+.lit-library-note {
+  margin-bottom: 1rem;
+  padding: 0.8rem 1rem;
+  border: 1px solid #E8E5E0;
+  border-left: 3px solid #1B4965;
+  border-radius: 4px;
+  background: #FFF;
+  font-size: 0.84rem;
+  line-height: 1.65;
+  color: #555;
+}
+
+.lit-library-note strong {
+  font-family: 'DM Sans', 'Noto Sans SC', sans-serif;
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: #1B4965;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
 }
 
 .lit-list { display: flex; flex-direction: column; gap: 0.5rem; }

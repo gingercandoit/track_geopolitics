@@ -128,6 +128,10 @@
     <button class="lit-topic-clear hidden" id="lit-topic-clear" type="button">清除主题</button>
   </div>
 
+  <div class="lit-library-note hidden" id="lit-library-note">
+    <strong>新文献说明：</strong>收录近12个月内发表的最新工作论文与期刊论文，每月动态更新；超过12个月后迁入经典文献库长期保存。
+  </div>
+
   <div class="lit-list" id="lit-list">
     {% for p in papers %}
     <div class="lit-item"
@@ -167,6 +171,7 @@
   const searchInput = document.getElementById('lit-search');
   const topicChips = Array.from(document.querySelectorAll('.lit-topic-chip'));
   const topicClearBtn = document.getElementById('lit-topic-clear');
+  const libraryNote = document.getElementById('lit-library-note');
   const emptyEl = document.getElementById('lit-empty');
   const paginationEl = document.getElementById('lit-pagination');
   const prevBtn = document.getElementById('pager-prev');
@@ -385,6 +390,7 @@
   function filterItems() {
     const lib = document.querySelector('.lit-tab.active').dataset.lib;
     const q = searchInput.value.toLowerCase().trim();
+    libraryNote.classList.toggle('hidden', lib !== 'new');
 
     visibleItems = items.filter(el => {
       if (lib !== 'all' && el.dataset.lib !== lib) return false;
