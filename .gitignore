@@ -17,6 +17,9 @@ chat-history/
 # Literature PDFs (too large for git)
 literature/pdf/
 
+# Personal research notes (local only)
+research/
+
 # Static site build output
 site/dist/
 
