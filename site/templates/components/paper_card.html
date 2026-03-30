@@ -5,7 +5,10 @@
     {% if paper.journal %}
     <span class="paper-tier-tag">{{ paper.journal_display or paper.journal }}</span>
     {% endif %}
-    <span class="paper-title">{{ paper.title }}</span>
+    <div class="paper-title-group">
+      <span class="paper-title">{{ paper.title }}</span>
+      {% if paper.title_zh %}<span class="paper-title-zh">{{ paper.title_zh }}</span>{% endif %}
+    </div>
     <span class="paper-toggle">▸</span>
   </div>
   <div class="paper-card-body">

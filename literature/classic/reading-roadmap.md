@@ -1,9 +1,9 @@
 # 阅读路线图 (Reading Roadmap)
 
 > 按议题 → 子主题 → 优先级排列。Core 必读，Recommended 推荐，Reference 参考。
-> 总计 92 篇论文
+> 总计 91 篇论文
 
-## T1: 制裁与经济管制 (19 篇)
+## T1: 制裁与经济管制 (20 篇)
 
 ### 国际金融体系
 
@@ -100,6 +100,11 @@
   - DOI: [https://doi.org/10.1177/0022343314563636](https://doi.org/10.1177/0022343314563636)
   - 📝 研究经济胁迫与目标国货币危机的关系——经济制裁如何通过资本外逃和汇率压力触发金融不稳定。
 
+- ★ **C.R.I. Clayton, Matteo Maggiori et al. (2024)** — A Theory of Economic Coercion and Fragmentation
+  - National Bureau of Economic Research [WP] | 23 citations
+  - DOI: [https://doi.org/10.3386/w33309](https://doi.org/10.3386/w33309)
+  - 📝 权力是非线性的——霸权国越接近垄断某部门投入品供给，其权力不成比例地增大。估算显示美国地缘经济权力依赖金融服务、中国依赖制造业。少量关键部门的供应来源多元化即可大幅降低安全风险而无需大规模碎片化。23引用，该库最高引论文。
+
 - ◆ **Robert D. Blackwill, Jennifer Harris (2016)** — War by Other Means: Geoeconomics and Statecraft
   - Harvard University Press (book) [other] | 305 citations
   - DOI: [https://doi.org/10.4159/9780674545960](https://doi.org/10.4159/9780674545960)
@@ -114,14 +119,9 @@
 
 ---
 
-## T2: 贸易与产业竞争 (49 篇)
+## T2: 贸易与产业政策 (49 篇)
 
 ### 关税与贸易战
-
-- ○ **Pablo Fajgelbaum, Pinelopi Goldberg et al. (2024)** — The US-China Trade War and Global Reallocations
-  - American Economic Review Insights [T1] | 80 citations
-  - DOI: [https://doi.org/10.1257/aeri.20230094](https://doi.org/10.1257/aeri.20230094)
-  - 📝 量化中美贸易战引发的全球贸易重新配置：'旁观者'国家从被加税产品中获得净出口机会，贸易战效应不仅是双边转移。
 
 - ◆ **Gene M. Grossman, Elhanan Helpman et al. (2024)** — When Tariffs Disrupt Global Supply Chains
   - American Economic Review [T1] | 113 citations
@@ -147,6 +147,11 @@
   - American Economic Review [T1] | 256 citations
   - DOI: [https://doi.org/10.1257/aer.101.4.1238](https://doi.org/10.1257/aer.101.4.1238)
   - 📝 实证分析WTO谈判的实际内容——各国到底在谈什么？发现成员国在关税约束和市场准入方面存在系统性的谈判模式。
+
+- ○ **Pablo Fajgelbaum, Pinelopi Goldberg et al. (2024)** — The US-China Trade War and Global Reallocations
+  - American Economic Review Insights [T2] | 80 citations
+  - DOI: [https://doi.org/10.1257/aeri.20230094](https://doi.org/10.1257/aeri.20230094)
+  - 📝 量化中美贸易战引发的全球贸易重新配置：'旁观者'国家从被加税产品中获得净出口机会，贸易战效应不仅是双边转移。
 
 - ◆ **Yi Huang, Chen Lin et al. (2023)** — Trade networks and firm value: Evidence from the U.S.-China trade war
   - Journal of International Economics [T2] | 213 citations
@@ -377,7 +382,7 @@
 
 ---
 
-## T3: 供应链与关键资源 (18 篇)
+## T3: 能源安全与资源角力 (16 篇)
 
 ### 其他
 
@@ -421,11 +426,6 @@
   - DOI: [https://doi.org/10.1257/jep.26.2.167](https://doi.org/10.1257/jep.26.2.167)
   - 📝 分析阿拉伯世界为何爆发革命——教育扩张与经济机会不匹配创造了政治不稳定条件，是地缘政治动荡的经济根源分析。
 
-- ○ **Keith Head, Thierry Mayer et al. (2026)** — Industrial Policies for Multi-Stage Production: The Battle for Battery-Powered Vehicles
-  - National Bureau of Economic Research [WP] | 0 citations
-  - DOI: [https://doi.org/10.3386/w34884](https://doi.org/10.3386/w34884)
-  - 📝 分析多阶段生产中的产业政策：各国围绕电动汽车电池产业链的政策竞争——产业政策的地缘政治维度。
-
 - ◆ **Emily J. Blanchard, Chad P. Bown et al. (2016)** — Global Supply Chains and Trade Policy
   - National Bureau of Economic Research [WP] | 148 citations
   - DOI: [https://doi.org/10.3386/w21883](https://doi.org/10.3386/w21883)
@@ -465,13 +465,6 @@
   - DOI: [https://doi.org/10.3386/w28115](https://doi.org/10.3386/w28115)
   - 📝 全球化理论权威Pol Antràs分析去全球化趋势：从数据上评估全球化是否真正在逆转，区分贸易全球化与金融全球化的不同轨迹，并讨论疫情和地缘冲突对全球经济一体化前景的影响。
 
-### 荷兰病与资源经济
-
-- ◆ **Richard Baldwin (2025)** — Global supply chains : why they emerged, why they matter, and where they are going
-  - Graduate Institute Geneva Institutional Repository (Graduate Institute of International and Development Studies) [other] | 405 citations
-  - DOI: [https://doi.org/10.71609/iheid-2ykv-0p36](https://doi.org/10.71609/iheid-2ykv-0p36)
-  - 📝 Richard Baldwin综述全球供应链的起源、重要性和未来走向——分析技术变革和地缘政治如何重塑全球生产格局。
-
 ### 能源安全与地缘政治
 
 - ◆ **Manfred Häfner, Simone Tagliapietra (2020)** — The Geopolitics of the Global Energy Transition
@@ -481,7 +474,7 @@
 
 ---
 
-## T4: 技术竞争与数字治理 (9 篇)
+## T4: 技术竞争与规则制定 (9 篇)
 
 ### 其他
 
@@ -597,15 +590,15 @@
   - DOI: [https://doi.org/10.1017/s0020818320000612](https://doi.org/10.1017/s0020818320000612)
   - 📝 研究中美贸易战中关税作为选举武器的政治地理学。中国精准瞄准摇摆州实施报复性关税，以最大化总统选举的政治压力。IO。
 
+- ★ **C.R.I. Clayton, Matteo Maggiori et al. (2024)** — A Theory of Economic Coercion and Fragmentation
+  - National Bureau of Economic Research [WP] | 23 citations
+  - DOI: [https://doi.org/10.3386/w33309](https://doi.org/10.3386/w33309)
+  - 📝 权力是非线性的——霸权国越接近垄断某部门投入品供给，其权力不成比例地增大。估算显示美国地缘经济权力依赖金融服务、中国依赖制造业。少量关键部门的供应来源多元化即可大幅降低安全风险而无需大规模碎片化。23引用，该库最高引论文。
+
 - ◆ **Laura Alfaro, Davin Chor (2023)** — Global Supply Chains: The Looming “Great Reallocation”
   - National Bureau of Economic Research [WP] | 116 citations
   - DOI: [https://doi.org/10.3386/w31661](https://doi.org/10.3386/w31661)
   - 📝 分析全球供应链'大重新配置'的前景——地缘政治紧张如何驱动跨国企业重组全球生产网络。
-
-- ◆ **Richard Baldwin (2025)** — Global supply chains : why they emerged, why they matter, and where they are going
-  - Graduate Institute Geneva Institutional Repository (Graduate Institute of International and Development Studies) [other] | 405 citations
-  - DOI: [https://doi.org/10.71609/iheid-2ykv-0p36](https://doi.org/10.71609/iheid-2ykv-0p36)
-  - 📝 Richard Baldwin综述全球供应链的起源、重要性和未来走向——分析技术变革和地缘政治如何重塑全球生产格局。
 
 - ◆ **Seth Schindler, Ilias Alami et al. (2023)** — The Second Cold War: US-China Competition for Centrality in Infrastructure, Digital, Production, and Finance Networks
   - Geopolitics [other] | 174 citations
