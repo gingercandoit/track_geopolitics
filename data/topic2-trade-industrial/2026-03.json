@@ -176,12 +176,16 @@
       "week": 2
     },
     {
-      "date": "2026-03-13",
+      "date": "2026-03-12",
       "type": "贸易调查",
       "title_zh": "US ITC 否决对中国阳极材料征收反倾销和反补贴税",
-      "summary_zh": "美国国际贸易委员会投票否决了对中国产活性阳极材料（AAM）征收反倾销税和反补贴税，这是少见的中国在美国贸易救济案中“胜诉”的案例，对电池供应链的短期影响：中国阳极材料对美出口暂时免于额外关税。",
+      "summary_zh": "美国国际贸易委员会投票否决了对中国产活性阳极材料（AAM）征收反倾销税和反补贴税，这是少见的中国在美国贸易救济案中\"胜诉\"的案例，对电池供应链的短期影响：中国阳极材料对美出口暂时免于额外关税。",
       "source_tier": "A",
       "sources": [
+        {
+          "name": "USITC",
+          "url": "https://www.usitc.gov/press_room/news_release/2026/er0312_68281.htm"
+        },
         {
           "name": "Benchmark Minerals",
           "url": "https://source.benchmarkminerals.com/article/us-itc-votes-against-antidumping-duty-and-countervailing-duty-on-chinese-active-anode-material"
@@ -268,6 +272,10 @@
       "summary_zh": "欧洲议会以大比例通过两项法律提案，正式实施去年达成的EU-US贸易协议。协议核心：取消或降低双方此前在特朗普关税战中互征的关税。欧洲议会同时附加保护条款：如果美国未能遵守承诺，欧盟保留撤回协议的权利。",
       "source_tier": "A",
       "sources": [
+        {
+          "name": "European Parliament",
+          "url": "https://www.europarl.europa.eu/news/en/press-room/20260323IPR38830/eu-us-trade-deal-meps-set-conditions-for-lowering-tariffs-on-us-products"
+        },
         {
           "name": "Reuters",
           "url": "https://www.reuters.com/business/european-parliament-advances-us-trade-deal-with-added-safeguards-2026-03-26/"

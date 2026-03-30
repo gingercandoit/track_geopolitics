@@ -14,7 +14,7 @@
       "type": "制裁管制",
       "title_zh": "BIS 对华 AI 芯片出口新规正式生效",
       "summary_zh": "1月发布的AI半导体出口许可审查修订规则（ECCN 3A090）和Proclamation 11002在本周陆续生效执行。审查政策从全面“推定拒绝“改为“逐案审查“，但附加严格认证条件：出口商须证明芯片在美国市场供应充足，技术门槛TPP ≤ 21,000，DRAM带宽 ≤ 6,500 GB/s。",
-      "source_tier": "C",
+      "source_tier": "A",
       "sources": [
         {
           "name": "Pillsbury Law",

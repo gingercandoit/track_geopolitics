@@ -193,8 +193,12 @@
       "type": "国际机构",
       "title_zh": "IEA 32国释放4亿桶战略石油储备",
       "summary_zh": "IEA 32个成员国一致同意释放4亿桶战略石油储备。美国同时暂停对19M桶俄罗斯原油的制裁（30天窗口）。OPEC+承诺增产206,000桶/日以缓解短缺。400M桶储备仅相当于全球约4天消费量。",
-      "source_tier": "C",
+      "source_tier": "B",
       "sources": [
+        {
+          "name": "IEA",
+          "url": "https://www.iea.org/news/iea-member-countries-to-carry-out-largest-ever-oil-stock-release-amid-market-disruptions-from-middle-east-conflict"
+        },
         {
           "name": "NYT",
           "url": "https://www.nytimes.com/2026/03/11/business/energy-environment/iran-oil-reserves-release.html"

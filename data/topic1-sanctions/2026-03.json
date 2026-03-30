@@ -51,12 +51,28 @@
       "week": 2
     },
     {
-      "date": "2026-03-17",
+      "date": "2026-03-16",
       "type": "制裁管制",
       "title_zh": "欧盟新增31人和6实体到俄罗斯/伊朗/网络制裁名单",
-      "summary_zh": "涵盖三个方向：俄罗斯（战争相关）、伊朗（人权侵犯及支持俄罗斯战争）、网络攻击。这是欧盟在新制裁包裹停滞背景下、利用现有法律框架持续扩展制裁对象的做法，引发中方即时外交反弹。",
-      "source_tier": "C",
+      "summary_zh": "涵盖三个方向：俄罗斯（战争相关，布查大屠杀9人）、伊朗（人权侵犯16人+3实体）、网络攻击（2人+3实体）、俄罗斯信息操纵（4人）。这是欧盟在新制裁包裹停滞背景下、利用现有法律框架持续扩展制裁对象的做法，引发中方即时外交反弹。",
+      "source_tier": "A",
       "sources": [
+        {
+          "name": "EU Council (Iran)",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/03/16/iran-council-sanctions-an-additional-16-persons-and-three-entities-over-serious-human-rights-violations/"
+        },
+        {
+          "name": "EU Council (Cyber)",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/03/16/cyber-attacks-against-the-eu-and-its-member-states-council-sanctions-three-entities-and-two-individuals/"
+        },
+        {
+          "name": "EU Council (FIMI)",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/03/16/russian-hybrid-threats-four-individuals-added-to-eu-sanctions-list-for-information-manipulation-activities/"
+        },
+        {
+          "name": "EU Council (Bucha)",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/03/16/russia-s-war-of-aggression-against-ukraine-council-sanctions-nine-individuals-responsible-for-bucha-massacre/"
+        },
         {
           "name": "Global Sanctions",
           "url": "https://globalsanctions.com/2026/03/eu-adds-31-people-and-6-entities-to-russia-iran-and-cyber-sanctions-lists/"
@@ -120,7 +136,7 @@
       "type": "制裁管制",
       "title_zh": "美国临时解除海上伊朗原油制裁以遏制油价",
       "summary_zh": "在油价飙升压力下，财政部长Bessent宣布临时授权购买已在海上的伊朗原油，为买家提供30天制裁豁免，总计约1.4亿桶被解除制裁。同时解除对30艘俄罗斯关联油轮的制裁（载有1900万桶），允许在亚洲销售，暂停对俄制裁30天。",
-      "source_tier": "A",
+      "source_tier": "C",
       "sources": [
         {
           "name": "Reuters",
