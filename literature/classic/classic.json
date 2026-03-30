@@ -59,7 +59,9 @@
       "tags": [],
       "notes_zh": "量化中美贸易战引发的全球贸易重新配置：'旁观者'国家从被加税产品中获得净出口机会，贸易战效应不仅是双边转移。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2024-05-31",
+      "pub_ym": "2024-05"
     },
     {
       "id": "boehm_etal_2024",
@@ -95,7 +97,9 @@
       "tags": [],
       "notes_zh": "研究关税如何通过企业间供应关系传导、扰乱全球供应链。发现关税的供应链传导效应显著，企业需付出巨大搜索成本重建供应关系。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2024-03-28",
+      "pub_ym": "2024-03"
     },
     {
       "id": "grossman_etal_2023",
@@ -129,7 +133,9 @@
       "tags": [],
       "notes_zh": "研究供应链韧性的最优政策设计：政府应促进国际多元化还是国内替代？理论模型表明答案取决于冲击类型和供应链结构。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2023-03-29",
+      "pub_ym": "2023-03"
     },
     {
       "id": "coppola_etal_2021",
@@ -164,7 +170,9 @@
       "tags": [],
       "notes_zh": "剥离避税港壳公司后重绘全球资本流动真实地理，揭示跨境融资结构如何扭曲官方FDI统计。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2021-04-28",
+      "pub_ym": "2021-04"
     },
     {
       "id": "antras_degortari_2020",
@@ -199,7 +207,9 @@
       "tags": [],
       "notes_zh": "构建全球价值链地理分布的多阶段一般均衡模型。揭示各国在GVC中的专业化模式及其与贸易成本、要素禀赋的关系。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2020-01-01",
+      "pub_ym": "2020-01"
     },
     {
       "id": "fajgelbaum_etal_2019",
@@ -234,7 +244,9 @@
       "tags": [],
       "notes_zh": "量化2018年美国加征关税及贸易伙伴报复的短期福利影响，发现关税完全传导至美国进口价格，消费者承担全部成本。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2019-10-29",
+      "pub_ym": "2019-10"
     },
     {
       "id": "criscuolo_etal_2019",
@@ -269,7 +281,9 @@
       "tags": [],
       "notes_zh": "利用英国区域选择性援助(RSA)政策的断点设计，评估产业政策对就业和投资的因果效应，为产业政策有效性提供因果识别证据。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2019-01-01",
+      "pub_ym": "2019-01"
     },
     {
       "id": "maggiori_2017",
@@ -301,7 +315,9 @@
       "tags": [],
       "notes_zh": "建模金融中介质量与国际风险分担的关系，解释金融最发达国家为何成为储备货币发行国——为理解美元霸权的金融基础提供理论支撑。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2017-09-29",
+      "pub_ym": "2017-09"
     },
     {
       "id": "farhi_maggiori_2017",
@@ -334,7 +350,9 @@
       "tags": [],
       "notes_zh": "构建国际货币体系理论模型，分析储备资产供给中的'特里芬困境'与安全资产短缺问题，核心关切是美元体系的内在脆弱性。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2017-08-17",
+      "pub_ym": "2017-08"
     },
     {
       "id": "brandt_etal_2017",
@@ -369,7 +387,9 @@
       "tags": [],
       "notes_zh": "研究中国加入WTO后制造业企业的绩效变化。发现贸易自由化通过竞争加剧和资源重新配置提高了整体生产率。AER。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2017-09-01",
+      "pub_ym": "2017-09"
     },
     {
       "id": "acemolu_etal_2016",
@@ -406,7 +426,9 @@
       "tags": [],
       "notes_zh": "研究环境政策如何引导从污染技术向清洁技术的创新转型，涉及碳关税(CBAM)和绿色产业政策竞争的理论基础。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2016-01-08",
+      "pub_ym": "2016-01"
     },
     {
       "id": "caliendo_parro_2014",
@@ -439,7 +461,9 @@
       "tags": [],
       "notes_zh": "用Ricardian多国多部门模型量化NAFTA的贸易与福利效应，方法论上是评估区域贸易协定影响的标杆研究。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2014-11-14",
+      "pub_ym": "2014-11"
     },
     {
       "id": "ossa_2014",
@@ -471,7 +495,9 @@
       "tags": [],
       "notes_zh": "用量化贸易模型计算各国最优关税和贸易谈判均衡，揭示贸易战和贸易谈判的福利后果——trade war与trade talk的经济逻辑。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2014-12-01",
+      "pub_ym": "2014-12"
     },
     {
       "id": "autor_etal_2013",
@@ -509,7 +535,9 @@
       "tags": [],
       "notes_zh": "估计中国进口竞争对美国本地劳动力市场的冲击('中国综合征')，开创了贸易冲击的区域劳动市场分析范式，直接关联中美经贸摩擦。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2013-10-01",
+      "pub_ym": "2013-10"
     },
     {
       "id": "bown_crowley_2013",
@@ -542,7 +570,9 @@
       "tags": [],
       "notes_zh": "实证检验贸易协定的自我执行机制，分析各国如何利用WTO例外条款和贸易救济工具应对经济波动。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2013-04-01",
+      "pub_ym": "2013-04"
     },
     {
       "id": "ossa_2012",
@@ -574,7 +604,9 @@
       "tags": [],
       "notes_zh": "在'新贸易'理论框架下分析贸易谈判中的利润转移动机，揭示企业利润在贸易协定谈判中的核心作用。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2012-05-01",
+      "pub_ym": "2012-05"
     },
     {
       "id": "bagwell_staiger_2011",
@@ -607,7 +639,9 @@
       "tags": [],
       "notes_zh": "实证分析WTO谈判的实际内容——各国到底在谈什么？发现成员国在关税约束和市场准入方面存在系统性的谈判模式。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2011-06-01",
+      "pub_ym": "2011-06"
     },
     {
       "id": "ossa_2011",
@@ -639,7 +673,9 @@
       "tags": [],
       "notes_zh": "提出GATT/WTO贸易谈判的'新贸易'理论，在规模经济和不完全竞争条件下推导最优关税与谈判结构。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2011-02-01",
+      "pub_ym": "2011-02"
     },
     {
       "id": "ahn_etal_2011",
@@ -673,7 +709,9 @@
       "tags": [],
       "notes_zh": "研究贸易融资渠道在2008-09年全球贸易大崩溃中的作用，分析金融危机如何通过贸易信贷收缩放大贸易下降。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2011-05-01",
+      "pub_ym": "2011-05"
     },
     {
       "id": "fajgelbaum_goldberg_2024",
@@ -710,7 +748,9 @@
       "tags": [],
       "notes_zh": "评估美国贸易政策（2018-2022关税战）是否正在重塑全球供应链格局。分析贸易转移、友岸外包等政策效应。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2024-10-09",
+      "pub_ym": "2024-10"
     },
     {
       "id": "huang_etal_2023",
@@ -747,7 +787,9 @@
       "tags": [],
       "notes_zh": "利用企业层面贸易网络数据研究中美贸易战对企业价值的影响。发现贸易网络暴露程度显著影响企业股票价值。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2023-08-25",
+      "pub_ym": "2023-08"
     },
     {
       "id": "lashkaripour_lugovskyy_2023",
@@ -782,7 +824,9 @@
       "tags": [],
       "notes_zh": "将中美经济冲突建模为贸易战与产业政策竞争的双重博弈。分析关税与补贴的互动效应及全球福利影响。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2023-11-02",
+      "pub_ym": "2023-11"
     },
     {
       "id": "fajgelbaum_khandelwal_2022",
@@ -815,7 +859,9 @@
       "tags": [],
       "notes_zh": "综合量化中美贸易战的经济影响：关税传导、贸易转移、福利损失和政治经济效应。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2022-04-28",
+      "pub_ym": "2022-04"
     },
     {
       "id": "alami_etal_2022",
@@ -855,7 +901,9 @@
       "tags": [],
       "notes_zh": "提出'国际金融从属'研究议程，分析全球金融等级体系中外围国家的结构性脆弱性——美元体系下的不对称权力关系。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2022-07-19",
+      "pub_ym": "2022-07"
     },
     {
       "id": "autor_etal_2022",
@@ -891,7 +939,9 @@
       "tags": [],
       "notes_zh": "China Shock的延续研究：评估中国贸易冲击对美国劳动力市场的持久影响(2000-2019)，发现效应远比预期持久。BPEA。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2022-06-26",
+      "pub_ym": "2022-06"
     },
     {
       "id": "fajgelbaum_etal_2022",
@@ -926,7 +976,9 @@
       "tags": [],
       "notes_zh": "研究中美贸易战中出口商的应对策略。发现企业通过调整价格、产品组合和目的地市场来应对保护主义关税。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2022-10-24",
+      "pub_ym": "2022-10"
     },
     {
       "id": "autor_etal_2022_elections",
@@ -964,7 +1016,9 @@
       "tags": [],
       "notes_zh": "研究对华贸易自由化是否影响了美国选举结果。发现受进口冲击更大的选区政治极化加剧，影响国会选举。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2022-07-06",
+      "pub_ym": "2022-07"
     },
     {
       "id": "chor_etal_2021",
@@ -1000,7 +1054,9 @@
       "tags": [],
       "notes_zh": "研究中国企业在全球生产线上的位置如何影响其增长表现，分析全球价值链参与对中国经济增长模式的塑造。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2021-02-15",
+      "pub_ym": "2021-02"
     },
     {
       "id": "breinlich_etal_2021",
@@ -1035,7 +1091,9 @@
       "tags": [],
       "notes_zh": "量化脱欧公投通过汇率贬值对英国消费者物价和生活水平的影响，是地缘政治事件（脱欧）经济后果的直接度量。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2021-09-03",
+      "pub_ym": "2021-09"
     },
     {
       "id": "maggi_ossa_2021",
@@ -1068,7 +1126,9 @@
       "tags": [],
       "notes_zh": "分析'深度一体化'(边境后规则)的政治经济学——为什么贸易协定越来越涉及国内监管？揭示贸易治理从关税到规则的转变。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2021-08-05",
+      "pub_ym": "2021-08"
     },
     {
       "id": "bonadio_etal_2021",
@@ -1105,7 +1165,9 @@
       "tags": [],
       "notes_zh": "量化分析新冠疫情期间全球供应链的角色。发现供应链传导放大了疫情对GDP的负面影响约25%。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2021-09-22",
+      "pub_ym": "2021-09"
     },
     {
       "id": "aghion_etal_2020",
@@ -1138,7 +1200,9 @@
       "tags": [],
       "notes_zh": "利用中国加入WTO前后的企业数据研究贸易政策不确定性对创新的影响。发现不确定性降低显著刺激了企业创新投入。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2020-09-09",
+      "pub_ym": "2020-09"
     },
     {
       "id": "amiti_etal_2019_b",
@@ -1174,7 +1238,9 @@
       "tags": [],
       "notes_zh": "量化2018年美国关税对进口价格和消费者福利的影响，发现关税几乎完全由美国进口商承担，是贸易战实证文献的核心参考。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2019-10-30",
+      "pub_ym": "2019-10"
     },
     {
       "id": "steinberg_2019",
@@ -1208,7 +1274,9 @@
       "tags": [],
       "notes_zh": "量化分析脱欧带来的贸易政策不确定性的宏观经济影响。发现不确定性本身（而非实际脱欧）已造成显著GDP损失。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2019-01-30",
+      "pub_ym": "2019-01"
     },
     {
       "id": "acemoglu_restrepo_2019",
@@ -1249,7 +1317,9 @@
       ],
       "notes_zh": "提出自动化与新任务创造的理论框架：自动化替代劳动力的同时也创造新任务，两股力量的相对强度决定技术进步对劳动市场的净影响。为理解AI时代的技术竞争和数字治理提供经济学基础。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2019-05-01",
+      "pub_ym": "2019-05"
     },
     {
       "id": "rodrik_2018_b",
@@ -1281,7 +1351,9 @@
       "tags": [],
       "notes_zh": "分析贸易协定到底做了什么——超越传统的市场准入视角，揭示现代贸易协定如何重塑国内制度和监管空间。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2018-05-01",
+      "pub_ym": "2018-05"
     },
     {
       "id": "mcnally_gruin_2017",
@@ -1316,7 +1388,9 @@
       "tags": [],
       "notes_zh": "分析中国人民币国际化的政治经济学路径——制度竞争、适应与创新如何塑造人民币的全球角色。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2017-05-10",
+      "pub_ym": "2017-05"
     },
     {
       "id": "autor_etal_2016",
@@ -1352,7 +1426,9 @@
       "tags": [],
       "notes_zh": "综述'中国冲击'文献：中国贸易扩张对美国劳动力市场的大规模调整效应，直接关联中美经贸关系和保护主义回潮。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2016-08-08",
+      "pub_ym": "2016-08"
     },
     {
       "id": "alder_etal_2016",
@@ -1386,7 +1462,9 @@
       "tags": [],
       "notes_zh": "研究中国城市层面的经济改革与产业政策效果，分析经济特区和产业扶持政策对中国经济增长的贡献。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2016-05-07",
+      "pub_ym": "2016-05"
     },
     {
       "id": "farrell_newman_2016",
@@ -1419,7 +1497,9 @@
       "tags": [],
       "notes_zh": "'新相互依赖'理论发展——分析全球化如何创造新的权力关系和制度形态，是'武器化相互依赖'理论的前置研究。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2016-09-02",
+      "pub_ym": "2016-09"
     },
     {
       "id": "bagwell_etal_2016",
@@ -1455,7 +1535,9 @@
       "tags": [],
       "notes_zh": "反思WTO是否已过时——分析多边贸易体系面临的挑战，包括新兴大国崛起、优惠贸易协定增殖和全球价值链重构。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2016-12-01",
+      "pub_ym": "2016-12"
     },
     {
       "id": "rodrik_2015",
@@ -1489,7 +1571,9 @@
       "tags": [],
       "notes_zh": "提出'过早去工业化'概念：发展中国家在更低收入水平就开始去工业化，对全球南方的发展战略和产业政策选择有重大影响。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2015-11-27",
+      "pub_ym": "2015-11"
     },
     {
       "id": "ossa_2015",
@@ -1521,7 +1605,9 @@
       "tags": [],
       "notes_zh": "论证贸易为何依然重要——通过纳入产品内专业化，证明贸易福利收益远超传统模型估计。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2015-07-22",
+      "pub_ym": "2015-07"
     },
     {
       "id": "becker_2014",
@@ -1553,7 +1639,9 @@
       "tags": [],
       "notes_zh": "综述公共R&D政策对私人R&D投资的影响文献——产业政策中技术补贴有效性的实证依据汇总。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2014-08-12",
+      "pub_ym": "2014-08"
     },
     {
       "id": "alfaro_etal_2014",
@@ -1587,7 +1675,9 @@
       "tags": [],
       "notes_zh": "分析主权资本流动与全球失衡：为什么资本从穷国流向富国？涉及外汇储备积累和国际货币体系失衡的政治经济学。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2014-09-22",
+      "pub_ym": "2014-09"
     },
     {
       "id": "baldwin_venables_2013",
@@ -1627,7 +1717,9 @@
       ],
       "notes_zh": "全球价值链理论的经典框架论文。区分两种GVC结构——'蜘蛛型'(零部件从多个来源汇聚到一个组装点)和'蛇型'(产品沿线性链条逐步增值)——并分析不同结构对贸易政策的差异化影响。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2013-03-13",
+      "pub_ym": "2013-03"
     },
     {
       "id": "campante_chor_2012",
@@ -1660,7 +1752,9 @@
       "tags": [],
       "notes_zh": "分析阿拉伯世界为何爆发革命——教育扩张与经济机会不匹配创造了政治不稳定条件，是地缘政治动荡的经济根源分析。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2012-05-01",
+      "pub_ym": "2012-05"
     },
     {
       "id": "xu_2011",
@@ -1692,7 +1786,9 @@
       "tags": [],
       "notes_zh": "剖析中国改革与发展的基本制度架构——'地区分权的威权制'(RDA体制)如何驱动中国经济增长和制度演变。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2011-12-01",
+      "pub_ym": "2011-12"
     },
     {
       "id": "bown_2011",
@@ -1724,7 +1820,9 @@
       "tags": [],
       "notes_zh": "盘点1990-2009年全球反倾销、保障措施和反补贴税的使用趋势，提供贸易救济工具使用模式的全景数据。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2011-11-11",
+      "pub_ym": "2011-11"
     },
     {
       "id": "chen_cheung_2011",
@@ -1759,7 +1857,9 @@
       "tags": [],
       "notes_zh": "研究人民币国际化的早期进展：离岸人民币市场、双边货币互换协议和人民币在国际贸易结算中的角色扩展。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2011-03-01",
+      "pub_ym": "2011-03"
     },
     {
       "id": "topalova_2010",
@@ -1791,7 +1891,9 @@
       "tags": [],
       "notes_zh": "利用印度贸易自由化的地区差异，研究要素流动性不足时贸易开放对地方贫困的影响——贸易政策的分配效应。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2010-10-01",
+      "pub_ym": "2010-10"
     },
     {
       "id": "farrell_newman_2010",
@@ -1824,7 +1926,9 @@
       "tags": [],
       "notes_zh": "历史制度主义视角下的全球市场构建——分析国际政治经济中的制度如何塑造全球市场规则。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2010-10-01",
+      "pub_ym": "2010-10"
     },
     {
       "id": "bown_tovar_2010",
@@ -1857,7 +1961,9 @@
       "tags": [],
       "notes_zh": "研究印度在贸易自由化过程中如何使用反倾销和保障措施——贸易救济工具作为管理开放的政策缓冲机制。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2010-06-14",
+      "pub_ym": "2010-06"
     },
     {
       "id": "mgge_2024",
@@ -1889,7 +1995,9 @@
       "tags": [],
       "notes_zh": "批判性分析欧盟AI主权话语——为谁的利益？达成什么目标？揭示技术主权政策背后的政治经济逻辑。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2024-02-28",
+      "pub_ym": "2024-02"
     },
     {
       "id": "carlo_schmitz_2023",
@@ -1924,7 +2032,9 @@
       "tags": [],
       "notes_zh": "'欧洲优先'？分析欧盟产业政策的崛起——从自由市场到保护和促进单一市场的战略转向，是地缘政治驱动的产业政策转型。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2023-05-02",
+      "pub_ym": "2023-05"
     },
     {
       "id": "seidl_schmitz_2023",
@@ -1959,7 +2069,9 @@
       "tags": [],
       "notes_zh": "分析'技术主权'与'地缘政治导向型国家主义'——欧盟如何在技术竞争中避免落后，是大国技术竞争的欧洲视角。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2023-08-24",
+      "pub_ym": "2023-08"
     },
     {
       "id": "pearson_etal_2022",
@@ -1993,7 +2105,9 @@
       "tags": [],
       "notes_zh": "分析中国党国资本主义模式引发的国际反弹——从相互依赖到对抗，研究中国经济模式如何重塑全球经济治理。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2022-01-01",
+      "pub_ym": "2022-01"
     },
     {
       "id": "kim_margalit_2021",
@@ -2028,7 +2142,9 @@
       "tags": [],
       "notes_zh": "研究中美贸易战中关税作为选举武器的政治地理学。中国精准瞄准摇摆州实施报复性关税，以最大化总统选举的政治压力。IO。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2021-01-01",
+      "pub_ym": "2021-01"
     },
     {
       "id": "lake_etal_2021",
@@ -2062,7 +2178,9 @@
       "tags": [],
       "notes_zh": "IO创刊75周年特稿，反思自由主义国际秩序的挑战与前景。多位学者审视威权崛起、民粹主义、技术变革对国际秩序的冲击。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2021-01-01",
+      "pub_ym": "2021-01"
     },
     {
       "id": "owen_2021",
@@ -2095,7 +2213,9 @@
       "tags": [],
       "notes_zh": "分析国内政治与中国崛起如何共同塑造自由国际秩序的未来。提出自由秩序的韧性取决于民主国家的国内政治走向。IO。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2021-01-01",
+      "pub_ym": "2021-01"
     },
     {
       "id": "farrell_newman_2021_janus",
@@ -2130,7 +2250,9 @@
       "tags": [],
       "notes_zh": "Farrell与Newman对'武器化相互依赖'的延伸：分析自由主义全球信息秩序的两面性——开放的信息网络既促进自由也为国家监控和胁迫提供了工具。IO。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2021-01-01",
+      "pub_ym": "2021-01"
     },
     {
       "id": "farrell_newman_2019",
@@ -2163,7 +2285,9 @@
       "tags": [],
       "notes_zh": "'武器化相互依赖'核心论文：全球经济网络的中心节点如何被国家用作胁迫工具——制裁经济学的理论基石。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2019-01-01",
+      "pub_ym": "2019-01"
     },
     {
       "id": "mearsheimer_2019",
@@ -2195,7 +2319,9 @@
       "tags": [],
       "notes_zh": "论自由主义国际秩序的兴衰——现实主义视角下大国竞争必然导致自由秩序的崩溃，是理解当前地缘格局的理论框架。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2019-04-01",
+      "pub_ym": "2019-04"
     },
     {
       "id": "tsourapas_2019",
@@ -2227,7 +2353,9 @@
       "tags": [],
       "notes_zh": "分析叙利亚难民危机对约旦、黎巴嫩和土耳其外交政策决策的影响——难民问题如何成为地缘政治博弈的筹码。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2019-03-05",
+      "pub_ym": "2019-03"
     },
     {
       "id": "porter_2018",
@@ -2259,7 +2387,9 @@
       "tags": [],
       "notes_zh": "分析美国大战略为何未发生根本性改变——权力、习惯和外交政策机构如何维持美国的全球介入。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2018-01-01",
+      "pub_ym": "2018-01"
     },
     {
       "id": "brautigam_2018",
@@ -2294,7 +2424,9 @@
       "tags": [],
       "notes_zh": "研究大国如何通过管辖权扩张来动员市场权力作为经济治国工具。分析美国和欧盟在反垄断、数据保护等领域的域外管辖实践。IO。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2018-08-13",
+      "pub_ym": "2018-08"
     },
     {
       "id": "falkner_2016",
@@ -2326,7 +2458,9 @@
       "tags": [],
       "notes_zh": "分析《巴黎协定》开创的国际气候政治新逻辑——从自上而下的强制减排到自下而上的国家自主贡献(NDC)。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2016-08-31",
+      "pub_ym": "2016-08"
     },
     {
       "id": "hultman_peksen_2015",
@@ -2359,7 +2493,9 @@
       "tags": [],
       "notes_zh": "实证评估国际制裁是'成功的胁迫'还是'适得其反'——制裁对目标国政策行为改变的有效性检验。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2015-09-07",
+      "pub_ym": "2015-09"
     },
     {
       "id": "peksen_son_2015",
@@ -2392,7 +2528,9 @@
       "tags": [],
       "notes_zh": "研究经济胁迫与目标国货币危机的关系——经济制裁如何通过资本外逃和汇率压力触发金融不稳定。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2015-06-08",
+      "pub_ym": "2015-06"
     },
     {
       "id": "morse_keohane_2014",
@@ -2425,7 +2563,9 @@
       "tags": [],
       "notes_zh": "'竞争性多边主义'概念：当现有国际机构不能满足需求时，国家如何绕开或重建多边制度——理解国际秩序碎片化。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2014-03-22",
+      "pub_ym": "2014-03"
     },
     {
       "id": "farrell_newman_2014",
@@ -2458,7 +2598,9 @@
       "tags": [],
       "notes_zh": "分析超越民族国家的国内制度——全球化如何创造跨国监管网络，预示'新相互依赖'理论的制度分析维度。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2014-03-28",
+      "pub_ym": "2014-03"
     },
     {
       "id": "liao_mcdowell_2014",
@@ -2491,7 +2633,9 @@
       "tags": [],
       "notes_zh": "研究中国双边货币互换协议与人民币国际化：中国如何通过金融外交推进'人民币崛起'。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2014-11-15",
+      "pub_ym": "2014-11"
     },
     {
       "id": "murdie_peksen_2012",
@@ -2524,7 +2668,9 @@
       "tags": [],
       "notes_zh": "研究人权INGO活动如何影响经济制裁的实施——非政府组织的倡导网络在制裁决策中的作用。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2012-07-07",
+      "pub_ym": "2012-07"
     },
     {
       "id": "head_etal_2026",
@@ -2559,7 +2705,9 @@
       "tags": [],
       "notes_zh": "分析多阶段生产中的产业政策：各国围绕电动汽车电池产业链的政策竞争——产业政策的地缘政治维度。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2026-02-01",
+      "pub_ym": "2026-02"
     },
     {
       "id": "aiyar_etal_2023",
@@ -2600,7 +2748,9 @@
       "tags": [],
       "notes_zh": "IMF报告：分析地缘经济碎片化对多边体系的威胁——贸易脱钩、技术分裂和金融去全球化对全球经济的长期影响。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2023-01-01",
+      "pub_ym": "2023-01"
     },
     {
       "id": "alfaro_chor_2023",
@@ -2635,7 +2785,9 @@
       "tags": [],
       "notes_zh": "分析全球供应链'大重新配置'的前景——地缘政治紧张如何驱动跨国企业重组全球生产网络。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2023-09-01",
+      "pub_ym": "2023-09"
     },
     {
       "id": "arslanalp_etal_2022",
@@ -2669,7 +2821,9 @@
       "tags": [],
       "notes_zh": "记录美元在全球储备中份额的'隐形侵蚀'——各国央行主动多元化转向非传统储备货币（人民币等），挑战美元霸权。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2022-03-01",
+      "pub_ym": "2022-03"
     },
     {
       "id": "antras_2020",
@@ -2710,7 +2864,9 @@
       ],
       "notes_zh": "全球化理论权威Pol Antràs分析去全球化趋势：从数据上评估全球化是否真正在逆转，区分贸易全球化与金融全球化的不同轨迹，并讨论疫情和地缘冲突对全球经济一体化前景的影响。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2020-11-01",
+      "pub_ym": "2020-11"
     },
     {
       "id": "blanchard_etal_2019",
@@ -2744,7 +2900,9 @@
       "tags": [],
       "notes_zh": "研究特朗普贸易战是否影响了2018年中期选举——贸易政策的政治经济反馈效应。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2019-11-01",
+      "pub_ym": "2019-11"
     },
     {
       "id": "blanchard_etal_2016",
@@ -2780,7 +2938,9 @@
       "tags": [],
       "notes_zh": "分析全球供应链如何改变各国贸易政策激励——上下游产业链接使保护主义成本更高，改变了最优关税计算。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2016-01-01",
+      "pub_ym": "2016-01"
     },
     {
       "id": "baldwin_2025",
@@ -2814,7 +2974,9 @@
       "tags": [],
       "notes_zh": "Richard Baldwin综述全球供应链的起源、重要性和未来走向——分析技术变革和地缘政治如何重塑全球生产格局。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2025-05-16",
+      "pub_ym": "2025-05"
     },
     {
       "id": "luo_assche_2023",
@@ -2849,7 +3011,9 @@
       "tags": [],
       "notes_zh": "提出'技术-地缘政治不确定性'概念：分析美国CHIPS法案如何改变全球半导体产业的投资和创新格局。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2023-04-01",
+      "pub_ym": "2023-04"
     },
     {
       "id": "schindler_etal_2023",
@@ -2892,7 +3056,9 @@
       "tags": [],
       "notes_zh": "分析中美'第二次冷战'——在基础设施、数字经济和绿色转型领域争夺全球中心性的竞争。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2023-09-07",
+      "pub_ym": "2023-09"
     },
     {
       "id": "roberts_etal_2020",
@@ -2933,7 +3099,9 @@
       "tags": [],
       "notes_zh": "系统分析中国的人工智能发展路径——政策框架、伦理考量和国际标准竞争，是理解中美AI竞争的关键参考。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2020-06-17",
+      "pub_ym": "2020-06"
     },
     {
       "id": "chang_andreoni_2020",
@@ -2966,7 +3134,9 @@
       "tags": [],
       "notes_zh": "Ha-Joon Chang论21世纪产业政策——为什么产业政策回归？新一代产业政策的理论基础和实践模式。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2020-01-11",
+      "pub_ym": "2020-01"
     },
     {
       "id": "hfner_tagliapietra_2020",
@@ -3001,7 +3171,9 @@
       "tags": [],
       "notes_zh": "分析全球能源转型的地缘政治维度——清洁能源如何重塑能源出口国与进口国的权力关系。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2020-01-01",
+      "pub_ym": "2020-01"
     },
     {
       "id": "petricevi_teece_2019",
@@ -3036,7 +3208,9 @@
       "tags": [],
       "notes_zh": "分析全球化的结构性重塑——地缘政治、技术变革和制度碎片化如何改变跨国企业的战略部门和知识产权保护。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2019-10-28",
+      "pub_ym": "2019-10"
     },
     {
       "id": "rodrik_2018",
@@ -3070,7 +3244,9 @@
       "tags": [],
       "notes_zh": "Dani Rodrik论经济政策改革——全球化背景下发展中国家的政策空间、制度约束和改革路径。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2018-05-04",
+      "pub_ym": "2018-05"
     },
     {
       "id": "rodrik_2018_populism",
@@ -3104,7 +3280,9 @@
       "tags": [],
       "notes_zh": "分析全球化如何催生民粹主义浪潮。提出全球化三难困境（globalization trilemma）：深度经济一体化、国家主权与民主政治不可兼得，解释当代贸易保护主义和反全球化运动的政治经济根源。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2018-02-22",
+      "pub_ym": "2018-02"
     },
     {
       "id": "wade_2018",
@@ -3136,7 +3314,9 @@
       "tags": [],
       "notes_zh": "分析'发展型国家'模式是否仍然有效——东亚产业政策经验对当代产业政策辩论（如中国模式）的启示。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2018-01-31",
+      "pub_ym": "2018-01"
     },
     {
       "id": "blackwill_harris_2016",
@@ -3171,7 +3351,9 @@
       "tags": [],
       "notes_zh": "'以其他手段进行的战争'：地缘经济学与治国术——系统论述经济工具（制裁、贸易、金融）如何服务于地缘政治目标。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2016-04-11",
+      "pub_ym": "2016-04"
     },
     {
       "id": "afesorgbor_mahadevan_2016",
@@ -3206,7 +3388,9 @@
       "tags": [],
       "notes_zh": "研究经济制裁对目标国收入不平等的影响——制裁的分配效应分析，揭示制裁对普通民众vs.精英的差异化冲击。",
       "added_date": "2026-03-29",
-      "read_status": "unread"
+      "read_status": "unread",
+      "publication_date": "2016-03-27",
+      "pub_ym": "2016-03"
     }
   ]
 }

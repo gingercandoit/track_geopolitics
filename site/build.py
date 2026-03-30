@@ -354,8 +354,11 @@ def build_site(clean=False):
         p["_library"] = "new"
         p["journal_display"] = config.JOURNAL_ABBREV.get(p.get("journal", ""), p.get("journal", ""))
     all_papers = classic_papers + new_papers_list
-    # Sort by year descending
-    all_papers.sort(key=lambda p: p.get("year", 0), reverse=True)
+    # Sort by publication_date descending (YYYY-MM-DD), fallback to year
+    all_papers.sort(
+        key=lambda p: p.get("publication_date", "") or f"{p.get('year', 0):04d}-01-01",
+        reverse=True,
+    )
 
     lit_template = env.get_template("literature.html")
 
@@ -372,12 +375,30 @@ def build_site(clean=False):
         for t, jlist in sorted(tier_journals.items())
     }
 
+    # Build year → sorted month list for 2-level year filter
+    year_months = defaultdict(set)
+    for p in all_papers:
+        ym = p.get("pub_ym", "")
+        if ym and len(ym) >= 7:
+            yr = ym[:4]
+            mo = ym[5:7]  # "01"–"12"
+            year_months[yr].add(mo)
+        else:
+            yr = str(p.get("year", ""))
+            if yr:
+                year_months[yr]  # ensure year key exists even if no months
+    year_months_sorted = {
+        y: sorted(months, reverse=True)
+        for y, months in sorted(year_months.items(), reverse=True)
+    }
+
     lit_html = lit_template.render(
         **base_context,
         papers=all_papers,
         classic_count=len(classic_papers),
         new_count=len(new_papers_list),
         tier_journals=tier_journals_sorted,
+        year_months=year_months_sorted,
         rel_to_root=".",
         current_page="literature.html",
     )

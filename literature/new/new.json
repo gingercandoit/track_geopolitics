@@ -45,7 +45,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "大规模文本语料库（企业财报电话会议记录 earnings call transcripts），多个开源LLM模型分类结果交叉验证",
-      "method_zh": "LLM文本分析——用大语言模型系统识别地缘经济压力事件（施压国→目标→工具→企业→产品），跨模型/跨prompt的robustness检验量化测量不确定性"
+      "method_zh": "LLM文本分析——用大语言模型系统识别地缘经济压力事件（施压国→目标→工具→企业→产品），跨模型/跨prompt的robustness检验量化测量不确定性",
+      "publication_date": "2025-07-01",
+      "pub_ym": "2025-07"
     },
     {
       "id": "clayton_maggiori_schreger_2025b",
@@ -84,7 +86,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "无（理论与综述论文）",
-      "method_zh": "理论框架——用简单博弈论工具建模不同类型的经济威胁（coercion），讨论威胁有效性的渠道"
+      "method_zh": "理论框架——用简单博弈论工具建模不同类型的经济威胁（coercion），讨论威胁有效性的渠道",
+      "publication_date": "2025-04-01",
+      "pub_ym": "2025-04"
     },
     {
       "id": "clayton_maggiori_schreger_2024",
@@ -123,7 +127,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "跨国金融服务与制造业投入产出数据，估算美国地缘经济权力依赖金融服务、中国依赖制造业的非线性权力函数",
-      "method_zh": "一般均衡理论模型——外部规模经济与专业化使霸权国的经济关系难以替代；经济安全政策导致碎片化；非线性权力函数的校准估算"
+      "method_zh": "一般均衡理论模型——外部规模经济与专业化使霸权国的经济关系难以替代；经济安全政策导致碎片化；非线性权力函数的校准估算",
+      "publication_date": "2024-12-01",
+      "pub_ym": "2024-12"
     },
     {
       "id": "fisman_marcolongo_wu_2025",
@@ -161,7 +167,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "乌克兰-俄罗斯双边无烟煤(anthracite)贸易的镜像统计(mirror statistics)——对比双方各自报告的进出口数据(2014-2022)及价格数据",
-      "method_zh": "镜像统计差异分析——乌方报告出口为零而俄方报告进口激增的缺口识别制裁规避转运，价格分析识别俄罗斯贸易商的买方垄断租金"
+      "method_zh": "镜像统计差异分析——乌方报告出口为零而俄方报告进口激增的缺口识别制裁规避转运，价格分析识别俄罗斯贸易商的买方垄断租金",
+      "publication_date": "2025-08-01",
+      "pub_ym": "2025-08"
     },
     {
       "id": "egorov_korovkin_makarin_2025",
@@ -201,7 +209,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "新建全面数据集：2022年后各制裁国对俄出口制裁的HS编码×国家×时间级别覆盖（逐产品逐国家编码）",
-      "method_zh": "描述性统计——逐产品逐国家编码制裁覆盖范围，计算覆盖率/跨国协调度/剩余政策空间"
+      "method_zh": "描述性统计——逐产品逐国家编码制裁覆盖范围，计算覆盖率/跨国协调度/剩余政策空间",
+      "publication_date": "2025-05-01",
+      "pub_ym": "2025-05"
     },
     {
       "id": "chinn_frankel_ito_2025",
@@ -241,7 +251,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "1999-2022年各国央行国际储备币种构成(COFER+数据)，联合国投票分歧、军事联盟、金融/贸易制裁数据，EPU/VIX/美国贸易政策不确定性指标",
-      "method_zh": "面板回归——被解释变量为各币种储备份额，解释变量含经济基本面+地缘政治变量(UN投票/军事联盟/制裁)+宏观不确定性指标"
+      "method_zh": "面板回归——被解释变量为各币种储备份额，解释变量含经济基本面+地缘政治变量(UN投票/军事联盟/制裁)+宏观不确定性指标",
+      "publication_date": "2025-08-01",
+      "pub_ym": "2025-08"
     },
     {
       "id": "arslanalp_eichengreen_2025",
@@ -278,7 +290,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "IMF COFER储备数据，央行个案数据（黄金储备/非传统储备货币/人民币储备/稳定币/mBridge/BRICS成员国储备）",
-      "method_zh": "描述性趋势分析——延续Arslanalp-Eichengreen此前系列论文的数据分析框架，增加2024-25新数据和前瞻性讨论"
+      "method_zh": "描述性趋势分析——延续Arslanalp-Eichengreen此前系列论文的数据分析框架，增加2024-25新数据和前瞻性讨论",
+      "publication_date": "2025-11-01",
+      "pub_ym": "2025-11"
     },
     {
       "id": "eichengreen_razo_garcia_2025",
@@ -315,7 +329,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "历史国际货币体系数据：各国汇率制度分类（钉住/中间/浮动）、资本账户开放程度、国家分组变迁（发达/新兴/发展中），跨越40年",
-      "method_zh": "转移概率矩阵预测——基于过去20年观察到的汇率制度转换概率，允许国家在发达/新兴/发展中分组间移动，比较2005年预测与实际结果后重新投射至2045年"
+      "method_zh": "转移概率矩阵预测——基于过去20年观察到的汇率制度转换概率，允许国家在发达/新兴/发展中分组间移动，比较2005年预测与实际结果后重新投射至2045年",
+      "publication_date": "2025-10-01",
+      "pub_ym": "2025-10"
     },
     {
       "id": "mcleay_tenreyro_2025",
@@ -352,7 +368,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "跨国商品级价格数据——美元定价商品的价格调整频率与替代弹性实证测量",
-      "method_zh": "开放经济DSGE模型——放松'美元定价=价格刚性'的标准假设，引入更现实的价格灵活性和高替代弹性参数，与微观数据对比验证"
+      "method_zh": "开放经济DSGE模型——放松'美元定价=价格刚性'的标准假设，引入更现实的价格灵活性和高替代弹性参数，与微观数据对比验证",
+      "publication_date": "2025-09-21",
+      "pub_ym": "2025-09"
     },
     {
       "id": "crippa_kalyanpur_newman_2026",
@@ -390,7 +408,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "特朗普政府对腾讯制裁事件数据 + 全球上市公司股权/供应链关联网络 + 股票市场数据",
-      "method_zh": "事件研究法（event study）——利用对腾讯制裁的外生冲击，检验制裁对目标企业、同国企业及通过所有权/供应链关联的跨国企业的溢出效应"
+      "method_zh": "事件研究法（event study）——利用对腾讯制裁的外生冲击，检验制裁对目标企业、同国企业及通过所有权/供应链关联的跨国企业的溢出效应",
+      "publication_date": "2026-01-05",
+      "pub_ym": "2026-01"
     },
     {
       "id": "chachko_newman_2025",
@@ -428,7 +448,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "无实证数据（规范性法学分析论文）",
-      "method_zh": "法学规范分析——基于input legitimacy(谁制定规则)/output legitimacy(为何目的)/throughput legitimacy(通过什么手段)三维评估框架"
+      "method_zh": "法学规范分析——基于input legitimacy(谁制定规则)/output legitimacy(为何目的)/throughput legitimacy(通过什么手段)三维评估框架",
+      "publication_date": "2025-08-26",
+      "pub_ym": "2025-08"
     },
     {
       "id": "hassan_mertens_wang_2025",
@@ -468,7 +490,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "校准至pre-2025数据（美元安全溢价、国债收益率、锚定货币实际数据）",
-      "method_zh": "一般均衡模型——货币安全性和汇率制度内生决定，分析关税如何通过隔离美国商品市场来侵蚀美元安全溢价"
+      "method_zh": "一般均衡模型——货币安全性和汇率制度内生决定，分析关税如何通过隔离美国商品市场来侵蚀美元安全溢价",
+      "publication_date": "2025-10-01",
+      "pub_ym": "2025-10"
     },
     {
       "id": "cavani_clayton_dos_santos_2026",
@@ -510,7 +534,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "SEC Form N-PORT微观数据——美国共同基金和ETF的逐基金逐持仓人民币(RMB)债券数据",
-      "method_zh": "微观实证——追踪基金层面的人民币债券持仓变化，区分'减持'与'完全退出'(exit)两种调整模式"
+      "method_zh": "微观实证——追踪基金层面的人民币债券持仓变化，区分'减持'与'完全退出'(exit)两种调整模式",
+      "publication_date": "2026-02-01",
+      "pub_ym": "2026-02"
     },
     {
       "id": "maggiori_schreger_clayton_2026",
@@ -549,7 +575,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "概念性讨论论文，引用中国外国债权人地位和美国外债数据",
-      "method_zh": "理论讨论——分析全球经常账户失衡何时转化为地缘权力失衡的理论条件和潜在渠道"
+      "method_zh": "理论讨论——分析全球经常账户失衡何时转化为地缘权力失衡的理论条件和潜在渠道",
+      "publication_date": "2026-01-01",
+      "pub_ym": "2026-01"
     },
     {
       "id": "auclert_rognlie_straub_2025",
@@ -588,7 +616,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "校准参数：美国进出口弹性、中间投入品贸易份额、耐用品份额、跨期替代弹性",
-      "method_zh": "开放经济新凯恩斯DSGE模型+中间投入品贸易——区分临时vs永久关税、单边vs报复性关税的短期宏观效应"
+      "method_zh": "开放经济新凯恩斯DSGE模型+中间投入品贸易——区分临时vs永久关税、单边vs报复性关税的短期宏观效应",
+      "publication_date": "2025-04-01",
+      "pub_ym": "2025-04"
     },
     {
       "id": "ossa_redding_2026",
@@ -625,7 +655,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "综述论文——系统整合2018-2025年美国关税实证研究文献的结果，含供应链重组数据",
-      "method_zh": "综述——从新古典贸易理论系统推导关税的福利/分配/产业结构效应，整合最新微观实证发现"
+      "method_zh": "综述——从新古典贸易理论系统推导关税的福利/分配/产业结构效应，整合最新微观实证发现",
+      "publication_date": "2026-02-01",
+      "pub_ym": "2026-02"
     },
     {
       "id": "gopinath_neiman_2026",
@@ -662,7 +694,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "2018-2019和2025年美国关税的法定税率vs实际实施税率数据、进口价格传递(passthrough)微观数据",
-      "method_zh": "经验分析——比较法定关税率vs实际实施率（考虑航运滞后/豁免/执行缺口），测量border-level关税传递率"
+      "method_zh": "经验分析——比较法定关税率vs实际实施率（考虑航运滞后/豁免/执行缺口），测量border-level关税传递率",
+      "publication_date": "2026-01-01",
+      "pub_ym": "2026-01"
     },
     {
       "id": "cavallo_llamas_vazquez_2025",
@@ -701,7 +735,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "主要美国零售商的高频日度(daily)零售微观价格数据，匹配产品级关税税率和原产国信息",
-      "method_zh": "高频事件研究——按日追踪零售价格变化，构建产品级关税传导价格指数，区分进口商品vs国内商品的价格变动"
+      "method_zh": "高频事件研究——按日追踪零售价格变化，构建产品级关税传导价格指数，区分进口商品vs国内商品的价格变动",
+      "publication_date": "2025-11-01",
+      "pub_ym": "2025-11"
     },
     {
       "id": "caliendo_kortum_parro_2025",
@@ -739,7 +775,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "多国贸易流量数据（用于校准多国李嘉图贸易模型，含商品和资产贸易）",
-      "method_zh": "动态多国李嘉图贸易模型+资产贸易/贸易失衡——提出无需指定冲击随机过程或求解资产价格即可计算反事实的新方法"
+      "method_zh": "动态多国李嘉图贸易模型+资产贸易/贸易失衡——提出无需指定冲击随机过程或求解资产价格即可计算反事实的新方法",
+      "publication_date": "2025-07-01",
+      "pub_ym": "2025-07"
     },
     {
       "id": "clausing_obstfeld_2025",
@@ -776,7 +814,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "2025年夏美国关税收入预估、联邦所得税收入结构、税制累进性分布测算数据",
-      "method_zh": "财政政策分析——关税收入规模/效率损失/累进性比较+宏观冲击评估（关税作为负供给冲击的框架）"
+      "method_zh": "财政政策分析——关税收入规模/效率损失/累进性比较+宏观冲击评估（关税作为负供给冲击的框架）",
+      "publication_date": "2025-10-01",
+      "pub_ym": "2025-10"
     },
     {
       "id": "flaaen_hortacsu_tintelnot_2025",
@@ -818,7 +858,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "美国大型葡萄酒进口商的保密交易级(transaction-level)价格数据：从外国供应商采购价→美国分销商批发价→零售价的完整供应链价格，含2019-2021美欧葡萄酒关税",
-      "method_zh": "供应链价格传导分析——追踪产品级价格沿'外国生产商→进口商→分销商/零售商→消费者'链条的变化，分解各环节利润率调整"
+      "method_zh": "供应链价格传导分析——追踪产品级价格沿'外国生产商→进口商→分销商/零售商→消费者'链条的变化，分解各环节利润率调整",
+      "publication_date": "2025-10-01",
+      "pub_ym": "2025-10"
     },
     {
       "id": "benguria_saffie_2025",
@@ -856,7 +898,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "2025年4月2日特朗普关税公告——利用公告中关税率='双边逆差的取整值'这一设计，取整(rounding)部分构成不可预期冲击；各国股价和汇率数据",
-      "method_zh": "事件研究+准实验设计——将关税分解为基于逆差的可预期部分和取整产生的不可预期部分，用后者识别金融市场的因果反应"
+      "method_zh": "事件研究+准实验设计——将关税分解为基于逆差的可预期部分和取整产生的不可预期部分，用后者识别金融市场的因果反应",
+      "publication_date": "2025-07-01",
+      "pub_ym": "2025-07"
     },
     {
       "id": "becko_grossman_helpman_2025",
@@ -895,7 +939,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "联合国投票数据(衡量政治联盟)、联合国投票'买票'成本估计(引用Kuziemko & Werker)、各国军事支出数据",
-      "method_zh": "最优关税理论模型——单极(一个霸权)和两极(两个大国竞争)博弈设定，大国在经济福利与小国政治忠诚之间权衡；用UN投票和军事支出数据校准"
+      "method_zh": "最优关税理论模型——单极(一个霸权)和两极(两个大国竞争)博弈设定，大国在经济福利与小国政治忠诚之间权衡；用UN投票和军事支出数据校准",
+      "publication_date": "2025-08-01",
+      "pub_ym": "2025-08"
     },
     {
       "id": "rodrik_2025",
@@ -932,7 +978,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "经济思想史文献：重商主义、汉密尔顿/李斯特保护主义、普雷维什/辛格进口替代理论、东亚出口导向工业化模型",
-      "method_zh": "经济思想史综述分析——梳理从斯密批评重商主义到当代发展主义的政策思想演变脉络，提炼三条核心主张"
+      "method_zh": "经济思想史综述分析——梳理从斯密批评重商主义到当代发展主义的政策思想演变脉络，提炼三条核心主张",
+      "publication_date": "2025-10-01",
+      "pub_ym": "2025-10"
     },
     {
       "id": "schmitt_grohe_uribe_2025",
@@ -969,7 +1017,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "美国战后关税时间序列(1947-2025)，宏观变量：通胀/GDP/贸易差额/利率/货币政策",
-      "method_zh": "结构VAR——将关税运动分解为临时性冲击(约占80%)和永久性冲击(约占20%)，识别各自的动态宏观效应"
+      "method_zh": "结构VAR——将关税运动分解为临时性冲击(约占80%)和永久性冲击(约占20%)，识别各自的动态宏观效应",
+      "publication_date": "2025-07-01",
+      "pub_ym": "2025-07"
     },
     {
       "id": "anderson_yotov_2025",
@@ -1006,7 +1056,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "全球数千个HS品目的双边关税率数据",
-      "method_zh": "引力模型理论——提出'进口量等价统一关税'(import volume equivalent uniform tariff)指数，可分解为各国买方和卖方关税负担"
+      "method_zh": "引力模型理论——提出'进口量等价统一关税'(import volume equivalent uniform tariff)指数，可分解为各国买方和卖方关税负担",
+      "publication_date": "2025-07-01",
+      "pub_ym": "2025-07"
     },
     {
       "id": "adao_becko_costinot_2026",
@@ -1046,7 +1098,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "全球双边产品级关税数据",
-      "method_zh": "结构估计——从各国实际关税设定中反推其隐含的对外国福利权重(welfare weights)，分析互惠性和贸易体系解体的分配效应"
+      "method_zh": "结构估计——从各国实际关税设定中反推其隐含的对外国福利权重(welfare weights)，分析互惠性和贸易体系解体的分配效应",
+      "publication_date": "2026-01-01",
+      "pub_ym": "2026-01"
     },
     {
       "id": "juhasz_lane_oehlsen_2025",
@@ -1085,7 +1139,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "GTA(Global Trade Alert)数据库的全球商业政策文本描述(2010-2022)，逐政策文本",
-      "method_zh": "监督机器学习(文本分类)——训练分类器自动区分产业政策vs其他商业政策，解决传统手动编码将IP与其他政策混淆的问题"
+      "method_zh": "监督机器学习(文本分类)——训练分类器自动区分产业政策vs其他商业政策，解决传统手动编码将IP与其他政策混淆的问题",
+      "publication_date": "2025-06-01",
+      "pub_ym": "2025-06"
     },
     {
       "id": "ju_li_wei_2026",
@@ -1123,7 +1179,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "全部12,167项美国国会法案(Congressional Acts)和6,030项总统行政令(Presidential Orders, 1973-2022)的全文文本扫描",
-      "method_zh": "全量法律文本扫描+编码——从法律和行政令中逐条识别含产业政策的条款，辅以股票市场反应事件研究验证经济显著性"
+      "method_zh": "全量法律文本扫描+编码——从法律和行政令中逐条识别含产业政策的条款，辅以股票市场反应事件研究验证经济显著性",
+      "publication_date": "2026-01-01",
+      "pub_ym": "2026-01"
     },
     {
       "id": "erten_stiglitz_verhoogen_2026",
@@ -1163,7 +1221,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "QCEW(季度就业与工资普查)的行业×县级季度面板数据，区分有半导体设施县vs高科技县、晶圆代工厂县vs非代工半导体县",
-      "method_zh": "县级双重差分(DID)——两种设计：(1)有半导体设施的县vs其他高科技县；(2)有晶圆厂(fabrication)的县vs非制造半导体县"
+      "method_zh": "县级双重差分(DID)——两种设计：(1)有半导体设施的县vs其他高科技县；(2)有晶圆厂(fabrication)的县vs非制造半导体县",
+      "publication_date": "2026-01-01",
+      "pub_ym": "2026-01"
     },
     {
       "id": "steinberg_2025a",
@@ -1201,7 +1261,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "校准参数：美国制造业四个代表性部门（上游高弹性'石油'/上游低弹性'钢'/下游高弹性'玩具'/下游低弹性'汽车'）",
-      "method_zh": "动态一般均衡模型+供应链调整摩擦——四部门制造业(上/下游×高/低贸易弹性)的短期vs长期就业变动"
+      "method_zh": "动态一般均衡模型+供应链调整摩擦——四部门制造业(上/下游×高/低贸易弹性)的短期vs长期就业变动",
+      "publication_date": "2025-09-01",
+      "pub_ym": "2025-09"
     },
     {
       "id": "steinberg_2025b",
@@ -1237,7 +1299,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "基于模型的定量分析（理论模型校准）",
-      "method_zh": "动态贸易模型+Knight不确定性(ambiguity)——含沉没出口成本的模型，企业面对未来关税分布未知(而非仅实现值未知)的决策"
+      "method_zh": "动态贸易模型+Knight不确定性(ambiguity)——含沉没出口成本的模型，企业面对未来关税分布未知(而非仅实现值未知)的决策",
+      "publication_date": "2025-10-01",
+      "pub_ym": "2025-10"
     },
     {
       "id": "hankins_momeni_sovich_2026",
@@ -1275,7 +1339,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "汽车贷款微观数据——captive finance subsidiaries(汽车制造商金融子公司)vs不受影响的独立贷款机构(noncaptive lenders)的利率和放贷条件",
-      "method_zh": "双重差分(DID)——受金属关税影响的captive汽车贷款机构vs未受影响的noncaptive贷款机构，关税前后利率差异"
+      "method_zh": "双重差分(DID)——受金属关税影响的captive汽车贷款机构vs未受影响的noncaptive贷款机构，关税前后利率差异",
+      "publication_date": "2026-01-30",
+      "pub_ym": "2026-01"
     },
     {
       "id": "mazzucato_rodrik_2026",
@@ -1312,7 +1378,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "全球产业政策案例集——招标/资助协议/合同/税收激励中条件设计的正面和负面实践案例",
-      "method_zh": "分类学(taxonomy)构建+案例研究——系统分类政府在各种产业政策工具中可附加的条件类型"
+      "method_zh": "分类学(taxonomy)构建+案例研究——系统分类政府在各种产业政策工具中可附加的条件类型",
+      "publication_date": "2026-03-19",
+      "pub_ym": "2026-03"
     },
     {
       "id": "alfaro_chor_2025",
@@ -1350,7 +1418,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "美国进口的产品级×来源国月度数据(2010-2025)，含2025年4月Liberation Day后早期贸易数据",
-      "method_zh": "局部线性投影(local linear projections)——追踪中国在各产品进口份额的动态变化，区分集约边际(intensive)vs广延边际(extensive)调整"
+      "method_zh": "局部线性投影(local linear projections)——追踪中国在各产品进口份额的动态变化，区分集约边际(intensive)vs广延边际(extensive)调整",
+      "publication_date": "2025-11-01",
+      "pub_ym": "2025-11"
     },
     {
       "id": "wang_wei_yu_2025a",
@@ -1390,7 +1460,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "多国投入产出表(区分外商投资企业FIE与内资企业)、双边贸易和FDI数据",
-      "method_zh": "统一核算框架——整合总产出/贸易/增值分解，正式纳入外商投资企业(FIE)，扩展垂直专业化(VS)指标至国内供应链"
+      "method_zh": "统一核算框架——整合总产出/贸易/增值分解，正式纳入外商投资企业(FIE)，扩展垂直专业化(VS)指标至国内供应链",
+      "publication_date": "2025-07-01",
+      "pub_ym": "2025-07"
     },
     {
       "id": "wang_wei_yu_2025b",
@@ -1431,7 +1503,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "基于Wang et al. 2025a新框架的中美双边投入产出数据，含FIE/贸易/FDI的完整价值流",
-      "method_zh": "经济依赖度度量——三种依赖指标(上游供给依赖/下游市场依赖/消费者供应链依赖)，纳入第三国间接价值流"
+      "method_zh": "经济依赖度度量——三种依赖指标(上游供给依赖/下游市场依赖/消费者供应链依赖)，纳入第三国间接价值流",
+      "publication_date": "2025-09-01",
+      "pub_ym": "2025-09"
     },
     {
       "id": "concordel_ho_knittel_2026",
@@ -1469,7 +1543,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "关键矿物价格时间序列(锂/钴/稀土等)、油价时间序列、宏观经济变量(产出/投资/就业/福利)",
-      "method_zh": "新古典增长模型——关键区分：矿物价格影响新资本创造成本(如电动车)而非现有资本使用成本；油价则影响现有资本使用成本(如传统汽车)"
+      "method_zh": "新古典增长模型——关键区分：矿物价格影响新资本创造成本(如电动车)而非现有资本使用成本；油价则影响现有资本使用成本(如传统汽车)",
+      "publication_date": "2026-02-01",
+      "pub_ym": "2026-02"
     },
     {
       "id": "choi_cui_shim_2025",
@@ -1510,7 +1586,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "美国跨国公司在中国合资企业(joint ventures)微观数据、行业层面技术外溢指标(中国企业专利/效率提升)、美中企业财务表现对比",
-      "method_zh": "行业面板实证+双国寡头竞争创新理论模型——合资企业密度与中国企业正向溢出/美国企业负向影响的行业相关性；反事实模拟1999年起禁止合资的福利效应"
+      "method_zh": "行业面板实证+双国寡头竞争创新理论模型——合资企业密度与中国企业正向溢出/美国企业负向影响的行业相关性；反事实模拟1999年起禁止合资的福利效应",
+      "publication_date": "2025-09-01",
+      "pub_ym": "2025-09"
     },
     {
       "id": "furnas_jia_roberts_2026",
@@ -1551,7 +1629,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "两组大规模RCT——美国政策制定者(policymakers)和美国科学家(U.S.-based scientists)，评审国际科研合作提案（随机替换合作方国籍：中国vs德国）",
-      "method_zh": "随机对照实验(RCT)——同一提案随机替换合作者所在国(中国vs德国)，测量支持率差异，检验各学科/受访者特征间的异质性"
+      "method_zh": "随机对照实验(RCT)——同一提案随机替换合作者所在国(中国vs德国)，测量支持率差异，检验各学科/受访者特征间的异质性",
+      "publication_date": "2026-02-01",
+      "pub_ym": "2026-02"
     },
     {
       "id": "gorodnichenko_2025",
@@ -1590,7 +1670,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "欧洲央行消费者预期调查(CES)微观数据——内含情景式随机化问题(randomized scenarios)：随机分配俄乌/中东冲突预期持续时长",
-      "method_zh": "调查内随机化实验(RCT within survey)——随机给不同家庭分配'冲突持续更长/更短'情景，测量其对通胀/增长/股价/财政/消费预期的因果效应"
+      "method_zh": "调查内随机化实验(RCT within survey)——随机给不同家庭分配'冲突持续更长/更短'情景，测量其对通胀/增长/股价/财政/消费预期的因果效应",
+      "publication_date": "2025-08-01",
+      "pub_ym": "2025-08"
     },
     {
       "id": "flynn_levy_moscona_2025",
@@ -1629,7 +1711,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "行业×时间面板：部门级技术发展指标(专利/研发)+部门级外国政治风险暴露度(按行业对特定来源国进口依赖计算)+关键矿物级数据",
-      "method_zh": "跨部门面板回归——外国政治风险暴露度→创新活动的因果效应，美国单国+全球跨国+关键矿物三组样本"
+      "method_zh": "跨部门面板回归——外国政治风险暴露度→创新活动的因果效应，美国单国+全球跨国+关键矿物三组样本",
+      "publication_date": "2025-06-01",
+      "pub_ym": "2025-06"
     },
     {
       "id": "bloom_bunn_mizen_2025",
@@ -1670,7 +1754,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "近十年英国宏观数据(2016-2025)+Decision Maker Panel(DMP)企业调查微观数据(覆盖英国企业的Brexit影响自评)+2016年contemporaneous预测",
-      "method_zh": "宏微观综合估计——宏观数据模拟+微观企业调查(DMP)+与当年预测对比验证(预测准确度的'罕见宏观案例')"
+      "method_zh": "宏微观综合估计——宏观数据模拟+微观企业调查(DMP)+与当年预测对比验证(预测准确度的'罕见宏观案例')",
+      "publication_date": "2025-11-01",
+      "pub_ym": "2025-11"
     },
     {
       "id": "hufbauer_zhang_2026",
@@ -1709,7 +1795,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "全球FDI流量时间序列(1980-2025)，按区域/行业/来源国分解，含MNC运营数据",
-      "method_zh": "描述性分析+政策评述——回顾FDI黄金时代(1980-2010)至衰退期(2010后)的趋势演变和政策驱动因素"
+      "method_zh": "描述性分析+政策评述——回顾FDI黄金时代(1980-2010)至衰退期(2010后)的趋势演变和政策驱动因素",
+      "publication_date": "2026-01-01",
+      "pub_ym": "2026-01"
     },
     {
       "id": "gorodnichenko_obstfeld_2026",
@@ -1746,7 +1834,9 @@
       "added_date": "2026-03-29",
       "read_status": "unread",
       "data_zh": "东欧EU/NATO新成员国的FDI和结构基金流入数据(作为乌克兰模板)，乌克兰战时/战后经济预测数据",
-      "method_zh": "理论模型——资本深化→放松借贷约束→吸引更多资本+提高工资→鼓励难民回归的良性循环；政府可通过内化正外部性优化策略"
+      "method_zh": "理论模型——资本深化→放松借贷约束→吸引更多资本+提高工资→鼓励难民回归的良性循环；政府可通过内化正外部性优化策略",
+      "publication_date": "2026-01-01",
+      "pub_ym": "2026-01"
     }
   ]
 }

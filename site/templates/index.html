@@ -100,7 +100,7 @@
       {% for p in sidebar_new_papers %}
       <li class="sidebar-paper-item sidebar-paper-expandable" onclick="this.classList.toggle('expanded')">
         <div class="sidebar-paper-brief">
-          <span class="sidebar-paper-meta">{{ p.year }} · {{ p.journal_tier or '' }}</span>
+          <span class="sidebar-paper-meta">{{ p.pub_ym or p.year }} · {{ p.journal_tier or '' }}</span>
           <span class="sidebar-paper-title-text">{{ p.title | truncate(55) }}</span>
           <span class="sidebar-paper-authors-text">{{ p.authors[:2] | join(', ') }}{% if p.authors | length > 2 %} et al.{% endif %}</span>
         </div>
@@ -126,7 +126,7 @@
       {% for p in sidebar_classic_papers %}
       <li class="sidebar-paper-item sidebar-paper-expandable" onclick="this.classList.toggle('expanded')">
         <div class="sidebar-paper-brief">
-          <span class="sidebar-paper-meta">{{ p.year }} · {{ p.journal_tier or '' }}</span>
+          <span class="sidebar-paper-meta">{{ p.pub_ym or p.year }} · {{ p.journal_tier or '' }}</span>
           <span class="sidebar-paper-title-text">{{ p.title | truncate(55) }}</span>
           <span class="sidebar-paper-authors-text">{{ p.authors[:2] | join(', ') }}{% if p.authors | length > 2 %} et al.{% endif %}</span>
         </div>
