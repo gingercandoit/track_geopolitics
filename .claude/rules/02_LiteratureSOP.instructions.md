@@ -356,6 +356,8 @@ international monetary system reform
       "nber_wp": null,
       "ssrn_id": null,
       "abstract": "...",
+      "title_zh": "武器化相互依赖：全球经济网络如何塑造国家胁迫",
+      "abstract_zh": "基于英文摘要的精炼中文翻译，2-4句。注意：不是主观简评，而是忠于原文摘要的客观翻译。",
       "jel_codes": ["F51", "F52"],
       "topics": [1, 5],
       "topic_relevance": {
@@ -366,8 +368,8 @@ international monetary system reform
       "citations": 850,
       "tags": ["theory", "weaponized-interdependence", "network-effects"],
       "notes_zh": "制裁经济学必读。提出'武器化相互依赖'概念框架，解释如何利用全球网络节点实施经济胁迫。",
-      "data_zh": "（Library B 新增字段）数据来源中文描述，如"NBER-CPS就业数据+企业面板"",
-      "method_zh": "（Library B 新增字段）方法论中文描述，如"DiD/RDD + LLM文本分析"",
+      "data_zh": "数据来源中文描述，如"IMF COFER储备数据（1999-2022）；联合国投票分歧数据"",
+      "method_zh": "方法论中文描述，如"实证。面板固定效应回归，工具变量识别地缘政治冲击对储备配置的因果效应"",
       "added_date": "2026-03-29",
       "read_status": "unread"
     }
@@ -385,9 +387,11 @@ international monetary system reform
 | `topic_relevance` | 每个议题的关联说明（中文） |
 | `priority` | `core`（必读） / `recommended`（推荐） / `reference`（参考） |
 | `tags` | 自由标签，用于交叉检索 |
-| `notes_zh` | 中文简评（1-2句），说明为什么收录 |
-| `data_zh` | 数据来源中文说明（Library B 专属），描述论文使用的核心数据集 |
-| `method_zh` | 方法论中文说明（Library B 专属），描述识别策略或计量方法 |
+| `title_zh` | 中文翻译标题。忠于原标题直译，不缩写不意译 |
+| `abstract_zh` | 中文摘要翻译（2-4句）。基于英文 abstract 精炼翻译，客观呈现研究问题、方法和结论，不是主观简评。无英文摘要时基于标题和已知内容撰写 |
+| `notes_zh` | 中文简评（1-2句），说明为什么收录。**已不在网站前端展示**（被 abstract_zh 替代），但保留在 JSON 中供内部参考 |
+| `data_zh` | 数据来源中文说明，描述论文使用的核心数据集。写作规范见 `04_WritingStyle.instructions.md` 第六节 |
+| `method_zh` | 方法论中文说明，描述识别策略或计量方法。写作规范见 `04_WritingStyle.instructions.md` 第六节 |
 | `read_status` | `unread` / `reading` / `read` / `noted`（已做笔记） |
 | `webvpn_url` | 复旦 WebVPN 代理链接（付费论文用） |
 
@@ -454,6 +458,12 @@ international monetary system reform
     - 每篇论文的 notes_zh 必须准确描述其实际内容
     - 禁止用关键词桶匹配自动生成（如把 NAFTA 论文标注为"中美贸易战"）
    ↓
+10b. **abstract_zh / data_zh / method_zh 批量填写**
+    - 为每篇论文填写 `abstract_zh`（基于英文 abstract 精炼翻译，2-4句）
+    - 为每篇论文填写 `data_zh` 和 `method_zh`（写作规范见 WritingStyle 第六节）
+    - 无英文摘要的论文：基于标题、notes_zh 和领域知识撰写 abstract_zh
+    - 可批量脚本处理，但内容必须逐篇手写（不可模板化生成）
+   ↓
 11. Git 提交
 ```
 
@@ -476,7 +486,7 @@ international monetary system reform
    ↓
 8. 去重（与经典库 + 已有追踪条目对比，以 DOI 为 key）
    ↓
-9. 为每篇新论文填写 `data_zh`（数据来源）和 `method_zh`（方法论），基于摘要手写；无摘要者标"待读全文确认"
+9. 为每篇新论文填写 `abstract_zh`（中文摘要翻译）、`data_zh`（数据来源）和 `method_zh`（方法论），基于摘要手写；无摘要者标"待读全文确认"
    ↓
 10. **WP 发表状态复查**：用 OpenAlex API 批量检查库中所有 `journal_tier: "WP"` 的论文
     - 是否已被期刊接收/发表？（检查 locations 中是否新增 journal source）
@@ -552,9 +562,9 @@ literature/                             # 与 reports/ 同级
 - [ ] 每篇论文**直接研究**地缘政治现象（制裁、贸易战、技术竞争、大国博弈等），纯背景经济学理论不收录
 - [ ] 每个 topic 至少有 5 篇经典文献（Phase A）
 - [ ] 核心必读（core）论文每 topic 不少于 3 篇
-- [ ] 每篇论文有 abstract（91%+覆盖率）和 notes_zh
+- [ ] 每篇论文有 abstract（91%+覆盖率）和 abstract_zh（100%覆盖率）
 - [ ] **notes_zh 必须准确描述论文实际内容**——禁止用关键词桶匹配生成（如把 NAFTA 论文标注为"中美贸易战"）
-- [ ] Library B 每篇必须有 `data_zh` 和 `method_zh`（无摘要者标注"待读全文确认"）
+- [ ] **所有论文**（Library A + B）均有 `abstract_zh`、`data_zh` 和 `method_zh`（无摘要者标注"待读全文确认"）
 - [ ] DOI 链接有效
 - [ ] JSON 数据库无重复条目（以 DOI 去重）
 - [ ] 阅读清单按 tier desc → year desc 排列
@@ -589,7 +599,41 @@ literature/                             # 与 reports/ 同级
 
 ---
 
-## 附录：JEL 代码参考
+## 附录 A：实践经验记录
+
+> 基于建库和前端开发过程中积累的经验教训。持续更新。
+
+### abstract_zh 优于 notes_zh（2026-03-30）
+
+| 问题 | 旧方案 | 新方案 |
+|------|--------|--------|
+| 论文卡片展示什么 | `notes_zh`（主观简评，1-2句） | `abstract_zh`（客观摘要翻译，2-4句） |
+| 信息密度 | 低——"必读论文"式推荐语，对理解论文内容帮助有限 | 高——忠实传达研究问题、方法和结论 |
+| 写作难度 | 低但易偏 | 稍高但客观可验证 |
+
+**教训**：`notes_zh` 的初衷是"说明为什么收录"，但实际使用时读者需要的是"这篇论文研究了什么"。`abstract_zh` 作为英文摘要的精炼中文翻译，直接回答这个问题。`notes_zh` 保留在 JSON 中供内部参考（如排序、筛选决策），但前端展示已切换为 `abstract_zh`。
+
+### data_zh / method_zh 应覆盖全库（2026-03-30）
+
+最初 `data_zh` 和 `method_zh` 被设计为"Library B 专属"字段，理由是经典文献建库时工作量已经很大。实践证明这是错误的节省：
+
+- 用户浏览经典文献时同样需要快速了解"用了什么数据、什么方法"
+- 前端卡片模板需要统一处理，有/无字段的条件判断增加复杂度
+- 91篇论文的 data_zh/method_zh 可通过批量脚本（读取 abstract → 逐篇撰写）在一次工作流中完成
+
+**结论**：所有字段（`title_zh`、`abstract_zh`、`data_zh`、`method_zh`）对 Library A 和 Library B 统一要求。
+
+### 年份区间筛选优于年月复选框（2026-03-30）
+
+文献时间跨度大（1991-2026），用年月复选框会产生 400+ 个选项。改为双输入框年份区间筛选（`yearFrom` / `yearTo`），用户体验显著提升：输入 `2018` 到 `2025` 即可过滤贸易战时期论文。
+
+### 无英文摘要论文的处理（2026-03-30）
+
+91篇经典文献中有约10篇在 OpenAlex 上无英文 abstract。处理方式：基于论文标题、`notes_zh` 和领域知识（已知论文内容）手写 `abstract_zh`，并在写作时标注"基于标题和已知内容撰写"。这10篇通常是综述、手册章节或早期 WP，元数据覆盖不如期刊论文完整。
+
+---
+
+## 附录 B：JEL 代码参考
 
 与本项目相关的主要 JEL 分类：
 

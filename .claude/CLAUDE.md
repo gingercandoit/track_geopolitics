@@ -93,11 +93,12 @@ track_geopolitics/
 - **Library A 当前状态**（2026-03-30）：
   - 91 篇论文（含从Library B迁入的 clayton_maggiori_schreger_2024）
   - 所有论文含 `publication_date`（YYYY-MM-DD）和 `pub_ym`（YYYY-MM）字段
-  - notes_zh 全部手工撰写，逐篇验证准确性
+  - 所有论文含 `title_zh`、`abstract_zh`、`data_zh`、`method_zh`（91/91 全覆盖）
+  - notes_zh 保留在 JSON 中供内部参考，前端展示已切换为 abstract_zh
 - **Library B 当前状态**（2026-03-30）：
   - 46 篇新文献（pub_ym >= 2025-03），含从Library A迁入的 head_etal_2026、baldwin_2025
   - 12个月滑动窗口规则：pub_ym < cutoff 的论文每月迁入 Library A
-  - 46/46 有摘要（100%），每篇均含 `data_zh` 和 `method_zh` 字段
+  - 46/46 有摘要（100%），每篇均含 `abstract_zh`、`data_zh` 和 `method_zh` 字段
   - 核心论文：Clayton/Maggiori 地缘经济三部曲、Auclert 关税宏观冲击、Ossa/Redding 关税经济学综述、Gopinath/Neiman 关税负担、CHIPS法案就业影响
 
 ## 自动化脚本
@@ -133,7 +134,7 @@ track_geopolitics/
   ```
 - **月度更新流程**：新增 data/topicN/YYYY-MM.json → 运行 `site/build.py --clean` → 自动生成所有页面
 - **主要设计**：Playfair Display 标题 + Source Serif Pro 正文，深红色 (#8B0000) accent，按议题分色，事件卡可折叠展开
-- **当前状态**（首次完整构建）：8 个 HTML 页面，89 + 45 = 137 篇文献，全5议题 × 2026-03 月报
+- **当前状态**（首次完整构建）：8 个 HTML 页面，91 + 46 = 137 篇文献，全5议题 × 2026-03 月报
 
 ## 技术约定
 

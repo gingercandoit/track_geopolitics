@@ -118,8 +118,11 @@ OUTPUT_DIR = Path("dist")
 ### 文献页 (literature.html)
 
 1. **经典库 / 新文献 切换标签**
-2. **筛选器**：议题标签（T1-T5） × 优先级（core/recommended/reference） × 搜索框
-3. **论文卡片列表**：折叠式，展开显示摘要 + DOI + notes_zh + data_zh/method_zh（仅 Library B）
+2. **筛选器**：议题标签（T1-T5） × 优先级（core/recommended/reference） × 年份区间（双输入框 yearFrom/yearTo） × 搜索框
+3. **论文卡片列表**：折叠式，展开显示：
+   - `abstract_zh`（中文摘要翻译，首选）/ `abstract`（英文摘要，回退）
+   - 元信息行：引用数 · 数据来源（`data_zh`）· 方法论（`method_zh`）· DOI 来源链接
+   - 所有论文（经典 + 新文献）统一展示结构，不做条件区分
 4. **统计摘要**：总数、议题分布、Tier 分布
 
 ### 往期存档 (archive.html)
