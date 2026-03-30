@@ -135,12 +135,12 @@ JOURNAL_TIERS = {
 JOURNAL_ABBREV = {
     # T1
     "American Economic Review": "AER",
-    "American Economic Review Insights": "AER Insights",
     "Econometrica": "Econometrica",
     "Journal of Political Economy": "JPE",
     "The Quarterly Journal of Economics": "QJE",
     "The Review of Economic Studies": "RES",
     # T2
+    "American Economic Review Insights": "AER Insights",
     "AEA Papers and Proceedings": "AEA P&P",
     "American Economic Journal Applied Economics": "AEJ: Applied",
     "Annual Review of Economics": "Ann.Rev.Econ",
