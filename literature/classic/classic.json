@@ -1,8 +1,8 @@
 {
   "metadata": {
     "library": "classic",
-    "last_updated": "2026-03-29",
-    "total_papers": 92,
+    "last_updated": "2026-03-30",
+    "total_papers": 91,
     "topic_counts": {
       "2": 49,
       "3": 18,
@@ -2673,43 +2673,6 @@
       "pub_ym": "2012-07"
     },
     {
-      "id": "head_etal_2026",
-      "title": "Industrial Policies for Multi-Stage Production: The Battle for Battery-Powered Vehicles",
-      "authors": [
-        "Keith Head",
-        "Thierry Mayer",
-        "Marc Melitz",
-        "Chenying Yang"
-      ],
-      "year": 2026,
-      "journal": "National Bureau of Economic Research",
-      "journal_tier": "WP",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.3386/w34884",
-      "url": "https://doi.org/10.3386/w34884",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "We model a multi-stage supply chain for EVs from battery production to vehicle distribution.Given industrial policies, firms select where to open facilities at each stage.This is a difficult combinatorial choice problem that we solve with a fast mixed integer linear programming formulation.We estimate the variable and fixed costs parameters using SMM.Counterfactual simulations reveal a tension between boosting EV adoption and promoting domestic supply chains.Due to increasing returns, even uncon",
-      "jel_codes": [],
-      "topics": [
-        3
-      ],
-      "topic_relevance": {
-        "3": "分析多阶段生产中的产业政策：各国围绕电动汽车电池产业链的政策竞争——产业政策的地缘政治维度。"
-      },
-      "priority": "reference",
-      "citations": 0,
-      "tags": [],
-      "notes_zh": "分析多阶段生产中的产业政策：各国围绕电动汽车电池产业链的政策竞争——产业政策的地缘政治维度。",
-      "added_date": "2026-03-29",
-      "read_status": "unread",
-      "publication_date": "2026-02-01",
-      "pub_ym": "2026-02"
-    },
-    {
       "id": "aiyar_etal_2023",
       "title": "Geo-Economic Fragmentation and the Future of Multilateralism",
       "authors": [
@@ -2941,42 +2904,6 @@
       "read_status": "unread",
       "publication_date": "2016-01-01",
       "pub_ym": "2016-01"
-    },
-    {
-      "id": "baldwin_2025",
-      "title": "Global supply chains : why they emerged, why they matter, and where they are going",
-      "authors": [
-        "Richard Baldwin"
-      ],
-      "year": 2025,
-      "journal": "Graduate Institute Geneva Institutional Repository (Graduate Institute of International and Development Studies)",
-      "journal_tier": "other",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.71609/iheid-2ykv-0p36",
-      "url": "https://doi.org/10.71609/iheid-2ykv-0p36",
-      "webvpn_url": null,
-      "nber_wp": null,
-      "ssrn_id": null,
-      "abstract": "Global supply chains have transformed the world. They revolutionised development options facing poor nations – now they can join supply chains rather than having to invest decades in building their own. Offshoring of labour-intensive manufacturing stages and the attendant international mobility of technology launched era-defining growth in emerging markets – a change that fosters and is fostered by domestic policy reform. Historic income gaps are narrowing as the North de-industrialises and the ",
-      "jel_codes": [],
-      "topics": [
-        3,
-        5
-      ],
-      "topic_relevance": {
-        "3": "Richard Baldwin综述全球供应链的起源、重要性和未来走向——分析技术变革和地缘政治如何重塑全球生产格局。",
-        "5": "Richard Baldwin综述全球供应链的起源、重要性和未来走向——分析技术变革和地缘政治如何重塑全球生产格局。"
-      },
-      "priority": "recommended",
-      "citations": 405,
-      "tags": [],
-      "notes_zh": "Richard Baldwin综述全球供应链的起源、重要性和未来走向——分析技术变革和地缘政治如何重塑全球生产格局。",
-      "added_date": "2026-03-29",
-      "read_status": "unread",
-      "publication_date": "2025-05-16",
-      "pub_ym": "2025-05"
     },
     {
       "id": "luo_assche_2023",
@@ -3391,6 +3318,47 @@
       "read_status": "unread",
       "publication_date": "2016-03-27",
       "pub_ym": "2016-03"
+    },
+    {
+      "id": "clayton_maggiori_schreger_2024",
+      "title": "A Theory of Economic Coercion and Fragmentation",
+      "authors": [
+        "C.R.I. Clayton",
+        "Matteo Maggiori",
+        "Jesse Schreger"
+      ],
+      "year": 2024,
+      "journal": "National Bureau of Economic Research",
+      "journal_tier": "WP",
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": "10.3386/w33309",
+      "url": "https://doi.org/10.3386/w33309",
+      "webvpn_url": null,
+      "nber_wp": "w33309",
+      "ssrn_id": null,
+      "abstract": "Hegemonic powers, like the United States and China, exert influence on other countries by threatening the suspension or alteration of financial and trade relationships.Mechanisms that generate gains from integration, such as external economies of scale and specialization, also increase the hegemon's power because in equilibrium they make other relationships poor substitutes for those with a global hegemon.Other countries can implement economic security policies to shape their economies in order to insulate themselves from undue foreign pressure.Countries considering these policies face a tradeoff between gains from trade and economic security.While an individual country can make itself better off, uncoordinated attempts by multiple countries to limit their dependency on the hegemon via economic security policies lead to inefficient fragmentation of the global financial and trade system.We study financial services as a leading application both as tools of coercion and an industry with strong strategic complementarities.We estimate that U.S. geoeconomic power relies on financial services, while Chinese power relies on manufacturing.Since power is nonlinear and increases disproportionally as the hegemon approaches controlling the entire supply of a sectoral input, we estimate that much economic security could be achieved with little overall fragmentation by diversifying the input sources of key sectors controlled by the hegemons.",
+      "jel_codes": [],
+      "topics": [
+        1,
+        5
+      ],
+      "topic_relevance": {},
+      "priority": "core",
+      "citations": 23,
+      "tags": [
+        "economic-coercion",
+        "fragmentation",
+        "theory"
+      ],
+      "notes_zh": "权力是非线性的——霸权国越接近垄断某部门投入品供给，其权力不成比例地增大。估算显示美国地缘经济权力依赖金融服务、中国依赖制造业。少量关键部门的供应来源多元化即可大幅降低安全风险而无需大规模碎片化。23引用，该库最高引论文。",
+      "added_date": "2026-03-29",
+      "read_status": "unread",
+      "data_zh": "跨国金融服务与制造业投入产出数据，估算美国地缘经济权力依赖金融服务、中国依赖制造业的非线性权力函数",
+      "method_zh": "一般均衡理论模型——外部规模经济与专业化使霸权国的经济关系难以替代；经济安全政策导致碎片化；非线性权力函数的校准估算",
+      "publication_date": "2024-12-01",
+      "pub_ym": "2024-12"
     }
   ]
 }

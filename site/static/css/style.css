@@ -481,6 +481,17 @@ h1, h2, h3, h4 {
   color: #777;
   margin-top: 0.2rem;
 }
+.lit-hero-desc {
+  font-family: 'Source Serif Pro', 'Noto Serif SC', serif;
+  font-size: 0.85rem;
+  color: #999;
+  margin-top: 0.6rem;
+  max-width: 540px;
+  line-height: 1.6;
+}
+.lit-hero-desc strong {
+  color: #777;
+}
 
 /* ── Homepage grid ────────────────────────────────────────────── */
 .home-grid {
