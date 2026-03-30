@@ -220,12 +220,12 @@
       "date": "2026-03-18",
       "type": "企业动态",
       "title_zh": "企业层面的“大分叉“：供应链多元化替代脱钩",
-      "summary_zh": "MarketMinute分析：企业界已转向更务实策略，不完全撤出中国，而是将供应链分散到多国同时保留中国线。与Bloomberg报道的“中美脱钩是个神话“形成呼应。",
+      "summary_zh": "企业界已转向更务实策略，不完全撤出中国，而是将供应链分散到多国同时保留中国线。与Bloomberg报道的\u201c中美脱钩是个神话\u201d形成呼应，显示微观层面的\u201c大分叉\u201d正在发生。",
       "source_tier": "C",
       "sources": [
         {
-          "name": "MarketMinute",
-          "url": ""
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-02-27/a-trade-whodunnit-shows-how-china-decoupling-is-a-myth"
         }
       ],
       "metrics": {},

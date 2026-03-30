@@ -17,12 +17,12 @@
       "source_tier": "C",
       "sources": [
         {
-          "name": "Pillsbury",
-          "url": ""
+          "name": "Pillsbury Law",
+          "url": "https://www.pillsburylaw.com/en/news-and-insights/trump-advanced-ai-semiconductors-actions.html"
         },
         {
-          "name": "Changeflow GovPing",
-          "url": ""
+          "name": "Federal Register",
+          "url": "https://www.federalregister.gov/documents/2026/01/15/2026-00789/revision-to-license-review-policy-for-advanced-computing-commodities"
         }
       ],
       "metrics": {
