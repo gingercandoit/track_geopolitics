@@ -1,5 +1,5 @@
 /* ================================================================
-   Geopolitical Research Quarterly — Client JS
+   Geopolitical Economics Monthly — Client JS
    Card toggles, month navigation, mobile nav
    ================================================================ */
 

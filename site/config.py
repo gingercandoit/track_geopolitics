@@ -14,8 +14,8 @@ STATIC_DIR = Path(__file__).parent / "static"
 OUTPUT_DIR = Path(__file__).parent / "dist"
 
 # ── Site metadata ────────────────────────────────────────────────────
-SITE_TITLE = "Geopolitical Research Quarterly"
-SITE_SUBTITLE = "地缘政治经济学研究简报"
+SITE_TITLE = "Geopolitical Economics Monthly"
+SITE_SUBTITLE = "地缘政治经济月度追踪"
 SITE_LANG = "zh-CN"
 
 # ── Topics ───────────────────────────────────────────────────────────

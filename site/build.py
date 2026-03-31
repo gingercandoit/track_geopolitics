@@ -387,9 +387,10 @@ def build_site(clean=False):
             yr = str(p.get("year", ""))
             if yr:
                 year_months[yr]  # ensure year key exists even if no months
-    all_years = [int(y) for y in year_months.keys() if y.isdigit()]
-    year_min = min(all_years) if all_years else 2010
-    year_max = max(all_years) if all_years else 2026
+    year_months_sorted = {
+        y: sorted(months, reverse=True)
+        for y, months in sorted(year_months.items(), reverse=True)
+    }
 
     lit_html = lit_template.render(
         **base_context,
@@ -397,8 +398,7 @@ def build_site(clean=False):
         classic_count=len(classic_papers),
         new_count=len(new_papers_list),
         tier_journals=tier_journals_sorted,
-        year_min=year_min,
-        year_max=year_max,
+        year_months=year_months_sorted,
         rel_to_root=".",
         current_page="literature.html",
     )

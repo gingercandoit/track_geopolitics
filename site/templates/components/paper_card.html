@@ -1,16 +1,11 @@
 {% macro render_paper_card(paper, priority_labels, journal_tiers, topics, show_data_method=false) %}
 <div class="paper-card" data-topics="{{ paper.topics | join(',') }}" data-priority="{{ paper.priority }}">
   <div class="paper-card-header">
-    <div class="paper-meta-left">
-      <span class="paper-year">{{ paper.pub_ym or paper.year }}</span>
-      {% if paper.journal %}
-      <span class="paper-tier-tag">{{ paper.journal_display or paper.journal }}</span>
-      {% endif %}
-    </div>
-    <div class="paper-title-group">
-      <span class="paper-title">{{ paper.title }}</span>
-      {% if paper.title_zh %}<span class="paper-title-zh">{{ paper.title_zh }}</span>{% endif %}
-    </div>
+    <span class="paper-year">{{ paper.pub_ym or paper.year }}</span>
+    {% if paper.journal %}
+    <span class="paper-tier-tag">{{ paper.journal_display or paper.journal }}</span>
+    {% endif %}
+    <span class="paper-title">{{ paper.title }}</span>
     <span class="paper-toggle">▸</span>
   </div>
   <div class="paper-card-body">
@@ -42,31 +37,29 @@
       {% endif %}
     </div>
     {% endif %}
-    {# ── Abstract (Chinese translation preferred, English fallback) ── #}
-    {% if paper.abstract_zh %}
-    <div class="paper-abstract paper-abstract-zh">
-      <p>{{ paper.abstract_zh }}</p>
-    </div>
-    {% elif paper.abstract %}
+    {% if paper.abstract %}
     <div class="paper-abstract">
       <p>{{ paper.abstract[:300] }}{% if paper.abstract | length > 300 %}...{% endif %}</p>
     </div>
     {% endif %}
-    {# ── Structured metadata row ── #}
-    <div class="paper-meta-row">
-      {% if paper.citations is not none and paper.citations is defined %}
-      <span class="paper-meta-item"><strong>引用</strong> {{ paper.citations }}</span>
-      {% endif %}
-      {% if paper.data_zh %}
-      <span class="paper-meta-item"><strong>数据</strong> {{ paper.data_zh }}</span>
-      {% endif %}
-      {% if paper.method_zh %}
-      <span class="paper-meta-item"><strong>方法</strong> {{ paper.method_zh }}</span>
-      {% endif %}
-      {% if paper.doi %}
-      <span class="paper-meta-item"><strong>来源</strong> <a href="https://doi.org/{{ paper.doi }}" target="_blank" rel="noopener">{{ paper.doi }}</a></span>
-      {% endif %}
+    {% if paper.notes_zh %}
+    <div class="paper-notes">
+      <strong>简评：</strong>{{ paper.notes_zh }}
     </div>
+    {% endif %}
+    {% if show_data_method %}
+      {% if paper.data_zh or paper.method_zh %}
+      <div class="paper-data-method">
+        {% if paper.data_zh %}<span><strong>数据：</strong>{{ paper.data_zh }}</span>{% endif %}
+        {% if paper.method_zh %}<span><strong>方法：</strong>{{ paper.method_zh }}</span>{% endif %}
+      </div>
+      {% endif %}
+    {% endif %}
+    {% if paper.doi %}
+    <div class="paper-doi">
+      <a href="https://doi.org/{{ paper.doi }}" target="_blank" rel="noopener">DOI: {{ paper.doi }}</a>
+    </div>
+    {% endif %}
     </div>
   </div>
 </div>

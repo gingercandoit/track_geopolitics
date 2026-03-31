@@ -1,14 +1,18 @@
 {% extends "base.html" %}
 
-{% block title %}Geopolitical Risk Quarterly{% endblock %}
+{% block title %}Geopolitical Economics Monthly{% endblock %}
 
 {% block content %}
 {# ── Masthead ── #}
 <section class="hero">
   <div class="container">
-    <h1 class="hero-title">Geopolitical Risk Quarterly</h1>
+    <h1 class="hero-title">Geopolitical Economics Monthly</h1>
     <p class="hero-subtitle">地缘政治经济月度追踪</p>
     <p class="hero-issue">{{ latest_month_display }}刊</p>
+    <div class="hero-colophon">
+      <span class="hero-inst">复旦大学经济科学智能研究中心</span>
+      <span class="hero-authors">刘志阔 &ensp; 鲁菁菁</span>
+    </div>
   </div>
 </section>
 
