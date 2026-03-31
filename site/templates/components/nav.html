@@ -1,7 +1,10 @@
 {% macro render_nav(topics, rel_to_root, current_page, latest_month) %}
 <nav class="site-nav">
   <div class="container nav-inner">
-    <a href="{{ rel_to_root }}/index.html" class="nav-brand">GEM</a>
+    <div class="nav-brand-group">
+      <a href="{{ rel_to_root }}/index.html" class="nav-brand">GEM</a>
+      <span class="nav-inst">复旦大学经济科学智能研究中心</span>
+    </div>
     <div class="nav-links">
       {% for slug, info in topics.items() %}
       {% if info.compact %}
