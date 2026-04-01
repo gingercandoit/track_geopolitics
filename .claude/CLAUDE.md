@@ -140,9 +140,13 @@ track_geopolitics/
 
 ## 技术约定
 
-- Python 虚拟环境：`.venv/`（已安装 requests, feedparser）
+- Python 虚拟环境：`.venv/`（已安装 requests, feedparser, trafilatura）
 - 数据文件统一 UTF-8 编码
 - 日期格式：YYYY-MM-DD
 - 文件命名：kebab-case
 - 抓取结果按日期归档
 - 分周规则：每月4周显示（W1=1-7, W2=8-14, W3=15-21, W4=22-月末）。JSON `week` 字段 29-31日可写5，`build.py` 渲染时自动合并入W4
+- **深度抓取优先级**：requests+trafilatura（终端，无弹窗）→ trafilatura 单独 → fetch_webpage（仅 JS 渲染页面）
+- **PowerShell 禁止内联复杂 Python**：超过 2 行的 Python 脚本必须写 `_tmp/_tmp_<用途>.py` 文件再执行，不用 `python -c "..."`
+- **JSON 批量修改**：≥5 条记录的修改一律用 _tmp/*.py 脚本，不逐条 replace_string_in_file
+- **summary_zh 质量 gate**：写入 JSON 前必须自检——导语 20-40 汉字 + bullet ≥3 条（以"。"计数 ≥4）。不达标不写入
