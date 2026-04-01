@@ -145,3 +145,4 @@ track_geopolitics/
 - 日期格式：YYYY-MM-DD
 - 文件命名：kebab-case
 - 抓取结果按日期归档
+- 分周规则：每月4周显示（W1=1-7, W2=8-14, W3=15-21, W4=22-月末）。JSON `week` 字段 29-31日可写5，`build.py` 渲染时自动合并入W4

@@ -8,7 +8,29 @@
   <div class="container">
     <h1 class="hero-title">Geopolitical Economics Monthly</h1>
     <p class="hero-subtitle">地缘政治经济月度追踪</p>
-    <p class="hero-issue">{{ latest_month_display }}刊</p>
+    <div class="hero-issue-row">
+      {% if index_month_urls and index_month_urls | length > 1 %}
+      {% set current_idx = namespace(val=0) %}
+      {% for mu in index_month_urls %}
+        {% if mu.month == index_current_month %}{% set current_idx.val = loop.index0 %}{% endif %}
+      {% endfor %}
+      {% if current_idx.val < index_month_urls | length - 1 %}
+      <a href="{{ rel_to_root }}/{{ index_month_urls[current_idx.val + 1].url }}" class="hero-nav-arrow" title="上一期">←</a>
+      {% else %}
+      <span class="hero-nav-arrow hero-nav-arrow--disabled">←</span>
+      {% endif %}
+      {% endif %}
+
+      <p class="hero-issue">{{ latest_month_display }}刊</p>
+
+      {% if index_month_urls and index_month_urls | length > 1 %}
+      {% if current_idx.val > 0 %}
+      <a href="{{ rel_to_root }}/{{ index_month_urls[current_idx.val - 1].url }}" class="hero-nav-arrow" title="下一期">→</a>
+      {% else %}
+      <span class="hero-nav-arrow hero-nav-arrow--disabled">→</span>
+      {% endif %}
+      {% endif %}
+    </div>
     <div class="hero-colophon">
       <span class="hero-inst">复旦大学经济科学智能研究中心</span>
       <span class="hero-authors">刘志阔 &ensp; 鲁菁菁</span>
@@ -23,7 +45,7 @@
     <div class="digest-grid">
       {% for d in topic_digests %}
       {% if not d.compact %}
-      <a href="{{ rel_to_root }}/{{ d.slug }}/{{ latest_month }}.html" class="digest-card" style="--topic-color: {{ d.color }}">
+      <a href="{{ rel_to_root }}/{{ d.slug }}/{{ index_current_month }}.html" class="digest-card" style="--topic-color: {{ d.color }}">
         <span class="digest-label">{{ d.name_short }}</span>
         <div class="digest-text">
           {%- set lines = d.digest.split('\n') -%}
@@ -61,7 +83,7 @@
       {% set tdata = topics_data.get(tid, {}) %}
       {% set events = tdata.get('events', []) %}
       {% set event_count = events | length %}
-      <a href="{{ rel_to_root }}/{{ tinfo.slug }}/{{ latest_month }}.html" class="topic-entry-card" style="--topic-color: {{ tinfo.color }}">
+      <a href="{{ rel_to_root }}/{{ tinfo.slug }}/{{ index_current_month }}.html" class="topic-entry-card" style="--topic-color: {{ tinfo.color }}">
         <div class="topic-entry-header">
           <span class="topic-entry-label" style="color:{{ tinfo.color }}">{{ tinfo.name_short }}</span>
           <span class="topic-entry-name">{{ tinfo.name_zh }}</span>
@@ -87,7 +109,7 @@
     {% set tdata = topics_data.get(tid, {}) %}
     {% set events = tdata.get('events', []) %}
     {% set event_count = events | length %}
-    <a href="{{ rel_to_root }}/{{ tinfo.slug }}/{{ latest_month }}.html" class="t5-entry-link" style="--topic-color: {{ tinfo.color }}">
+    <a href="{{ rel_to_root }}/{{ tinfo.slug }}/{{ index_current_month }}.html" class="t5-entry-link" style="--topic-color: {{ tinfo.color }}">
       <span class="t5-entry-name">{{ tinfo.name_zh }}</span>
       <span class="t5-entry-count">{{ event_count }} 条</span>
       <span class="t5-entry-arrow">→</span>

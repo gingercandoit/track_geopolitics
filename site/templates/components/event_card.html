@@ -1,4 +1,4 @@
-{% macro render_event_card(event, event_type_colors, source_tiers={}) %}
+{% macro render_event_card(event, event_type_colors, source_tiers={}, topic_color='#8B0000') %}
 <div class="event-card" data-type="{{ event.type }}">
   <div class="event-card-header">
     <span class="event-date">{{ event.date[5:7] | int }}月{{ event.date[8:10] | int }}日</span>
@@ -12,11 +12,18 @@
     <div class="event-card-content">
     {% if event.summary_zh %}
     <div class="event-summary">
-      {% for line in event.summary_zh.split('。') %}
-        {% if line.strip() %}
-        <p>{{ line.strip() }}。</p>
-        {% endif %}
+      {% set sentences = [] %}
+      {% for s in event.summary_zh.split('。') %}
+        {% if s.strip() %}{% if sentences.append(s.strip() + '。') %}{% endif %}{% endif %}
       {% endfor %}
+      <p class="event-lead" style="--lead-color: {{ topic_color }}">{{ sentences[0] }}</p>
+      {% if sentences | length > 1 %}
+        <ul class="event-details">
+          {% for s in sentences[1:] %}
+          <li>{{ s }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
     </div>
     {% endif %}
     {# metrics hidden — summary data shown in key_metrics table at page bottom #}

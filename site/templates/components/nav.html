@@ -1,4 +1,10 @@
-{% macro render_nav(topics, rel_to_root, current_page, latest_month) %}
+{% macro render_nav(topics, rel_to_root, current_page, latest_month, all_months) %}
+{# Detect if on a topic page: current_page looks like "topic1-sanctions/2026-03.html" #}
+{% set _parts = current_page.split('/') %}
+{% set _on_topic = (_parts | length == 2 and _parts[0].startswith('topic')) %}
+{% set _topic_slug = _parts[0] if _on_topic else '' %}
+{% set _current_month = _parts[1].replace('.html','') if _on_topic else '' %}
+
 <nav class="site-nav">
   <div class="container nav-inner">
     <div class="nav-brand-group">
@@ -25,6 +31,26 @@
          class="nav-link {% if 'archive' in current_page %}active{% endif %}">
         存档
       </a>
+      {% if all_months and all_months | length > 1 %}
+      <span class="nav-divider"></span>
+      <select class="nav-issue-select" onchange="navigateMonth(this.value)" aria-label="选择期数">
+        {% for m in all_months %}
+        {% if _on_topic %}
+        {# On topic page: navigate to same topic, different month #}
+        <option value="{{ rel_to_root }}/{{ _topic_slug }}/{{ m }}.html"
+                {% if m == _current_month %}selected{% endif %}>
+          {{ m | month_display }}
+        </option>
+        {% else %}
+        {# On index/other page: navigate to index for that month #}
+        <option value="{{ rel_to_root }}/{% if m == all_months[0] %}index.html{% else %}{{ m }}.html{% endif %}"
+                {% if (current_page == 'index.html' and m == all_months[0]) or (m ~ '.html' == current_page) %}selected{% endif %}>
+          {{ m | month_display }}
+        </option>
+        {% endif %}
+        {% endfor %}
+      </select>
+      {% endif %}
     </div>
     <button class="nav-toggle" aria-label="Toggle menu">☰</button>
   </div>

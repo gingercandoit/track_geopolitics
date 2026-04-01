@@ -1,4 +1,4 @@
-﻿{
+{
   "report_metadata": {
     "topic": "topic2-trade-industrial",
     "topic_name_zh": "贸易与产业政策",
@@ -14,7 +14,7 @@
       "date": "2026-02-20",
       "type": "政策发布",
       "title_zh": "白宫签署“Ending Certain Tariff Actions”行政令",
-      "summary_zh": "终止部分此前基于IEEPA紧急权力征收的关税，标志着贸易执法从紧急令回归常规法律框架，为后续的Section 301调查替代方案铺路。",
+      "summary_zh": "美国终止部分IEEPA紧急关税，贸易执法工具换轨。",
       "source_tier": "A",
       "sources": [
         {
@@ -29,7 +29,7 @@
       "date": "2026-02-27",
       "type": "智库分析",
       "title_zh": "Bloomberg：所谓“中美脱钩”更像一个神话",
-      "summary_zh": "Bloomberg调查追踪贸易数据发现，商品仍通过东南亚和墨西哥等中转地大量流动——中国对美出口的“消失”只是统计幻觉。为理解3月USTR发起针对76个经济体的301调查提供了动机背景。",
+      "summary_zh": "Bloomberg追踪贸易数据揭示中国对美出口并未真正减少。为理解3月USTR发起针对76个经济体的301调查提供了动机背景。",
       "source_tier": "C",
       "sources": [
         {
@@ -44,7 +44,7 @@
       "date": "2026-03-02",
       "type": "政策发布",
       "title_zh": "USTR 发布 2026 年贸易政策议程",
-      "summary_zh": "美国贸易代表办公室向国会提交特朗普总统的2026年贸易政策议程，主题为“America First Trade Policy”，将贸易调查确立为加征关税的主要法律工具，预告即将对“结构性产能过剩”国家发起大规模调查。",
+      "summary_zh": "美国USTR向国会提交2026年贸易政策议程，预告大规模调查。",
       "source_tier": "A",
       "sources": [
         {
@@ -62,7 +62,7 @@
       "date": "2026-03-03",
       "type": "智库分析",
       "title_zh": "KPMG 半年度供应链报告：五大趋势重塑经济格局",
-      "summary_zh": "KPMG发布2026年3月供应链更新报告，核心判断：美国供应链正从“间歇性中断“进入“持续性风险管理“新阶段。",
+      "summary_zh": "KPMG判断美国供应链从间歇中断进入持续性风险管理阶段。",
       "source_tier": "C",
       "sources": [
         {
@@ -77,7 +77,7 @@
       "date": "2026-03-06",
       "type": "数据发布",
       "title_zh": "2026年回流的真实成本：1840亿美元的供应链大转向",
-      "summary_zh": "Fynqo分析：美国制造业回流投资总额达1840亿美元。“哪里生产、哪里交付“的全球化模式已在贸易保护主义重压下断裂。",
+      "summary_zh": "分析指出美国制造业回流投资总额已达1840亿美元，但就业效果有限。“哪里生产、哪里交付“的全球化模式已在贸易保护主义重压下断裂。",
       "source_tier": "C",
       "sources": [
         {
@@ -94,7 +94,7 @@
       "date": "2026-03-09",
       "type": "智库分析",
       "title_zh": "CHIPS Act 是否引发了制造业建设投资热潮？",
-      "summary_zh": "Skanda Amarnath在Briefing Book / Factory Settings发表深度分析，对CHIPS Act的产业政策效果进行“法务会计式”的精细审计，评估联邦补贴与制造业建设投资激增之间的因果关系。",
+      "summary_zh": "CHIPS Act补贴效果遭审计式质疑，产业政策因果链存疑。",
       "source_tier": "C",
       "sources": [
         {
@@ -109,7 +109,7 @@
       "date": "2026-03-10",
       "type": "国际机构",
       "title_zh": "UNCTAD 警告霍尔木兹海峡航运中断危及全球贸易",
-      "summary_zh": "UNCTAD发布报告，因美伊冲突导致的霍尔木兹海峡航运中断正在威胁能源、化肥和脆弱经济体。全球约20%的石油运输和大量LNG贸易经过该海峡。",
+      "summary_zh": "联合国贸发会议警告霍尔木兹海峡航运中断威胁全球贸易。全球约20%的石油运输和大量LNG贸易经过该海峡。",
       "source_tier": "B",
       "sources": [
         {
@@ -133,7 +133,7 @@
       "date": "2026-03-11",
       "type": "贸易调查",
       "title_zh": "USTR 连续两天发起大规模 301 调查",
-      "summary_zh": "3月11日USTR对中国和其他15个经济体发起第一轮301调查，3月12日发起第二轮覆盖中国和其他59个经济体，合计涉及76个经济体，六大目标行业：钢铁、太阳能、EV、电池、半导体、造船。USTR明确表示301调查将替代此前基于IEEPA的关税。中国外交部迅速回应称“产能过剩是伪命题”。",
+      "summary_zh": "美国贸易代表署两日内对76个经济体发起对等关税调查。USTR明确表示301调查将替代此前基于IEEPA的关税。中国外交部迅速回应称“产能过剩是伪命题”。",
       "source_tier": "A",
       "sources": [
         {
@@ -180,7 +180,7 @@
       "date": "2026-03-12",
       "type": "贸易调查",
       "title_zh": "US ITC 否决对中国阳极材料征收反倾销和反补贴税",
-      "summary_zh": "美国国际贸易委员会投票否决了对中国产活性阳极材料（AAM）征收反倾销税和反补贴税，这是少见的中国在美国贸易救济案中\"胜诉\"的案例，对电池供应链的短期影响：中国阳极材料对美出口暂时免于额外关税。",
+      "summary_zh": "美国ITC否决对中国活性阳极材料加征反倾销和反补贴税。",
       "source_tier": "A",
       "sources": [
         {
@@ -225,7 +225,7 @@
       "date": "2026-03-18",
       "type": "企业动态",
       "title_zh": "企业层面的“大分叉“：供应链多元化替代脱钩",
-      "summary_zh": "企业界已转向更务实策略，不完全撤出中国，而是将供应链分散到多国同时保留中国线。与Bloomberg报道的\u201c中美脱钩是个神话\u201d形成呼应，显示微观层面的\u201c大分叉\u201d正在发生。",
+      "summary_zh": "企业界已转向更务实策略，不完全撤出中国，而是将供应链分散到多国同时保留中国线。与Bloomberg报道的“中美脱钩是个神话”形成呼应，显示微观层面的“大分叉”正在发生。",
       "source_tier": "C",
       "sources": [
         {
@@ -301,7 +301,7 @@
       "date": "2026-03-26",
       "type": "国际机构",
       "title_zh": "WTO 第14届部长级会议开幕：总干事称“世界秩序已不可逆转地改变”",
-      "summary_zh": "WTO MC14在喀麦隆雅温得开幕，总干事奥孔乔-伊韦阉拉直言世界秩序已不可逆转地改变。72%的全球贸易仍在WTO规则下进行。WTO争端解决机制处于瘫痪状态——102个成员未提交2025年补贴通知。印度商工部长Goyal批评争端解决体系“功能失调”。",
+      "summary_zh": "WTO MC14开幕，总干事直言世界贸易秩序已被改变。72%的全球贸易仍在WTO规则下进行。WTO争端解决机制处于瘫痪状态——102个成员未提交2025年补贴通知。印度商工部长Goyal批评争端解决体系“功能失调”。",
       "source_tier": "B",
       "sources": [
         {
@@ -323,7 +323,7 @@
       "date": "2026-03-27",
       "type": "贸易调查",
       "title_zh": "中国商务部对美启动两项贸易壁垒调查",
-      "summary_zh": "中国商务部依据《对外贸易法》正式宣布对美国启动两项贸易壁垒调查：一针对美国损害全球供应链的行动和措施，二针对美国阻碍绿色产品贸易的行动和措施。对标美方3月11-12日的两轮301调查，标志着中国从被调查方的被动角色转变为主动发起调查的一方。",
+      "summary_zh": "中国商务部对美国启动两项贸易壁垒调查，反击301。对标美方3月11-12日的两轮301调查，标志着中国从被调查方的被动角色转变为主动发起调查的一方。",
       "source_tier": "A",
       "sources": [
         {
@@ -359,7 +359,7 @@
       "date": "2026-03-27",
       "type": "企业动态",
       "title_zh": "奥地利可能阻止京东22亿欧元收购欧洲最大电子零售商",
-      "summary_zh": "Bloomberg报道：奥地利当局拒绝批准京东22亿欧元收购德国Ceconomy（欧洲最大消费电子零售商）的要约，是欧洲对中国投资审查收紧的最新案例，反映FDI审查作为贸易壁垒的新趋势。",
+      "summary_zh": "奥地利否决京东22亿欧元收购欧洲最大消费电子零售商。",
       "source_tier": "C",
       "sources": [
         {
@@ -376,10 +376,38 @@
       ]
     },
     {
+      "date": "2026-03-27",
+      "type": "关税贸易",
+      "title_zh": "最高法院6-3裁定IEEPA对等关税违宪，白宫当天援引1974贸易法征15%普遍附加税",
+      "summary_zh": "美国最高法院6-3裁定总统无权依IEEPA征收贸易关税。裁决推翻了此前高达100%的「对等」关税。白宫数小时内援引1974年贸易法第122条以「国际收支紧急状态」为由征收15%普遍进口附加税（法定上限），有效期150天（至8月下旬届满）。J.P. Morgan和S&P Global已将2026年CPI预期上调至3.5-4.0%区间。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "MarketMinute",
+          "url": "https://fox28spokane.marketminute.com/article/marketminute-2026-3-27-supreme-court-strikes-down-reciprocal-tariffs-trump-countermoves-with-15-universal-surcharge-under-1974-trade-act"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/03/26/trump-supreme-court-tariffs-barrett-gorsuch-trade-ieepa-ruling.html"
+        },
+        {
+          "name": "Mondaq",
+          "url": "https://www.mondaq.com/unitedstates/international-trade-investment/1763208/the-evolving-landscape-of-presidential-tariffs-after-the-supreme-courts-decision-in-learning-resources-v-trump"
+        }
+      ],
+      "metrics": {
+        "scotus_vote": "6-3",
+        "surcharge_rate": 0.15,
+        "section_122_window_days": 150,
+        "cpi_forecast_2026": "3.5-4.0%"
+      },
+      "week": 4
+    },
+    {
       "date": "2026-03-28",
       "type": "国际机构",
       "title_zh": "WTO MC14: 66个成员就电子商务协定达成共识",
-      "summary_zh": "WTO MC14取得实质性成果：66个WTO成员通过临时安排，为WTO电子商务协定的正式生效铺平道路。这66个经济体覆盖约70%的全球贸易。同日WTO总干事称MPIA是争端解决改革前的“信心建设桥梁”。",
+      "summary_zh": "WTO MC14达成电子商务临时协定，覆盖70%全球贸易。这66个经济体覆盖约70%的全球贸易。同日WTO总干事称MPIA是争端解决改革前的“信心建设桥梁”。",
       "source_tier": "B",
       "sources": [
         {

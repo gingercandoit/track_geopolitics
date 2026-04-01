@@ -34,7 +34,7 @@
     {% endif %}
     <div class="event-list">
       {% for ev in week.events %}
-        {{ render_event_card(ev, event_type_colors, source_tiers) }}
+        {{ render_event_card(ev, event_type_colors, source_tiers, topic.color) }}
       {% endfor %}
     </div>
   </div>

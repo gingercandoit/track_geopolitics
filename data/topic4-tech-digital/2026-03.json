@@ -1,9 +1,9 @@
-﻿{
+{
   "report_metadata": {
     "topic": "topic4-tech-digital",
     "topic_name_zh": "技术竞争与规则制定",
     "period_start": "2026-03-01",
-    "period_end": "2026-03-28",
+    "period_end": "2026-03-30",
     "generated_at": "2026-03-29T12:00:00+08:00",
     "version": "1.1",
     "digest_zh": "美国芯片管制从禁止出口转向配给供应，中国以人员出境限制回应。\n>> 美国BIS新规：对华AI芯片算力上限50%\n>> 中国限制Manus核心工程师出境\n>> 美国BIS撤回全球AI芯片许可草案",
@@ -14,7 +14,7 @@
       "date": "2026-03-01",
       "type": "制裁管制",
       "title_zh": "BIS 对华 AI 芯片出口新规正式生效",
-      "summary_zh": "1月发布的AI半导体出口许可审查修订规则（ECCN 3A090）和Proclamation 11002在本周陆续生效执行。审查政策从全面“推定拒绝“改为“逐案审查“，但附加严格认证条件：出口商须证明芯片在美国市场供应充足，技术门槛TPP ≤ 21,000，DRAM带宽 ≤ 6,500 GB/s。",
+      "summary_zh": "美国AI芯片出口新规正式生效，审查从‘推定拒绝’改为‘逐案审查’。审查政策从全面“推定拒绝“改为“逐案审查“，但附加严格认证条件：出口商须证明芯片在美国市场供应充足，技术门槛TPP ≤ 21,000，DRAM带宽 ≤ 6,500 GB/s。",
       "source_tier": "A",
       "sources": [
         {
@@ -39,7 +39,7 @@
       "date": "2026-03-05",
       "type": "智库分析",
       "title_zh": "美商务部酝酿\"以投资换出口\"芯片监管新框架",
-      "summary_zh": "商务部正讨论全新的AI芯片出口监管框架，核心思路是外国政府或企业想获得大批量芯片出口许可（20万颗以上）需在美国AI数据中心投资。低至1,000颗芯片的安装也可能需要申请许可。",
+      "summary_zh": "美国商务部讨论AI芯片出口新框架：大批量许可须在美投资数据中心。低至1,000颗芯片的安装也可能需要申请许可。",
       "source_tier": "C",
       "sources": [
         {
@@ -68,10 +68,29 @@
       "week": 2
     },
     {
+      "date": "2026-03-11",
+      "type": "智库分析",
+      "title_zh": "East Asia Forum与Center for China Analysis对芯片管制方向分歧",
+      "summary_zh": "智库分析认为特朗普政府芯片管制实质“降温”，措辞强硬但力度放松。Center for China Analysis探讨中美能否在贸易和技术领域找到“新均衡”，核心论点是“管理型竞争”正在取代“完全脱钩”。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "East Asia Forum",
+          "url": "https://eastasiaforum.org/2026/03/11/us-chip-export-controls-have-cooled-down/"
+        },
+        {
+          "name": "Center for China Analysis",
+          "url": "https://centerforchinaanalysis.substack.com/p/can-the-united-states-and-china-find"
+        }
+      ],
+      "metrics": {},
+      "week": 2
+    },
+    {
       "date": "2026-03-13",
       "type": "智库分析",
       "title_zh": "Reuters 完整揭示半导体出口管制与关税的联动“门控框架”",
-      "summary_zh": "Reuters法律分析完整梳理BIS规则与Proclamation 11002的联动机制。核心限制：向中国出口的AI芯片总算力不得超过对美国客户出货总算力的50%，每批芯片须经美国境内第三方实验室检验。进口关税端对先进半导体征收25%关税。",
+      "summary_zh": "Reuters梳理美国BIS芯片规则与总统令的联动管制机制。核心限制：向中国出口的AI芯片总算力不得超过对美国客户出货总算力的50%，每批芯片须经美国境内第三方实验室检验。进口关税端对先进半导体征收25%关税。",
       "source_tier": "C",
       "sources": [
         {
@@ -85,25 +104,6 @@
         "trade_agreement_deadline": "2026-04-14",
         "market_report_deadline": "2026-07-01"
       },
-      "week": 2
-    },
-    {
-      "date": "2026-03-11",
-      "type": "智库分析",
-      "title_zh": "East Asia Forum与Center for China Analysis对芯片管制方向分歧",
-      "summary_zh": "East Asia Forum认为特朗普政府在芯片出口管制上实质是在“降温”，措辞强硬但实际管制力度放松。Center for China Analysis探讨中美能否在贸易和技术领域找到“新均衡”，核心论点是“管理型竞争”正在取代“完全脱钩”。",
-      "source_tier": "C",
-      "sources": [
-        {
-          "name": "East Asia Forum",
-          "url": "https://eastasiaforum.org/2026/03/11/us-chip-export-controls-have-cooled-down/"
-        },
-        {
-          "name": "Center for China Analysis",
-          "url": "https://centerforchinaanalysis.substack.com/p/can-the-united-states-and-china-find"
-        }
-      ],
-      "metrics": {},
       "week": 2
     },
     {
@@ -125,7 +125,7 @@
       "date": "2026-03-17",
       "type": "政策发布",
       "title_zh": "欧盟AI治理框架取得实质进展",
-      "summary_zh": "3月17日EDPS发布文件为AI法案在欧盟公共行政领域的实施提供指南，是EU AI Act从立法到执行阶段的里程碑。3月25日GPPi分析欧洲委员会AI框架公约作为首个具有法律约束力的国际AI条约的意义。中美技术博弈之外，欧盟正构建自主的AI治理路径。",
+      "summary_zh": "欧盟AI Act进入执行阶段，EDPS发布公共行政实施指南。3月25日GPPi分析欧洲委员会AI框架公约作为首个具有法律约束力的国际AI条约的意义。中美技术博弈之外，欧盟正构建自主的AI治理路径。",
       "source_tier": "A",
       "sources": [
         {
@@ -144,7 +144,7 @@
       "date": "2026-03-21",
       "type": "制裁管制",
       "title_zh": "Super Micro联合创始人被控向中国转运英伟达顶级芯片",
-      "summary_zh": "WSJ披露Super Micro Computer联合创始人Wally Liaw的密封起诉书正式公开，指控其涉嫌帮助中国实体获取英伟达顶级AI芯片，违反出口管制法规。案件表明即使在严格出口管制下，高端芯片仍有灰色渠道流向中国。",
+      "summary_zh": "WSJ揭露Supermicro联合创始人涉嫌帮中国获取英伟达AI芯片。案件表明即使在严格出口管制下，高端芯片仍有灰色渠道流向中国。",
       "source_tier": "C",
       "sources": [
         {
@@ -154,23 +154,6 @@
       ],
       "metrics": {},
       "week": 3
-    },
-    {
-      "date": "2026-03-26",
-      "type": "政策发布",
-      "title_zh": "国务院启动2.5亿美元Pax Silica半导体外交基金",
-      "summary_zh": "美国国务院宣布将与国会合作拨出2.5亿美元建立“Pax Silica基金“，为盟友和合作伙伴的半导体供应链基础设施提供融资和技术支持。与BIS出口管制形成互补：一边限制对华芯片流向，一边帮盟友建产能。",
-      "source_tier": "A",
-      "sources": [
-        {
-          "name": "美国国务院官方",
-          "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/03/department-of-state-launches-pax-silica-fund/"
-        }
-      ],
-      "metrics": {
-        "pax_silica_fund_usd": 250000000
-      },
-      "week": 4
     },
     {
       "date": "2026-03-25",
@@ -192,10 +175,76 @@
       "week": 4
     },
     {
+      "date": "2026-03-26",
+      "type": "政策发布",
+      "title_zh": "国务院启动2.5亿美元Pax Silica半导体外交基金",
+      "summary_zh": "美国拟拨2.5亿美元设Pax Silica基金，助盟友建半导体产能。与BIS出口管制形成互补：一边限制对华芯片流向，一边帮盟友建产能。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "美国国务院官方",
+          "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/03/department-of-state-launches-pax-silica-fund/"
+        }
+      ],
+      "metrics": {
+        "pax_silica_fund_usd": 250000000
+      },
+      "week": 4
+    },
+    {
+      "date": "2026-03-26",
+      "type": "技术管制",
+      "title_zh": "众院外委会42-0通过芯片安全法案：出口AI芯片须植入追踪功能",
+      "summary_zh": "美国众议院全票通过芯片安全法案，要求出口AI芯片嵌入追踪功能。立法直接回应一起25亿美元芯片走私案——该案暴露了现行出口管制在末端用户核查上的严重漏洞。法案如通过将从根本上改变芯片出口合规架构，半导体厂商需在硬件层面内置监控能力。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "House Select Committee on CCP",
+          "url": "https://chinaselectcommittee.house.gov/media/press-releases/house-committee-passes-chip-security-act"
+        },
+        {
+          "name": "DIGITIMES",
+          "url": "http://www.digitimes.com/news/a20260327VL202/chips-security-policy-usa.html"
+        },
+        {
+          "name": "Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-panel-advances-chip-security-act-to-curb-smuggling-of-ai-semiconductors-to-china/articleshow/129905759.cms"
+        }
+      ],
+      "metrics": {
+        "vote": "42-0",
+        "smuggling_case_value_usd": 2500000000
+      },
+      "week": 4
+    },
+    {
+      "date": "2026-03-26",
+      "type": "国际机构",
+      "title_zh": "欧洲议会通过AI数字综合法案谈判立场，三方谈判启动",
+      "summary_zh": "欧洲议会通过AI数字综合法案谈判授权，三方谈判正式启动。欧盟理事会同步完成谈判授权。该法案旨在简化AI法规实施细则，调整中小企业合规负担，并回应产业界对AI Act执行细节的关切。三方谈判正式启动。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "European Parliament",
+          "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2026-03-26_EN.html"
+        },
+        {
+          "name": "Lexology",
+          "url": "https://www.lexology.com/library/detail.aspx?g=b4781b56-ced2-4c79-9c03-73bda1d79abd"
+        },
+        {
+          "name": "Global Policy Watch",
+          "url": "https://www.globalpolicywatch.com/2026/03/meps-adopt-joint-position-on-proposed-digital-omnibus-on-ai/"
+        }
+      ],
+      "metrics": {},
+      "week": 4
+    },
+    {
       "date": "2026-03-27",
       "type": "企业动态",
       "title_zh": "中国科协、CCF、CAA抵制NeurIPS 2026",
-      "summary_zh": "NeurIPS 2026在投稿指南中新增条款，援引美国制裁名单禁止华为及多所中国高校的学者投稿或参与同行评审。中国科协（CAST）宣布立即暂停资助学者参会，中国计算机学会（CCF）和中国自动化学会（CAA）呼吁中国计算机科学家拒绝向该会议投稿或提供学术服务。CCF警告若NeurIPS不及时纠正，将把其从推荐目录中移除。学术领域成为技术竞争的新战场，反映出中方在政策表态之外正以具体行动回应技术遏制。",
+      "summary_zh": "NeurIPS 2026援引美国制裁名单禁止华为及中国高校学者投稿。中国科协（CAST）宣布立即暂停资助学者参会，中国计算机学会（CCF）和中国自动化学会（CAA）呼吁中国计算机科学家拒绝向该会议投稿或提供学术服务。CCF警告若NeurIPS不及时纠正，将把其从推荐目录中移除。学术领域成为技术竞争的新战场，反映出中方在政策表态之外正以具体行动回应技术遏制。",
       "source_tier": "A",
       "sources": [
         {
@@ -205,6 +254,40 @@
       ],
       "metrics": {},
       "week": 4
+    },
+    {
+      "date": "2026-03-27",
+      "type": "技术管制",
+      "title_zh": "白宫发布国家AI政策框架，联邦与州权划界之争持续",
+      "summary_zh": "白宫发布国家AI立法框架，试图在联邦层面建立AI治理的统一方向。框架涵盖AI安全标准、数据透明度和算法问责等议题，但联邦制约vs州级自主监管的权力划分仍是核心争议。该框架被视为对EU AI Act和中国AI治理规则的美国回应，但批评者指出缺乏强制力且落后于产业发展速度。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "Mondaq / K&L Gates",
+          "url": "https://www.mondaq.com/unitedstates/new-technology/1765588/white-house-releases-national-ai-policy-framework"
+        },
+        {
+          "name": "Mondaq / Barnes & Thornburg",
+          "url": "https://www.mondaq.com/unitedstates/technology/1765206/white-house-releases-national-ai-legislative-framework-as-debate-over-federal-vs-state-authority-continues"
+        }
+      ],
+      "metrics": {},
+      "week": 4
+    },
+    {
+      "date": "2026-03-30",
+      "type": "技术管制",
+      "title_zh": "ITC对特定NAND和DRAM存储芯片启动337调查",
+      "summary_zh": "美国国际贸易委员会对存储芯片启动知识产权侵权调查。该调查涉及知识产权侵权指控，可能影响存储芯片的进口和销售。此举发生在中美技术竞争加剧的背景下，存储芯片是半导体产业链的关键环节。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "Federal Register",
+          "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06113/certain-nand-and-dram-memory-chips-institution-of-investigation"
+        }
+      ],
+      "metrics": {},
+      "week": 5
     }
   ],
   "background_context": [

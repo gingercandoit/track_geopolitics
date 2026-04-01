@@ -1,9 +1,9 @@
-﻿{
+{
   "report_metadata": {
     "topic": "topic3-supply-resources",
     "topic_name_zh": "能源安全与资源角力",
     "period_start": "2026-03-01",
-    "period_end": "2026-03-28",
+    "period_end": "2026-03-30",
     "generated_at": "2026-03-29T12:00:00+08:00",
     "version": "1.1",
     "digest_zh": "霍尔木兹封锁，让地缘能源版图在一天内重新定价。\n>> 伊朗封锁海峡，布伦特原油突破100美元\n>> IEA释放4亿桶战略储备\n>> 卡塔尔液化天然气触发不可抗力\n>> 化肥价格上涨50%，氦气供应告急",
@@ -14,7 +14,7 @@
       "date": "2026-03-01",
       "type": "数据发布",
       "title_zh": "油价暴涨10-13%，伊朗首轮攻击商船",
-      "summary_zh": "美以空袭后数小时内，布伦特原油跳涨10-13%，分析师警告可能触及100美元/桶。同日IRGC攻击至少四艘油轮，包括MT Skylight（两名印度船员死亡）。主要航运公司暂停霍尔木兹海峡及红海航线。",
+      "summary_zh": "美以联合空袭伊朗引爆油价，布伦特原油跳涨超10%。同日IRGC攻击至少四艘油轮，包括MT Skylight（两名印度船员死亡）。主要航运公司暂停霍尔木兹海峡及红海航线。",
       "source_tier": "C",
       "sources": [
         {
@@ -42,7 +42,7 @@
       "date": "2026-03-01",
       "type": "政策发布",
       "title_zh": "DOE 开放5亿美元关键矿产加工与电池制造资金",
-      "summary_zh": "美国能源部和国防工业基地联盟联合开放重大新资金通道，5亿美元用于国内关键矿产加工、电池材料制造和回收，旨在减少对中国加工环节的依赖。",
+      "summary_zh": "美国DOE联合国防基地开通5亿美元关键矿产资金通道。",
       "source_tier": "C",
       "sources": [
         {
@@ -227,7 +227,7 @@
       "date": "2026-03-11",
       "type": "政策发布",
       "title_zh": "欧盟关键原材料法案分析：目标宏大但矿山缺位",
-      "summary_zh": "Materials Dispatch分析：欧盟CRMA设定2030供应目标，但许可延迟、资金缺口和对中国/刚果（金）极端依赖意味着EU难以弥合战略材料赤字。与美国Project Vault形成对比。",
+      "summary_zh": "欧盟CRMA战略材料目标面临许可延迟和资金缺口双重困境。与美国Project Vault形成对比。",
       "source_tier": "C",
       "sources": [
         {
@@ -266,7 +266,7 @@
       "date": "2026-03-12",
       "type": "政策发布",
       "title_zh": "DOE发布UPRISE计划：2029年前增加5GW核电容量",
-      "summary_zh": "DOE发布UPRISE（Upgrade and Restart Initiative for Strategic Energy）计划，目标通过核电站升级和重启在2029年前增加5GW核电容量，聚焦压水堆升级和已关闭核电站重启。",
+      "summary_zh": "美国能源部发布核电扩容计划，目标2029年前新增5吉瓦容量。",
       "source_tier": "C",
       "sources": [
         {
@@ -288,7 +288,7 @@
       "date": "2026-03-12",
       "type": "外交动态",
       "title_zh": "美国、EU、日本推进关键矿产贸易协定以对抗中国",
-      "summary_zh": "核心机制：价格下限框架（border-adjustable price floors），确保盟国生产商能够与中国补贴供应竞争。延续2025年10月与澳大利亚和日本签署的双边框架。USTR同时就关键矿产贸易谈判征求公众意见。",
+      "summary_zh": "美国提出关键矿产价格下限框架，保护盟国生产商免受中国补贴冲击。延续2025年10月与澳大利亚和日本签署的双边框架。USTR同时就关键矿产贸易谈判征求公众意见。",
       "source_tier": "C",
       "sources": [
         {
@@ -362,7 +362,7 @@
       "date": "2026-03-16",
       "type": "企业动态",
       "title_zh": "Lynas 签署9600万美元稀土承购协议与价格下限承诺",
-      "summary_zh": "澳大利亚稀土企业Lynas与美国国防部签署具有约束力的意向书，9600万美元/4年期，购买Lynas美国子公司的轻稀土和重稀土氧化物。这是Project Vault价格下限机制的具体落地。",
+      "summary_zh": "澳大利亚Lynas与美国国防部签署9600万美元稀土采购意向书。这是Project Vault价格下限机制的具体落地。",
       "source_tier": "C",
       "sources": [
         {
@@ -380,7 +380,7 @@
       "date": "2026-03-16",
       "type": "政策发布",
       "title_zh": "美国能源部$5亿关键矿产加工计划",
-      "summary_zh": "美国能源部（DOE）正式启动5亿美元关键矿产加工和电池材料供应链扩展计划，重点包括电池材料加工能力扩展，旨在减少对中国加工环节的依赖。与3月1日宣布的DOE/DIBC资金通道形成配套，进入具体实施阶段。",
+      "summary_zh": "美国DOE启动5亿美元关键矿产加工和电池材料扩展计划。与3月1日宣布的DOE/DIBC资金通道形成配套，进入具体实施阶段。",
       "source_tier": "C",
       "sources": [
         {
@@ -451,7 +451,7 @@
       "date": "2026-03-19",
       "type": "国际机构",
       "title_zh": "QatarEnergy对4国LNG合同宣布不可抗力，迪拜原油创$166历史纪录",
-      "summary_zh": "QatarEnergy正式对意大利、比利时、韩国和中国的LNG长期合同宣布不可抗力。迪拜原油价格创166美元/桶历史纪录。卡塔尔占全球LNG出口约20%，欧洲12-14%的LNG来自卡塔尔。",
+      "summary_zh": "卡塔尔能源宣布天然气合同不可抗力，迪拜原油创历史新高。迪拜原油价格创166美元/桶历史纪录。卡塔尔占全球LNG出口约20%，欧洲12-14%的LNG来自卡塔尔。",
       "source_tier": "C",
       "sources": [
         {
@@ -478,7 +478,7 @@
       "date": "2026-03-19",
       "type": "政策发布",
       "title_zh": "USTR 征求关键矿产复边协定设计意见",
-      "summary_zh": "CTA等行业组织向USTR提交公开评论，涉及复边关键矿产贸易协定的设计、价格下限机制覆盖矿种等核心问题。评论截止日期3月19日。",
+      "summary_zh": "美国行业组织就关键矿产贸易协定设计向USTR提交评论。评论截止日期3月19日。",
       "source_tier": "C",
       "sources": [
         {
@@ -510,7 +510,7 @@
       "date": "2026-03-19",
       "type": "企业动态",
       "title_zh": "中国境外最大重稀土冶炼工厂开工",
-      "summary_zh": "REalloys Inc. (ALOY) 宣布全额融资建设中国以外最大的重稀土冶金工厂。重稀土（镝、铽等）是永磁体和军事装备的关键材料，目前全球90%以上加工在中国。这是关键矿产去中国化进程的标志性项目。",
+      "summary_zh": "稀土冶炼商宣布在中国以外建设全球最大重稀土冶金工厂。重稀土（镝、铽等）是永磁体和军事装备的关键材料，目前全球90%以上加工在中国。这是关键矿产去中国化进程的标志性项目。",
       "source_tier": "C",
       "sources": [
         {
@@ -527,7 +527,7 @@
       "date": "2026-03-20",
       "type": "外交动态",
       "title_zh": "美日关键矿产伙伴关系进入下一阶段",
-      "summary_zh": "USTR宣布美日关键矿产伙伴关系新进展，该倡议旨在对抗中国在关键矿产领域的主导地位。",
+      "summary_zh": "美国USTR推进美日关键矿产伙伴关系，对抗中国矿产主导地位。",
       "source_tier": "C",
       "sources": [
         {
@@ -546,7 +546,7 @@
       "date": "2026-03-22",
       "type": "智库分析",
       "title_zh": "”关键矿产北约“概念浮现，伊朗冲击波加速矿产地缘重组",
-      "summary_zh": "InvestorNews提出“关键矿产北约“概念，即由美国及其盟友构建的矿产供应联盟。霍尔木兹危机暴露美国国防工业对海峡过境硫磺的“近乎完全“依赖。化肥（尿素）价格上涨50%，威胁北半球春播。",
+      "summary_zh": "分析提出“关键矿产北约”概念，盟国构建矿产供应联盟。霍尔木兹危机暴露美国国防工业对海峡过境硫磺的“近乎完全“依赖。化肥（尿素）价格上涨50%，威胁北半球春播。",
       "source_tier": "C",
       "sources": [
         {
@@ -563,7 +563,7 @@
       "date": "2026-03-25",
       "type": "政策发布",
       "title_zh": "美国众议院自然资源委员会：“释放美国矿产潜力”",
-      "summary_zh": "发布题为“Unleashing America's Mineral Potential”的声明，推动加快国内矿产开采许可和审批流程。与行政部门的Project Vault形成立法-行政协同。",
+      "summary_zh": "美国国会推动加快矿产开采审批，与行政部门形成立法-行政协同。与行政部门的Project Vault形成立法-行政协同。",
       "source_tier": "A",
       "sources": [
         {
@@ -678,6 +678,81 @@
       ],
       "metrics": {},
       "week": 4
+    },
+    {
+      "date": "2026-03-29",
+      "type": "能源资源",
+      "title_zh": "\"四月石油悬崖\"：战略石油储备释放即将耗尽，霍尔木兹重开面临五大条件",
+      "summary_zh": "4月初是霍尔木兹海峡危机的经济临界点，多项缓冲即将到期。霍尔木兹恢复通航需同时满足五个条件：停火协议、保险恢复承保、IRGC撤出航道、多国海军护航、伊朗正式承诺不再封锁。Macquarie警告若冲突持续至6月，布伦特原油可能冲击200美元。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Eagle Intelligence",
+          "url": "https://eagleintelmari.com/news/oil-shock-countdown-early-april-spr-depleted-brent-130-energy-crisis"
+        },
+        {
+          "name": "Eagle Intelligence",
+          "url": "https://eagleintelmari.com/news/hormuz-reopening-equation-five-conditions-oil-markets-insurance-diplomacy-2026"
+        },
+        {
+          "name": "EnergyNow",
+          "url": "https://energynow.com/2026/03/brace-for-us200-oil-if-iran-war-lasts-until-june-macquarie-warns/"
+        }
+      ],
+      "metrics": {
+        "brent_crude_usd": 108,
+        "macquarie_worst_case_usd": 200
+      },
+      "week": 5
+    },
+    {
+      "date": "2026-03-29",
+      "type": "能源资源",
+      "title_zh": "中国十五五规划将稀土纳入战略武器：出口管制制造全球供应瓶颈",
+      "summary_zh": "中国十五五规划将稀土出口管制从临时措施升级为系统性战略。管制覆盖整个价值链（矿石→加工→磁铁），目标是确保国内高端制造优先获得关键材料。分析指出这不仅是贸易壁垒，而是将战略投入品转化为全球性瓶颈的产业政策设计。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "AInvest",
+          "url": "https://www.ainvest.com/news/china-15th-year-plan-weaponizes-rare-earths-export-controls-turn-strategic-inputs-global-bottlenecks-2603/"
+        },
+        {
+          "name": "China Trade Monitor",
+          "url": "https://www.chinatrademonitor.com/chinas-rare-earth-export-controls-export-trends-in-early-2026/"
+        },
+        {
+          "name": "Rare Earth Exchanges",
+          "url": "https://rareearthexchanges.com/news/dominance-at-any-cost-the-hidden-system-behind-chinas-rare-earth-monopoly-and-the-global-reckoning-ahead/"
+        }
+      ],
+      "metrics": {},
+      "week": 5
+    },
+    {
+      "date": "2026-03-30",
+      "type": "市场动态",
+      "title_zh": "美国Q1对华稀土进口骤降22.5%，市场出现双轨价格体系",
+      "summary_zh": "美国一季度自中国稀土进口同比下降逾两成，脱钩加速。中国稀土价格指数从年初300+峰值回落至255.7，但磁铁级关键元素（镝、铽）维持高位溢价。市场正形成战略性双轨价格体系——中国国内价格与国际价格出现显著分化，标志着关键矿产市场碎片化加剧。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Skillings",
+          "url": "https://skillings.net/trade-freeze-us-rare-earth-imports-from-china-plunge-22-amid-export-controls/"
+        },
+        {
+          "name": "Rare Earth Exchanges",
+          "url": "https://rareearthexchanges.com/news/two-prices-one-element-how-rare-earth-markets-are-splitting-into-a-strategic-fault-line/"
+        },
+        {
+          "name": "Skillings",
+          "url": "https://skillings.net/chinas-gallium-and-germanium-export-controls-impact-and-2026-outlook/"
+        }
+      ],
+      "metrics": {
+        "us_china_re_import_change_q1": -0.225,
+        "china_re_price_index": 255.7
+      },
+      "week": 5
     }
   ],
   "background_context": [

@@ -87,10 +87,12 @@ def load_literature(library="classic"):
 
 
 def group_events_by_week(events):
-    """Group events by week number, sorted by date."""
+    """Group events by week number, sorted by date. Week 5+ merged into Week 4."""
     weeks = defaultdict(list)
     for event in events:
         week = event.get("week", 0)
+        if week >= 5:
+            week = 4  # Merge week 5 (day 29-31) into week 4
         weeks[week].append(event)
     # Sort events within each week by date
     for week in weeks:
@@ -191,6 +193,7 @@ def build_site(clean=False):
     )
     # Register custom filters
     env.filters["month_display"] = format_month_display
+    env.globals["build_ts"] = int(__import__('time').time())
 
     # ── Discover data ────────────────────────────────────────────
     data_map = discover_data_files()
@@ -255,9 +258,12 @@ def build_site(clean=False):
                 if week_num == 0:
                     date_range = ""
                 elif week_num >= 1:
-                    # Calendar-based: Week 1 = day 1-7, Week 2 = day 8-14, etc.
+                    # Calendar-based: Week 1 = day 1-7, ..., Week 4 = day 22-end
                     w_start = (week_num - 1) * 7 + 1
-                    w_end = min(week_num * 7, num_days)
+                    if week_num == 4:
+                        w_end = num_days  # Week 4 absorbs remaining days
+                    else:
+                        w_end = min(week_num * 7, num_days)
                     date_range = f"{mon:02d}-{w_start:02d} — {mon:02d}-{w_end:02d}"
                 else:
                     date_range = ""
@@ -296,34 +302,8 @@ def build_site(clean=False):
             out_path.write_text(html, encoding="utf-8")
             print(f"  Built: {topic_slug}/{month}.html ({len(events)} events)")
 
-    # ── Build index page ─────────────────────────────────────────
-    # Build topics_data dict and collect per-topic digests
-    topics_data = {}
-    topic_digests = []  # [{slug, name_zh, name_short, color, digest_text}]
-    for topic_slug, topic_info in config.TOPICS.items():
-        topic_months = data_map.get(topic_slug, [])
-        if not topic_months:
-            continue
-        data = load_topic_data(topic_slug, topic_months[0])
-        if not data:
-            continue
-        topics_data[topic_slug] = data
-        # Extract digest: prefer digest_zh from JSON, else fall back to markdown overview
-        digest = data.get("report_metadata", {}).get("digest_zh", "")
-        if not digest:
-            overview = load_report_overview(topic_slug, topic_months[0])
-            digest = extract_first_sentence(overview)
-        topic_digests.append({
-            "slug": topic_slug,
-            "name_zh": topic_info["name_zh"],
-            "name_short": topic_info.get("name_short", ""),
-            "color": topic_info["color"],
-            "compact": topic_info.get("compact", False),
-            "digest": digest,
-            "event_count": len(data.get("events", [])),
-        })
-
-    # Load latest literature for sidebar
+    # ── Build index pages (one per month) ────────────────────────
+    # Load literature for sidebar (shared across all months)
     lit_new = load_literature("new")
     lit_classic = load_literature("classic")
     sidebar_new_papers = sorted(
@@ -338,18 +318,57 @@ def build_site(clean=False):
     )[:5]
 
     index_template = env.get_template("index.html")
-    index_html = index_template.render(
-        **base_context,
-        topics_data=topics_data,
-        topic_digests=topic_digests,
-        sidebar_new_papers=sidebar_new_papers,
-        sidebar_classic_papers=sidebar_classic_papers,
-        latest_month_display=format_month_display(latest_month),
-        rel_to_root=".",
-        current_page="index.html",
-    )
-    (dist / "index.html").write_text(index_html, encoding="utf-8")
-    print(f"  Built: index.html")
+
+    for idx_month in all_months:
+        # Build topics_data & digests for this specific month
+        topics_data = {}
+        topic_digests = []
+        for topic_slug, topic_info in config.TOPICS.items():
+            topic_months = data_map.get(topic_slug, [])
+            if idx_month not in topic_months:
+                continue
+            data = load_topic_data(topic_slug, idx_month)
+            if not data:
+                continue
+            topics_data[topic_slug] = data
+            digest = data.get("report_metadata", {}).get("digest_zh", "")
+            if not digest:
+                overview = load_report_overview(topic_slug, idx_month)
+                digest = extract_first_sentence(overview)
+            topic_digests.append({
+                "slug": topic_slug,
+                "name_zh": topic_info["name_zh"],
+                "name_short": topic_info.get("name_short", ""),
+                "color": topic_info["color"],
+                "compact": topic_info.get("compact", False),
+                "digest": digest,
+                "event_count": len(data.get("events", [])),
+            })
+
+        # Determine output filename: latest → index.html, others → YYYY-MM.html
+        is_latest = (idx_month == latest_month)
+        out_filename = "index.html" if is_latest else f"{idx_month}.html"
+
+        # Build URL map for month selector on index pages
+        index_month_urls = []
+        for m in all_months:
+            url = "index.html" if m == latest_month else f"{m}.html"
+            index_month_urls.append({"month": m, "url": url})
+
+        index_html = index_template.render(
+            **base_context,
+            topics_data=topics_data,
+            topic_digests=topic_digests,
+            sidebar_new_papers=sidebar_new_papers,
+            sidebar_classic_papers=sidebar_classic_papers,
+            latest_month_display=format_month_display(idx_month),
+            index_current_month=idx_month,
+            index_month_urls=index_month_urls,
+            rel_to_root=".",
+            current_page=out_filename,
+        )
+        (dist / out_filename).write_text(index_html, encoding="utf-8")
+        print(f"  Built: {out_filename} ({idx_month})")
 
     # ── Build literature page ────────────────────────────────────
     lit_classic = load_literature("classic")

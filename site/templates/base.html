@@ -7,14 +7,14 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Source+Serif+Pro:ital,wght@0,400;0,600;1,400&family=Noto+Serif+SC:wght@400;600;700&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="{{ rel_to_root }}/static/css/style.css">
+  <link rel="stylesheet" href="{{ rel_to_root }}/static/css/style.css?v={{ build_ts }}">
   {% block head_extra %}{% endblock %}
 </head>
 <body>
   {% from "components/nav.html" import render_nav %}
   {% from "components/footer.html" import render_footer %}
 
-  {{ render_nav(topics, rel_to_root, current_page, latest_month) }}
+  {{ render_nav(topics, rel_to_root, current_page, latest_month, all_months) }}
 
   <main class="site-main">
     {% block content %}{% endblock %}

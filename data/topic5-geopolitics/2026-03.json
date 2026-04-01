@@ -1,4 +1,4 @@
-﻿{
+{
   "report_metadata": {
     "topic": "topic5-geopolitics",
     "topic_name_zh": "地缘政治信息池",
@@ -67,7 +67,7 @@
       "date": "2026-03-16",
       "type": "智库分析",
       "title_zh": "Foreign Policy：BRICS在伊朗战争上的分裂",
-      "summary_zh": "Oliver Stuenkel撰文分析：BRICS不是地缘政治联盟，不应期望它像一个联盟运作。NATO和G7在伊朗议题上同样存在分歧。反映多边机制在重大军事冲突面前的结构性局限。",
+      "summary_zh": "分析指出BRICS不是地缘政治联盟，不应按联盟逻辑理解。NATO和G7在伊朗议题上同样存在分歧。反映多边机制在重大军事冲突面前的结构性局限。",
       "source_tier": "C",
       "sources": [
         {
@@ -86,7 +86,7 @@
       "date": "2026-03-16",
       "type": "智库分析",
       "title_zh": "Foreign Policy：BRICS在中东战争中遭遇现实",
-      "summary_zh": "C. Raja Mohan撰文：中东战争暴露「跨国团结的持续失败」，BRICS成员国在安全利益上的分歧远大于经济合作上的共识。",
+      "summary_zh": "中东战争暴露BRICS成员国安全利益分歧远大于经济共识。",
       "source_tier": "C",
       "sources": [
         {
@@ -101,7 +101,7 @@
       "date": "2026-03-16",
       "type": "外交动态",
       "title_zh": "EU延长俄罗斯制裁同时质疑美国放松俄油限制",
-      "summary_zh": "EU延续对俄罗斯制裁方案，但同时公开质疑美国因伊朗战争而放松俄罗斯石油出口限制的做法。凸显跨大西洋制裁协调的裂痕。",
+      "summary_zh": "欧盟延续对俄制裁，同时公开质疑美国放松俄油出口限制。凸显跨大西洋制裁协调的裂痕。",
       "source_tier": "C",
       "sources": [
         {
@@ -182,7 +182,7 @@
       "date": "2026-03-25",
       "type": "外交动态",
       "title_zh": "伊朗拒绝美国停火方案，提出5项反条件",
-      "summary_zh": "伊朗拒绝特朗普政府的15点停火方案，提出自己的5项要求，包括战争赔偿和霍尔木兹海峡主权等核心诉求。双方在停火条件上的鸿沟巨大，短期达成协议的前景渺茫。",
+      "summary_zh": "伊朗拒绝美国15点停火方案，提出包括战争赔偿在内的5项要求。双方在停火条件上的鸿沟巨大，短期达成协议的前景渺茫。",
       "source_tier": "C",
       "sources": [
         {
@@ -207,7 +207,7 @@
       "date": "2026-03-25",
       "type": "外交动态",
       "title_zh": "白宫正式宣布特朗普-习近平北京峰会日期",
-      "summary_zh": "白宫正式宣布特朗普总统与第一夫人将于5月14日至15日在北京与习近平主席会面，随后习近平和夫人彭丽媛将到美国进行回访。为双方在峰会前解决或缩小贸易分歧设定了隐性截止日期。",
+      "summary_zh": "白宫宣布特朗普将于五月中旬访京与习近平举行峰会。为双方在峰会前解决或缩小贸易分歧设定了隐性截止日期。",
       "source_tier": "C",
       "sources": [
         {
@@ -236,7 +236,7 @@
       "date": "2026-03-26",
       "type": "外交动态",
       "title_zh": "特朗普延长伊朗开放霍尔木兹海峡的最后期限至4月6日",
-      "summary_zh": "特朗普将伊朗开放霍尔木兹海峡的最后期限延长至4月6日，暂缓此前威胁打击伊朗电力设施的计划，为外交斡旋留出窗口。",
+      "summary_zh": "特朗普将伊朗开放海峡最后期限延至4月6日，暂缓军事打击。",
       "source_tier": "C",
       "sources": [
         {
@@ -287,6 +287,46 @@
         }
       ],
       "metrics": {},
+      "week": 4
+    },
+    {
+      "date": "2026-03-27",
+      "type": "地缘政治",
+      "title_zh": "菲律宾与法国签署军事合作协定",
+      "summary_zh": "菲律宾与法国签署军事合作协议，扩展南海安全伙伴网络。协定签署的背景是中菲在南海的持续摩擦以及域外大国在印太地区安全存在的增强。法国在太平洋拥有海外领土和驻军，协定可能涵盖联合巡逻、情报共享和军事培训等领域。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://africa.reuters.com/world/china/philippines-france-sign-military-pact-amid-south-china-sea-tensions-2026-03-27/"
+        }
+      ],
+      "metrics": {},
+      "week": 4
+    },
+    {
+      "date": "2026-03-28",
+      "type": "地缘政治",
+      "title_zh": "中菲举行第11次南海问题双边磋商，同意妥善管控局势",
+      "summary_zh": "中菲恢复南海双边磋商，时隔一年重启对话机制。此次会议距上一次BCM已超过一年，恢复对话的背景是菲律宾方面传出可能重新开启与中国的南海联合油气勘探谈判。菲律宾总统马科斯此前就国家能源形势发表讲话，暗示能源安全考量推动了务实接触。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "CGTN",
+          "url": "https://news.cgtn.com/news/2026-03-28/China-Philippines-hold-11th-BCM-meeting-on-South-China-Sea-1LSNhGmbJ3a/index.html"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-27/china-philippines-revive-talks-on-sea-row-after-over-a-year"
+        },
+        {
+          "name": "The Diplomat",
+          "url": "https://thediplomat.com/2026/03/is-the-philippines-really-about-to-restart-joint-oil-exploration-with-china-in-the-south-china-sea/"
+        }
+      ],
+      "metrics": {
+        "bcm_session": 11
+      },
       "week": 4
     }
   ],

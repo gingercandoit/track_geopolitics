@@ -143,6 +143,19 @@ h1, h2, h3, h4 {
   font-size: 1.4rem; color: #555; padding: 0.25rem;
 }
 
+.nav-issue-select {
+  font-family: 'DM Sans', 'Noto Sans SC', sans-serif;
+  font-size: 0.78rem;
+  font-weight: 500;
+  padding: 0.2rem 0.45rem;
+  border: 1px solid #D0CCC6;
+  border-radius: 3px;
+  background: #FAFAF8;
+  color: #8B0000;
+  cursor: pointer;
+  letter-spacing: 0.02em;
+}
+
 @media (max-width: 768px) {
   .nav-toggle { display: block; }
   .nav-links {
@@ -219,6 +232,47 @@ h1, h2, h3, h4 {
   padding-top: 0.75rem;
   border-top: 1px solid #E8E5E0;
   display: inline-block;
+}
+.hero-issue-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid #E8E5E0;
+}
+.hero-issue-row .hero-issue {
+  margin-top: 0;
+  padding-top: 0;
+  border-top: none;
+}
+.hero-month-select {
+  font-family: 'DM Sans', 'Noto Sans SC', sans-serif;
+  font-size: 0.78rem;
+  padding: 0.2rem 0.5rem;
+  border: 1px solid #D0CCC6;
+  border-radius: 3px;
+  background: #FFF;
+  color: #555;
+  cursor: pointer;
+}
+.hero-nav-arrow {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 1rem;
+  color: #8B0000;
+  text-decoration: none;
+  padding: 0.2rem 0.5rem;
+  border-radius: 3px;
+  transition: background 0.15s, color 0.15s;
+}
+.hero-nav-arrow:hover {
+  background: rgba(139, 0, 0, 0.08);
+}
+.hero-nav-arrow--disabled {
+  color: #CCC;
+  cursor: default;
+  pointer-events: none;
 }
 
 /* Hero colophon (homepage attribution) */
@@ -495,6 +549,12 @@ h1, h2, h3, h4 {
   padding: 2rem 0 1.5rem;
   border-bottom: 3px solid var(--topic-color, #8B0000);
   background: #FFF;
+}
+.topic-hero-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
 }
 .topic-hero-title {
   font-size: 1.6rem;
@@ -861,6 +921,26 @@ h1, h2, h3, h4 {
   color: #333;
   padding: 0.2rem 0;
 }
+.event-summary p.event-lead {
+  font-weight: 600;
+  color: #1a1a1a;
+  font-size: 0.9rem;
+  line-height: 1.55;
+  border-left: 3px solid var(--lead-color, #8B0000);
+  padding: 0.2rem 0 0.2rem 1.2em;
+  margin-bottom: 0.5rem;
+}
+.event-details {
+  margin: 0.3rem 0 0 1.2rem;
+  padding: 0;
+  list-style: disc;
+}
+.event-details li {
+  font-size: 0.86rem;
+  line-height: 1.55;
+  color: #444;
+  padding: 0.15rem 0;
+}
 
 .event-metrics {
   display: flex;
@@ -997,7 +1077,8 @@ h1, h2, h3, h4 {
   display: inline-flex;
   align-items: center;
   gap: 0.4rem;
-  margin-top: 0.5rem;
+  margin: 0;
+  flex-shrink: 0;
 }
 .month-selector-label {
   font-family: 'DM Sans', sans-serif;

@@ -1,9 +1,9 @@
-﻿{
+{
   "report_metadata": {
     "topic": "topic1-sanctions",
     "topic_name_zh": "制裁与经济管制",
     "period_start": "2026-03-01",
-    "period_end": "2026-03-28",
+    "period_end": "2026-03-31",
     "generated_at": "2026-03-29T22:00:00+08:00",
     "version": "1.1",
     "digest_zh": "制裁工具从美国单向施压走向中美双向对称。\n>> 美国财政部临时豁免伊朗原油制裁\n>> 美国财政部解除30艘俄罗斯油轮限制\n>> 中国将稀土、镓、锗纳入出口管制清单\n>> 欧盟对俄制裁延长至2026年9月",
@@ -11,10 +11,60 @@
   },
   "events": [
     {
+      "date": "2026-02-26",
+      "type": "政策发布",
+      "title_zh": "Reuters：中国出口管制体系快速“成熟”",
+      "summary_zh": "中国出口管制工具箱快速扩容，反制裁能力持续升级。稀土、镣、锗、锐等相继纳入管制，从被动“被制裁方”转变为主动运用管制工具的一方。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/china/trump-reins-china-tech-curbs-beijings-export-controls-come-age-2026-02-26/"
+        }
+      ],
+      "metrics": {},
+      "week": 0
+    },
+    {
+      "date": "2026-03-06",
+      "type": "智库分析",
+      "title_zh": "CFR：人民币跨境流动如何削弱美国制裁",
+      "summary_zh": "美国智库分析CIPS支付系统正长期侵蚀美元制裁体系效力。作者Benn Steil和Yuma Schuster指出，随着人民币跨境结算规模增长，绕过SWIFT和美元体系的交易通道正在扩大，美国制裁的覆盖面和执行力面临长期稀释。",
+      "footnotes": [
+        "CFR = Council on Foreign Relations（美国外交关系委员会）",
+        "CIPS = Cross-Border Interbank Payment System（人民币跨境支付系统）",
+        "SWIFT = Society for Worldwide Interbank Financial Telecommunication（环球银行金融电信协会）"
+      ],
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "CFR",
+          "url": "https://www.cfr.org/articles/how-cross-border-chinese-rmb-flows-may-weaken-u-s-sanctions"
+        }
+      ],
+      "metrics": {},
+      "week": 1
+    },
+    {
+      "date": "2026-03-10",
+      "type": "智库分析",
+      "title_zh": "Lowy Institute：SWIFT与CIPS——金融成为新的全球战场",
+      "summary_zh": "金融基础设施成为大国制裁与反制裁的核心战场。将SWIFT与CIPS之争纳入金融武器化框架，指出金融基础设施已从中立公用事业转变为地缘政治筹码。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Lowy Institute",
+          "url": "https://www.lowyinstitute.org/the-interpreter/swift-cips-finance-new-global-battleground"
+        }
+      ],
+      "metrics": {},
+      "week": 2
+    },
+    {
       "date": "2026-03-12",
       "type": "制裁管制",
       "title_zh": "OFAC同日发布反恐与朝鲜双线制裁行动",
-      "summary_zh": "OFAC同日发布两组制裁行动：瓦解Hamas慈善网络和制裁朝鲜IT工人欺诈网络（涉及越南空壳公司），同日签发俄罗斯相关通用许可证GL134，反映OFAC在反恐、朝鲜、俄罗斯三条战线同步推进的高频运转模式。",
+      "summary_zh": "美国OFAC同日在反恐、朝鲜、俄罗斯三条战线发起制裁。瓦解Hamas慈善网络，制裁朝鲜IT工人欺诈网络（涉及越南空壳公司），同日签发俄罗斯相关通用许可证GL134。",
       "source_tier": "A",
       "sources": [
         {
@@ -29,7 +79,7 @@
       "date": "2026-03-14",
       "type": "制裁管制",
       "title_zh": "欧盟延长对俄个人制裁6个月至2026年9月",
-      "summary_zh": "欧盟理事会决定将针对破坏乌克兰领土完整者的制裁延长至2026年9月15日，继续适用于约2,600个个人和实体（旅行禁令、资产冻结）。新制裁包裹因成员国分歧仍在停滞，但现有制裁如期续期。",
+      "summary_zh": "欧盟将涉俄制裁延长至2026年9月，覆盖约2600个实体。旅行禁令、资产冻结继续适用。新制裁包裹因成员国分歧仍在停滞，但现有制裁如期续期。",
       "source_tier": "A",
       "sources": [
         {
@@ -55,7 +105,7 @@
       "date": "2026-03-16",
       "type": "制裁管制",
       "title_zh": "欧盟新增31人和6实体到俄罗斯/伊朗/网络制裁名单",
-      "summary_zh": "涵盖三个方向：俄罗斯（战争相关，布查大屠杀9人）、伊朗（人权侵犯16人+3实体）、网络攻击（2人+3实体）、俄罗斯信息操纵（4人）。这是欧盟在新制裁包裹停滞背景下、利用现有法律框架持续扩展制裁对象的做法，引发中方即时外交反弹。",
+      "summary_zh": "欧盟新增多方向制裁，涉及俄罗斯、伊朗及网络攻击。俄罗斯方向含布查大屠权9人，伊朗方向含人权侵犯16人+3实体，网络攻击2人+3实体，俄罗斯信息操纵4人。这是欧盟在新制裁包裹停滞背景下利用现有法律框架持续扩展制裁对象的做法。",
       "source_tier": "A",
       "sources": [
         {
@@ -97,7 +147,7 @@
       "date": "2026-03-17",
       "type": "外交动态",
       "title_zh": "中国坚决反对欧盟对中国实体的制裁",
-      "summary_zh": "新华社报道：中国外交部发言人表示“坚决反对欧盟的非法单边制裁”，这是中方对欧盟3月17日新增制裁名单的直接回应，显示制裁行动的外交反弹效应正在扩大。",
+      "summary_zh": "中国外交部公开反对欧盟新增制裁，称其为非法单边制裁。这是中方对欧盟3月17日新增制裁名单的直接回应，显示制裁行动的外交反弹效应正在扩大。",
       "source_tier": "A",
       "sources": [
         {
@@ -109,10 +159,29 @@
       "week": 3
     },
     {
+      "date": "2026-03-19",
+      "type": "智库分析",
+      "title_zh": "SCMP/Business Standard：伊朗战争加速CIPS挑战美元霸权",
+      "summary_zh": "SCMP：中国如何为建立与美国支付系统的直接竞争对手开了门。Business Standard：CIPS如何从伊朗战争中获益、挑战美元主导地位。两篇报道共同指向：伊朗战争引发的制裁高压正将更多国家推向CIPS等替代体系。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "SCMP",
+          "url": "https://www.scmp.com/economy/china-economy/article/3347053/how-china-opened-door-creating-direct-rival-us-payment-systems"
+        },
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/world-news/china-cips-payment-system-iran-war-dollar-challenge-explained-126031900790_1.html"
+        }
+      ],
+      "metrics": {},
+      "week": 3
+    },
+    {
       "date": "2026-03-20",
       "type": "制裁管制",
       "title_zh": "OFAC制裁真主党全球资金转移网络",
-      "summary_zh": "美国财政部制裁由真主党金融家Alaa Hassan Hamieh领导的跨国资金转移网络，新增10名个人和6个实体（横跨黎巴嫩、叙利亚、卡塔尔、波兰、斯洛文尼亚、加拿大），自2020年以来转移逾1亿美元。同日有反毒品和俄罗斯相关制裁撤销。OFAC 3月最高密度行动日：制裁新增+撤销+伊朗油制裁临时解除三线并行。",
+      "summary_zh": "美国制裁真主党跨国资金网络，新增10人6实体。由金融家Alaa Hassan Hamieh领导，横跨黎巴嫩、叙利亚、卡塔尔、波兰、斯洛文尼亚、加拿大，自2020年以来转移逾1亿美元。同日有反毒品和俄罗斯相关制裁撤销。OFAC 3月最高密度行动日：制裁新增+撤销+伊朗油制裁临时解除三线并行。",
       "source_tier": "A",
       "sources": [
         {
@@ -136,7 +205,7 @@
       "date": "2026-03-20",
       "type": "制裁管制",
       "title_zh": "美国临时解除海上伊朗原油制裁以遏制油价",
-      "summary_zh": "在油价飙升压力下，财政部长Bessent宣布临时授权购买已在海上的伊朗原油，为买家提供30天制裁豁免，总计约1.4亿桶被解除制裁。同时解除对30艘俄罗斯关联油轮的制裁（载有1900万桶），允许在亚洲销售，暂停对俄制裁30天。",
+      "summary_zh": "制裁执行遇油价压力，美临时豁免约1.4亿桶伊朗原油。财政部长Bessent宣布临时授权购买已在海上的伊朗原油，为买家提供30天制裁豁免。同时解除对30艘俄罗斯关联油轮的制裁（载有1900万桶），允许在亚洲销售，暂停对俄制裁30天。",
       "source_tier": "C",
       "sources": [
         {
@@ -163,7 +232,7 @@
       "date": "2026-03-27",
       "type": "制裁管制",
       "title_zh": "中芯国际被指向伊朗军方供应芯片制造技术",
-      "summary_zh": "中芯国际被美国官员指控向伊朗军方供应芯片制造技术。指控将制裁执行与中美科技脱钩直接关联，如被证实可能触发新一轮实体清单行动。在特朗普-习近平5月峰会前夕曝光，时机高度敏感。",
+      "summary_zh": "美国指控中芯国际违反对伊制裁，向伊朗军方供应芯片技术。此案将制裁执行与中美科技脱钩议题直接关联——若指控成立，中芯国际可能触发新一轮实体清单行动和出口管制升级。中芯国际自2020年起已在美国实体清单上，此次指控可能导致限制进一步收紧。消息在特朗普-习近平5月峰会前夕曝光，时机高度敏感，或成为谈判筹码。",
       "source_tier": "C",
       "sources": [
         {
@@ -175,73 +244,68 @@
       "week": 4
     },
     {
-      "date": "2026-03-06",
-      "type": "智库分析",
-      "title_zh": "CFR：人民币跨境流动如何削弱美国制裁",
-      "summary_zh": "作者Benn Steil（CFR国际经济主任）和Yuma Schuster分析中国CIPS系统和人民币跨境流动对美国制裁效力的侵蚀。核心论点：随着人民币跨境结算规模增长，绕过SWIFT和美元体系的交易通道正在扩大，美国制裁的覆盖面和执行力面临长期稀释。",
-      "footnotes": [
-        "CFR = Council on Foreign Relations（美国外交关系委员会）",
-        "CIPS = Cross-Border Interbank Payment System（人民币跨境支付系统）",
-        "SWIFT = Society for Worldwide Interbank Financial Telecommunication（环球银行金融电信协会）"
-      ],
-      "source_tier": "C",
+      "date": "2026-03-28",
+      "type": "制裁管制",
+      "title_zh": "伊朗在霍尔木兹海峡建立人民币计价通行费制度",
+      "summary_zh": "受西方制裁封锁的伊朗在霍尔木兹海峡建立人民币通行费体系。IRGC在Qeshm-Larak岛间建立受控航道，要求过境船舶提供全套文件并获得许可码后方可通过。已有至少20艘来自中国、马来西亚、埃及、韩国和印度的船舶通过。伊朗议员透露每艘船通行费达200万美元，由中国海事服务公司代收人民币，议会正起草正式立法将通行费制度化。",
+      "source_tier": "A",
       "sources": [
         {
-          "name": "CFR",
-          "url": "https://www.cfr.org/articles/how-cross-border-chinese-rmb-flows-may-weaken-u-s-sanctions"
+          "name": "Fortune",
+          "url": "https://fortune.com/2026/03/26/iran-toll-strait-of-hormuz-oil-paid-in-yuan/"
+        },
+        {
+          "name": "Foreign Policy",
+          "url": "https://foreignpolicy.com/2026/03/26/iran-strait-hormuz-war-tolls-shipping/"
+        },
+        {
+          "name": "Iran International",
+          "url": "https://www.iranintl.com/en/202603233156"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/3/26/tehranstollbooth-how-iran-picks-who-to-let-through-strait-of-hormuz"
         }
       ],
-      "metrics": {},
-      "week": 1
+      "metrics": {
+        "toll_per_ship_usd": 2000000,
+        "ships_transited": 20,
+        "currency": "CNY"
+      },
+      "week": 4
     },
     {
-      "date": "2026-03-10",
-      "type": "智库分析",
-      "title_zh": "Lowy Institute：SWIFT与CIPS——金融成为新的全球战场",
-      "summary_zh": "分析资本流动、支付系统和储备货币如何成为国家权力工具，将SWIFT（西方体系）与CIPS（中国体系）之争纳入大国竞争的金融武器化框架，指出金融基础设施已从中立公用事业转变为地缘政治筹码。",
-      "source_tier": "C",
+      "date": "2026-03-31",
+      "type": "市场动态",
+      "title_zh": "去美元化加速：印度经人民币/迪拉姆结算俄油，CIPS年处理量达245万亿",
+      "summary_zh": "西方对俄制裁持续推动全球能源贸易去美元化。印度炼油商3月购入约6000万桶俄罗斯原油，通过卢比→迪拉姆或直接人民币支付绕过美元结算。印度石油公司已对2-3批俄油货物直接以人民币付款。中国CIPS系统2025年处理人民币计价交易等值245万亿美元，mBridge在BIS退出后继续独立运营（95%交易以数字人民币计价）。Deutsche Bank指出冲突正在检验石油美元作为全球能源贸易结算货币的角色。",
+      "source_tier": "B",
       "sources": [
         {
-          "name": "Lowy Institute",
-          "url": "https://www.lowyinstitute.org/the-interpreter/swift-cips-finance-new-global-battleground"
-        }
-      ],
-      "metrics": {},
-      "week": 2
-    },
-    {
-      "date": "2026-03-19",
-      "type": "智库分析",
-      "title_zh": "SCMP/Business Standard：伊朗战争加速CIPS挑战美元霸权",
-      "summary_zh": "SCMP：中国如何为建立与美国支付系统的直接竞争对手开了门。Business Standard：CIPS如何从伊朗战争中获益、挑战美元主导地位。两篇报道共同指向：伊朗战争引发的制裁高压正将更多国家推向CIPS等替代体系。",
-      "source_tier": "C",
-      "sources": [
-        {
-          "name": "SCMP",
-          "url": "https://www.scmp.com/economy/china-economy/article/3347053/how-china-opened-door-creating-direct-rival-us-payment-systems"
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-25/india-refiners-tap-dollar-alternatives-to-purchase-russian-oil"
         },
         {
           "name": "Business Standard",
-          "url": "https://www.business-standard.com/world-news/china-cips-payment-system-iran-war-dollar-challenge-explained-126031900790_1.html"
-        }
-      ],
-      "metrics": {},
-      "week": 3
-    },
-    {
-      "date": "2026-02-26",
-      "type": "政策发布",
-      "title_zh": "Reuters：中国出口管制体系快速“成熟”",
-      "summary_zh": "北京不再只是被管制方，其出口管制工具箱在快速充实——稀土、镓、锗、锑等相继纳入管制。中国正在构建与美国对称的经济管制能力，从被动“被制裁方”转变为主动运用管制工具的一方。",
-      "source_tier": "C",
-      "sources": [
+          "url": "https://www.business-standard.com/economy/news/indian-refiners-seek-alternatives-to-us-dollar-for-russian-oil-payments-126032500859_1.html"
+        },
         {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/china/trump-reins-china-tech-curbs-beijings-export-controls-come-age-2026-02-26/"
+          "name": "Ledger Insights",
+          "url": "https://www.ledgerinsights.com/india-to-adds-brics-cbdc-bridge-to-2026-agenda-report/"
+        },
+        {
+          "name": "TECHi",
+          "url": "https://www.techi.com/de-dollarization-brics-oil-trade-petrodollar/"
         }
       ],
-      "metrics": {},
-      "week": 0
+      "metrics": {
+        "india_russian_crude_barrels_march": 60000000,
+        "cips_2025_volume_usd_trillions": 245
+      },
+      "week": 5,
+      "footnotes": [
+        "mBridge = Multi-CBDC Bridge（多边央行数字货币跨境支付平台，由BIS与中国/泰国/阿联酋/沙特等央行联合发起，2024年BIS宣布退出后继续独立运营）"
+      ]
     }
   ]
 }

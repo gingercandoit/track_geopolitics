@@ -98,13 +98,14 @@ reports/topicN-slug/YYYY-MM.md   （标题 + 空月度总览）
 
 **b) 撰写**（参照 05_WritingStyle 全文 + 02_WebfetchSOP §五-六）
 - 撰写 JSON 事件条目：date / type / title_zh / summary_zh / sources / week
+- **summary_zh 首句必须点明板块归属**（详见 05_WritingStyle §二「首句点明板块归属」）
 - 撰写 Markdown 月度总览（bullet 格式，按日期升序）
 - 同步更新 `digest_zh`（主页摘要卡片）
 
 **关键规则**：
 - JSON 和 Markdown 内容必须一致（同一批事件，不可 JSON 有而 MD 无，或反之）
 - 先写 JSON（结构化，方便增删），再从 JSON 生成 Markdown 对应部分
-- 事件的 `week` 字段按 05_WritingStyle §三「周分组规则」计算：第1周=1-7日，第2周=8-14日，第3周=15-21日，第4周=22-28日，第5周=29日-月末
+- 事件的 `week` 字段按 05_WritingStyle §三「周分组规则」计算：第1周=1-7日，第2周=8-14日，第3周=15-21日，第4周=22日-月末（JSON中29-31日可写week=5，前端自动合并入第4周）
 
 **JSON → Markdown 同步规则**：
 - `build.py` 优先读 JSON 的 `report_metadata.overview`，JSON 直接对网页负责

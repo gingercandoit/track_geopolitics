@@ -1,0 +1,29 @@
+{
+  "report_metadata": {
+    "topic": "topic4-tech-digital",
+    "topic_name_zh": "技术竞争与规则制定",
+    "period_start": "2026-04-01",
+    "period_end": "2026-04-01",
+    "generated_at": "2026-04-01T21:00:00+08:00",
+    "version": "1.0",
+    "digest_zh": "",
+    "overview": ""
+  },
+  "events": [
+    {
+      "date": "2026-04-01",
+      "type": "技术管制",
+      "title_zh": "商务部修订对华/澳门先进计算商品出口许可审查政策",
+      "summary_zh": "美国商务部调整对中国大陆和澳门先进计算商品的出口许可审查政策。具体修订内容涉及许可审查标准的更新，反映拜登政府时期AI芯片出口管制「三层架构」在特朗普政府下的政策延续与微调。Covington律所分析指出此次修订是在芯片安全法案国会推进和产业界「政策不一致」批评双重压力下的回应。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "Covington & Burling",
+          "url": "https://www.cov.com/en/news-and-insights/insights/2026/04/us-commerce-department-revises-license-review-policy-for-exports-of-certain-advanced-computing-commodities-to-china-and-macau"
+        }
+      ],
+      "metrics": {},
+      "week": 1
+    }
+  ]
+}
