@@ -22,7 +22,7 @@
 
   {{ render_footer() }}
 
-  <script src="{{ rel_to_root }}/static/js/main.js"></script>
+  <script src="{{ rel_to_root }}/static/js/main.js?v={{ build_ts }}"></script>
   {% block scripts_extra %}{% endblock %}
 </body>
 </html>
