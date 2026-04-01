@@ -44,9 +44,59 @@
     }
   });
 
+  /* ── Month persistence across topic navigation ───────────── */
+  var MONTH_KEY = 'gem_selected_month';
+
+  // Detect current month from URL: e.g. /topic1-sanctions/2026-03.html → "2026-03"
+  function detectCurrentMonth() {
+    var path = window.location.pathname;
+    var match = path.match(/\/topic\d+-[^\/]+\/(\d{4}-\d{2})\.html/);
+    return match ? match[1] : null;
+  }
+
+  // Rewrite all topic nav links to use the stored month
+  function rewriteTopicLinks(month) {
+    if (!month) return;
+    document.querySelectorAll('.nav-link').forEach(function (a) {
+      var href = a.getAttribute('href');
+      if (!href) return;
+      // Only rewrite topic links (pattern: .../topicN-slug/YYYY-MM.html)
+      var replaced = href.replace(
+        /(\/topic\d+-[^\/]+\/)\d{4}-\d{2}(\.html)/,
+        '$1' + month + '$2'
+      );
+      if (replaced !== href) {
+        a.setAttribute('href', replaced);
+      }
+    });
+  }
+
+  // On page load: persist current month and rewrite links
+  var currentMonth = detectCurrentMonth();
+  if (currentMonth) {
+    try { localStorage.setItem(MONTH_KEY, currentMonth); } catch (e) {}
+  }
+  var storedMonth = null;
+  try { storedMonth = localStorage.getItem(MONTH_KEY); } catch (e) {}
+  if (storedMonth) {
+    rewriteTopicLinks(storedMonth);
+    // Also update the nav month selector dropdown to match stored month
+    var navSelect = document.querySelector('.nav-issue-select');
+    if (navSelect && !currentMonth) {
+      // On non-topic pages, don't force-select — leave as-is
+    } else if (navSelect) {
+      // On topic pages, selector is already correct from Jinja2
+    }
+  }
+
   /* ── Month navigation ───────────────────────────────────────── */
   window.navigateMonth = function (url) {
     if (url) {
+      // Extract month from the target URL and persist
+      var match = url.match(/(\d{4}-\d{2})\.html/);
+      if (match) {
+        try { localStorage.setItem(MONTH_KEY, match[1]); } catch (e) {}
+      }
       window.location.href = url;
     }
   };
