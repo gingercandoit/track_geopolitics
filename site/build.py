@@ -52,12 +52,23 @@ def load_topic_data(topic_slug, month):
 
 
 def load_report_overview(topic_slug, month):
-    """Extract the monthly overview text from the report Markdown."""
-    path = config.REPORTS_DIR / topic_slug / f"{month}.md"
-    if not path.exists():
+    """Load monthly overview text.
+    Priority: JSON report_metadata.overview > Markdown ## 月度总览.
+    """
+    # Try JSON first
+    json_path = config.DATA_DIR / topic_slug / f"{month}.json"
+    if json_path.exists():
+        with open(json_path, "r", encoding="utf-8-sig") as f:
+            data = json.load(f)
+        overview = data.get("report_metadata", {}).get("overview", "")
+        if overview:
+            return overview
+
+    # Fallback to Markdown
+    md_path = config.REPORTS_DIR / topic_slug / f"{month}.md"
+    if not md_path.exists():
         return ""
-    text = path.read_text(encoding="utf-8")
-    # Extract content between "## 月度总览" and next "## " or "---"
+    text = md_path.read_text(encoding="utf-8")
     match = re.search(
         r"## 月度总览\s*\n(.*?)(?=\n## |\n---|\Z)", text, re.DOTALL
     )

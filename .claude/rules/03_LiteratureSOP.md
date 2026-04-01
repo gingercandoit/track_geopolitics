@@ -390,8 +390,8 @@ international monetary system reform
 | `title_zh` | 中文翻译标题。忠于原标题直译，不缩写不意译 |
 | `abstract_zh` | 中文摘要翻译（2-4句）。基于英文 abstract 精炼翻译，客观呈现研究问题、方法和结论，不是主观简评。无英文摘要时基于标题和已知内容撰写 |
 | `notes_zh` | 中文简评（1-2句），说明为什么收录。**已不在网站前端展示**（被 abstract_zh 替代），但保留在 JSON 中供内部参考 |
-| `data_zh` | 数据来源中文说明，描述论文使用的核心数据集。写作规范见 `04_WritingStyle.instructions.md` 第六节 |
-| `method_zh` | 方法论中文说明，描述识别策略或计量方法。写作规范见 `04_WritingStyle.instructions.md` 第六节 |
+| `data_zh` | 数据来源中文说明，描述论文使用的核心数据集。写作规范见 `05_WritingStyle.md` 第六节 |
+| `method_zh` | 方法论中文说明，描述识别策略或计量方法。写作规范见 `05_WritingStyle.md` 第六节 |
 | `read_status` | `unread` / `reading` / `read` / `noted`（已做笔记） |
 | `webvpn_url` | 复旦 WebVPN 代理链接（付费论文用） |
 

@@ -75,12 +75,14 @@ track_geopolitics/
 
 ## 核心工作流
 
+> 主控流程：`.claude/rules/01_MasterWorkflowSOP.md`（定义采集→撰写→上线的完整步骤和人机分工）
+
 ### Prompt 1：信息侦察
 - 时间窗口：滚动 7 天
 - 来源分层：A层（官方政府）> B层（国际机构）> C层（智库/媒体）> D层（社区策展）
 - 五大议题：制裁与经济管制、贸易与产业政策、能源安全与资源角力、技术竞争与规则制定、地缘政治信息池（catch-all）
 - 产出格式：结构化 JSON + Markdown 简报
-- SOP：`.claude/rules/01_GeopoliticsWebfetchSOP.instructions.md`
+- SOP：`.claude/rules/02_GeopoliticsWebfetchSOP.md`
 
 ### Prompt 2：月度简报（待定义）
 
@@ -89,7 +91,7 @@ track_geopolitics/
 - 质量线：Tier 1-3 期刊白名单 + NBER/CEPR WP + 知名作者追踪
 - 文件结构：`literature/` 目录（与 reports 同级），classic/ + new/ 完全独立子目录
 - 产出：`literature/classic/` (classic.json + CSV + BibTeX + roadmap + views) + `literature/new/` (new.json + CSV + BibTeX + views)
-- SOP：`.claude/rules/02_LiteratureSOP.instructions.md`
+- SOP：`.claude/rules/03_LiteratureSOP.md`
 - **Library A 当前状态**（2026-03-30）：
   - 91 篇论文（含从Library B迁入的 clayton_maggiori_schreger_2024）
   - 所有论文含 `publication_date`（YYYY-MM-DD）和 `pub_ym`（YYYY-MM）字段
@@ -115,7 +117,7 @@ track_geopolitics/
 ## 静态网站（Prompt 4）
 
 - **架构**：Python+Jinja2 静态站点生成器，产出纯 HTML/CSS/JS，可 GitHub Pages 托管
-- **SOP**：`.claude/rules/03_FrontendSOP.instructions.md`
+- **SOP**：`.claude/rules/04_FrontendSOP.md`
 - **文件结构**：
   ```
   site/
