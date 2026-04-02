@@ -191,8 +191,14 @@ OUTPUT_DIR = Path("dist")
 ### CSS 开发注意事项
 
 - **Specificity 陷阱**：修改子元素样式前，先检查父选择器是否有更高优先级的定义（如 `.event-summary p` 会覆盖裸 `.event-lead`）
-- **缓存破坏**：CSS 迭代期间必须使用 query string 时间戳（`style.css?v={{ build_ts }}`），否则浏览器缓存旧版本
+- **缓存破坏**：**所有静态资源**（CSS、JS）都必须使用 query string 时间戳（`?v={{ build_ts }}`），否则浏览器缓存旧版本。新增静态资源引用时先检查 base.html 中已有引用的格式，保持一致
 - **配色一致性**：组件颜色通过 CSS 变量或 inline style 从 config 传入，不硬编码在 CSS 中
+
+### 月份粘性导航
+
+- 用户在议题页选择月份后，点击其他议题保持该月份（不跳回最新月）
+- 实现：`main.js` 通过 `localStorage('gem_selected_month')` 持久化选择，页面加载时改写 nav 中所有议题链接的 href
+- `navigateMonth()` 跳转前同步更新 localStorage
 
 ---
 
