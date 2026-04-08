@@ -1,4 +1,4 @@
-{% macro render_event_row(event, event_type_colors) %}
+{% macro render_event_row(event, event_type_colors, topic_color='#455A64') %}
 <div class="event-row" data-type="{{ event.type }}">
   <span class="event-row-date">{{ event.date[5:7] | int }}/{{ event.date[8:10] | int }}</span>
   <span class="event-row-dot" style="background-color: {{ event_type_colors.get(event.type, '#999') }}" title="{{ event.type }}"></span>
@@ -8,13 +8,33 @@
 </div>
 <div class="event-row-detail">
   {% if event.summary_zh %}
-  <p class="event-row-summary">{{ event.summary_zh[:200] }}{% if event.summary_zh | length > 200 %}…{% endif %}</p>
+  <div class="event-row-summary">
+    {% set sentences = [] %}
+    {% for s in event.summary_zh.split('。') %}
+      {% if s.strip() %}{% if sentences.append(s.strip() + '。') %}{% endif %}{% endif %}
+    {% endfor %}
+    <p class="event-row-lead" style="--lead-color: {{ topic_color }}">{{ sentences[0] }}</p>
+    {% if sentences | length > 1 %}
+      <ul class="event-row-bullets">
+        {% for s in sentences[1:] %}
+        <li>{{ s }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  </div>
   {% endif %}
   {% if event.sources %}
   <div class="event-row-sources">
     {% for src in event.sources %}
     <a href="{{ src.url }}" target="_blank" rel="noopener">{{ src.name }}</a>
     {% if not loop.last %} · {% endif %}
+    {% endfor %}
+  </div>
+  {% endif %}
+  {% if event.footnotes and event.footnotes | length > 0 %}
+  <div class="event-row-footnotes">
+    {% for note in event.footnotes %}
+    <span class="footnote-item">{{ loop.index }}. {{ note }}</span>
     {% endfor %}
   </div>
   {% endif %}

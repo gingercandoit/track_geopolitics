@@ -23,7 +23,7 @@
 
   <div class="t5-event-list">
     {% for ev in events %}
-      {{ render_event_row(ev, event_type_colors) }}
+      {{ render_event_row(ev, event_type_colors, topic.color) }}
     {% endfor %}
   </div>
 

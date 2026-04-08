@@ -1058,7 +1058,7 @@ h1, h2, h3, h4 {
 }
 /* JS sets inline max-height; CSS sibling selector as fallback */
 .event-row.expanded + .event-row-detail {
-  max-height: 300px;
+  max-height: 800px;
   padding: 0.6rem 0.75rem 0.8rem 7rem;
 }
 
@@ -1067,6 +1067,30 @@ h1, h2, h3, h4 {
   color: #555;
   line-height: 1.55;
   margin-bottom: 0.3rem;
+}
+.event-row-lead {
+  font-weight: 600;
+  color: #333;
+  border-left: 3px solid var(--lead-color, #455A64);
+  padding-left: 0.6rem;
+  margin: 0 0 0.35rem 0;
+  font-size: 0.85rem;
+  line-height: 1.5;
+}
+.event-row-bullets {
+  margin: 0.2rem 0 0.4rem 0;
+  padding-left: 1.2rem;
+  font-size: 0.83rem;
+  color: #555;
+  line-height: 1.6;
+}
+.event-row-bullets li {
+  margin-bottom: 0.2rem;
+}
+.event-row-footnotes {
+  margin-top: 0.3rem;
+  font-size: 0.75rem;
+  color: #999;
 }
 .event-row-sources { font-size: 0.78rem; color: #888; }
 
