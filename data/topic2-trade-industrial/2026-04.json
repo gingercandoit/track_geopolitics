@@ -4,10 +4,83 @@
     "topic_name_zh": "贸易与产业政策",
     "period_start": "2026-04-01",
     "period_end": "2026-04-30",
-    "generated_at": "2026-04-01T21:00:00+08:00",
+    "generated_at": "2026-04-08T15:30:00+08:00",
     "version": "1.0",
     "digest_zh": "",
     "overview": ""
   },
-  "events": []
+  "events": [
+    {
+      "date": "2026-04-02",
+      "type": "政策发布",
+      "title_zh": "特朗普签署行政令对专利药品征收最高100%关税",
+      "summary_zh": "美国在「解放日」一周年将关税武器延伸至药品领域。特朗普签署行政令，对未与政府达成协议的品牌专利药征收最高100%关税，大型药企有120天、其余企业有180天谈判窗口。已签「最惠国定价」协议且在美建厂的企业适用0%税率，仅建厂未签协议者适用20%并四年内升至100%。白宫称17家主要药企已达成定价协议，13家已签字，包括辉瑞、礼来和百时美施贵宝。行政令援引国家安全条款，将进口药品定性为「对国家安全构成的威胁」。欧盟、日本、韩国、瑞士药品适用15%均一税率，英国适用10%并可在贸易协定下降至零。PhRMA警告关税「将增加成本并危及数十亿美元美国投资」。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://apnews.com/article/trump-tariffs-pharmaceutical-drugs-59ed7821faa5b52e2752c09edbbbf0ca"
+        },
+        {
+          "name": "CNN",
+          "url": "https://www.cnn.com/2026/04/02/politics/trump-pharmaceutical-tariffs/index.html"
+        },
+        {
+          "name": "STAT News",
+          "url": "https://www.statnews.com/2026/04/02/trump-pharmaceutical-tariff-executive-order/"
+        }
+      ],
+      "metrics": {
+        "max_tariff_rate": "100%",
+        "negotiation_window_days": 120,
+        "deals_signed": 13
+      },
+      "week": 1
+    },
+    {
+      "date": "2026-04-02",
+      "type": "政策发布",
+      "title_zh": "特朗普重构Section 232金属关税：成品50%、衍生品15-25%",
+      "summary_zh": "美国拆分钢铝铜关税为成品和衍生品两级税率，覆盖范围扩展至铜。特朗普签署公告调整Section 232关税结构：几乎全部由钢、铝或铜制成的商品适用50%税率，「实质性含有」上述金属的衍生品适用25%税率。衍生品清单涵盖钢制炊具、餐具、柴油机车、半挂卡车等品类。英国获差异化待遇：成品25%、衍生品15%，与欧盟、日本、韩国既有协议不受影响。金属不敏感型工业设备和电网设备适用15%特殊税率至2027年底，含金属量不超过15%的商品不再适用Section 232关税。新税率4月6日生效。特朗普终止此前逐步扩大衍生品覆盖范围的行政令程序，改由内阁官员滚动决定新增品类。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "Supply Chain Dive",
+          "url": "https://www.supplychaindive.com/news/trump-steel-aluminum-copper-tariff-adjustments/816547/"
+        },
+        {
+          "name": "白宫 Fact Sheet",
+          "url": "https://www.whitehouse.gov/fact-sheets/"
+        }
+      ],
+      "metrics": {
+        "steel_aluminum_copper_rate": "50%",
+        "derivative_rate": "25%",
+        "uk_derivative_rate": "15%",
+        "effective_date": "2026-04-06"
+      },
+      "week": 1
+    },
+    {
+      "date": "2026-04-07",
+      "type": "政策发布",
+      "title_zh": "欧盟公布首个CBAM碳边境调节机制证书价格：75.36欧元/吨",
+      "summary_zh": "欧盟委员会公布CBAM运营阶段首个季度证书价格，每吨CO₂定价75.36欧元。\n- 价格基于EU ETS排放配额拍卖加权均价计算，确保欧洲生产商与进口商面对等价碳成本，防止碳泄漏。\n- 2026年按季度公布价格（4月7日、7月6日、10月5日、1月4日），2027年起改为每周公布，标志机制进一步成熟。\n- 进口商需在2027年2月开始购买证书以覆盖2026年进口商品的碳排放，交易通过统一中央平台处理。",
+      "source_tier": "B",
+      "sources": [
+        {
+          "name": "ClearBlue Markets",
+          "url": "https://www.clearbluemarkets.com/knowledge-base/eu-defines-carbon-border-adjustment-price-framework"
+        }
+      ],
+      "metrics": {
+        "cbam_price_eur_per_ton": 75.36
+      },
+      "week": 1,
+      "footnotes": [
+        "CBAM = Carbon Border Adjustment Mechanism（碳边境调节机制）",
+        "EU ETS = EU Emissions Trading System（欧盟排放交易体系）"
+      ]
+    }
+  ]
 }

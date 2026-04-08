@@ -4,10 +4,34 @@
     "topic_name_zh": "制裁与经济管制",
     "period_start": "2026-04-01",
     "period_end": "2026-04-30",
-    "generated_at": "2026-04-01T21:00:00+08:00",
+    "generated_at": "2026-04-04T22:00:00+08:00",
     "version": "1.0",
     "digest_zh": "",
     "overview": ""
   },
-  "events": []
+  "events": [
+    {
+      "date": "2026-04-01",
+      "type": "制裁管制",
+      "title_zh": "OFAC连续调整SDN名单：移除委内瑞拉和俄罗斯制裁对象",
+      "summary_zh": "OFAC在四月第一周对SDN名单进行两次调整，分别移除委内瑞拉和俄罗斯相关制裁对象。4月1日，委内瑞拉执行副总统德尔西·罗德里格斯·戈麦斯被从特别指定国民名单中删除，此举与特朗普政府拘押马杜罗、对委石油封锁等系列强硬行动并行。4月3日，俄罗斯国民米哈伊尔·扎多尔诺夫被移除SDN名单。两次调整均未附公开说明，行政性名单更新是否反映更广泛的制裁政策方向调整有待后续观察。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "OFAC",
+          "url": "https://ofac.treasury.gov/recent-actions/20260401"
+        },
+        {
+          "name": "OFAC",
+          "url": "https://ofac.treasury.gov/recent-actions/20260403"
+        },
+        {
+          "name": "Reuters/The Star",
+          "url": "https://www.thestar.com.my/news/world/2026/04/03/us-removes-russian-national-mikhail-zadornov-from-sanctions-list"
+        }
+      ],
+      "metrics": {},
+      "week": 1
+    }
+  ]
 }

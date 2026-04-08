@@ -4,10 +4,66 @@
     "topic_name_zh": "能源安全与资源角力",
     "period_start": "2026-04-01",
     "period_end": "2026-04-30",
-    "generated_at": "2026-04-01T21:00:00+08:00",
+    "generated_at": "2026-04-08T15:30:00+08:00",
     "version": "1.0",
     "digest_zh": "",
     "overview": ""
   },
-  "events": []
+  "events": [
+    {
+      "date": "2026-04-01",
+      "type": "国际机构",
+      "title_zh": "欧洲审计院发布关键原材料特别报告，评估能源转型供应安全",
+      "summary_zh": "欧盟审计机构系统评估关键原材料对能源转型的供应风险。欧洲审计院发布第04/2026号特别报告，审查欧盟在锂、钴、稀土等关键原材料的供应安全状况及对外依赖程度。报告评估2023年《关键原材料法案》实施进展，重点关注矿产加工和精炼环节的域内能力建设。报告发布正值全球关键矿产供应链因大国技术竞争和贸易壁垒面临重组压力。",
+      "source_tier": "B",
+      "sources": [
+        {
+          "name": "European Court of Auditors",
+          "url": "https://www.eca.europa.eu/en/publications/SR-2026-04"
+        }
+      ],
+      "metrics": {},
+      "week": 1
+    },
+    {
+      "date": "2026-04-05",
+      "type": "国际机构",
+      "title_zh": "OPEC+同意5月增产20.6万桶/日，附霍尔木兹海峡开放条件",
+      "summary_zh": "OPEC+在霍尔木兹海峡持续封锁背景下达成增产决议，但实际兑现取决于航运通道恢复。\n- OPEC+成员国同意将5月石油生产配额上调20.6万桶/日，但明确增产以霍尔木兹海峡重新开放为前提。\n- 波斯湾沿岸产油国因伊朗冲突已累计减产约1000万桶/日，全球石油供应持续紧张。\n- 此前OPEC+曾在2025年4月至12月间累计上调配额约290万桶/日，随后暂停。\n- 市场将此次增产视为象征性举措，实际供应量取决于海峡通航时间表。",
+      "source_tier": "B",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/energy/opec-debates-theoretical-oil-output-hike-amid-iran-war-paral"
+        },
+        {
+          "name": "Yahoo Finance/Bloomberg",
+          "url": "https://finance.yahoo.com/news/opec-plans-symbolic-oil-quota-101905778.html"
+        }
+      ],
+      "metrics": {
+        "output_increase_bpd": 206000,
+        "gulf_production_cut_bpd": 10000000
+      },
+      "week": 1
+    },
+    {
+      "date": "2026-04-05",
+      "type": "智库分析",
+      "title_zh": "CMI发布2026年关键矿产观察名单：钨升至前五，钴降级",
+      "summary_zh": "关键矿产研究所更新2026年观察名单，以供应集中度而非地质稀缺性重新排列矿种优先级。\n- 新增铼（Re）和铟（In），分别因航空航天与半导体领域的战略用途纳入名单。\n- 钨（W）因在国防、工业刀具和先进制造中的关键作用升入前五，全球供应高度集中且西方产能有限。\n- 钴（Co）从前五降级，尽管全球约70%产量仍集中在刚果（金），但供应本身的战略紧迫性弱于新入选矿种。\n- CMI定义关键矿产的核心标准为供应集中度风险，而非地质稀缺性——一国或两国垄断生产且存在可靠性风险时即构成关键性。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "InvestorNews/CMI",
+          "url": "https://investornews.com/market-opinion/critical-minerals-institute-unveils-2026-watchlist-rhenium-r"
+        }
+      ],
+      "metrics": {},
+      "week": 1,
+      "footnotes": [
+        "CMI = Critical Minerals Institute（关键矿产研究所）"
+      ]
+    }
+  ]
 }

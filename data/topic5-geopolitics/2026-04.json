@@ -4,10 +4,139 @@
     "topic_name_zh": "地缘政治信息池",
     "period_start": "2026-04-01",
     "period_end": "2026-04-30",
-    "generated_at": "2026-04-01T21:00:00+08:00",
+    "generated_at": "2026-04-08T23:59:00+08:00",
     "version": "1.0",
     "digest_zh": "",
     "overview": ""
   },
-  "events": []
+  "events": [
+    {
+      "date": "2026-04-01",
+      "type": "外交动态",
+      "title_zh": "Heritage Foundation（美国传统基金会）举办首届迈阿密安全论坛，检视Donroe主义西半球转向",
+      "summary_zh": "Heritage Foundation（美国传统基金会，保守派智库）举办首届迈阿密安全论坛，检视特朗普政府西半球外交政策。论坛在特朗普名下度假村Trump National Doral举行，与会者涵盖智库学者、拉美政治人物和美国国防系统官员。核心议题为「Donroe主义」——Donald与Monroe的合词，即特朗普版门罗主义，指以西半球优先为核心的外交政策转向。该政策在数月内已涵盖逮捕委内瑞拉总统马杜罗、对古巴石油封锁、加勒比海缉毒打击和将贩毒集团定性为恐怖组织。哥伦比亚国防部长桑切斯出席，尽管美方已因其总统佩特罗「允许贩毒集团壮大」而对哥实施制裁。论坛首日即以「将贩毒集团认定为恐怖组织的必要性」为题进行讨论。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "CNN",
+          "url": "https://www.cnn.com/2026/04/01/americas/miami-security-conference-trump-latam-intl"
+        }
+      ],
+      "metrics": {},
+      "week": 1
+    },
+    {
+      "date": "2026-04-02",
+      "type": "外交动态",
+      "title_zh": "克里姆林宫宣布三方谈判暂停，复活节停火提议落空",
+      "summary_zh": "克里姆林宫宣布俄美乌三方谈判暂停，复活节停火提议遭俄方拒绝。俄总统助理乌沙科夫通过国际文传电讯社表示「三方谈判目前处于暂停状态」，但俄方仍与美方保持接触讨论「乌克兰相关问题」。乌沙科夫称美方谈判人员当前注意力集中在其他议题，未做具体说明。泽连斯基此前表示俄方提出两个月最后通牒：乌克兰须从顿巴斯撤军，否则面临更严苛和平条件，他驳斥该提议「不现实」。泽连斯基指出俄方自身声明表明其目标不限于顿巴斯，质疑各方为何仍认真对待此类叙事。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "Kyiv Post",
+          "url": "https://www.kyivpost.com/post/73114"
+        }
+      ],
+      "metrics": {},
+      "week": 1
+    },
+    {
+      "date": "2026-04-03",
+      "type": "外交动态",
+      "title_zh": "英国召集41国虚拟峰会施压伊朗重新开放霍尔木兹海峡",
+      "summary_zh": "英国召集41国虚拟峰会讨论霍尔木兹海峡重新开放，外交大臣库珀指责伊朗「劫持全球经济」。美国缺席会议，特朗普此前在电视讲话中表态确保海峡通航「不是美国的事」，依赖海峡石油的国家应自行「抓住并珍惜」。自美以对伊战争爆发以来海峡商业通航近乎中断：23艘商船遭直接攻击、11名船员丧生。Lloyd's List数据显示海峡通行量降至涓流，仅剩制裁规避油轮维持运作，伊朗通过审查通行船只维持对海峡实际控制。法国总统马克龙称武力强行开通「不现实」，重新开放只能在停火后与伊朗谈判解决。峰会聚焦政治和外交手段而非军事选项，41国来自除南极洲外所有大洲。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://apnews.com/article/hormuz-strait-shipping-summit-uk-iran-ca2c6af551df98c81a39f2137e417856"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/hormuz-strait-summit-2026"
+        },
+        {
+          "name": "Politico Europe",
+          "url": "https://www.politico.eu/article/hormuz-strait-summit-uk-iran/"
+        }
+      ],
+      "metrics": {
+        "countries_attending": 41,
+        "commercial_vessel_attacks": 23,
+        "crew_killed": 11
+      },
+      "week": 1
+    },
+    {
+      "date": "2026-04-05",
+      "type": "外交动态",
+      "title_zh": "特朗普限时威胁轰炸伊朗电厂，要求4月8日前开放海峡",
+      "summary_zh": "美国总统特朗普设定4月8日最后期限，以轰炸伊朗民用基础设施威胁要求其开放霍尔木兹海峡。\n- 特朗普在Truth Social发帖称4月8日（周二）为「电厂日和桥梁日」，限期当日晚8时前开放海峡，并在Fox News采访中表示考虑「炸毁一切并接管石油」。\n- 特朗普此前曾多次发出类似威胁但随后推迟或修改最后期限，同时声称与伊朗领导层谈判有「很大机会」达成协议。\n- 国际特赦组织秘书长批评该威胁，指出电厂和桥梁摧毁将导致大规模停电，波及医院、供水和食品供应链，国际人道法禁止攻击平民生存所依赖设施。\n- 霍尔木兹海峡自2月28日美以对伊攻击后实际关闭，伊朗反击已打击美军基地和海湾基础设施，全球油价持续飙升。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Time",
+          "url": "https://time.com/article/2026/04/05/trump-power-plants-iran-hormuz/"
+        }
+      ],
+      "metrics": {},
+      "week": 1
+    },
+    {
+      "date": "2026-04-07",
+      "type": "智库分析",
+      "title_zh": "全球南方「新不结盟」：从原则中立转向大国间杠杆博弈",
+      "summary_zh": "分析指出全球南方国家外交策略已从冷战式意识形态中立转向利用大国竞争提取双边杠杆。\n- 印度、印尼、巴西等全球南方核心国家不再选边站队，而是在中美之间维持多选项外交，从双方提取利益。\n- 三个结构性变化驱动转型：全球南方经济体量不再边缘化（印度第五大经济体）、中美竞争以经济而非意识形态为核心、供应链和资源本身成为谈判筹码。\n- 印度外长苏杰生在慕尼黑安全会议上称印度应被赞赏其「多选项」外交——不是中立，是选择。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Modern Diplomacy",
+          "url": "https://moderndiplomacy.eu/2026/04/07/the-new-non-alignment/"
+        }
+      ],
+      "metrics": {},
+      "week": 1
+    },
+    {
+      "date": "2026-04-08",
+      "type": "外交动态",
+      "title_zh": "美国与伊朗达成两周停火，霍尔木兹海峡将有条件重新开放",
+      "summary_zh": "美国与伊朗在特朗普轰炸最后通牒到期前数小时达成两周停火，巴基斯坦斡旋促成谈判。\n- 伊朗外长阿拉格奇确认停火期间霍尔木兹海峡将在伊朗武装力量协调下恢复安全通航，但须考虑「技术限制」。\n- 伊朗向美方提交十点停战清单，核心诉求包括停止一切美方攻击、伊朗永久控制海峡、美方完全接受伊朗核浓缩计划。\n- 特朗普在自定的轰炸伊朗电力基础设施最后通牒到期前约一小时宣布停火，次日在社交媒体称「世界和平的大日子」。\n- 以色列表示支持停火但声明不适用于黎巴嫩，继续对真主党目标作战；全球油价暴跌、股市上涨。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/04/08/nx-s1-5777291/iran-war-updates"
+        },
+        {
+          "name": "AP News",
+          "url": "https://apnews.com/live/iran-war-israel-trump-04-08-2026"
+        },
+        {
+          "name": "Baird Maritime",
+          "url": "https://www.bairdmaritime.com/security/iran-agrees-to-two-week-ceasefire-strait-of-hormuz-to-be-re-opened-with-conditions"
+        }
+      ],
+      "metrics": {
+        "ceasefire_duration_weeks": 2,
+        "iran_demand_points": 10
+      },
+      "week": 2
+    },
+    {
+      "date": "2026-04-08",
+      "type": "外交动态",
+      "title_zh": "克里姆林宫欢迎美伊停火，望美方恢复乌克兰三方谈判",
+      "summary_zh": "俄方将美伊停火视为恢复乌克兰和谈的窗口，暗示此前谈判暂停与伊朗战事挂钩。\n- 克里姆林宫发言人佩斯科夫称「满意地收到停战消息」，欢迎美伊「不沿武装升级道路走下去」的决定。\n- 佩斯科夫表示「希望在可预见的未来，美方将有更多时间和空间以三方形式会面」，指此前在伊斯坦布尔、阿布扎比和日内瓦举行的俄美乌三方谈判。\n- 俄方此前解释三方谈判暂停系因伊朗冲突爆发后美方注意力转移，间接承认乌克兰和谈进度受中东战事牵制。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "Straits Times/Reuters",
+          "url": "https://www.straitstimes.com/world/europe/russia-says-it-welcomes-iran-ceasefire-hopes-us-will-now-resume-ukraine-talks"
+        }
+      ],
+      "metrics": {},
+      "week": 2
+    }
+  ]
 }
