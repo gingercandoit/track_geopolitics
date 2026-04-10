@@ -35,7 +35,9 @@ track_geopolitics/
 │   ├── topic3-supply-resources/ # T3 报告
 │   ├── topic4-tech-digital/    # T4 报告
 │   └── topic5-geopolitics/     # T5 报告
-├── file/                       # 文档与参考资料
+├── docs/                       # 文档与研究资料
+│   ├── notes/                  # 工作流笔记、slides
+│   └── research/               # 研究项目（china-counter-sanctions 等）
 ├── literature/                 # Prompt 3 文献库（与 reports 同级）
 │   ├── classic/                # Library A: 经典文献（一次性建库）
 │   │   ├── classic.json        # 主数据库（92篇）
@@ -49,7 +51,6 @@ track_geopolitics/
 │   │   ├── references.bib      # BibTeX
 │   │   └── views/              # 视图
 │   └── pdf/                    # 用户下载的PDF（.gitignore排除）
-├── prompts/                    # Prompt 模板存档
 ├── scripts/                    # 自动化脚本（fetch_sources.py）
 ├── config/                     # 工具配置（mcporter.json）
 ├── chat-history/               # 对话历史（.gitignore 排除）

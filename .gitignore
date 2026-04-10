@@ -18,8 +18,9 @@ chat-history/
 # Literature PDFs (too large for git)
 literature/pdf/
 
-# Personal research notes (local only)
-research/
+# Binary files in docs/ (PDF, PPTX too large for git)
+docs/**/*.pdf
+docs/**/*.pptx
 
 # Static site build output
 site/dist/
