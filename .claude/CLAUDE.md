@@ -151,3 +151,4 @@ track_geopolitics/
 - **PowerShell 禁止内联复杂 Python**：超过 2 行的 Python 脚本必须写 `_tmp/_tmp_<用途>.py` 文件再执行，不用 `python -c "..."`
 - **JSON 批量修改**：≥5 条记录的修改一律用 _tmp/*.py 脚本，不逐条 replace_string_in_file
 - **summary_zh 质量 gate**：写入 JSON 前必须自检——导语 20-40 汉字 + bullet ≥3 条（以"。"计数 ≥4）。不达标不写入
+- **tmpclaude-* 清理**：Claude Code SDK 会在根目录生成 `tmpclaude-*-cwd` 临时文件，已被 .gitignore 排除。每次新会话 Phase 1 启动时自动删除残留文件
