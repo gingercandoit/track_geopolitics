@@ -4,7 +4,7 @@
     "topic_name_zh": "技术竞争与规则制定",
     "period_start": "2026-04-01",
     "period_end": "2026-04-01",
-    "generated_at": "2026-04-08T15:30:00+08:00",
+    "generated_at": "2026-04-11T10:44:19+08:00",
     "version": "1.0",
     "digest_zh": "",
     "overview": ""
@@ -24,6 +24,29 @@
       ],
       "metrics": {},
       "week": 1
+    },
+    {
+      "date": "2026-04-01",
+      "type": "企业动态",
+      "title_zh": "美国安森美宣布在华追加5000万美元投资，上海设大中华区总部",
+      "summary_zh": "美国功率半导体厂商安森美逆全球脱钩趋势强化在华布局，宣布上海设大中华区总部。\n- 安森美3月31日在上海发布中国战略，宣布上海设为大中华区总部，将任命中国区总经理强化本地决策\n- 未来三年将在中国追加约5000万美元投资，用于研发、制造协同及本土生态建设\n- CEO El-Khoury称\"中国不仅是重要市场，更逐渐成为全球创新的重要源头\"\n- 安森美在华拥有3个制造基地、约4000名员工，过去五年产品物料清单本地化比例从低个位数提升至约50%",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "财新",
+          "url": "https://mp.weixin.qq.com/s/aQltbDMUgioSd0ZFwFAPcg"
+        }
+      ],
+      "metrics": {
+        "investment_usd_million": 50,
+        "china_employees": 4000,
+        "bom_localization_pct": 50,
+        "manufacturing_bases": 3
+      },
+      "week": 1,
+      "footnotes": [
+        "BOM = Bill of Materials（物料清单），本地化比例指产品原材料在中国采购的占比"
+      ]
     },
     {
       "date": "2026-04-07",

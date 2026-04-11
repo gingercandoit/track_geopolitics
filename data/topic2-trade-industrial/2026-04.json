@@ -4,7 +4,7 @@
     "topic_name_zh": "贸易与产业政策",
     "period_start": "2026-04-01",
     "period_end": "2026-04-30",
-    "generated_at": "2026-04-08T15:30:00+08:00",
+    "generated_at": "2026-04-11T10:44:19+08:00",
     "version": "1.0",
     "digest_zh": "",
     "overview": ""
@@ -80,6 +80,33 @@
       "footnotes": [
         "CBAM = Carbon Border Adjustment Mechanism（碳边境调节机制）",
         "EU ETS = EU Emissions Trading System（欧盟排放交易体系）"
+      ]
+    },
+    {
+      "date": "2026-04-10",
+      "type": "政策发布",
+      "title_zh": "美国联邦贸易法院审理特朗普10%全球关税合法性",
+      "summary_zh": "美国联邦贸易法院就特朗普10%全球关税是否超越总统授权举行关键庭审。\n- 原告主张特朗普援引《国际紧急经济权力法》（IEEPA）对全球进口商品征收10%关税超越总统法定权限，敦促法院废除该关税\n- 此为继2026年2月美最高法院否决特朗普全球关税法律基础后又一关键司法审查，延续司法系统对行政关税权的收窄趋势\n- 庭审结果将直接影响数十亿美元存量关税的执行力与退还问题，Bloomberg称其为\"关键庭审\"",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Bloomberg Politics",
+          "url": "https://www.bloomberg.com/news/articles/2026-04-10/trade-court-urged-to-scrap-latest-trump-tariffs-based-on-trade-deficit"
+        },
+        {
+          "name": "SCMP",
+          "url": "https://www.scmp.com/news/us/economy-trade-business/article/3349717/trumps-tariff-powers-tested-again-judges-question-deficit-justification"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/4/10/us-federal-court-hears-new-case-against-trump-tariffs"
+        }
+      ],
+      "metrics": {},
+      "week": 2,
+      "footnotes": [
+        "IEEPA = International Emergency Economic Powers Act（国际紧急经济权力法）",
+        "CIT = Court of International Trade（美国国际贸易法院）"
       ]
     }
   ]

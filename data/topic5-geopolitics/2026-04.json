@@ -4,7 +4,7 @@
     "topic_name_zh": "地缘政治信息池",
     "period_start": "2026-04-01",
     "period_end": "2026-04-30",
-    "generated_at": "2026-04-08T23:59:00+08:00",
+    "generated_at": "2026-04-11T10:44:19+08:00",
     "version": "1.0",
     "digest_zh": "",
     "overview": ""
@@ -115,6 +115,14 @@
         {
           "name": "Baird Maritime",
           "url": "https://www.bairdmaritime.com/security/iran-agrees-to-two-week-ceasefire-strait-of-hormuz-to-be-re-opened-with-conditions"
+        },
+        {
+          "name": "新华社（停火两周）",
+          "url": "https://mp.weixin.qq.com/s/jirPo5svVlUF79_JrqqzNQ"
+        },
+        {
+          "name": "新华社（海峡开放两周）",
+          "url": "https://mp.weixin.qq.com/s/nRt2JtA6eRQK5_YDBGqz0A"
         }
       ],
       "metrics": {
@@ -133,6 +141,51 @@
         {
           "name": "Straits Times/Reuters",
           "url": "https://www.straitstimes.com/world/europe/russia-says-it-welcomes-iran-ceasefire-hopes-us-will-now-resume-ukraine-talks"
+        }
+      ],
+      "metrics": {},
+      "week": 2
+    },
+    {
+      "date": "2026-04-09",
+      "type": "外交动态",
+      "title_zh": "中美就伊朗问题举行高层会谈——中国外交部回应",
+      "summary_zh": "美方披露中美就伊朗危机进行高层会谈，中国外交部确认中方积极劝和阻战。\n- 美方表示中美在过去几天就伊朗问题进行了高层会谈\n- 外交部发言人毛宁4月9日在例行记者会上回应：战事爆发以来中方同各方保持着沟通，积极劝和阻战\n- 中方以\"劝和阻战\"定位自身角色，既未否认也未确认美方\"高层会谈\"提法，保持外交弹性",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "新华社",
+          "url": "https://mp.weixin.qq.com/s/q_CAQV1lioODU0CZIzqCMg"
+        }
+      ],
+      "metrics": {},
+      "week": 2
+    },
+    {
+      "date": "2026-04-10",
+      "type": "外交动态",
+      "title_zh": "泽连斯基宣布乌克兰将对等停火",
+      "summary_zh": "乌克兰总统泽连斯基在多线冲突交织背景下宣布乌方将采取对等停火立场。\n- 泽连斯基4月10日宣布乌克兰将对等停火，以俄方行动为参照决定停火节奏\n- \"对等停火\"非单方面停火承诺，保留了乌方在俄方违约时恢复军事行动的空间\n- 声明发布当日，美伊停火协议刚告破裂、霍尔木兹海峡再次关闭，全球多条冲突线同时活跃",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "新华社",
+          "url": "https://mp.weixin.qq.com/s/2RPJjA3MY_CWjbwl-StoZA"
+        }
+      ],
+      "metrics": {},
+      "week": 2
+    },
+    {
+      "date": "2026-04-10",
+      "type": "外交动态",
+      "title_zh": "美国与菲律宾签署联合意向声明加强安全合作",
+      "summary_zh": "美国国务院宣布美菲签署联合意向声明，在南海紧张局势背景下加强双边安全合作。\n- 美国与菲律宾签署联合意向声明，承诺加强安全领域合作伙伴关系\n- 菲律宾在南海争端中与中国持续紧张，美菲安全合作强化具有直接的印太地缘博弈意义\n- 声明由美国国务院正式发布，延续美国对印太盟友安全承诺的制度化路线",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "美国国务院",
+          "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/04/united-states-and-the-philippines-sign-joint-declaration-of-intent-to-strengthen"
         }
       ],
       "metrics": {},
