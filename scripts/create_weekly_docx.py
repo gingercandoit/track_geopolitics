@@ -324,7 +324,7 @@ def main():
             country = get_country(event['title_zh'])
             date_parts = event['date'].split('-')
             date_str = f"{date_parts[1]}-{date_parts[2]}"
-            title = f"（{n}）{date_str}|{country}|{event['title_zh']}"
+            title = f"{date_str}|{country}|{event['title_zh']}"
 
             doc.add_paragraph(title, style='Heading 3')
             doc.add_paragraph(to_prose(event['summary_zh']), style=body_style)
