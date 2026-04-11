@@ -81,6 +81,7 @@ track_geopolitics/
 ### Prompt 1：信息侦察
 - 时间窗口：滚动 7 天
 - 来源分层：A层（官方政府）> B层（国际机构）> C层（智库/媒体）> D层（社区策展）
+- **中国信源**：微信公众号 API（`scripts/fetch_wechat.py`），覆盖新华社、商务部、外交部等6个A/C层账号
 - 五大议题：制裁与经济管制、贸易与产业政策、能源安全与资源角力、技术竞争与规则制定、地缘政治信息池（catch-all）
 - 产出格式：结构化 JSON + Markdown 简报
 - SOP：`.claude/rules/02_GeopoliticsWebfetchSOP.md`
@@ -112,6 +113,7 @@ track_geopolitics/
 | `scripts/build_phase2.py` | 从 JSON 生成 CSV/BibTeX/阅读路线图 | `.\.venv\Scripts\python.exe scripts/build_phase2.py` |
 | `scripts/generate_views.py` | 从 JSON 生成 7 个 Markdown 视图 | `.\.venv\Scripts\python.exe scripts/generate_views.py` |
 | `scripts/fetch_sources.py` | Prompt 1 信息侦察：RSS+Reddit 拉取 | `.\.venv\Scripts\python.exe scripts/fetch_sources.py [--days N] [--topic T]` |
+| `scripts/fetch_wechat.py` | Prompt 1 中国信源：微信公众号搜索 | `.\.venv\Scripts\python.exe scripts/fetch_wechat.py [--topic 1-5\|all] [--days N]` |
 | `scripts/generate_views_new.py` | Library B 视图 + CSV 同步生成 | `.\.venv\Scripts\python.exe scripts/generate_views_new.py` |
 | `site/build.py` | 静态站点生成器（全量重建） | `.\.venv\Scripts\python.exe site/build.py [--clean]` |
 
@@ -137,7 +139,8 @@ track_geopolitics/
   ```
 - **月度更新流程**：新增 data/topicN/YYYY-MM.json → 运行 `site/build.py --clean` → 自动生成所有页面
 - **主要设计**：Playfair Display 标题 + Source Serif Pro 正文，深红色 (#8B0000) accent，按议题分色，事件卡可折叠展开
-- **当前状态**（首次完整构建）：8 个 HTML 页面，91 + 46 = 137 篇文献，全5议题 × 2026-03 月报
+- **当前状态**（2026-04-11 更新）：8+ HTML 页面，91 + 46 = 137 篇文献，全5议题 × 2026-03 + 2026-04 月报
+- **2026-04 数据概况**：T1:1, T2:4, T3:6, T4:3, T5:10 事件（截至 4/10）
 
 ## 技术约定
 
@@ -152,3 +155,5 @@ track_geopolitics/
 - **JSON 批量修改**：≥5 条记录的修改一律用 _tmp/*.py 脚本，不逐条 replace_string_in_file
 - **summary_zh 质量 gate**：写入 JSON 前必须自检——导语 20-40 汉字 + bullet ≥3 条（以"。"计数 ≥4）。不达标不写入
 - **tmpclaude-* 清理**：Claude Code SDK 会在根目录生成 `tmpclaude-*-cwd` 临时文件，已被 .gitignore 排除。每次新会话 Phase 1 启动时自动删除残留文件
+- **事件事实核查**：提案中的事件必须在 RSS/WeChat/Exa 原始数据中有对应条目佐证，不可仅凭 AI 知识编造。4月更新中发现"EU第17轮制裁""韩国WTO LCD申诉"在原始数据中无痕迹，已替换为有据可查事件
+- **Exa 2026 局限**：Exa 搜索引擎对未来日期（2026）基本返回 0 结果，当前信息采集主力为 RSS+WeChat，Exa 仅对真实时间线内容有效

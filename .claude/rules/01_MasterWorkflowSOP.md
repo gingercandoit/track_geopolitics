@@ -79,9 +79,10 @@ reports/topicN-slug/YYYY-MM.md   （标题 + 空月度总览）
 按 02_GeopoliticsWebfetchSOP §三 执行，节奏如下：
 
 1. **RSS/Reddit 拉取**：`python scripts/fetch_sources.py --days N`
-2. **Exa 搜索**：按 §三 关键词矩阵，每议题 5-8 组搜索
-3. **深度抓取**：A 层来源和 Reddit 高票帖原始链接用 fetch_webpage
-4. **合并去重**：以 URL 为 key。补缺更新时还需与现有 JSON 中的事件去重——以 `date + title_zh` 或 `sources[0].url` 匹配，已存在的事件不重复添加
+2. **微信公众号搜索**：`python scripts/fetch_wechat.py --days N`（中方A/C层信源，含新华社/商务部/外交部等6个账号）
+3. **Exa 搜索**：按 §三 关键词矩阵，每议题 5-8 组搜索
+4. **深度抓取**：A 层来源和 Reddit 高票帖原始链接用 fetch_webpage
+5. **合并去重**：以 URL 为 key。补缺更新时还需与现有 JSON 中的事件去重——以 `date + title_zh` 或 `sources[0].url` 匹配，已存在的事件不重复添加
 
 **每个议题采集完成后**，汇报发现条数和来源层级分布（如"T1: 12条，A层4/C层6/D层2"）。
 
