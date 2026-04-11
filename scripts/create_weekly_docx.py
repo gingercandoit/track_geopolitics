@@ -70,8 +70,9 @@ def read_json(topic_slug, month):
 
 
 def filter_events(data, start, end):
-    """Filter events by date range (inclusive)."""
-    return [e for e in data['events'] if start <= e['date'] <= end]
+    """Filter events by date range (inclusive), sorted by date ascending."""
+    filtered = [e for e in data['events'] if start <= e['date'] <= end]
+    return sorted(filtered, key=lambda e: e['date'])
 
 
 # ── A-tier source ranking ─────────────────────────────────────────────────
