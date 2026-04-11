@@ -584,6 +584,10 @@ site:www.fmprc.gov.cn/eng + spokesperson / press conference
 
 **type 字段**必须使用固定词表中的8个类型之一。
 
+**date 字段**必须是**事件发生日期**，不是媒体发布日期。例：OFAC 4月1日执行制裁调整 → `"date": "2026-04-01"`，即使媒体4月3日才报道。跨多日事件取首次发生日（如外交部4/2和4/8两次表态 → `"date": "2026-04-02"`）。
+
+**sources 数组**按权威性降序排列（A层在前，C/D层在后）。`sources[0]` 必须是能找到的**最权威来源**——政府官网/国际机构官网优先于媒体转述。来源溯源规则详见第七节 Step 5b。
+
 ---
 
 ## 七、执行流程（Step by Step）
@@ -613,6 +617,21 @@ site:www.fmprc.gov.cn/eng + spokesperson / press conference
    - 仅 JS 渲染页面（SPA/React 站）回退到 fetch_webpage
    - Reddit 高票帖的原始文章 URL 也纳入深度抓取候选
    - Bloomberg RSS 摘要已够长，通常不需要深度抓取
+   ↓
+5b. **来源溯源**（A层URL回溯）——每条事件必须执行
+   - 从 C/D 层媒体发现事件后，**必须回溯到事件的 A 层原始来源**
+   - 问自己："谁做了这个动作？那个机构的官网有没有发布公告/新闻稿？"
+   - 搜索路径：`requests.get(官网 URL)` → 在官网新闻/公告页面搜索 → 找到则加入 `sources[0]`
+   - **常用 A 层 URL 模式**：
+     - 白宫EO/Proclamation：`whitehouse.gov/presidential-actions/YYYY/MM/slug/`
+     - 白宫Fact Sheet：`whitehouse.gov/fact-sheets/YYYY/MM/slug/`
+     - BIS：`bis.doc.gov/press-release/slug`
+     - OFAC：`ofac.treasury.gov/recent-actions/YYYYMMDD`
+     - EC：`ec.europa.eu/commission/presscorner/detail/en/ip_YY_NNNN`
+     - EIA：`eia.gov/pressroom/releases/pressNNN.php`
+     - MFA中国：`fmprc.gov.cn/eng/xwfw_665399/...` 或外交部发言人办公室WeChat
+   - 找不到 A 层 URL（官网 403/无索引）→ 保留 C 层来源，但在 `sources` 中注明层级
+   - **同时确认 `date` 字段**：使用事件实际发生日期，不是媒体报道日期
    ↓
 6. 筛选：应用纳入/排除标准
    - 注意关键词匹配可能有误匹配（如 SCMP 社会新闻因含"China"被匹配到多个议题）
@@ -654,6 +673,8 @@ site:www.fmprc.gov.cn/eng + spokesperson / press conference
 - [ ] 已人工审核关键词匹配结果，剔除误匹配（SCMP社会新闻、体育等）
 - [ ] Reddit/X 帖子不作为来源引用，仅用于事件发现（引用其链接到的原始来源）
 - [ ] RSS 重复条目已去重（特别是 State Dept 两个 feed、Bloomberg 三个频道）
+- [ ] **来源溯源检查**：每条事件的 `sources[0]` 是否为能找到的最权威来源？从 C 层媒体发现的事件是否已尝试回溯到 A 层官方 URL？（参见 §七 Step 5b）
+- [ ] **事件日期检查**：`date` 字段是否为事件实际发生日期（而非媒体发布日期）？跨多日事件是否取首次发生日？
 - [ ] **summary_zh 导语质量**：每条事件的首句（导语）在 20-40 汉字，首句点明板块归属（详见 05_WritingStyle §二）。写入 JSON 前用 `len(first_sentence)` 自检
 - [ ] **summary_zh bullets 充分性**：实质性事件至少 3 条 bullet（事实 + 背景 + 影响/前瞻），内容薄弱的卡片需补充
 - [ ] **中方官方来源检查**：涉及中方行动/反应的事件，至少有一条中方A层来源（新华社英文版/商务部/外交部）直接引用，不可仅依赖西方媒体转述

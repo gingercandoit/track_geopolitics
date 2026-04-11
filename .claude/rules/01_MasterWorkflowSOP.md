@@ -100,6 +100,8 @@ reports/topicN-slug/YYYY-MM.md   （标题 + 空月度总览）
 **b) 撰写**（参照 05_WritingStyle 全文 + 02_WebfetchSOP §五-六）
 - 撰写 JSON 事件条目：date / type / title_zh / summary_zh / sources / week
 - **summary_zh 首句必须点明板块归属**（详见 05_WritingStyle §二「首句点明板块归属」）
+- **date 必须是事件发生日期**，不是媒体发布日期（详见 02_WebfetchSOP §六）
+- **sources[0] 必须是最权威来源**：从 C 层媒体发现事件后，必须回溯 A 层官方 URL（详见 02_WebfetchSOP §七 Step 5b）
 - 撰写 Markdown 月度总览（bullet 格式，按日期升序）
 - 同步更新 `digest_zh`（主页摘要卡片）
 
