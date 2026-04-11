@@ -115,6 +115,7 @@ track_geopolitics/
 | `scripts/fetch_sources.py` | Prompt 1 信息侦察：RSS+Reddit 拉取 | `.\.venv\Scripts\python.exe scripts/fetch_sources.py [--days N] [--topic T]` |
 | `scripts/fetch_wechat.py` | Prompt 1 中国信源：微信公众号搜索 | `.\.venv\Scripts\python.exe scripts/fetch_wechat.py [--topic 1-5\|all] [--days N]` |
 | `scripts/generate_views_new.py` | Library B 视图 + CSV 同步生成 | `.\.venv\Scripts\python.exe scripts/generate_views_new.py` |
+| `scripts/create_weekly_docx.py` | 周报 Word 文档生成（T1-T4） | `.\.venv\Scripts\python.exe scripts/create_weekly_docx.py [--month YYYY-MM] [--week 1-4]` |
 | `site/build.py` | 静态站点生成器（全量重建） | `.\.venv\Scripts\python.exe site/build.py [--clean]` |
 
 ## 静态网站（Prompt 4）
