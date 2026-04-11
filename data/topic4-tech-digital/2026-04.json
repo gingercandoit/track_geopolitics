@@ -18,6 +18,10 @@
       "source_tier": "A",
       "sources": [
         {
+          "name": "美国商务部BIS",
+          "url": "https://www.bis.doc.gov/press-release/department-commerce-revises-license-review-policy-semiconductors-exported-china"
+        },
+        {
           "name": "Covington & Burling",
           "url": "https://www.cov.com/en/news-and-insights/insights/2026/04/us-commerce-department-revises-license-review-policy-for-exports-of-certain-advanced-computing-commodities-to-china-and-macau"
         }

@@ -18,6 +18,10 @@
       "source_tier": "A",
       "sources": [
         {
+          "name": "白宫 Fact Sheet",
+          "url": "https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-bolsters-national-security-and-strengthens-u-s-supply-chains-by-imposing-tariffs-on-patented-pharmaceutical-products/"
+        },
+        {
           "name": "AP News",
           "url": "https://apnews.com/article/trump-tariffs-pharmaceutical-drugs-59ed7821faa5b52e2752c09edbbbf0ca"
         },
@@ -45,12 +49,16 @@
       "source_tier": "A",
       "sources": [
         {
-          "name": "Supply Chain Dive",
-          "url": "https://www.supplychaindive.com/news/trump-steel-aluminum-copper-tariff-adjustments/816547/"
+          "name": "白宫 Proclamation",
+          "url": "https://www.whitehouse.gov/presidential-actions/2026/04/strengthening-actions-taken-to-adjust-imports-of-aluminum-steel-and-copper-into-the-united-states/"
         },
         {
           "name": "白宫 Fact Sheet",
-          "url": "https://www.whitehouse.gov/fact-sheets/"
+          "url": "https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-strengthens-tariffs-on-steel-aluminum-and-copper-imports/"
+        },
+        {
+          "name": "Supply Chain Dive",
+          "url": "https://www.supplychaindive.com/news/trump-steel-aluminum-copper-tariff-adjustments/816547/"
         }
       ],
       "metrics": {
@@ -66,8 +74,12 @@
       "type": "政策发布",
       "title_zh": "欧盟公布首个CBAM碳边境调节机制证书价格：75.36欧元/吨",
       "summary_zh": "欧盟委员会公布CBAM运营阶段首个季度证书价格，每吨CO₂定价75.36欧元。\n- 价格基于EU ETS排放配额拍卖加权均价计算，确保欧洲生产商与进口商面对等价碳成本，防止碳泄漏。\n- 2026年按季度公布价格（4月7日、7月6日、10月5日、1月4日），2027年起改为每周公布，标志机制进一步成熟。\n- 进口商需在2027年2月开始购买证书以覆盖2026年进口商品的碳排放，交易通过统一中央平台处理。",
-      "source_tier": "B",
+      "source_tier": "A",
       "sources": [
+        {
+          "name": "European Commission",
+          "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1234"
+        },
         {
           "name": "ClearBlue Markets",
           "url": "https://www.clearbluemarkets.com/knowledge-base/eu-defines-carbon-border-adjustment-price-framework"
