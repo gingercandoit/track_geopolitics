@@ -81,20 +81,24 @@
 
 | 字段 | 说明 |
 |------|------|
-| 日期 | DSCA通知日期（YYYY-MM-DD） |
+| 日期 | DSCA通知日期（YYYY-MM-DD），即"Date Report Delivered to Congress" |
 | 武器/服务 | 军售内容简述（英文） |
 | 金额(百万美元) | 估计总金额（百万美元） |
-| 来源 | 数据来源标注 |
+| 来源 | 数据来源标注，含CN（Congressional Notification）编号 |
+| 官方URL | 官方全文链接（Federal Register 或 DSCA 官网） |
 
 ## 数据来源
 
 - **外交部清单**：中国外交部官网发言人记者会/声明，逐条核实URL
 - **商务部清单**：中国商务部官网公告，逐条核实URL
-- **DSCA数据**：初始来源为 Wikipedia "List of U.S. arms sales to Taiwan" 页面，已对42条中18条逐一交叉验证。来源字段含义：
-  - `DSCA官网(CN XX-XX)` = DSCA 官方网站全文确认（含 Transmittal/Congressional Notification 编号）
-  - `FR(CN XX-XX)` = 美国 Federal Register（联邦公报）法律全文确认
-  - `DSCA Library(CN XX-XX)` = DSCA Major Arms Sales Library PDF 档案确认
-  - `DSCA/Wikipedia` = 暂未逐条验证官方全文，但抽样核查显示 Wikipedia 数据可靠（日期=国会通知日期，金额误差<0.5%）
+- **DSCA数据**：42条全部经官方来源逐条核实（2026-04-10完成）。来源字段含义：
+  - `FR(CN XX-XX)` = 美国 Federal Register（联邦公报）法律全文确认，含 Transmittal/CN 编号
+  - `FR+DSCA(CN XX-XX)` = Federal Register + DSCA 官网双重确认
+  - `FR+DSCA Library(CN XX-XX)` = Federal Register + DSCA Major Arms Sales Library PDF 档案确认
+  - `DSCA官网(CN XX-XX)` = DSCA 官方网站全文确认（2025年起新通知尚未刊入Federal Register）
+  - 官方URL列提供每条记录的Federal Register全文链接或DSCA官网全文链接
+  - 验证方法：通过 Federal Register API (`api.v1/documents.json`) 批量获取所有TECRO相关文档（67条），逐条提取Transmittal Number、Congress日期、武器描述进行交叉比对
+  - 完整性确认：Federal Register中2020-2026年间所有TECRO 36(b)(1)新军售通知均已包含在CSV中，另有5条36(b)(5)修正案（不计入新军售）
 
 ## 编码
 

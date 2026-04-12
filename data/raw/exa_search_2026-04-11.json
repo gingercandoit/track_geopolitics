@@ -1,0 +1,207 @@
+{
+  "T1": [
+    {
+      "query": "OFAC sanctions April 2026",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    },
+    {
+      "query": "EU sanctions package April 2026",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    },
+    {
+      "query": "Russia sanctions April 2026 enforcement",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    },
+    {
+      "query": "Iran sanctions April 2026",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    },
+    {
+      "query": "SWIFT sanctions dollar weaponization 2026",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    },
+    {
+      "query": "RMB internationalization CIPS April 2026",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    },
+    {
+      "query": "secondary sanctions compliance April 2026",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    },
+    {
+      "query": "site:english.news.cn sanctions countermeasure April 2026",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    }
+  ],
+  "T2": [
+    {
+      "query": "Trump tariffs April 2026",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    },
+    {
+      "query": "US China trade war April 2026",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    },
+    {
+      "query": "Section 301 anti-dumping April 2026",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    },
+    {
+      "query": "WTO dispute settlement April 2026",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    },
+    {
+      "query": "CBAM carbon border adjustment April 2026",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    },
+    {
+      "query": "industrial policy CHIPS Act subsidies April 2026",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    },
+    {
+      "query": "supply chain reshoring friendshoring April 2026",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    },
+    {
+      "query": "site:english.news.cn trade tariff industrial April 2026",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    }
+  ],
+  "T3": [
+    {
+      "query": "critical minerals lithium rare earth policy April 2026",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    },
+    {
+      "query": "OPEC production cut oil price April 2026",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    },
+    {
+      "query": "energy security LNG pipeline April 2026",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    },
+    {
+      "query": "IEA oil outlook April 2026",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    },
+    {
+      "query": "Hormuz strait oil supply April 2026",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    },
+    {
+      "query": "food security grain export ban April 2026",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    },
+    {
+      "query": "nuclear energy uranium geopolitics April 2026",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    },
+    {
+      "query": "site:english.news.cn energy minerals export April 2026",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    }
+  ],
+  "T4": [
+    {
+      "query": "BIS export controls semiconductor chip April 2026",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    },
+    {
+      "query": "AI regulation governance April 2026",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    },
+    {
+      "query": "technology decoupling US China chip April 2026",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    },
+    {
+      "query": "NVIDIA Huawei semiconductor restriction April 2026",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    },
+    {
+      "query": "data sovereignty digital governance April 2026",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    },
+    {
+      "query": "5G submarine cable digital infrastructure April 2026",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    },
+    {
+      "query": "site:english.news.cn technology chip semiconductor April 2026",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    }
+  ],
+  "T5": [
+    {
+      "query": "summit bilateral multilateral diplomacy April 2026",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    },
+    {
+      "query": "NATO AUKUS Quad alliance April 2026",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    },
+    {
+      "query": "Iran US negotiations April 2026 Hormuz ceasefire",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    },
+    {
+      "query": "Russia Ukraine ceasefire negotiations April 2026",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    },
+    {
+      "query": "BRICS expansion Global South April 2026",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    },
+    {
+      "query": "G7 G20 diplomacy April 2026",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    },
+    {
+      "query": "military conflict defense security April 2026",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    },
+    {
+      "query": "site:english.news.cn diplomacy bilateral April 2026",
+      "result_count": 0,
+      "raw": "[ERROR] [mcporter] Unable to load tool metadata; name positional arguments explicitly.\nError: Unable to load tool metadata; name positional arguments explicitly.\n    at hydratePositionalArguments (file:///C:/"
+    }
+  ]
+}
