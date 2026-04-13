@@ -18,11 +18,11 @@ data/
     EL_实体清单.csv               # 1201条 Entity List (中国实体) ✅ 2026-04更新
     SDN_特别指定国民.csv           # 1031条 SDN List (中国实体) ✅ 2026-04更新
     UVL_未经核实清单.csv           # 221条 Unverified List (中国实体) ✅ 2026-04更新
-    CMC_中国军事企业.csv           # 76条 EO 14032 CMC (全球) ✅ 2026-04更新
+    CMC_中国军事企业.csv           # 130条 Section 1260H CMC (全球) ✅ 2026-04更新
     UFLPA_维吾尔强迫劳动.csv       # 150条 UFLPA Entity List (全球) ✅ 2026-04更新
     CMIC_中国军工复合体.csv        # 69条 NS-CMIC List (中国实体) ✅ 2026-04更新
     MEU_军事最终用户.csv           # 75条 MEU List (中国实体) ✅ 2026-04更新
-    CMCC_中国军事企业.csv          # 134条 DoD 1260H CMCC (全球) ✅ 2026-04更新
+    CMCC_中国军事企业.csv          # 44条 EO 13959 CCMC (全球) ✔️ 已停用
     ISN_防扩散制裁.csv            # 39条 ISN List (中国实体) ✅ 2026-04更新
  美方DSCA对台军售通知.csv           # 42条 (2020-05 ~ 2025-12) 双边配对数据
  README.md
@@ -129,11 +129,11 @@ data/
 | Entity List | EL_实体清单.csv | 1201 | BIS (商务部) | ✅ CSL 2026-04 |
 | SDN List | SDN_特别指定国民.csv | 1031 | OFAC (财政部) | ✅ CSL 2026-04 |
 | Unverified List | UVL_未经核实清单.csv | 221 | BIS (商务部) | ✅ CSL 2026-04 |
-| 1260H CMC | CMC_中国军事企业.csv | 76 | DOD (国防部) | ✅ EO 14032 2026-04 |
+| 1260H CMC | CMC_中国军事企业.csv | 130 | DOD (国防部) | ✅ FR 2025-00070 2026-04 |
 | UFLPA | UFLPA_维吾尔强迫劳动.csv | 150 | DHS (国土安全部) | ✅ DHS 2026-04 |
 | NS-CMIC | CMIC_中国军工复合体.csv | 69 | OFAC (财政部) | ✅ CSL 2026-04 |
 | MEU | MEU_军事最终用户.csv | 75 | BIS (商务部) | ✅ CSL 2026-04 |
-| CMCC | CMCC_中国军事企业.csv | 134 | DOD (国防部) | ✅ FR 2025-00070 2026-04 |
+| CMCC | CMCC_中国军事企业.csv | 44 | DOD (国防部) | ✔️ EO 13959 已停用 |
 | ISN | ISN_防扩散制裁.csv | 39 | State (国务院) | ✅ CSL 2026-04 |
 
 ---
