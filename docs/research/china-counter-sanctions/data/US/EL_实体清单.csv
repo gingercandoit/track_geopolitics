@@ -1,121 +1,79 @@
 ﻿英文名称,中文名称,制裁日期,是否母公司,是否上市,股票代码,备注,所在清单
-"Chinese Academy of
-Engineering Physics",中国工程物理研究院,1997/06/30;2001/05/14;2010/12/17;2011/04/18;2011/08/15;2012/09/19;2020/06/05,.,.,,研究所,EL
-"Northwest Institute of
-Nuclear Technology in the
-Science Research",西北核技术研究所,1999/05/28;2010/12/17;2012/09/19,.,.,,研究所,EL
-"Shanghai Institute of Space
-Power Sources","上海空间电源研究所
+Chinese Academy of Engineering Physics,中国工程物理研究院,1997/06/30;2001/05/14;2010/12/17;2011/04/18;2011/08/15;2012/09/19;2020/06/05,.,.,,研究所,EL
+Northwest Institute of Nuclear Technology in the Science Research,西北核技术研究所,1999/05/28;2010/12/17;2012/09/19,.,.,,研究所,EL
+Shanghai Institute of Space Power Sources,"上海空间电源研究所
 （中国航天科工八院811所）",1999/05/28;2010/12/17;2012/09/19;2016/09/20;2019/08/14,.,.,,研究所,EL
-"China Aerospace Science
-and Technology Corporation
-(CASC) 8th Academy",中国航天科技集团公司第八研究院,1999/05/28;2010/12/17;2012/09/19;2016/09/20;2019/08/14,.,.,,研究所,EL
+China Aerospace Science and Technology Corporation (CASC) 8th Academy,中国航天科技集团公司第八研究院,1999/05/28;2010/12/17;2012/09/19;2016/09/20;2019/08/14,.,.,,研究所,EL
 China Aerospace Science and Technology Corporation (CASC) 1st Academy 12 Research Institute,,1999/05/28,,,,研究所,Entity List
-"Beijing Aerospace
-Automatic Control Institute
-(BICD)","北京航天自动控制研究所
+Beijing Aerospace Automatic Control Institute (BICD),"北京航天自动控制研究所
 （中国航天科工一院12所）",1999/05/28;2010/12/17;2012/09/19;2016/09/20;2019/08/14,.,.,,研究所,EL
-"China Aerodynamics
-Research and Development
-Center",中国空气动力研究与发展中心,1999/05/28;2016/09/20,.,.,,研究所,EL
-"Beijing Institute of Structure
-and Environmental
-Engineering",中国航天科工一院702所,1999/05/28;2010/12/17;2012/09/19;2016/09/20;2019/08/14,.,.,,研究所,EL
-China Aerospace Science and Technology Corporation (CASC) 9th Academy 13 Research Institute,,2001/05/14,,,,研究所,Entity List
-"Xi'an Research Institute of
-Navigation Technology",西安航海技术研究所,2001/05/14;2010/12/17;2012/09/09;2016/09/20,.,.,,研究所,EL
-Southwest Research Institute of Electronics Technology,西南电子技术研究院,2001/05/14;2010/12/17;2012/09/09;2016/09/20,.,.,,研究所,EL
-"Northwestern Polytechnical
-University",西北工业大学,2001/05/14;2010/12/17;2012/09/09;2016/09/20;2019/08/14;2022/10/13;2023/03/06,.,.,,高校,EL
-"Beijing Aerospace Times
-Optical-Electronic
-Technology Co., Ltd",北京航天时代光电科技有限公司,2001/05/14;2010/12/17;2012/09/19;2019/08/14,0,0,,内地企业,EL
-"China Aerospace Science
-and Technology Corporation
-(CASC) 1st Academy First Design Department",中国航天科技集团公司一院第一设计部,2001/05/14;2010/12/17;2012/09/19;2019/08/14,.,.,,研究所,EL
-"Huahang Institute of Radio
-Measurement","北京华航无线电测量研究所 
-（中国航天科工三院35所）",2001/05/14;2010/12/17;2012/09/19;2016/09/20;2019/08/14,.,.,,研究所,EL
-China Aerospace Science and Technology Corporation (CASC) 1st Academy 702 Research Institute,,2001/05/14,,,,研究所,Entity List
-"Beijing Power Machinery
-Institute","北京动力机械研究所
-（中国航天科工三院31所）",2001/05/14;2010/12/17;2012/09/19;2019/08/14,.,.,,研究所,EL
+China Aerodynamics Research and Development Center,中国空气动力研究与发展中心,1999/05/28;2016/09/20,.,.,,研究所,EL
+Beijing Institute of Structure and Environmental Engineering,中国航天科工一院702所,1999/05/28;2010/12/17;2012/09/19;2016/09/20;2019/08/14,.,.,,研究所,EL
+Beijing Automation Control Equipment Institute,"北京自动化控制设备研究所
+（中国航天科工三院33所）",2001/05/14;2010/12/17;2012/09/19;2019/08/14,.,.,,研究所,EL
+Baotou Guanghua Chemical Industrial Corporation (Parent Organization: China National Nuclear Group Corporation (CNNC)),中核北方核燃料元件有限公司,2001/05/14;2010/12/17;2016/09/20,1,0,,内地企业,EL
+54th Research Institute of China,中国电子科技集团公司第五十四研究所,2001/05/14;2010/12/17;2012/09/19;2016/09/20,.,.,,研究所,EL
+HiWING Mechanical & Electrical Technology Corporation,航天海鹰机电技术研究院有限公司,2001/05/14;2010/12/17;2012/09/19;2019/08/14,0,0,,内地企业,EL
+Beijing Xinghang Electromechanical Equipment Factory,北京星航机电装备有限公司,2001/05/14;2010/12/17;2012/09/19;2019/08/14,2,0,,内地企业,EL
+"Beijing Hangxing Machinery Manufacturing Corporation., Ltd",北京航星机器制造有限公司,2001/05/14;2010/12/17;2012/09/19;2019/08/14,2,0,,内地企业,EL
 Beijing University of Aeronautics and Astronautics,"
 北京航空航天大学",2001/05/14;2005/09/16;2010/12/17;2023/03/06,.,.,,高校,EL
-"Beijing Hangxing Machinery
-Manufacturing Corporation.,
-Ltd",北京航星机器制造有限公司,2001/05/14;2010/12/17;2012/09/19;2019/08/14,2,0,,内地企业,EL
-"Beijing Xinghang
-Electromechanical
-Equipment Factory",北京星航机电装备有限公司,2001/05/14;2010/12/17;2012/09/19;2019/08/14,2,0,,内地企业,EL
-"HiWING Mechanical &
-Electrical Technology
-Corporation",航天海鹰机电技术研究院有限公司,2001/05/14;2010/12/17;2012/09/19;2019/08/14,0,0,,内地企业,EL
-"China Aerospace Science
-and Industry Corporation
-(CASIC) 3rd Academy",中国航天科工集团第三研究院,2001/05/14;2010/12/17;2012/09/19;2019/08/14,.,.,,研究所,EL
-54th Research Institute of China,中国电子科技集团公司第五十四研究所,2001/05/14;2010/12/17;2012/09/19;2016/09/20,.,.,,研究所,EL
-Baotou Guanghua Chemical Industrial Corporation (Parent Organization: China National Nuclear Group Corporation (CNNC)),中核北方核燃料元件有限公司,2001/05/14;2010/12/17;2016/09/20,1,0,,内地企业,EL
-"Beijing Automation Control
-Equipment Institute","北京自动化控制设备研究所
-（中国航天科工三院33所）",2001/05/14;2010/12/17;2012/09/19;2019/08/14,.,.,,研究所,EL
+Beijing Power Machinery Institute,"北京动力机械研究所
+（中国航天科工三院31所）",2001/05/14;2010/12/17;2012/09/19;2019/08/14,.,.,,研究所,EL
+China Aerospace Science and Industry Corporation (CASIC) 3rd Academy,中国航天科工集团第三研究院,2001/05/14;2010/12/17;2012/09/19;2019/08/14,.,.,,研究所,EL
+Huahang Institute of Radio Measurement,"北京华航无线电测量研究所 
+（中国航天科工三院35所）",2001/05/14;2010/12/17;2012/09/19;2016/09/20;2019/08/14,.,.,,研究所,EL
+China Aerospace Science and Technology Corporation (CASC) 1st Academy First Design Department,中国航天科技集团公司一院第一设计部,2001/05/14;2010/12/17;2012/09/19;2019/08/14,.,.,,研究所,EL
+"Beijing Aerospace Times Optical-Electronic Technology Co., Ltd",北京航天时代光电科技有限公司,2001/05/14;2010/12/17;2012/09/19;2019/08/14,0,0,,内地企业,EL
+Northwestern Polytechnical University,西北工业大学,2001/05/14;2010/12/17;2012/09/09;2016/09/20;2019/08/14;2022/10/13;2023/03/06,.,.,,高校,EL
+Southwest Research Institute of Electronics Technology,西南电子技术研究院,2001/05/14;2010/12/17;2012/09/09;2016/09/20,.,.,,研究所,EL
+Xi'an Research Institute of Navigation Technology,西安航海技术研究所,2001/05/14;2010/12/17;2012/09/09;2016/09/20,.,.,,研究所,EL
+China Aerospace Science and Technology Corporation (CASC) 9th Academy 13 Research Institute,,2001/05/14,,,,研究所,Entity List
+China Aerospace Science and Technology Corporation (CASC) 1st Academy 702 Research Institute,,2001/05/14,,,,研究所,Entity List
 Y-Sing Components Limited,,2008/09/22,.,.,,港企,EL
 A.C. International,广州爱夏国际贸易有限公司,2008/09/22,0,0,,内地企业,EL
-"Kong Fat Electronic Trading
-Limited",,2008/09/22;2020/12/23,.,.,,港企,EL
+Kong Fat Electronic Trading Limited,,2008/09/22;2020/12/23,.,.,,港企,EL
 Asia International Trading Company,,2008/09/22,.,.,,港企,EL
+Tam Shue Nga,,2009/07/21;2020/12/23,.,.,,个人,EL
+Siu Ching Ngai,,2009/07/21;2020/12/23,.,.,,个人,EL
 Sysdynamic Limited.,,2009/07/21;2020/12/23,.,.,,港企,EL
 Sik Yin Ngai,,2009/07/21;2020/12/23,.,.,,个人,EL
-Siu Ching Ngai,,2009/07/21;2020/12/23,.,.,,个人,EL
-Tam Shue Nga,,2009/07/21;2020/12/23,.,.,,个人,EL
 Wong Wai Chung,,2010/01/13;2020/12/23,.,.,,个人,EL
 Wong Yung FaI,,2010/01/13;2020/12/23,.,.,,个人,EL
-"Victory Wave Holdings
-Limited",,2010/01/13;2020/12/23,.,.,,港企,EL
-"Exodus Microelectronics
-Company Limited",,2010/01/13;2020/12/23,.,.,,港企,EL
-"Centre Bright Electronics
-Company Limited",,2010/01/13;2020/12/23,.,.,,港企,EL
+Victory Wave Holdings Limited,,2010/01/13;2020/12/23,.,.,,港企,EL
+Exodus Microelectronics Company Limited,,2010/01/13;2020/12/23,.,.,,港企,EL
+Centre Bright Electronics Company Limited,,2010/01/13;2020/12/23,.,.,,港企,EL
 Hong Chun Tai,,2010/01/13;2020/12/23,.,.,,个人,EL
-"Chitron Electronics Company
-Ltd",深圳市驰创电子有限公司,2010/01/13;2020/12/23,2,0,,内地企业,EL
-Tex-Co Logistics Ltd.,,2010/02/19,,,,港企,Entity List
-ACTeam Logistics Ltd.,,2010/02/19;2020/12/23,.,.,,港企,EL
-"Dick Kuo, Ltd",,2010/02/19;2020/12/23,.,.,,港企,EL
-"Signet Express Co., Ltd.",,2010/02/19;2020/12/23,.,.,,港企,EL
-"Tex-Co Hongxin Logistics
-Limited",,2010/02/19;2015/11/12;2020/12/23,.,.,,港企,EL
+Chitron Electronics Company Ltd,深圳市驰创电子有限公司,2010/01/13;2020/12/23,2,0,,内地企业,EL
 Dick Leung,,2010/02/19;2020/12/23,.,.,,个人,EL
 Joe Shih,,2010/02/19,.,.,,个人,EL
-"OnTime Electronics
-Technology Company",深圳市欧时电子有限公司,2010/06/28;2020/12/23,0,0,,内地企业,EL
+Tex-Co Hongxin Logistics Limited,,2010/02/19;2015/11/12;2020/12/23,.,.,,港企,EL
+"Dick Kuo, Ltd",,2010/02/19;2020/12/23,.,.,,港企,EL
+ACTeam Logistics Ltd.,,2010/02/19;2020/12/23,.,.,,港企,EL
+Tex-Co Logistics Ltd.,,2010/02/19,,,,港企,Entity List
+"Signet Express Co., Ltd.",,2010/02/19;2020/12/23,.,.,,港企,EL
+OnTime Electronics Technology Company,深圳市欧时电子有限公司,2010/06/28;2020/12/23,0,0,,内地企业,EL
 Fang Yu,,2010/06/28,.,.,,个人,EL
-"Xi'an Xiangyu Aviation
-Technology Group",西安翔宇航空科技股份有限公司,2010/06/28,0,0,,内地企业,EL
+Xi'an Xiangyu Aviation Technology Group,西安翔宇航空科技股份有限公司,2010/06/28,0,0,,内地企业,EL
 "Toptics, Inc.",杭州顶尖光学有限公司,2010/06/28,0,0,,内地企业,EL
 Tam Wai Tak,,2010/06/28;2020/12/23,.,.,,个人,EL
-Biznest,,2011/07/25;2015/11/12;2020/12/23,.,.,,港企,EL
 Mikrocity HK Limited.,,2011/07/25;2015/11/12;2020/12/23,.,.,,港企,EL
-"Hang Tat Electronics
-Enterprises Co.",,2011/10/12;2020/12/23,.,.,,港企,EL
+Biznest,,2011/07/25;2015/11/12;2020/12/23,.,.,,港企,EL
+Hang Tat Electronics Enterprises Co.,,2011/10/12;2020/12/23,.,.,,港企,EL
 Cho-Man Wong,,2011/10/12;2014/09/18;2020/12/23,.,.,,个人,EL
-"Zhou Zhenyong,",,2011/10/31;2020/12/23,.,.,,个人,EL
-Luo Jie,,2011/10/31;2020/12/23,.,.,,个人,EL
-Lim Kow Seng,,2011/10/31;2020/12/23,.,.,,个人,EL
+Corezing International Group Company,,2011/10/31;2020/12/23,.,.,,港企,EL
 OEM Hub Co Ltd,,2011/10/31;2020/12/23,.,.,,港企,EL
-"Corezing International
-Group Company",,2011/10/31;2020/12/23,.,.,,港企,EL
 Amaze International,,2011/10/31;2020/12/23,.,.,,港企,EL
+Luo Jie,,2011/10/31;2020/12/23,.,.,,个人,EL
+"Zhou Zhenyong,",,2011/10/31;2020/12/23,.,.,,个人,EL
 "Action Global Co., Limited",动向国际科技股份有限公司,2011/10/31;2020/12/23,2,0,,内地企业,EL
+Lim Kow Seng,,2011/10/31;2020/12/23,.,.,,个人,EL
 Lim Yong Nam,,2011/10/31,.,.,,个人,EL
 "Xian Semi Electronic Co., Ltd.",,2011/11/21,,,,港企,Entity List
-"University of Electronic
-Science and Technology of
-China",,2012/09/19,.,.,,高校,EL
+University of Electronic Science and Technology of China,,2012/09/19,.,.,,高校,EL
 "Sichuan University, Suzhou Research Institute",四川大学苏州研究院,2012/09/19;2023/03/06,.,.,,研究所,EL
 "Sichuan University, Qingdao Research Institute",四川大学青岛研究院,2012/09/19;2023/03/06,.,.,,研究所,EL
-"Sichuan University, Luzhou
-Industrial Technology Research Institute",四川大学泸州产业技术研究院,2012/09/19;2023/03/06,.,.,,研究所,EL
+"Sichuan University, Luzhou Industrial Technology Research Institute",四川大学泸州产业技术研究院,2012/09/19;2023/03/06,.,.,,研究所,EL
 "Sichuan University, Institute of Advanced Polymer Materials",四川大学高分子研究所,2012/09/19;2023/03/06,.,.,,研究所,EL
 Sichuan University,四川大学,2012/09/19;2023/03/06,.,.,,高校,EL
 "Sichuan University, Yibin Industrial Technology Research Institute",四川大学宜宾研究院,2012/09/19;2023/03/06,.,.,,研究所,EL
@@ -123,1190 +81,716 @@ Sergey Koynov,,2012/10/09;2020/12/23,.,.,,港企,EL
 Serko Limited,,2012/10/09;2015/11/12;2020/12/23,.,.,,港企,EL
 Giant Base Asia Limited,,2013/03/28;2015/11/12;2020/12/23,.,.,,港企,EL
 Jadeshine,北京嘉盛智检科技有限公司,2013/03/28,0,0,,内地企业,EL
-"Jadeshine Engineering (HK)
-Co.",,2013/03/28;2015/11/12;2020/12/23,.,.,,港企,EL
+Jadeshine Engineering (HK) Co.,,2013/03/28;2015/11/12;2020/12/23,.,.,,港企,EL
 Jason Shuai,,2013/03/28;2020/12/23,.,.,,个人,EL
-Tenfine Ltd.,,2013/12/12,,,,内地企业,Entity List
-"Beijing Beihang Assets
-Management Co. Ltd.",北京北航资产经营有限公司,2013/12/12;2022/08/24,2,0,,内地企业,EL
-"Longtek Company, Ltd",北京朗迪锋科技有限公司,2013/12/12,2,0,,内地企业,EL
-"Hansen Technologies
-Limited",,2013/12/12;2020/12/23,.,.,,港企,EL
-Beijing Tianhua,北京北航天华时代科技有限公司,2013/12/12;2022/08/24,1,0,,内地企业,EL
-"Comsum Technologies
-(Group) Ltd.",,2013/12/12;2020/21/23,.,.,,港企,EL
-Babak Jafarpour,巴巴克·贾法普尔,2013/12/12;2020/12/23,.,.,,个人,EL
-Bob Jefferson,鲍勃·杰弗逊,2013/12/12;2020/12/23,.,.,,个人,EL
-Peter Jay,彼得·杰,2013/12/12;2020/12/23,.,.,,个人,EL
 Sam Lee,山姆·李,2013/12/12;2020/12/23,.,.,,个人,EL
-"FOC (HK) Technology Co.,
-Ltd.",,2013/12/12;2020/12/23,.,.,,港企,EL
-Samson Lee,萨姆森·李,2013/12/12;2020/12/23,.,.,,个人,EL
+"FOC (HK) Technology Co., Ltd.",,2013/12/12;2020/12/23,.,.,,港企,EL
+Peter Jay,彼得·杰,2013/12/12;2020/12/23,.,.,,个人,EL
 David Lee,大卫·李,2013/12/12;2020/12/23,.,.,,个人,EL
 Anvik Technologies Sdn. Bhd.,,2013/12/12;2020/12/23,.,.,,港企,EL
-"Fushun Jinly Petrochemical
-Carbon Co., Ltd",抚顺金利石化炭素有限公司,2014/05/01,0,0,,内地企业,EL
+Samson Lee,萨姆森·李,2013/12/12;2020/12/23,.,.,,个人,EL
+Bob Jefferson,鲍勃·杰弗逊,2013/12/12;2020/12/23,.,.,,个人,EL
+Tenfine Ltd.,,2013/12/12,,,,内地企业,Entity List
+Comsum Technologies (Group) Ltd.,,2013/12/12;2020/21/23,.,.,,港企,EL
+Beijing Beihang Assets Management Co. Ltd.,北京北航资产经营有限公司,2013/12/12;2022/08/24,2,0,,内地企业,EL
+"Longtek Company, Ltd",北京朗迪锋科技有限公司,2013/12/12,2,0,,内地企业,EL
+Babak Jafarpour,巴巴克·贾法普尔,2013/12/12;2020/12/23,.,.,,个人,EL
+Beijing Tianhua,北京北航天华时代科技有限公司,2013/12/12;2022/08/24,1,0,,内地企业,EL
+Hansen Technologies Limited,,2013/12/12;2020/12/23,.,.,,港企,EL
+"Fushun Jinly Petrochemical Carbon Co., Ltd",抚顺金利石化炭素有限公司,2014/05/01,0,0,,内地企业,EL
 Aviation Industry Corporation of China's (AVIC) Institute 625,中国航空工业集团公司第625研究所,2014/05/01;2018/01/26,.,.,,研究所,EL
-"Chengdu Latest Electronics
-Technology Company",成都雷斯特科技有限公司,2014/05/01,0,0,,内地企业,EL
 Beijing Aeronautical Manufacturing Technology Research Institute,中国航空工业集团公司北京航空制造工程研究所,2014/05/01;2018/01/26,.,.,,研究所,EL
-"Dalian Ligong Safety
-Equipment Company Limited",大连度达理工安全系统有限公司,2014/05/01,0,0,,内地企业,EL
+Dalian Ligong Safety Equipment Company Limited,大连度达理工安全系统有限公司,2014/05/01,0,0,,内地企业,EL
 "Liaoyang Carbon Co., Ltd.",辽阳炭素有限公司,2014/05/01,2,0,,内地企业,EL
-"Xinghe Xingyong Carbon Co.,
-Ltd",兴和兴永碳素有限公司,2014/05/01,0,0,,内地企业,EL
+"Xinghe Xingyong Carbon Co., Ltd",兴和兴永碳素有限公司,2014/05/01,0,0,,内地企业,EL
 Zhu Kuibao,,2014/05/01,.,.,,个人,EL
-Sinovac Technology Limited,,2014/06/05;2020/12/23,.,.,,港企,EL
-Synergy Express Ltd.,,2014/06/05;2020/12/23,.,.,,港企,EL
-Xianfa Lin,,2014/06/05;2017/05/16;200/12/23,.,.,,个人,EL
+Chengdu Latest Electronics Technology Company,成都雷斯特科技有限公司,2014/05/01,0,0,,内地企业,EL
+"JLD Technology, Hong Kong Co., Ltd.",,2014/06/05;2015/11/12;2020/12/23,.,.,,港企,EL
 Bing Lu,,2014/06/05;2020/12/23,.,.,,港企,EL
 BVI Electronics,,2014/06/05;2020/12/13,.,.,,港企,EL
-"JLD Technology, Hong Kong
-Co., Ltd.",,2014/06/05;2015/11/12;2020/12/23,.,.,,港企,EL
+Xianfa Lin,,2014/06/05;2017/05/16;200/12/23,.,.,,个人,EL
+Sinovac Technology Limited,,2014/06/05;2020/12/23,.,.,,港企,EL
+Synergy Express Ltd.,,2014/06/05;2020/12/23,.,.,,港企,EL
 China Xinshidai Company,中国新时代科技有限公司,2014/06/26,1,0,,内地企业,EL
 HWA Create,北京华力创通科技股份有限公司,2014/06/26;2020/12/23,2,2,300045.0,内地企业,EL
-"Panda International
-Information Technology
-Company, Ltd",熊猫（北京）国际信息技术有限公司,2014/06/26,1,1,600775.0,内地企业,EL
+"Panda International Information Technology Company, Ltd",熊猫（北京）国际信息技术有限公司,2014/06/26,1,1,600775.0,内地企业,EL
 "Poly Technologies Inc.,",保利科技有限公司,2014/06/26,1,0,,内地企业,EL
-"China Electronics Technology
-Group Corporation 29 (CETC
-29) Research Institute","中国电子科技集团公司第二十九研究所
+China Electronics Technology Group Corporation 29 (CETC 29) Research Institute,"中国电子科技集团公司第二十九研究所
 （中国西南电子设备研究所）",2014/08/01;2015/11/12,.,.,,研究所,EL
-"Qing'an International Trading
-Group",中国庆安国际贸易集团有限公司,2014/08/01,0,0,,内地企业,EL
-"PRC Lode Technology
-Company",北京诺典科技有限公司,2014/08/01;2015/11/12;2016/03/21;2020/12/23,0,0,,内地企业,EL
+Qing'an International Trading Group,中国庆安国际贸易集团有限公司,2014/08/01,0,0,,内地企业,EL
+PRC Lode Technology Company,北京诺典科技有限公司,2014/08/01;2015/11/12;2016/03/21;2020/12/23,0,0,,内地企业,EL
 Beijing Aeronautics Yangpu Technology Investment Company (BAYTIC),,2014/08/01,,,,内地企业,Entity List
-"Chengdu GaStone
-Technology Co., Ltd.",成都海威华芯科技有限公司,2014/08/01;2016/03/21;2018/08/01,0,0,,内地企业,EL
-"Tian Hang Yang Pu
-Technology Investment
-Limited Company",北京天航阳普科技投资有限公司,2014/08/01,0,0,,内地企业,EL
+"Chengdu GaStone Technology Co., Ltd.",成都海威华芯科技有限公司,2014/08/01;2016/03/21;2018/08/01,0,0,,内地企业,EL
+Tian Hang Yang Pu Technology Investment Limited Company,北京天航阳普科技投资有限公司,2014/08/01,0,0,,内地企业,EL
 Su Bin,,2014/08/01;2020/12/23;2021/03/04,.,.,,个人,EL
-"Jiangsu Leidian Technology
-Company (JLTC)",江苏昊锐宜拓科技有限公司,2014/08/01,0,0,,内地企业,EL
+Jiangsu Leidian Technology Company (JLTC),江苏昊锐宜拓科技有限公司,2014/08/01,0,0,,内地企业,EL
+Sau Luen Chan,,2014/09/18;2020/12/23,.,.,,个人,EL
+Channel Rich Electronics Company Limited,,2014/09/18;2020/12/23,.,.,,港企,EL
+Fortune Source Electronics Co. Ltd,,2014/09/18;2020/12/23,.,.,,港企,EL
 Bako Cheung,,2014/09/18;2020/12/23,.,.,,个人,EL
 Beijing Lion Heart International Trading Company,北京莱恩赫特国际贸易有限公司,2014/09/18;2020/12/23,0,0,,内地企业,EL
-"Channel Rich Electronics
-Company Limited",,2014/09/18;2020/12/23,.,.,,港企,EL
-"Fortune Source Electronics
-Co. Ltd",,2014/09/18;2020/12/23,.,.,,港企,EL
-Sau Luen Chan,,2014/09/18;2020/12/23,.,.,,个人,EL
-"National University of
-Defense Technology (NUDT)",国防科技大学,2015/02/18;2019/06/24;2022/06/30;2022/10/13,.,.,,高校,EL
-"National Supercomputing
-Center Changsha",国家超级计算长沙中心,2015/02/18;2022/10/13,.,.,,研究所,EL
-"National Supercomputing
-Center Guangzhou",国家超级计算广州中心,2015/02/18;2022/10/13,.,.,,研究所,EL
-"National Supercomputing
-Center Shenzhen",国家超级计算深圳中心,2015/02/18;2022/10/13,.,.,,研究所,EL
-"Shandong Sheenrun Optics &
-Electronics Co., Ltd.",山东神戎电子股份有限公司,2015/04/23,2,2,832992.0,内地企业,EL
+National University of Defense Technology (NUDT),国防科技大学,2015/02/18;2019/06/24;2022/06/30;2022/10/13,.,.,,高校,EL
+National Supercomputing Center Changsha,国家超级计算长沙中心,2015/02/18;2022/10/13,.,.,,研究所,EL
+National Supercomputing Center Guangzhou,国家超级计算广州中心,2015/02/18;2022/10/13,.,.,,研究所,EL
+National Supercomputing Center Shenzhen,国家超级计算深圳中心,2015/02/18;2022/10/13,.,.,,研究所,EL
+"Shandong Sheenrun Optics & Electronics Co., Ltd.",山东神戎电子股份有限公司,2015/04/23,2,2,832992.0,内地企业,EL
 Kinglead International Trading Limited,,2015/06/05;2015/11/12;2020/12/23,.,.,,港企,EL
 "Kinglead Electronics Co., Ltd.",深圳市津利帝科技有限公司,2015/06/05;2015/11/12;2020/12/23,0,0,,内地企业,EL
 Beijing FJR Optoelectronic Technology Company Ltd,北京富吉瑞光电科技股份有限公司,2015/07/08,2,2,688272.0,内地企业,EL
 Beijing Opto-Electronics Technology Company,北京雷生强式科技有限责任公司,2015/07/28,1,0,,内地企业,EL
 Yin Zhao,,2015/07/28,.,.,,个人,EL
 BOP Opto-Electronics Technology Company,北京波谱华光科技有限公司,2015/07/28,1,0,,内地企业,EL
-"China
-Electronics Technology
-Corporation (CETC) Infrared
-Engineering and Technology
-Company",中电科技集团红外工程技术有限公司,2015/07/28,0,0,,内地企业,EL
-"Yiwu Tianying Optical
-Instrument Company",,2015/07/28,.,.,,港企,EL
-"China Electronic Technology
-Group Corporation No. 11
-Research Institute",中国电子科技集团公司第十一研究所,2015/07/28,.,.,,研究所,EL
+China Electronics Technology Corporation (CETC) Infrared Engineering and Technology Company,中电科技集团红外工程技术有限公司,2015/07/28,0,0,,内地企业,EL
+Yiwu Tianying Optical Instrument Company,,2015/07/28,.,.,,港企,EL
+China Electronic Technology Group Corporation No. 11 Research Institute,中国电子科技集团公司第十一研究所,2015/07/28,.,.,,研究所,EL
 Fuyuan Huang,,2015/07/28,.,.,,个人,EL
-Caprice Group Ltd,,2015/11/12;2020/12/23,.,.,,港企,EL
-Kitronix Display (H. K) Limited,,2015/11/12;2020/12/23,.,.,,港企,EL
-Reekay Technology Ltd,,2015/11/12;2020/12/23,.,.,,港企,EL
-Sky Rise Technology Ltd.,,2015/11/12;2020/12/23,.,.,,港企,EL
-"TiMi Technologies Co., Ltd",北京泰美世纪科技有限公司,2015/11/12;2020/12/23,0,0,,内地企业,EL
-Wang Wei,,2015/11/12;2020/12/23,.,.,,个人,EL
 32Group China Ltd.,,2015/11/12,.,.,,港企,EL
+Wang Wei,,2015/11/12;2020/12/23,.,.,,个人,EL
+"TiMi Technologies Co., Ltd",北京泰美世纪科技有限公司,2015/11/12;2020/12/23,0,0,,内地企业,EL
+Caprice Group Ltd,,2015/11/12;2020/12/23,.,.,,港企,EL
+Reekay Technology Ltd,,2015/11/12;2020/12/23,.,.,,港企,EL
+Kitronix Display (H. K) Limited,,2015/11/12;2020/12/23,.,.,,港企,EL
+Sky Rise Technology Ltd.,,2015/11/12;2020/12/23,.,.,,港企,EL
 Beijing 8 Star International Co.,北京八星国际贸易有限公司,2016/03/08,0,0,,内地企业,EL
 Edward Fan,,2016/03/21;2019/08/14,.,.,,个人,EL
 Sharon Yang,,2016/03/21;2019/08/14,.,.,,个人,EL
 Gala Wang,,2016/03/21,.,.,,个人,EL
 Chen Qu,,2016/03/21;2019/08/14,.,.,,个人,EL
 Skylinks FZC,,2016/03/21;2020/12/23,.,.,,港企,EL
-"Joinus Freight Systems HK
-Ltd,",,2016/03/21;2018/09/04;2020/12/23,.,.,,港企,EL
+"Joinus Freight Systems HK Ltd,",,2016/03/21;2018/09/04;2020/12/23,.,.,,港企,EL
 TanWei,,2016/03/21;2019/08/14,.,.,,个人,EL
-"Jinan Tongbaolai Oilfield
-Equipment Co. Ltd",济南通宝莱石油机械有限公司,2016/03/21,0,0,,内地企业,EL
-Ninehead Bird Semiconductor,,2016/06/21,,,,内地企业,Entity List
-"Pinky Trading Co., Ltd.",,2016/06/21,,,,港企,Entity List
-INFINITY WISE TECHNOLOGY LIMITED,,2016/06/21;2020/12/23,.,.,,港企,EL
-"Wise Smart (HK) Electronics
-Limited",,2016/06/21;2020/12/23,.,.,,港企,EL
-Well Smart (HK) Technology,,2016/06/21;2020/12/23,.,.,,港企,EL
+Jinan Tongbaolai Oilfield Equipment Co. Ltd,济南通宝莱石油机械有限公司,2016/03/21,0,0,,内地企业,EL
 Panda Semiconductor,,2016/06/21;2020/12/23,.,.,,港企,EL
 Foang Tech Inc.,,2016/06/21;2020/12/23,.,.,,港企,EL
+Well Smart (HK) Technology,,2016/06/21;2020/12/23,.,.,,港企,EL
+Ninehead Bird Semiconductor,,2016/06/21,,,,内地企业,Entity List
+INFINITY WISE TECHNOLOGY LIMITED,,2016/06/21;2020/12/23,.,.,,港企,EL
+"Pinky Trading Co., Ltd.",,2016/06/21,,,,港企,Entity List
+Wise Smart (HK) Electronics Limited,,2016/06/21;2020/12/23,.,.,,港企,EL
 Technopole Ltd.,,2016/09/07;2020/12/23,.,.,,港企,EL
 Giovan Ltd,,2016/09/07;2020/12/23,.,.,,港企,EL
 Shi Lirong,,2017/03/29,.,.,,个人,EL
-"Chengdu Spaceon
-Technology Co., Ltd.,",成都天奥信息科技有限公司,2018/01/26,1,0,,内地企业,EL
+"Chengdu Spaceon Technology Co., Ltd.,",成都天奥信息科技有限公司,2018/01/26,1,0,,内地企业,EL
+Hebei Poshing Electronics,河北普兴电子科技股份有限公司,2018/08/01;2022/12/19,1,0,,内地企业,EL
+Hebei Medicines Health,河北省医药保健品进出口集团公司,2018/08/01;2022/12/19,1,0,,内地企业,EL
+Hebei Brightway International,河北兴业恒通国际贸易有限公司,2018/08/01;2022/12/19,0,0,,内地企业,EL
+Shijiazhuang Development Zone Maiteda Microelectronics Technology Development and Application,石家庄麦特达电子科技有限公司,2018/08/01;2022/12/19,0,0,,内地企业,EL
+Hebei Envoltek Electronics,河北英沃泰电子科技有限公司,2018/08/01;2022/12/19,0,0,,内地企业,EL
+Anhui Sun-Create Electronics,四创电子股份有限公司,2018/08/01;2020/06/05,2,2,600990.0,内地企业,EL
+Anhui Bowei Chang An Electronics,安徽博微长安电子有限公司,2018/08/01;2020/06/05,1,1,600990.0,内地企业,EL
+Tonghui Electronics,同辉电子科技股份有限公司,2018/08/01;2022/12/19,0,0,,内地企业,EL
+Hefei ECU–TAMURA Electric,合肥博微田村电气有限公司,2018/08/01;2020/06/05,1,0,,内地企业,EL
+Beijing Institute of Computer Applications and Simulation Technology,北京计算机技术及应用研究所,2018/08/01,.,.,,研究所,EL
+Anhui Bowei Ruida Electronics Technology,芜湖博微瑞达电子科技有限公司,2018/08/01;2020/06/05,0,0,,内地企业,EL
+Brainware Terahertz,博微太赫兹信息科技有限公司,2018/08/01;2020/06/05,0,0,,内地企业,EL
+Beijing Guangda Optoelectronics,北京环境特征研究所,2018/08/01,.,.,,研究所,EL
+Aerospace Science and Technology Defense Technology Research and Experimental Center,航天科技防御技术研究与实验中心,2018/08/01,.,.,,研究所,EL
+Beijing Institute of Remote Sensing Equipment,北京遥感设备研究所,2018/08/01,.,.,,研究所,EL
+Beijing Institute of Radio Measurement,北京无线电测量研究所,2018/08/01,.,.,,研究所,EL
+Second Design Department,中国航天科工集团有限公司第二研究院第二设计总部,2018/08/01,.,.,,研究所,EL
+ECU Electronic Industria,合肥华耀电子工业有限公司,2018/08/01;2020/06/05,1,1,600990.0,内地企业,EL
+China Aerospace Science and Industry Corporation Second Academy,中国航天科工集团有限公司第二研究院,2018/08/01,.,.,,研究所,EL
+Anhui Bowei Guangcheng Information Technology,安徽博微广成信息科技有限公司,2018/08/01;2020/06/05,2,0,,内地企业,EL
+Hebei Sinopack Electronics,河北中瓷电子科技股份有限公司,2018/08/01;2022/12/19,2,2,3031.0,内地企业,EL
+Beijing Radio Measurement and Testing Institute,北京无线电计量测试研究所,2018/08/01,.,.,,研究所,EL
+North China Integrated Circuit Corporation,河北新华北集成电路有限公司,2018/08/01;2022/12/19,0,0,,内地企业,EL
 Hebei Bowei Integrated,河北博威集成电路有限公司,2018/08/01;2022/12/19,1,1,3031.0,内地企业,EL
 Beijing Xinfeng Machinery Factory,北京新风机械厂,2018/08/01,.,.,,研究所,EL
 Beijing Changfeng Machinery Factory,北京长峰机械厂,2018/08/01,.,.,,研究所,EL
 Beijing Xinli Machinery Factory,北京新立机械厂,2018/08/01,.,.,,研究所,EL
-"China Electronics Technology
-Group Corporation 55th
-Research Institute ","中国电子科技集团公司第五十五研究所
+China Electronics Technology Group Corporation 55th Research Institute,"中国电子科技集团公司第五十五研究所
 南京电子器件研究所",2018/08/01;2020/06/05,.,.,,研究所,EL
 Nanjing Guosheng Electronics,南京国盛电子有限公司,2018/08/01;2020/06/05,1,0,,内地企业,EL
+MT Microsystems,河北美泰电子科技有限公司,2018/08/01;2022/12/19,0,0,,内地企业,EL
 Nanjing Guobo Electronic,南京国博电子股份有限公司,2018/08/01;2020/06/05,2,2,688375.0,内地企业,EL
 NEDITEK,南京南德赛科技有限公司,2018/08/01;2020/06/05,1,0,,内地企业,EL
-"China Electronics Technology
-Group Corporation 14th
-Research Institute (CETC 14)","中国电子科技集团公司第十四研究所
+China Electronics Technology Group Corporation 14th Research Institute (CETC 14),"中国电子科技集团公司第十四研究所
 （南京电子技术研究所）",2018/08/01,.,.,,研究所,EL
-China Volant Industry,中国华腾工业有限公司,2018/08/01,1,0,,内地企业,EL
-"Hebei Far East
-Communication System
-Engineering",河北远东通信系统工程有限公司,2018/08/01,1,1,2544.0,内地企业,EL
+Hebei Far East Communication System Engineering,河北远东通信系统工程有限公司,2018/08/01,1,1,2544.0,内地企业,EL
 Xian Changfeng Electromechanical Institute,西安长峰机电研究所,2018/08/01,.,.,,研究所,EL
-"Nanjing SunSea Industry
-Corporation",南京三思实业有限公司,2018/08/01,1,0,,内地企业,EL
-"Nanjing Institute of Radio
-Technology",南京无线电技术研究所,2018/08/01,.,.,,研究所,EL
-"China Electronics Technology
-Group Corporation 13th
-Research Institute (CETC 13)","中国电子科技集团公司第十三研究所
+Nanjing SunSea Industry Corporation,南京三思实业有限公司,2018/08/01,1,0,,内地企业,EL
+Nanjing Institute of Radio Technology,南京无线电技术研究所,2018/08/01,.,.,,研究所,EL
+China Electronics Technology Group Corporation 13th Research Institute (CETC 13),"中国电子科技集团公司第十三研究所
 （河北半导体研究所）",2018/08/01;2022/12/19,.,.,,研究所,EL
-"China Tech Hi Industry
-Import and Export
-Corporation",天航工业进出口有限公司,2018/08/01,1,0,,内地企业,EL
+China Tech Hi Industry Import and Export Corporation,天航工业进出口有限公司,2018/08/01,1,0,,内地企业,EL
 Beijing Electronic Document Service Center,北京电子工程总体研究所,2018/08/01,.,.,,研究所,EL
-"China Electronics Technology
-Group Corporation 38th
-Research Institute (CETC 38)",中国电子科技集团公司第三十八研究所,2018/08/01,.,.,,研究所,EL
+China Electronics Technology Group Corporation 38th Research Institute (CETC 38),中国电子科技集团公司第三十八研究所,2018/08/01,.,.,,研究所,EL
 Beijing Institute of Mechanical Equipment,北京机械设备研究所,2018/08/01,.,.,,研究所,EL
-"North
-China Integrated Circuit
-Corporation",河北新华北集成电路有限公司,2018/08/01;2022/12/19,0,0,,内地企业,EL
-MT Microsystems,河北美泰电子科技有限公司,2018/08/01;2022/12/19,0,0,,内地企业,EL
-"Hebei
-Sinopack Electronics",河北中瓷电子科技股份有限公司,2018/08/01;2022/12/19,2,2,3031.0,内地企业,EL
-Beijing Guangda Optoelectronics,北京环境特征研究所,2018/08/01,.,.,,研究所,EL
-"Hebei
-Poshing Electronics",河北普兴电子科技股份有限公司,2018/08/01;2022/12/19,1,0,,内地企业,EL
-"Hebei
-Medicines Health",河北省医药保健品进出口集团公司,2018/08/01;2022/12/19,1,0,,内地企业,EL
-"Hebei Brightway
-International",河北兴业恒通国际贸易有限公司,2018/08/01;2022/12/19,0,0,,内地企业,EL
-"Shijiazhuang Development
-Zone Maiteda
-Microelectronics Technology
-Development and Application",石家庄麦特达电子科技有限公司,2018/08/01;2022/12/19,0,0,,内地企业,EL
-Hebei Envoltek Electronics,河北英沃泰电子科技有限公司,2018/08/01;2022/12/19,0,0,,内地企业,EL
-Anhui Sun-Create Electronics,四创电子股份有限公司,2018/08/01;2020/06/05,2,2,600990.0,内地企业,EL
-"Anhui Bowei Chang An
-Electronics",安徽博微长安电子有限公司,2018/08/01;2020/06/05,1,1,600990.0,内地企业,EL
-Tonghui Electronics,同辉电子科技股份有限公司,2018/08/01;2022/12/19,0,0,,内地企业,EL
-Hefei ECU–TAMURA Electric,合肥博微田村电气有限公司,2018/08/01;2020/06/05,1,0,,内地企业,EL
-"Anhui Bowei Guangcheng
-Information Technology",安徽博微广成信息科技有限公司,2018/08/01;2020/06/05,2,0,,内地企业,EL
-Anhui Bowei Ruida Electronics Technology,芜湖博微瑞达电子科技有限公司,2018/08/01;2020/06/05,0,0,,内地企业,EL
-Brainware Terahertz,博微太赫兹信息科技有限公司,2018/08/01;2020/06/05,0,0,,内地企业,EL
-"Beijing Institute of Computer Applications and Simulation 
-Technology",北京计算机技术及应用研究所,2018/08/01,.,.,,研究所,EL
-"Beijing Radio Measurement
-and Testing Institute",北京无线电计量测试研究所,2018/08/01,.,.,,研究所,EL
-"Aerospace Science and Technology Defense
-Technology Research and
-Experimental Center",航天科技防御技术研究与实验中心,2018/08/01,.,.,,研究所,EL
-"Beijing Institute of Remote
-Sensing Equipment",北京遥感设备研究所,2018/08/01,.,.,,研究所,EL
-"Beijing Institute of Radio
-Measurement",北京无线电测量研究所,2018/08/01,.,.,,研究所,EL
-Second Design Department,中国航天科工集团有限公司第二研究院第二设计总部,2018/08/01,.,.,,研究所,EL
-ECU Electronic Industria,合肥华耀电子工业有限公司,2018/08/01;2020/06/05,1,1,600990.0,内地企业,EL
-"China Aerospace Science
-and Industry Corporation
-Second Academy",中国航天科工集团有限公司第二研究院,2018/08/01,.,.,,研究所,EL
-Ray Hui,,2018/09/04;2020/12/23,.,.,,个人,EL
-Seajet Company Limited,北京海翔国际运输代理有限公司,2018/09/04,0,0,,内地企业,EL
-Ma Yunong,,2018/09/04,.,.,,个人,EL
-"ZM International Company
-Ltd.,",,2018/09/04;2019/08/14;2020/12/23,.,.,,港企,EL
-"Hisiang Logistics Company
-Limited",北京海翔国际运输代理有限公司,2018/09/04;2021/06/01,0,0,,内地企业,EL
+China Volant Industry,中国华腾工业有限公司,2018/08/01,1,0,,内地企业,EL
 LHI Technology (H.K.) Company Limited,,2018/09/04;2019/08/14;2020/12/23,.,.,,港企,EL
 CLC Holdings Limited,,2018/09/04;2019/08/14;2020/12/23,.,.,,港企,EL
+Hisiang Logistics Company Limited,北京海翔国际运输代理有限公司,2018/09/04;2021/06/01,0,0,,内地企业,EL
 Calvin Law,,2018/09/04;2019/08/14;2020/12/23,.,.,,港企,EL
-"Fujian Jinhua Integrated
-Circuit Company, Ltd.",福建省晋华集成电路有限公司,2018/10/30,0,0,,内地企业,EL
-"Tenco Technology Company
-Ltd",深圳市天高科技有限公司,2019/05/14,0,0,,内地企业,EL
-Longkui Qu,,2019/05/14,.,.,,个人,EL
-Yutron Technology Co. Ltd.,,2019/05/14;2020/12/23,.,.,,港企,EL
-"Shenzhen Shengfaweiye
-Electronic Co., Ltd.",深圳市盛发伟业电子有限公司,2019/05/14;2020/12/23;2022/12/19,0,0,,内地企业,EL
-"Taizhou CBM-Future New
-Material Science and
-Technology Co., Ltd.",台州中浮新材料科技股份有限公司,2019/05/14,0,0,,内地企业,EL
-"Multi-Mart Electronics
-Technology Co, Ltd.",,2019/05/14;2020/12/23,.,.,,港企,EL
+Ma Yunong,,2018/09/04,.,.,,个人,EL
+Seajet Company Limited,北京海翔国际运输代理有限公司,2018/09/04,0,0,,内地企业,EL
+Ray Hui,,2018/09/04;2020/12/23,.,.,,个人,EL
+"ZM International Company Ltd.,",,2018/09/04;2019/08/14;2020/12/23,.,.,,港企,EL
+"Fujian Jinhua Integrated Circuit Company, Ltd.",福建省晋华集成电路有限公司,2018/10/30,0,0,,内地企业,EL
 "Avin Electronics Technology Co., Ltd.",,2019/05/14;2020/12/23,.,.,,港企,EL
-"Shanghai Haisi Technology
-Co., Ltd",海思技术有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
-"Shanghai Mossel Trade Co.,
-Ltd., Shanghai, China.",上海莫塞尔贸易有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
-"Shenzhen Huawei Technical
-Services Co., Ltd",深圳市华为技术服务有限公司,2019/05/21;2019/08/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
-"Shenzhen Huawei Terminal
-Commercial Co., Ltd.,",东莞华为终端商业有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
-"Shenzhen Huawei Training
-School Co., Ltd.",深圳市华为培训学院有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
-"Shenzhen Huayi Loan Small
-Loan Co., Ltd.,",深圳市华宜贷小额贷款有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
-"Shenzhen Legrit Technology
-Co., Ltd.",深圳市力捷科技有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
-"Smartcom (Hong Kong) Co.,Limited",,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,.,.,,港企,EL
-"North Huawei
-Communication Technology
-Co., Ltd.",北京北方华为通信技术有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
-Hui Tong Business Ltd.,,2019/05/21,,,,港企,Entity List
-"Suzhou Huawei Investment Co., Ltd.",苏州华为投资有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
-"Wuhan Huawei Investment Co., Ltd.",武汉华为投资有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
-"Xi'an Huawei Technologies
-Co., Ltd.",西安华为技术有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
-"Xi'an Ruixin Investment Co.,
-Ltd",西安锐信投资有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
-"Shenzhen Smartcom
-Business Co., Ltd.",深圳慧通商务有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
-"Huayi Internet Information Service Co., Ltd.",华宜互联信息服务有限公司,2019/05/21;2019/08/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
-"Hua Ying Management Co.
-Limited",,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,.,.,,港企,EL
-"Zhejiang Huawei
-Communications Technology
-Co., Ltd.",浙江华为通信技术有限公司,2019/05/21;2019/08/21;2020/05/19;2020/06/18;2020/08/20;2021/12/17;2022/02/03;2022/02/14;2022/04/11;2022/09/09,1,0,,内地企业,EL
-"Huawei Training (Dongguan)
-Co., Ltd.",华为培训（东莞）有限公司,2019/05/21;2019/08/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
-"Chengdu Huawei
-Technologies Co., Ltd.,",華爲技術投資有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,.,.,,港企,EL
-"Dongguan Huawei Service
-Co., Ltd.",东莞华为服务有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
-"Dongguan Lvyuan Industry
-Investment Co., Ltd.",东莞绿苑实业投资有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
-"Gui'an New District Huawei
-Investment Co., Ltd",贵安新区华为投资有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
-"Hangzhou Huawei Digital
-Technology Co., Ltd.",杭州华为数字技术有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
-"HiSilicon Optoelectronics Co.,
-Ltd",海思光电子有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
-"HiSilicon Technologies Co.,
-Ltd (HiSilicon)",深圳市海思半导体有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
-"HiSilicon Tech (Suzhou) Co.,
-Ltd.",苏州市海思半导体有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
-"Huawei Device Co., Ltd",华为终端（东莞）有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
-"Chengdu Huawei High-Tech
-Investment Co., Ltd.,",成都华为高新投资有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
-"Huawei Device (Hong Kong)
-Co., Limited,",,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,.,.,,港企,EL
+"Taizhou CBM-Future New Material Science and Technology Co., Ltd.",台州中浮新材料科技股份有限公司,2019/05/14,0,0,,内地企业,EL
+"Shenzhen Shengfaweiye Electronic Co., Ltd.",深圳市盛发伟业电子有限公司,2019/05/14;2020/12/23;2022/12/19,0,0,,内地企业,EL
+"Multi-Mart Electronics Technology Co, Ltd.",,2019/05/14;2020/12/23,.,.,,港企,EL
+Longkui Qu,,2019/05/14,.,.,,个人,EL
+Tenco Technology Company Ltd,深圳市天高科技有限公司,2019/05/14,0,0,,内地企业,EL
+Yutron Technology Co. Ltd.,,2019/05/14;2020/12/23,.,.,,港企,EL
 Huawei Technologies Co. Ltd.,,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,.,.,,港企,EL
-"Songshan Lake Southern
-Factory",松山湖实验室,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,.,.,,研究所,EL
-"Huawei International Co.,
-Limited",,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,.,.,,港企,EL
+"HiSilicon Optoelectronics Co., Ltd",海思光电子有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
+"HiSilicon Technologies Co., Ltd (HiSilicon)",深圳市海思半导体有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
+"HiSilicon Tech (Suzhou) Co., Ltd.",苏州市海思半导体有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
+"Huawei Device Co., Ltd",华为终端（东莞）有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
+"Hangzhou Huawei Digital Technology Co., Ltd.",杭州华为数字技术有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
+"Chengdu Huawei High-Tech Investment Co., Ltd.,",成都华为高新投资有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
+"Huawei Device (Hong Kong) Co., Limited,",,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,.,.,,港企,EL
+Songshan Lake Southern Factory,松山湖实验室,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,.,.,,研究所,EL
+"Huawei Technical Service Co., Ltd",华为技术服务有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
+"Huawei International Co., Limited",,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,.,.,,港企,EL
 "Huawei Machine Co., Ltd.",华为机器有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
-"Huawei Software
-Technologies Co., Ltd.,",华为软件技术有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
-"Huawei Tech. Investment Co.,
-Limited",,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,.,.,,港企,EL
-"Huawei Technical Service
-Co., Ltd",华为技术服务有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
+"Huawei Software Technologies Co., Ltd.,",华为软件技术有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
+"Huawei Tech. Investment Co., Limited",,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,.,.,,港企,EL
 "Huawei Technologies Co.,Ltd.",华为技术有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
-"Huawei Digital Technologies
-(Suzhou) Co., Ltd.",华为数字技术（苏州）有限公司,2019/05/21;2019/08/21;2020/05/19;2020/06/18;2020/08/20;2021/12/17;2022/02/03;2022/02/14;2022/04/11;2022/09/09,1,0,,内地企业,EL
-"Shanghai Huawei
-Technologies Co., Ltd.",上海华为技术有限公司,2019/05/21;2019/08/21;2020/05/19;2020/06/18;2020/08/20;2021/12/17;2022/02/03;2022/02/14;2022/04/11;2022/09/09,1,0,,内地企业,EL
-"Huawei Device (Shenzhen)
-Co., Ltd",华为终端（深圳）有限公司,2019/05/21;2019/08/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
+"Huawei Digital Technologies (Suzhou) Co., Ltd.",华为数字技术（苏州）有限公司,2019/05/21;2019/08/21;2020/05/19;2020/06/18;2020/08/20;2021/12/17;2022/02/03;2022/02/14;2022/04/11;2022/09/09,1,0,,内地企业,EL
+"Shanghai Huawei Technologies Co., Ltd.",上海华为技术有限公司,2019/05/21;2019/08/21;2020/05/19;2020/06/18;2020/08/20;2021/12/17;2022/02/03;2022/02/14;2022/04/11;2022/09/09,1,0,,内地企业,EL
+"Huawei Device (Shenzhen) Co., Ltd",华为终端（深圳）有限公司,2019/05/21;2019/08/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
+"Gui'an New District Huawei Investment Co., Ltd",贵安新区华为投资有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
 "Beijing Huawei Digital Technologies Co., Ltd.",北京华为数字技术有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
-"Wuxi Jiangnan Institute of
-Computing Technology",无锡江南计算技术研究所,2019/06/24;2022/10/13,.,.,,研究所,EL
+"Dongguan Lvyuan Industry Investment Co., Ltd.",东莞绿苑实业投资有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
+Hui Tong Business Ltd.,,2019/05/21,,,,港企,Entity List
+"Chengdu Huawei Technologies Co., Ltd.,",華爲技術投資有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,.,.,,港企,EL
+"Dongguan Huawei Service Co., Ltd.",东莞华为服务有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
+"Shanghai Haisi Technology Co., Ltd",海思技术有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
+"Shanghai Mossel Trade Co., Ltd., Shanghai, China.",上海莫塞尔贸易有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
+"Shenzhen Huawei Terminal Commercial Co., Ltd.,",东莞华为终端商业有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
+"Shenzhen Huawei Training School Co., Ltd.",深圳市华为培训学院有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
+"Shenzhen Huayi Loan Small Loan Co., Ltd.,",深圳市华宜贷小额贷款有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
+"Shenzhen Legrit Technology Co., Ltd.",深圳市力捷科技有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
+"Smartcom (Hong Kong) Co.,Limited",,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,.,.,,港企,EL
+"North Huawei Communication Technology Co., Ltd.",北京北方华为通信技术有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
+"Shenzhen Huawei Technical Services Co., Ltd",深圳市华为技术服务有限公司,2019/05/21;2019/08/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
+"Wuhan Huawei Investment Co., Ltd.",武汉华为投资有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
+"Xi'an Huawei Technologies Co., Ltd.",西安华为技术有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
+"Xi'an Ruixin Investment Co., Ltd",西安锐信投资有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
+"Shenzhen Smartcom Business Co., Ltd.",深圳慧通商务有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
+"Huayi Internet Information Service Co., Ltd.",华宜互联信息服务有限公司,2019/05/21;2019/08/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
+"Huawei Training (Dongguan) Co., Ltd.",华为培训（东莞）有限公司,2019/05/21;2019/08/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
+Hua Ying Management Co. Limited,,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,.,.,,港企,EL
+"Zhejiang Huawei Communications Technology Co., Ltd.",浙江华为通信技术有限公司,2019/05/21;2019/08/21;2020/05/19;2020/06/18;2020/08/20;2021/12/17;2022/02/03;2022/02/14;2022/04/11;2022/09/09,1,0,,内地企业,EL
+"Suzhou Huawei Investment Co., Ltd.",苏州华为投资有限公司,2019/05/21;2020/05/19;2020/06/18;2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
+Chengdu Haiguang Integrated Circuit,成都海光集成电路设计有限公司,2019/06/24;2022/10/13,1,1,688041.0,内地企业,EL
+Chengdu Haiguang Microelectronics Technology,成都海光微电子技术有限公司,2019/06/24;2022/10/13,1,1,688041.0,内地企业,EL
+Higon Information Technology,海光信息技术股份有限公司,2019/06/24;2022/10/13,2,2,688041.0,内地企业,EL
+Wuxi Jiangnan Institute of Computing Technology,无锡江南计算技术研究所,2019/06/24;2022/10/13,.,.,,研究所,EL
 Tianjin Shuguang Computer Industry,曙光信息产业股份有限公司,2019/06/24;2022/10/13,2,2,603019.0,内地企业,EL
-"Higon Information
-Technology",海光信息技术股份有限公司,2019/06/24;2022/10/13,2,2,688041.0,内地企业,EL
-"Chengdu Haiguang
-Microelectronics Technology",成都海光微电子技术有限公司,2019/06/24;2022/10/13,1,1,688041.0,内地企业,EL
-"Chengdu Haiguang
-Integrated Circuit",成都海光集成电路设计有限公司,2019/06/24;2022/10/13,1,1,688041.0,内地企业,EL
-"LHI Technology (HK.)
-Company Limited",,2019/08/14;2020/12/23,.,.,,港企,EL
+LHI Technology (HK.) Company Limited,,2019/08/14;2020/12/23,.,.,,港企,EL
 Corad Technology Limited,,2019/08/14;2020/12/23;2021/11/26,.,.,,港企,EL
-"China Nuclear Power
-Technology Research
-Institute Co. Ltd.",中广核研究院有限公司,2019/08/14,1,1,3816.0,内地企业,EL
-"China General Nuclear Power
-Group",中国广核集团有限公司,2019/08/14,2,1,3816.0,内地企业,EL
-"China General Nuclear Power
-Corporation (CGNPC)",中国广核电力股份有限公司,2019/08/14,1,2,3816.0,内地企业,EL
+China Nuclear Power Technology Research Institute Co. Ltd.,中广核研究院有限公司,2019/08/14,1,1,3816.0,内地企业,EL
+China General Nuclear Power Group,中国广核集团有限公司,2019/08/14,2,1,3816.0,内地企业,EL
+China General Nuclear Power Corporation (CGNPC),中国广核电力股份有限公司,2019/08/14,1,2,3816.0,内地企业,EL
 Suzhou Nuclear Power Research Institute Co. Ltd.,苏州热工研究院有限公司,2019/08/14,1,1,3816.0,内地企业,EL
-"Shenzhen HiSilicon Technologies Co., Electrical Research Center",,2019/08/21,,,,研究所,Entity List
-"Shanghai HiSilicon Technologies Co., Ltd.",,2019/08/21,,,,内地企业,Entity List
-"Shenzhen Huawei
-Technologies Software",深圳市华为技术软件有限公司,2019/08/21;2020/05/19;2020/06/18;2020/08/20;2021/12/17;2022/02/03;2022/02/14;2022/04/11;2022/09/09,1,0,,内地企业,EL
-"Shenzhen Huawei New
-Technology Co., Ltd.",深圳市华为新技术有限公司,2019/08/21;2020/05/19;2020/06/18;2020/08/20;2021/12/17;2022/02/03;2022/02/14;2022/04/11;2022/09/09,1,0,,内地企业,EL
-"Huahai Zhihui Technology
-Co., Ltd",华海智汇技术有限公司,2019/08/21;2020/05/19;2020/06/18;2020/08/20;2021/12/17;2022/02/03;2022/02/14;2022/04/11;2022/09/09,1,1,600487.0,内地企业,EL
-"Ningbo Huawei Computer &
-Net Co., Ltd.",宁波大榭开发区优必盛计算机网络有限公司,2019/08/21;2020/05/19;2020/06/18;2020/08/20;2021/12/17;2022/02/03;2022/02/14;2022/04/11;2022/09/09,0,0,,内地企业,EL
-"Beijing Huawei Longshine Information Technology Co.,Ltd.",北京华为朗新科技有限责任公司,2019/08/21;2020/05/19;2020/06/18;2020/08/20;2021/12/17;2022/02/03;2022/02/14;2022/04/11;2022/09/09,1,0,,内地企业,EL
-"Hangzhou New Longshine Information Technology Co., Ltd.",杭州新朗新信息技术有限公司,2019/08/21;2020/05/19;2020/06/18;2020/08/20;2021/12/17;2022/02/03;2022/02/14;2022/04/11;2022/09/09,1,0,,内地企业,EL
-"Shenzhen Huawei Anjiexin
-Electricity Co., Ltd.",深圳市华为安捷信电气有限公司,2019/08/21;2020/05/19;2020/06/18;2020/08/20;2021/12/17;2022/02/03;2022/02/14;2022/04/11;2022/09/09,1,0,,内地企业,EL
-"Hangzhou Huawei
-Enterprises",,2019/08/21;2020/05/19;2020/06/18;2020/08/20;2021/12/17;2022/02/03;2022/02/14;2022/04/11;2022/09/09,.,.,,研究所,EL
+"Huawei Technology Co., Ltd. Chengdu Research Institute",华为技术有限公司成都研究所,2019/08/21;2020/05/19;2020/06/18;2020/08/20;2021/12/17;2022/02/03;2022/02/14;2022/04/11;2022/09/09,.,.,,研究所,EL
+"Hangzhou Huawei Communication Technology Co., Ltd.",杭州华为企业通信技术有限公司,2019/08/21;2020/05/19;2020/06/18;2020/08/20;2021/12/17;2022/02/03;2022/02/14;2022/04/11;2022/09/09,1,0,,内地企业,EL
+"Huawei Technologies Co., Ltd. Beijing Research Institute",华为技术有限公司北京研究所,2019/08/21;2020/05/19;2020/06/18;2020/08/20;2021/12/17;2022/02/03;2022/02/14;2022/04/11;2022/09/09,.,.,,研究所,EL
+"Huawei Technology Co., Ltd. Hangzhou Research Institute",华为技术有限公司杭州研究所,2019/08/21;2020/05/19;2020/06/18;2020/08/20;2021/12/17;2022/02/03;2022/02/14;2022/04/11;2022/09/09,.,.,,研究所,EL
+"Huawei Technologies Co., Ltd. Xi'an Research Institute",华为技术有限公司西安研究所,2019/08/21;2020/05/19;2020/06/18;2020/08/20;2021/12/17;2022/02/03;2022/02/14;2022/04/11;2022/09/09,.,.,,研究所,EL
+Nanchang Huawei Communication Technology,上海华为技术有限公司南昌办事处,2019/08/21;2020/05/19;2020/06/18;2020/08/20;2021/12/17;2022/02/03;2022/02/14;2022/04/11;2022/09/09,0,0,,内地企业,EL
 Huawei Tech. Investment Co.,成都华为技术有限公司,2019/08/21;2020/05/19;2020/06/18;2020/08/20;2021/12/17;2022/02/03;2022/02/14;2022/04/11;2022/09/09,1,0,,内地企业,EL
-"Huawei Technology Co., Ltd.
-Chengdu Research Institute",华为技术有限公司成都研究所,2019/08/21;2020/05/19;2020/06/18;2020/08/20;2021/12/17;2022/02/03;2022/02/14;2022/04/11;2022/09/09,.,.,,研究所,EL
-"Hangzhou Huawei
-Communication Technology
-Co., Ltd.",杭州华为企业通信技术有限公司,2019/08/21;2020/05/19;2020/06/18;2020/08/20;2021/12/17;2022/02/03;2022/02/14;2022/04/11;2022/09/09,1,0,,内地企业,EL
-"Huawei Technologies Co., Ltd.
-Beijing Research Institute",华为技术有限公司北京研究所,2019/08/21;2020/05/19;2020/06/18;2020/08/20;2021/12/17;2022/02/03;2022/02/14;2022/04/11;2022/09/09,.,.,,研究所,EL
 "Huawei Technologies Co., Ltd. Material Characterization Lab",,2019/08/21;2020/05/19;2020/06/18;2020/08/20;2021/12/17;2022/02/03;2022/02/14;2022/04/11;2022/09/09,.,.,,研究所,EL
-"Huawei Technologies Co., Ltd.
-Xi'an Research Institute",华为技术有限公司西安研究所,2019/08/21;2020/05/19;2020/06/18;2020/08/20;2021/12/17;2022/02/03;2022/02/14;2022/04/11;2022/09/09,.,.,,研究所,EL
-"Nanchang Huawei
-Communication Technology",上海华为技术有限公司南昌办事处,2019/08/21;2020/05/19;2020/06/18;2020/08/20;2021/12/17;2022/02/03;2022/02/14;2022/04/11;2022/09/09,0,0,,内地企业,EL
-"Huawei Technology Co., Ltd.
-Hangzhou Research Institute",华为技术有限公司杭州研究所,2019/08/21;2020/05/19;2020/06/18;2020/08/20;2021/12/17;2022/02/03;2022/02/14;2022/04/11;2022/09/09,.,.,,研究所,EL
-"Urumqi Municipal Public
-Security Bureau",乌鲁木齐市公安局,2019/10/09;2020/07/22,.,.,,机关,EL
-NetPosa,,2019/10/09,,,,内地企业,Entity List
-"Yili Kazakh Autonomous
-Prefecture Public Security
-Bureau",伊犁哈萨克自治州公安局,2019/10/09;2020/07/22,.,.,,机关,EL
-"Xinjiang Uyghur Autonomous
-Region (XUAR) People's
-Government Public Security
-Bureau",新疆维吾尔自治区人民政府公安局,2019/10/09;2020/07/22,.,.,,机关,EL
-"Xinjiang Production and
-Construction Corps (XPCC)
-Public Security Bureau",新疆生产建设兵团公安分局,2019/10/09;2020/07/22,.,.,,机关,EL
-Xinjiang Police College,新疆警察学院,2019/10/09;2020/07/22,.,.,,高校,EL
-"Wujiaqu Municipality Public
-Security Bureau",五家渠市公安局,2019/10/09;2020/07/22,.,.,,机关,EL
-"Turfan Municipality Public
-Security Bureau",吐鲁番市公安局,2019/10/09;2020/07/22,.,.,,机关,EL
-"Tacheng Prefecture Public
-Security Bureau",塔城州公安局,2019/10/09;2020/07/22,.,.,,机关,EL
-"Yixin Science and Technology
-Co. Ltd.",颐信科技有限公司,2019/10/09;2020/06/05;2020/07/22,2,0,,内地企业,EL
-Altay Municipality Public Security Bureau,阿勒泰市公安局,2019/10/09;2020/07/22,.,.,,机关,EL
-Bayingolin Mongolian Autonomous Prefecture Public Security Bureau,新疆巴音郭楞蒙古自治州公安局,2019/10/09;2020/07/22,.,.,,机关,EL
-Boertala Mongolian Autonomous Prefecture Public Security Bureau,博尔塔拉蒙古自治州公安局,2019/10/09;2020/07/22,.,.,,机关,EL
-"Changji Hui Autonomous
-Prefecture Public Security
-Bureau",昌吉回族自治州公安局,2019/10/09;2020/07/22,.,.,,机关,EL
-"Beijing Sensetime Technology Development Co., Ltd.",北京市商汤科技开发有限公司,2019/10/09;2020/06/05;2020/07/22;2022/10/13,1,0,,内地企业,EL
-Dahua Technology,浙江大华技术股份有限公司,2019/10/09;2020/07/22;2022/10/13,2,2,2236.0,内地企业,EL
-IFLYTEK,科大讯飞股份有限公司,2019/10/09;2020/07/22;2022/10/13,2,2,2230.0,内地企业,EL
-"Xiamen Meiya Pico
-Information Co. Ltd.",国投智能（厦门）信息股份有限公司,2019/10/09;2020/07/22,2,2,300188.0,内地企业,EL
+Hangzhou Huawei Enterprises,,2019/08/21;2020/05/19;2020/06/18;2020/08/20;2021/12/17;2022/02/03;2022/02/14;2022/04/11;2022/09/09,.,.,,研究所,EL
+"Shenzhen HiSilicon Technologies Co., Electrical Research Center",,2019/08/21,,,,研究所,Entity List
+"Hangzhou New Longshine Information Technology Co., Ltd.",杭州新朗新信息技术有限公司,2019/08/21;2020/05/19;2020/06/18;2020/08/20;2021/12/17;2022/02/03;2022/02/14;2022/04/11;2022/09/09,1,0,,内地企业,EL
+"Beijing Huawei Longshine Information Technology Co.,Ltd.",北京华为朗新科技有限责任公司,2019/08/21;2020/05/19;2020/06/18;2020/08/20;2021/12/17;2022/02/03;2022/02/14;2022/04/11;2022/09/09,1,0,,内地企业,EL
+"Ningbo Huawei Computer & Net Co., Ltd.",宁波大榭开发区优必盛计算机网络有限公司,2019/08/21;2020/05/19;2020/06/18;2020/08/20;2021/12/17;2022/02/03;2022/02/14;2022/04/11;2022/09/09,0,0,,内地企业,EL
+"Huahai Zhihui Technology Co., Ltd",华海智汇技术有限公司,2019/08/21;2020/05/19;2020/06/18;2020/08/20;2021/12/17;2022/02/03;2022/02/14;2022/04/11;2022/09/09,1,1,600487.0,内地企业,EL
+"Shenzhen Huawei New Technology Co., Ltd.",深圳市华为新技术有限公司,2019/08/21;2020/05/19;2020/06/18;2020/08/20;2021/12/17;2022/02/03;2022/02/14;2022/04/11;2022/09/09,1,0,,内地企业,EL
+Shenzhen Huawei Technologies Software,深圳市华为技术软件有限公司,2019/08/21;2020/05/19;2020/06/18;2020/08/20;2021/12/17;2022/02/03;2022/02/14;2022/04/11;2022/09/09,1,0,,内地企业,EL
+"Shanghai HiSilicon Technologies Co., Ltd.",,2019/08/21,,,,内地企业,Entity List
+"Shenzhen Huawei Anjiexin Electricity Co., Ltd.",深圳市华为安捷信电气有限公司,2019/08/21;2020/05/19;2020/06/18;2020/08/20;2021/12/17;2022/02/03;2022/02/14;2022/04/11;2022/09/09,1,0,,内地企业,EL
+Xiamen Meiya Pico Information Co. Ltd.,国投智能（厦门）信息股份有限公司,2019/10/09;2020/07/22,2,2,300188.0,内地企业,EL
 Yitu Technologies,上海依图网络科技有限公司,2019/10/09;2020/07/22;2022/10/13,2,0,,内地企业,EL
 Aksu District Public Security Bureau,阿克苏市公安局,2019/10/09;2020/07/22,.,.,,机关,EL
 Megvii Technology,北京旷视科技有限公司,2019/10/09;2020/07/22;2022/10/13,2,0,,内地企业,EL
 "Hangzhou Hikvision Digital Technology Co., Ltd.",杭州海康威视数字技术股份有限公司,2019/10/09;2020/06/05;2020/07/22,2,2,2415.0,内地企业,EL
-"Shihezi Municipality Public
-Security Bureau",石河子市公安局,2019/10/09;2020/07/22,.,.,,机关,EL
-"Tumushuke Municipal Public
-Security Bureau",图木舒克市公安局,2019/10/09;2020/07/22,.,.,,机关,EL
-"Kelamayi Municipality Public
-Security Bureau",克拉玛依市公安局,2019/10/09;2020/07/22,.,.,,机关,EL
-"Kashgar Prefecture Public
-Security Bureau",喀什地区公安局,2019/10/09;2020/07/22,.,.,,机关,EL
-"Hetian Prefecture Public
-Security Bureau",和田地区公安局,2019/10/09;2020/07/22,.,.,,机关,EL
-"Kezilesu Kyrgyz Autonomous
-Prefecture Public Security
-Bureau",克孜勒苏柯尔克孜自治州公安局,2019/10/09;2020/07/22,.,.,,机关,EL
+Shihezi Municipality Public Security Bureau,石河子市公安局,2019/10/09;2020/07/22,.,.,,机关,EL
+Hetian Prefecture Public Security Bureau,和田地区公安局,2019/10/09;2020/07/22,.,.,,机关,EL
+Kelamayi Municipality Public Security Bureau,克拉玛依市公安局,2019/10/09;2020/07/22,.,.,,机关,EL
+Kashgar Prefecture Public Security Bureau,喀什地区公安局,2019/10/09;2020/07/22,.,.,,机关,EL
+Kezilesu Kyrgyz Autonomous Prefecture Public Security Bureau,克孜勒苏柯尔克孜自治州公安局,2019/10/09;2020/07/22,.,.,,机关,EL
 Hami Municipality Public Security Bureau,哈密市公安局,2019/10/09;2020/07/22,.,.,,机关,EL
+IFLYTEK,科大讯飞股份有限公司,2019/10/09;2020/07/22;2022/10/13,2,2,2230.0,内地企业,EL
+Tumushuke Municipal Public Security Bureau,图木舒克市公安局,2019/10/09;2020/07/22,.,.,,机关,EL
+Dahua Technology,浙江大华技术股份有限公司,2019/10/09;2020/07/22;2022/10/13,2,2,2236.0,内地企业,EL
+Xinjiang Production and Construction Corps (XPCC) Public Security Bureau,新疆生产建设兵团公安分局,2019/10/09;2020/07/22,.,.,,机关,EL
+Changji Hui Autonomous Prefecture Public Security Bureau,昌吉回族自治州公安局,2019/10/09;2020/07/22,.,.,,机关,EL
+Urumqi Municipal Public Security Bureau,乌鲁木齐市公安局,2019/10/09;2020/07/22,.,.,,机关,EL
+NetPosa,,2019/10/09,,,,内地企业,Entity List
+Xinjiang Uyghur Autonomous Region (XUAR) People's Government Public Security Bureau,新疆维吾尔自治区人民政府公安局,2019/10/09;2020/07/22,.,.,,机关,EL
+"Beijing Sensetime Technology Development Co., Ltd.",北京市商汤科技开发有限公司,2019/10/09;2020/06/05;2020/07/22;2022/10/13,1,0,,内地企业,EL
+Xinjiang Police College,新疆警察学院,2019/10/09;2020/07/22,.,.,,高校,EL
+Wujiaqu Municipality Public Security Bureau,五家渠市公安局,2019/10/09;2020/07/22,.,.,,机关,EL
+Yili Kazakh Autonomous Prefecture Public Security Bureau,伊犁哈萨克自治州公安局,2019/10/09;2020/07/22,.,.,,机关,EL
+Tacheng Prefecture Public Security Bureau,塔城州公安局,2019/10/09;2020/07/22,.,.,,机关,EL
+Yixin Science and Technology Co. Ltd.,颐信科技有限公司,2019/10/09;2020/06/05;2020/07/22,2,0,,内地企业,EL
+Altay Municipality Public Security Bureau,阿勒泰市公安局,2019/10/09;2020/07/22,.,.,,机关,EL
+Bayingolin Mongolian Autonomous Prefecture Public Security Bureau,新疆巴音郭楞蒙古自治州公安局,2019/10/09;2020/07/22,.,.,,机关,EL
+Boertala Mongolian Autonomous Prefecture Public Security Bureau,博尔塔拉蒙古自治州公安局,2019/10/09;2020/07/22,.,.,,机关,EL
+Turfan Municipality Public Security Bureau,吐鲁番市公安局,2019/10/09;2020/07/22,.,.,,机关,EL
 Wuhan IRCEN Technology,武汉市伊尔森科技有限公司,2020/03/16,0,0,,内地企业,EL
 Jalal Rohollahnejad,,2020/03/16,.,.,,个人,EL
-Center for High Pressure Science and Technology Advanced Research,,2020/06/05,,,,研究所,Entity List
-IS'Vision,,2020/06/05,,,,内地企业,Entity List
-Zhu Jiejin,,2020/06/05,.,.,,个人,EL
-"Peac Institute of Multiscale
-Science",顶峰多尺度科学研究所,2020/06/05,.,.,,研究所,EL
-"Ministry of Public Security's
-Institute of Forensic Science
-of China",中国公安部法医科学研究所,2020/06/05;2020/07/22,.,.,,研究所,EL
-Skyeye Laser Technology Limited.,四川砺剑天眼科技有限公司,2020/06/05,1,0,,内地企业,EL
-"Sichuan Zhonghe Import and Export Trade Co., Ltd.",四川中和进出口贸易有限公司,2020/06/05,1,0,,内地企业,EL
-"Sichuan Haitian New
-Technology Group Co., Ltd.",四川海天新技术集团有限公司,2020/06/05,2,0,,内地企业,EL
-"Sichuan Dingcheng Material
-Trade Co., Ltd.",四川鼎澄物资贸易有限公司,2020/06/05,1,0,,内地企业,EL
-"Shenzhen Shenwang Vision
-Technology Co., Ltd.",深圳市深网视界科技有限公司,2020/06/05;2020/07/22,1,1,300367.0,内地企业,EL
-"Shanghai Nova Instruments
-Co., Ltd.",上海维逸测控技术有限公司,2020/06/05,0,0,,内地企业,EL
-"Dongfang Netpower
-Technology Co",东方网力科技股份有限公司,2020/06/05;2020/07/22,2,2,300367.0,内地企业,EL
-"FiberHome Technologies
-Group",烽火通信科技股份有限公司,2020/06/05;2020/07/22,2,2,600498.0,内地企业,EL
-"Harbin Chuangyue
-Technology Co. Ltd.",哈尔滨创越科技有限公司,2020/06/05,0,0,,内地企业,EL
-"Harbin Yun Li Da Technology
-and Development Co., Ltd.",哈尔滨蕴力达科技开发有限公司,2020/06/05,0,0,,内地企业,EL
-"—Shenzhen Yuntian Lifei
-Technology Co., Ltd.",深圳云天励飞技术股份有限公司,2020/06/05;2020/07/22;2022/10/13,2,2,688343.0,内地企业,EL
-"China Jiuyuan Trading
-Corporation",中国久远高新技术装备有限公司,2020/06/05,2,0,,内地企业,EL
-"Qihoo 360 Technology
-Company",三六零安全科技股份有限公司,2020/06/05,2,2,601360.0,内地企业,EL
-"Beijing Jincheng Huanyu Electronics Co., Ltd.",北京锦程环宇科贸有限公司,2020/06/05,2,0,,内地企业,EL
+"Chengdu Yinchen Netcom Technology Co., Ltd",银晨网讯科技有限公司,2020/06/05;2020/07/22,1,0,,内地企业,EL
 "Beijing Cloudmind Technology Co., Ltd.",北京中云融信科技有限公司,2020/06/05,0,0,,内地企业,EL
 Aksu Huafu Textiles Co.,阿克苏华孚色纺有限公司,2020/06/05;2020/07/22,1,1,2042.0,内地企业,EL
-"Chengdu Fine Optical
-Engineering Research Center",成都精细光学工程研究中心,2020/06/05,.,.,,研究所,EL
-"Beijing High Voltage
-Science Research Center.",北京高压科学研究中心,2020/06/05,.,.,,研究所,EL
+Chengdu Fine Optical Engineering Research Center,成都精细光学工程研究中心,2020/06/05,.,.,,研究所,EL
+Beijing High Voltage Science Research Center.,北京高压科学研究中心,2020/06/05,.,.,,研究所,EL
 Beijing Computational Science Research Center,北京计算科学研究中心,2020/06/05,.,.,,研究所,EL
-"Chengdu Yinchen Netcom
-Technology Co., Ltd",银晨网讯科技有限公司,2020/06/05;2020/07/22,1,0,,内地企业,EL
-"Isvision Technologies Co.,
-Ltd.",上海银晨智能识别科技有限公司,2020/06/05;2020/07/22,1,0,,内地企业,EL
-"JCN (HK) Technology Co.,
-Ltd.",,2020/06/05;2020/12/23,.,.,,港企,EL
+"Isvision Technologies Co., Ltd.",上海银晨智能识别科技有限公司,2020/06/05;2020/07/22,1,0,,内地企业,EL
+Cloudminds (Hong Kong) Limited,,2020/06/05;2020/12/23,.,.,,港企,EL
 "K Logistics (China) Limited,",,2020/06/05;2020/12/23,.,.,,港企,EL
-"Kunhai (Yanjiao) Innovation
-Research Institute",鲲海创新工程技术研究院（北京）有限公司,2020/06/05,0,0,,内地企业,EL
-"Nanjing FiberHome Starrysky
-Communication Development
-Co.",南京烽火星空通信发展有限公司,2020/06/05;2020/07/22;2021/03/04,1,1,600498.0,内地企业,EL
+Kunhai (Yanjiao) Innovation Research Institute,鲲海创新工程技术研究院（北京）有限公司,2020/06/05,0,0,,内地企业,EL
+Nanjing FiberHome Starrysky Communication Development Co.,南京烽火星空通信发展有限公司,2020/06/05;2020/07/22;2021/03/04,1,1,600498.0,内地企业,EL
 Harbin Engineering University,哈尔滨工程大学,2020/06/05;2023/03/06,.,.,,高校,EL
-"Harbin Institute of
-Technology",哈尔滨工业大学,2020/06/05;2022/10/13;2023/03/06,.,.,,高校,EL
-"Chongqing Cloudwalk
-Technology Co., Ltd",重庆中科云从科技有限公司,2020/06/05;2020/07/22,1,1,688327.0,内地企业,EL
-"Cloudminds (Hong Kong)
-Limited",,2020/06/05;2020/12/23,.,.,,港企,EL
-KTK Group,,2020/07/22,,,,内地企业,Entity List
-"Tanyuan Technology Co. Ltd.,",碳元科技股份有限公司,2020/07/22,2,2,603133.0,内地企业,EL
-"Nanjing Synergy Textiles Co.
-Ltd.",南京新一棉纺织印染有限公司,2020/07/22,0,0,,内地企业,EL
-"Jiangsu Jinchuang Holding
-Group",江苏今创控股集团有限公司,2020/07/22,2,0,,内地企业,EL
-"Hetian Taida Apparel Co.,
-Ltd.",和田市泰达服装有限公司,2020/07/22,0,0,,内地企业,EL
-"Hetian Haolin Hair
-Accessories Co. Ltd",和田浩林发饰品有限公司,2020/07/22,0,0,,内地企业,EL
-Hefei Meiling Co. Ltd.,合肥美菱集团控股有限公司,2020/07/22,1,1,521.0,内地企业,EL
-"Hefei Bitland Information
-Technology Co. Ltd.",合肥宝龙达信息技术有限公司,2020/07/22,1,0,,内地企业,EL
-"Changji Esquel Textile Co.
-Ltd",昌吉溢达纺织有限公司,2020/07/22,1,0,,内地企业,EL
-"Xinjiang Silk Road Huada
-Gene Technology",新疆丝路华大基因科技有限公司,2020/07/22,1,1,300676.0,内地企业,EL
+Harbin Institute of Technology,哈尔滨工业大学,2020/06/05;2022/10/13;2023/03/06,.,.,,高校,EL
+"Chongqing Cloudwalk Technology Co., Ltd",重庆中科云从科技有限公司,2020/06/05;2020/07/22,1,1,688327.0,内地企业,EL
+"Beijing Jincheng Huanyu Electronics Co., Ltd.",北京锦程环宇科贸有限公司,2020/06/05,2,0,,内地企业,EL
+"JCN (HK) Technology Co., Ltd.",,2020/06/05;2020/12/23,.,.,,港企,EL
+Qihoo 360 Technology Company,三六零安全科技股份有限公司,2020/06/05,2,2,601360.0,内地企业,EL
+China Jiuyuan Trading Corporation,中国久远高新技术装备有限公司,2020/06/05,2,0,,内地企业,EL
+"Shenzhen Yuntian Lifei Technology Co., Ltd.",深圳云天励飞技术股份有限公司,2020/06/05;2020/07/22;2022/10/13,2,2,688343.0,内地企业,EL
+IS'Vision,,2020/06/05,,,,内地企业,Entity List
+Zhu Jiejin,,2020/06/05,.,.,,个人,EL
+Peac Institute of Multiscale Science,顶峰多尺度科学研究所,2020/06/05,.,.,,研究所,EL
+Ministry of Public Security's Institute of Forensic Science of China,中国公安部法医科学研究所,2020/06/05;2020/07/22,.,.,,研究所,EL
+Skyeye Laser Technology Limited.,四川砺剑天眼科技有限公司,2020/06/05,1,0,,内地企业,EL
+"Sichuan Zhonghe Import and Export Trade Co., Ltd.",四川中和进出口贸易有限公司,2020/06/05,1,0,,内地企业,EL
+"Sichuan Haitian New Technology Group Co., Ltd.",四川海天新技术集团有限公司,2020/06/05,2,0,,内地企业,EL
+Center for High Pressure Science and Technology Advanced Research,,2020/06/05,,,,研究所,Entity List
+"Shenzhen Shenwang Vision Technology Co., Ltd.",深圳市深网视界科技有限公司,2020/06/05;2020/07/22,1,1,300367.0,内地企业,EL
+"Shanghai Nova Instruments Co., Ltd.",上海维逸测控技术有限公司,2020/06/05,0,0,,内地企业,EL
+Dongfang Netpower Technology Co,东方网力科技股份有限公司,2020/06/05;2020/07/22,2,2,300367.0,内地企业,EL
+FiberHome Technologies Group,烽火通信科技股份有限公司,2020/06/05;2020/07/22,2,2,600498.0,内地企业,EL
+Harbin Chuangyue Technology Co. Ltd.,哈尔滨创越科技有限公司,2020/06/05,0,0,,内地企业,EL
+"Harbin Yun Li Da Technology and Development Co., Ltd.",哈尔滨蕴力达科技开发有限公司,2020/06/05,0,0,,内地企业,EL
+"Sichuan Dingcheng Material Trade Co., Ltd.",四川鼎澄物资贸易有限公司,2020/06/05,1,0,,内地企业,EL
 Beijing Liuhe BGI,北京六合华大基因科技有限公司,2020/07/22,1,1,300676.0,内地企业,EL
-Huawei OpenLab Suzhou,华为苏州Openlab,2020/08/20;2022/02/03;2022/09/09,1,0,,研究所,EL
-"Wulanchabu Huawei Cloud
-Computing Technology",乌兰察布华为云计算技术有限公司,2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
-Huawei Cloud Shenzhen,深圳华为云计算技术有限公司,2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
-Huawei Cloud Shanghai,华为云计算技术有限公司上海分公司,2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
-Huawei Cloud Hong Kong,,2020/08/20;2022/02/03;2022/09/09,1,0,,港企,EL
+Xinjiang Silk Road Huada Gene Technology,新疆丝路华大基因科技有限公司,2020/07/22,1,1,300676.0,内地企业,EL
+Changji Esquel Textile Co. Ltd,昌吉溢达纺织有限公司,2020/07/22,1,0,,内地企业,EL
+Hefei Bitland Information Technology Co. Ltd.,合肥宝龙达信息技术有限公司,2020/07/22,1,0,,内地企业,EL
+Hefei Meiling Co. Ltd.,合肥美菱集团控股有限公司,2020/07/22,1,1,521.0,内地企业,EL
+Jiangsu Jinchuang Holding Group,江苏今创控股集团有限公司,2020/07/22,2,0,,内地企业,EL
+"Hetian Taida Apparel Co., Ltd.",和田市泰达服装有限公司,2020/07/22,0,0,,内地企业,EL
+Nanjing Synergy Textiles Co. Ltd.,南京新一棉纺织印染有限公司,2020/07/22,0,0,,内地企业,EL
+"Tanyuan Technology Co. Ltd.,",碳元科技股份有限公司,2020/07/22,2,2,603133.0,内地企业,EL
+KTK Group,,2020/07/22,,,,内地企业,Entity List
+Hetian Haolin Hair Accessories Co. Ltd,和田浩林发饰品有限公司,2020/07/22,0,0,,内地企业,EL
+Huawei Cloud Dalian,大连云创互联网服务有限责任公司,2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
+Huawei Cloud Beijing,北京华为云计算技术有限公司,2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
+"Huawei Cloud Computing Technology, Huawei Cloud Data Center",华为云计算中心,2020/08/20;2022/02/03;2022/09/09,.,.,,研究所,EL
 Huawei Cloud Guiyang,华为云计算技术有限公司,2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
 Huawei Cloud Guangzhou,华为技术有限公司广州分公司,2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
-Huawei Cloud Dalian,大连云创互联网服务有限责任公司,2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
-"Huawei Cloud Computing
-Technology, Huawei Cloud
-Data Center",华为云计算中心,2020/08/20;2022/02/03;2022/09/09,.,.,,研究所,EL
-Huawei Cloud Beijing,北京华为云计算技术有限公司,2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
-"Tianjin 764 Communication
-and Navigation Technology
-Co., Ltd.",天津七六四通信导航技术有限公司,2020/08/27,1,1,600590.0,内地企业,EL
-"Xi'an Overland Science and
-Technology Co., Ltd.",西安沃兰科技有限责任公司,2020/08/27,1,0,,内地企业,EL
-"Wuhan Mailite Communication Co., Ltd.",武汉迈力特通信有限公司,2020/08/27,1,0,,内地企业,EL
-"Tianjin Broadcasting
-Equipment Co., Ltd.",天津广播器材有限公司,2020/08/27,1,0,,内地企业,EL
-"Shanghai Cable Offshore Engineering Co., Ltd.",,2020/08/27,,,,内地企业,Entity List
-"Tianjin 764 Avionics
-Technology Co., Ltd.",天津七六四航空电子技术有限公司,2020/08/27,1,0,,内地企业,EL
-"Changzhou Guoguang Data
-Communications Co., Ltd.,",常州国光数据通信有限公司,2020/08/27,1,0,,内地企业,EL
-Taihe Electric (Hong Kong) Limited,,2020/08/27;2020/12/23,.,.,,港企,EL
-"Beijing Huanjia Telecommunication Co., Ltd.",北京环佳通信技术有限公司,2020/08/27,1,0,,内地企业,EL
-"China Electronics Technology
-Group Corporation, 7th
-Research Institute (CETC–7)",中国电子科技集团公司第七研究所,2020/08/27,.,.,,研究所,EL
-"China Electronics Technology
-Group Corporation, 30th
-Research Institute","中国电子科技集团公司第三十研究所
-（西南通信研究所）",2020/08/27,.,.,,研究所,EL
-"Guangzhou Tongguang
-Communication Technology
-Co., Ltd.",中国电子科技集团公司第七研究所凯尔实验室,2020/08/27,.,.,,研究所,EL
-"China Communications
-Construction Company
-Dredging Group Co. Ltd.",中交疏浚（集团）股份有限公司,2020/08/27,1,1,601800.0,内地企业,EL
-"China Communications
-Construction Company
-Guangzhou Waterway
-Bureau",中交广州航道局有限公司,2020/08/27,1,1,601800.0,内地企业,EL
-"China Communications
-Construction Company
-Second Navigation
-Engineering Bureau",中交第二航务工程局有限公司,2020/08/27,1,1,601800.0,内地企业,EL
-"Telixin Electronics
-Technology Co., Ltd.",北京特立信电子技术股份有限公司,2020/08/27,1,1,688132.0,内地企业,EL
-"China Communications
-Construction Company
-Tianjin Waterway Bureau",中交天津航道局有限公司,2020/08/27,1,1,601800.0,内地企业,EL
-"Chongxin Bada Technology
-Development Co., Ltd.,",北京崇新八达科技开发有限公司,2020/08/27,2,0,,内地企业,EL
-"Guangzhou Guangyou
-Communications Equipment
-Co., Ltd.",广州广有通信设备有限公司,2020/08/27,1,1,300711.0,内地企业,EL
-"Guangzhou Haige
-Communication Group Co.,
-Ltd.",广州海格通信集团股份有限公司,2020/08/27,2,2,2465.0,内地企业,EL
-"China Communications
-Construction Company
-Shanghai Waterway Bureau",中交上海航道局有限公司,2020/08/27,1,1,601800.0,内地企业,EL
-"Guilin Changhai Development
-Co., Ltd.",桂林长海发展有限责任公司,2020/08/27,1,0,,内地企业,EL
-"Shanghai Fengjin Electronic
-Technology Co., Ltd.,",上海锋金电子科技有限公司,2020/08/27,1,0,,内地企业,EL
-"Guangzhou Hongyu
-Technology Co., Ltd.",广州市弘宇科技有限公司,2020/08/27,2,0,,内地企业,EL
-"Peaceful Vision
-(Lianyungang) Electronic Co.",珩星电子（连云港）股份有限公司,2020/08/27;2020/12/23,2,0,,内地企业,EL
-"Shaanxi Changling Electronic
-Technology Co., Ltd.,",陕西长岭电子科技有限责任公司,2020/08/27,2,0,,内地企业,EL
-"Hubei Guangxing
-Communications Technology
-Co., Ltd.",湖北广兴通信科技有限公司,2020/08/27,2,0,,内地企业,EL
+Huawei Cloud Shanghai,华为云计算技术有限公司上海分公司,2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
+Huawei Cloud Shenzhen,深圳华为云计算技术有限公司,2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
+Wulanchabu Huawei Cloud Computing Technology,乌兰察布华为云计算技术有限公司,2020/08/20;2022/02/03;2022/09/09,1,0,,内地企业,EL
+Huawei OpenLab Suzhou,华为苏州Openlab,2020/08/20;2022/02/03;2022/09/09,1,0,,研究所,EL
+Huawei Cloud Hong Kong,,2020/08/20;2022/02/03;2022/09/09,1,0,,港企,EL
+"Telixin Electronics Technology Co., Ltd.",北京特立信电子技术股份有限公司,2020/08/27,1,1,688132.0,内地企业,EL
+China Communications Construction Company Tianjin Waterway Bureau,中交天津航道局有限公司,2020/08/27,1,1,601800.0,内地企业,EL
+"Chongxin Bada Technology Development Co., Ltd.,",北京崇新八达科技开发有限公司,2020/08/27,2,0,,内地企业,EL
+"Guangzhou Guangyou Communications Equipment Co., Ltd.",广州广有通信设备有限公司,2020/08/27,1,1,300711.0,内地企业,EL
+"Guangzhou Haige Communication Group Co., Ltd.",广州海格通信集团股份有限公司,2020/08/27,2,2,2465.0,内地企业,EL
+China Communications Construction Company Shanghai Waterway Bureau,中交上海航道局有限公司,2020/08/27,1,1,601800.0,内地企业,EL
+"Shanghai Fengjin Electronic Technology Co., Ltd.,",上海锋金电子科技有限公司,2020/08/27,1,0,,内地企业,EL
+"Guangzhou Hongyu Technology Co., Ltd.",广州市弘宇科技有限公司,2020/08/27,2,0,,内地企业,EL
+Peaceful Vision (Lianyungang) Electronic Co.,珩星电子（连云港）股份有限公司,2020/08/27;2020/12/23,2,0,,内地企业,EL
+"Shaanxi Changling Electronic Technology Co., Ltd.,",陕西长岭电子科技有限责任公司,2020/08/27,2,0,,内地企业,EL
+"Hubei Guangxing Communications Technology Co., Ltd.",湖北广兴通信科技有限公司,2020/08/27,2,0,,内地企业,EL
 MTech Industrial Limited,,2020/08/27,.,.,,港企,EL
-"Shenzhen Iprogift
-Technology Co., Ltd",,2020/09/22,.,.,,港企,EL
-"Oriental Logistics Group LTD,",东方超捷国际货运代理（深圳）有限公司,2020/09/22;2020/12/23;2022/06/30,1,0,,内地企业,EL
-"Hong Kong Fung Tak
-Enterprise",,2020/09/22,.,.,,港企,EL
-"Shenzhen Shunjinxin Import
-& Export Co. Ltd.",深圳市顺金鑫进出口有限公司,2020/09/22,0,0,,内地企业,EL
-Suki Zhan,,2020/09/22,.,.,,个人,EL
+"Guilin Changhai Development Co., Ltd.",桂林长海发展有限责任公司,2020/08/27,1,0,,内地企业,EL
+China Communications Construction Company Second Navigation Engineering Bureau,中交第二航务工程局有限公司,2020/08/27,1,1,601800.0,内地企业,EL
+China Communications Construction Company Dredging Group Co. Ltd.,中交疏浚（集团）股份有限公司,2020/08/27,1,1,601800.0,内地企业,EL
+"Guangzhou Tongguang Communication Technology Co., Ltd.",中国电子科技集团公司第七研究所凯尔实验室,2020/08/27,.,.,,研究所,EL
+"China Electronics Technology Group Corporation, 30th Research Institute","中国电子科技集团公司第三十研究所
+（西南通信研究所）",2020/08/27,.,.,,研究所,EL
+"China Electronics Technology Group Corporation, 7th Research Institute (CETC–7)",中国电子科技集团公司第七研究所,2020/08/27,.,.,,研究所,EL
+"Beijing Huanjia Telecommunication Co., Ltd.",北京环佳通信技术有限公司,2020/08/27,1,0,,内地企业,EL
+Taihe Electric (Hong Kong) Limited,,2020/08/27;2020/12/23,.,.,,港企,EL
+"Changzhou Guoguang Data Communications Co., Ltd.,",常州国光数据通信有限公司,2020/08/27,1,0,,内地企业,EL
+"Tianjin 764 Avionics Technology Co., Ltd.",天津七六四航空电子技术有限公司,2020/08/27,1,0,,内地企业,EL
+"Shanghai Cable Offshore Engineering Co., Ltd.",,2020/08/27,,,,内地企业,Entity List
+"Tianjin Broadcasting Equipment Co., Ltd.",天津广播器材有限公司,2020/08/27,1,0,,内地企业,EL
+"Wuhan Mailite Communication Co., Ltd.",武汉迈力特通信有限公司,2020/08/27,1,0,,内地企业,EL
+"Xi'an Overland Science and Technology Co., Ltd.",西安沃兰科技有限责任公司,2020/08/27,1,0,,内地企业,EL
+"Tianjin 764 Communication and Navigation Technology Co., Ltd.",天津七六四通信导航技术有限公司,2020/08/27,1,1,600590.0,内地企业,EL
+China Communications Construction Company Guangzhou Waterway Bureau,中交广州航道局有限公司,2020/08/27,1,1,601800.0,内地企业,EL
 Roin Luo,,2020/09/22,.,.,,个人,EL
+Suki Zhan,,2020/09/22,.,.,,个人,EL
+Shenzhen Shunjinxin Import & Export Co. Ltd.,深圳市顺金鑫进出口有限公司,2020/09/22,0,0,,内地企业,EL
+"Oriental Logistics Group LTD,",东方超捷国际货运代理（深圳）有限公司,2020/09/22;2020/12/23;2022/06/30,1,0,,内地企业,EL
+"Shenzhen Iprogift Technology Co., Ltd",,2020/09/22,.,.,,港企,EL
+Hong Kong Fung Tak Enterprise,,2020/09/22,.,.,,港企,EL
 "SMIC Semiconductor Manufacturing (Shanghai) Co., Ltd.",,2020/12/18,,,,内地企业,Entity List
 "CSSC Huangpu Wenchong Shipbuilding Co., Ltd.",,2020/12/18,,,,内地企业,Entity List
 AGCU Scientech,,2020/12/18,,,,内地企业,Entity List
-"Semiconductor
-Manufacturing International
-Corporation",中芯国际集成电路制造（上海）有限公司,2020/12/22,1,1,688981.0,内地企业,EL
-"Semiconductor
-Manufacturing International
-(Beijing) Corporation",中芯国际集成电路制造（北京）有限公司,2020/12/22,1,1,688981.0,内地企业,EL
-"Semiconductor
-Manufacturing International
-(Shenzhen) Corporation",中芯国际集成电路制造（深圳）有限公司,2020/12/22,1,1,688981.0,内地企业,EL
+"China State Shipbuilding Corporation, Limited (CSSC) 722nd Research Institute",中国船舶工业集团有限公司722研究所,2020/12/22,.,.,,研究所,EL
+"China State Shipbuilding Corporation, Limited (CSSC) 726th Research Institute",中国船舶工业集团有限公司726研究所,2020/12/22,.,.,,研究所,EL
+"China State Shipbuilding Corporation, Limited (CSSC) 723rd Research Institute",中国船舶工业集团有限公司723研究所,2020/12/22,.,.,,研究所,EL
+Kuang-Chi Group,光启技术股份有限公司,2020/12/22;2021/07/12,2,2,2625.0,内地企业,EL
+Beijing Institute of Technology,北京理工大学,2020/12/22;2022/10/13;2023/03/06,.,.,,高校,EL
+"China State Shipbuilding Corporation, Limited (CSSC) 7th Research Academy",中国船舶工业集团有限公司第七研究院,2020/12/22,.,.,,研究所,EL
+"China State Shipbuilding Corporation, Limited (CSSC) 725th Research Institute",中国船舶工业集团有限公司725研究所,2020/12/22,.,.,,研究所,EL
+"China State Shipbuilding Corporation, Limited (CSSC) 12th Research Institute",中国船舶工业集团有限公司第十二研究所,2020/12/22,.,.,,研究所,EL
+"China State Shipbuilding Corporation, Limited (CSSC) 701st Research Institute",中国船舶工业集团有限公司701研究所,2020/12/22,.,.,,研究所,EL
+"China State Shipbuilding Corporation, Limited (CSSC) 702nd Research Institute",中国船舶工业集团有限公司702研究所,2020/12/22,.,.,,研究所,EL
+"China State Shipbuilding Corporation, Limited (CSSC) 703rd Research Institute",中国船舶工业集团有限公司703研究所,2020/12/22,.,.,,研究所,EL
+"China State Shipbuilding Corporation, Limited (CSSC) 717th Research Institute",中国船舶工业集团有限公司717研究所,2020/12/22,.,.,,研究所,EL
+"China State Shipbuilding Corporation, Limited (CSSC) 719th Research Institute",中国船舶工业集团有限公司719研究所,2020/12/22,.,.,,研究所,EL
+"China State Shipbuilding Corporation, Limited (CSSC) 750th Research Institute",中国船舶工业集团有限公司750研究所,2020/12/22,.,.,,研究所,EL
+"China State Shipbuilding Corporation, Limited (CSSC) 760th Research Institute",中国船舶工业集团有限公司760研究所,2020/12/22,.,.,,研究所,EL
+Chong Zhou,,2020/12/22,.,.,,个人,EL
+"China State Shipbuilding Corporation, Limited (CSSC) 724th Research Institute",中国船舶工业集团有限公司724研究所,2020/12/22,.,.,,研究所,EL
+Huisui Zhang,,2020/12/22,.,.,,个人,EL
+"China Communications Construction Company Ltd.,",中国交通建设股份有限公司,2020/12/22,2,2,601800.0,内地企业,EL
+China National Scientific Instruments and Materials (CNSIM),中国科学器材有限公司,2020/12/22,1,0,,内地企业,EL
+Chongqing Chuandong Shipbuilding Industry Co Ltd.,重庆川东船舶重工有限责任公司,2020/12/22,1,1,601989.0,内地企业,EL
+"Shenzhen DJI Innovation Technology Co., Ltd",深圳市大疆创新科技有限公司,2020/12/22;2021/06/01,2,0,,内地企业,EL
+"Guangxin Shipbuilding and Heavy Industry Co., Ltd",广新海事重工股份有限公司,2020/12/22,1,0,,内地企业,EL
+"Guangzhou Taicheng Shipbuilding Industry Co., Ltd.",广州市泰诚船舶工业有限公司,2020/12/22,0,0,,内地企业,EL
+"Wuxi Zhongde Meilian Biotechnology Co., Ltd.",无锡中德美联生物技术有限公司,2020/12/22,1,1,300009.0,内地企业,EL
+"China State Shipbuilding Corporation, Limited (CSSC) 704th Research Institute",中国船舶工业集团有限公司704研究所,2020/12/22,.,.,,研究所,EL
+"China State Shipbuilding Corporation, Limited (CSSC) 718th Research Institute",中国船舶工业集团有限公司718研究所,2020/12/22,.,.,,研究所,EL
+"China State Shipbuilding Corporation, Limited (CSSC) 705th Research Institute",中国船舶工业集团有限公司705研究所,2020/12/22,.,.,,研究所,EL
+Beijing University of Posts and Telecommunications,北京邮电大学,2020/12/22;2023/03/06,.,.,,高校,EL
+"China State Shipbuilding Corporation, Limited (CSSC) 709th Research Institute",中国船舶工业集团有限公司709研究所,2020/12/22,.,.,,研究所,EL
+"China State Shipbuilding Corporation, Limited (CSSC) 707th Research Institute",中国船舶工业集团有限公司707研究所,2020/12/22,.,.,,研究所,EL
+Semiconductor Manufacturing International Corporation,中芯国际集成电路制造（上海）有限公司,2020/12/22,1,1,688981.0,内地企业,EL
+Semiconductor Manufacturing International (Beijing) Corporation,中芯国际集成电路制造（北京）有限公司,2020/12/22,1,1,688981.0,内地企业,EL
+Semiconductor Manufacturing International (Shenzhen) Corporation,中芯国际集成电路制造（深圳）有限公司,2020/12/22,1,1,688981.0,内地企业,EL
 SMIC Holdings Limited,中芯国际控股有限公司,2020/12/22,1,1,688981.0,内地企业,EL
-"Semiconductor
-Manufacturing International
-(Tianjin) Corporation",中芯国际集成电路制造（天津）有限公司,2020/12/22,1,1,688981.0,内地企业,EL
-"Semiconductor
-Manufacturing South China
-Corporation",中芯南方集成电路制造有限公司,2020/12/22,1,1,688981.0,内地企业,EL
+Semiconductor Manufacturing International (Tianjin) Corporation,中芯国际集成电路制造（天津）有限公司,2020/12/22,1,1,688981.0,内地企业,EL
+Semiconductor Manufacturing South China Corporation,中芯南方集成电路制造有限公司,2020/12/22,1,1,688981.0,内地企业,EL
 SJ Semiconductor,盛合晶微半导体（江阴）有限公司,2020/12/22,1,0,,内地企业,EL
 SMIC Hong Kong International Company Limited,,2020/12/22;2020/12/23;2021/03/04,.,.,,港企,EL
 Zhao Gang,,2020/12/22,.,.,,个人,EL
 Jinping Chen,,2020/12/22,.,.,,个人,EL
-"Nanjing University of
-Aeronautics and
-Astronautics",南京航空航天大学,2020/12/22;2023/03/06,.,.,,高校,EL
-"Nanjing University of Science
-and Technology",南京理工大学,2020/12/22;2023/03/06,.,.,,高校,EL
-"Tianjin Micro Nano
-Manufacturing (MNMT)",,2020/12/22,.,.,,研究所,EL
+Nanjing University of Aeronautics and Astronautics,南京航空航天大学,2020/12/22;2023/03/06,.,.,,高校,EL
+Tianjin Micro Nano Manufacturing (MNMT),,2020/12/22,.,.,,研究所,EL
+Nanjing University of Science and Technology,南京理工大学,2020/12/22;2023/03/06,.,.,,高校,EL
+Tongfang NucTech Technology Ltd.,同方威视技术股份有限公司,2020/12/22,1,1,600100.0,内地企业,EL
+"China State Shipbuilding Corporation, Limited (CSSC) 710th Research Institute",中国船舶工业集团有限公司710研究所,2020/12/22,.,.,,研究所,EL
+"China State Shipbuilding Corporation, Limited (CSSC) 711th Research Institute",中国船舶工业集团有限公司711研究所,2020/12/22,.,.,,研究所,EL
+"China State Shipbuilding Corporation, Limited (CSSC) 712th Research Institute",中国船舶工业集团有限公司712研究所,2020/12/22,.,.,,研究所,EL
+"Nanjing Asset Management Co., Ltd.,",南京航空航天大学资产经营有限公司,2020/12/22,0,0,,内地企业,EL
+"China State Shipbuilding Corporation, Limited (CSSC) 713th Research Institute",中国船舶工业集团有限公司713研究所,2020/12/22,.,.,,研究所,EL
 Wei Pang,,2020/12/22,.,.,,个人,EL
-"Tongfang NucTech
-Technology Ltd.",同方威视技术股份有限公司,2020/12/22,1,1,600100.0,内地企业,EL
-"ROFS (Tianjin) Microsystems co., LTD",诺思（天津）微系统有限责任公司,2020/12/22,2,0,,内地企业,EL
-"SMIC Northern Integrated Circuit Manufacturing
-(Beijing) Co., Ltd",中芯北方集成电路制造（北京）有限公司,2020/12/22,1,1,688981.0,内地企业,EL
-"Ningbo Semiconductor
-International Corporation",中芯集成电路（宁波）有限公司,2020/12/22,1,1,688981.0,内地企业,EL
+"China State Shipbuilding Corporation, Limited (CSSC) 715th Research Institute",中国船舶工业集团有限公司715研究所,2020/12/22,.,.,,研究所,EL
+"Jiangsu Hengxiang Science and Education Equipment Co., Ltd",南京航宇科创发展有限公司,2020/12/22,1,0,,内地企业,EL
 Tianjin University,天津大学,2020/12/22;2023/03/06,.,.,,高校,EL
-"Jiangsu Hengxiang Science
-and Education Equipment
-Co., Ltd",南京航宇科创发展有限公司,2020/12/22,1,0,,内地企业,EL
-"China State Shipbuilding
-Corporation, Limited (CSSC)
-716th Research Institute",中国船舶工业集团有限公司716研究所,2020/12/22,.,.,,研究所,EL
-"China State Shipbuilding
-Corporation, Limited (CSSC)
-715th Research Institute",中国船舶工业集团有限公司715研究所,2020/12/22,.,.,,研究所,EL
-"China State Shipbuilding
-Corporation, Limited (CSSC)
-713th Research Institute",中国船舶工业集团有限公司713研究所,2020/12/22,.,.,,研究所,EL
-"Nanjing Asset Management
-Co., Ltd.,",南京航空航天大学资产经营有限公司,2020/12/22,0,0,,内地企业,EL
-"China State Shipbuilding
-Corporation, Limited (CSSC)
-712th Research Institute",中国船舶工业集团有限公司712研究所,2020/12/22,.,.,,研究所,EL
-"China State Shipbuilding
-Corporation, Limited (CSSC)
-711th Research Institute",中国船舶工业集团有限公司711研究所,2020/12/22,.,.,,研究所,EL
-"China State Shipbuilding
-Corporation, Limited (CSSC)
-710th Research Institute",中国船舶工业集团有限公司710研究所,2020/12/22,.,.,,研究所,EL
-"China State Shipbuilding
-Corporation, Limited (CSSC)
-709th Research Institute",中国船舶工业集团有限公司709研究所,2020/12/22,.,.,,研究所,EL
-"China State Shipbuilding
-Corporation, Limited (CSSC)
-707th Research Institute",中国船舶工业集团有限公司707研究所,2020/12/22,.,.,,研究所,EL
-"China State Shipbuilding
-Corporation, Limited (CSSC)
-705th Research Institute",中国船舶工业集团有限公司705研究所,2020/12/22,.,.,,研究所,EL
-"China State Shipbuilding
-Corporation, Limited (CSSC)
-704th Research Institute",中国船舶工业集团有限公司704研究所,2020/12/22,.,.,,研究所,EL
-"China State Shipbuilding
-Corporation, Limited (CSSC)
-703rd Research Institute",中国船舶工业集团有限公司703研究所,2020/12/22,.,.,,研究所,EL
-"China State Shipbuilding
-Corporation, Limited (CSSC)
-702nd Research Institute",中国船舶工业集团有限公司702研究所,2020/12/22,.,.,,研究所,EL
-"China State Shipbuilding
-Corporation, Limited (CSSC)
-701st Research Institute",中国船舶工业集团有限公司701研究所,2020/12/22,.,.,,研究所,EL
-"China State Shipbuilding
-Corporation, Limited (CSSC)
-12th Research Institute",中国船舶工业集团有限公司第十二研究所,2020/12/22,.,.,,研究所,EL
-"China State Shipbuilding
-Corporation, Limited (CSSC)
-7th Research Academy",中国船舶工业集团有限公司第七研究院,2020/12/22,.,.,,研究所,EL
-Beijing University of Posts and Telecommunications,北京邮电大学,2020/12/22;2023/03/06,.,.,,高校,EL
-"China State Shipbuilding
-Corporation, Limited (CSSC)
-717th Research Institute",中国船舶工业集团有限公司717研究所,2020/12/22,.,.,,研究所,EL
-"Beijing Institute of
-Technology",北京理工大学,2020/12/22;2022/10/13;2023/03/06,.,.,,高校,EL
-Kuang-Chi Group,光启技术股份有限公司,2020/12/22;2021/07/12,2,2,2625.0,内地企业,EL
-"China State Shipbuilding
-Corporation, Limited (CSSC)
-723rd Research Institute",中国船舶工业集团有限公司723研究所,2020/12/22,.,.,,研究所,EL
-"China State Shipbuilding
-Corporation, Limited (CSSC)
-726th Research Institute",中国船舶工业集团有限公司726研究所,2020/12/22,.,.,,研究所,EL
-"China State Shipbuilding
-Corporation, Limited (CSSC)
-722nd Research Institute",中国船舶工业集团有限公司722研究所,2020/12/22,.,.,,研究所,EL
-"China State Shipbuilding
-Corporation, Limited (CSSC)
-719th Research Institute",中国船舶工业集团有限公司719研究所,2020/12/22,.,.,,研究所,EL
-"China State Shipbuilding
-Corporation, Limited (CSSC)
-718th Research Institute",中国船舶工业集团有限公司718研究所,2020/12/22,.,.,,研究所,EL
-"China State Shipbuilding
-Corporation, Limited (CSSC)
-750th Research Institute",中国船舶工业集团有限公司750研究所,2020/12/22,.,.,,研究所,EL
-"China State Shipbuilding
-Corporation, Limited (CSSC)
-760th Research Institute",中国船舶工业集团有限公司760研究所,2020/12/22,.,.,,研究所,EL
-Chong Zhou,,2020/12/22,.,.,,个人,EL
-"China State Shipbuilding
-Corporation, Limited (CSSC)
-724th Research Institute",中国船舶工业集团有限公司724研究所,2020/12/22,.,.,,研究所,EL
-Huisui Zhang,,2020/12/22,.,.,,个人,EL
-"China Communications
-Construction Company Ltd.,",中国交通建设股份有限公司,2020/12/22,2,2,601800.0,内地企业,EL
-"China National Scientific
-Instruments and Materials
-(CNSIM)",中国科学器材有限公司,2020/12/22,1,0,,内地企业,EL
-"Chongqing Chuandong
-Shipbuilding Industry Co Ltd.",重庆川东船舶重工有限责任公司,2020/12/22,1,1,601989.0,内地企业,EL
-"Shenzhen DJI Innovation
-Technology Co., Ltd",深圳市大疆创新科技有限公司,2020/12/22;2021/06/01,2,0,,内地企业,EL
-"Guangxin Shipbuilding and
-Heavy Industry Co., Ltd",广新海事重工股份有限公司,2020/12/22,1,0,,内地企业,EL
-"Guangzhou Taicheng
-Shipbuilding Industry Co.,
-Ltd.",广州市泰诚船舶工业有限公司,2020/12/22,0,0,,内地企业,EL
-"Wuxi Zhongde Meilian Biotechnology Co., Ltd.",无锡中德美联生物技术有限公司,2020/12/22,1,1,300009.0,内地企业,EL
-"China State Shipbuilding
-Corporation, Limited (CSSC)
-725th Research Institute",中国船舶工业集团有限公司725研究所,2020/12/22,.,.,,研究所,EL
+Ningbo Semiconductor International Corporation,中芯集成电路（宁波）有限公司,2020/12/22,1,1,688981.0,内地企业,EL
+"SMIC Northern Integrated Circuit Manufacturing (Beijing) Co., Ltd",中芯北方集成电路制造（北京）有限公司,2020/12/22,1,1,688981.0,内地企业,EL
+"ROFS (Tianjin) Microsystems co., LTD",诺思（天津）微系统有限责任公司,2020/12/22,2,0,,内地企业,EL
+"China State Shipbuilding Corporation, Limited (CSSC) 716th Research Institute",中国船舶工业集团有限公司716研究所,2020/12/22,.,.,,研究所,EL
 CNOOC Limited,中国海洋石油集团有限公司,2021/01/14;2022/06/30,2,1,600938.0,内地企业,EL
-"Tianjin Feiteng Information
-Technology",飞腾信息技术有限公司,2021/04/09;2022/10/13,2,0,,内地企业,EL
-"National Supercomputer
-Center Zhengzhou",国家超级计算郑州中心,2021/04/09;2022/10/13,.,.,,研究所,EL
-"National Supercomputing
-Center Wuxi",国家超级计算无锡中心,2021/04/09;2022/10/13,.,.,,研究所,EL
-"National Supercomputing
-Center Tianjin",国家超级计算天津中心,2021/04/09;2022/10/13,.,.,,研究所,EL
-"National Supercomputing
-Center Jinan",国家超级计算济南中心,2021/04/09;2022/10/13,.,.,,研究所,EL
+National Supercomputing Center Jinan,国家超级计算济南中心,2021/04/09;2022/10/13,.,.,,研究所,EL
 Chengdu Shenwei Technology,成都申威科技有限责任公司,2021/04/09;2022/10/13,1,1,430330.0,内地企业,EL
-"Shanghai High-Performance
-Integrated Circuit Design
-Center",国家高性能集成电路（上海）设计中心,2021/04/09;2022/10/13,.,.,,研究所,EL
-"Xinjiang Production and
-Construction Corps (XPCC)",新疆生产建设兵团,2021/06/24,.,.,,机关,EL
-"Xinjiang GCL New Energy
-Material Technology, Co. Ltd",新疆戈恩斯能源科技有限公司,2021/06/24,1,0,,内地企业,EL
-"Xinjiang East Hope
-Nonferrous Metals Co. Ltd",新疆东方希望有色金属有限公司,2021/06/24,1,0,,内地企业,EL
-"Xinjiang Daqo New Energy,
-Co. Ltd.",新疆大全新能源股份有限公司,2021/06/24,2,2,688303.0,内地企业,EL
-"Hoshine Silicon Industry
-(Shanshan) Co., Ltd.",合盛硅业（鄯善）有限公司,2021/06/24,1,1,603260.0,内地企业,EL
-Kindroid,,2021/07/12,,,,内地企业,Entity List
-Armyfly,,2021/07/12,,,,内地企业,Entity List
-"Tongfang R.I.A. Co., Ltd",同方锐安科技有限公司,2021/07/12,1,1,600100.0,内地企业,EL
-"Shenzhen Hua'antai
-Intelligent Technology Co.,
-Ltd.",深圳市华安泰智能科技有限公司,2021/07/12,1,0,,内地企业,EL
-"Leon Technology Co., Ltd.",立昂技术股份有限公司,2021/07/12,2,2,300603.0,内地企业,EL
-"Suzhou Keda Technology Co., Ltd",苏州科达科技股份有限公司,2021/07/12,2,2,603660.0,内地企业,EL
-"Shanghai Jinzhou
-Technology",上海金卓科技有限公司,2021/07/12,1,0,,内地企业,EL
-"Urumqi Tianyao Weiye
-Information Technology
-Service Co., Ltd",乌鲁木齐天耀伟业信息技术服务有限公司,2021/07/12,0,0,,内地企业,EL
-"Wuhan Raycus Fiber Laser
-Technologies Co., Ltd.,",武汉锐科光纤激光技术股份有限公司,2021/07/12,2,2,300747.0,内地企业,EL
-"Xinjiang Beidou Tongchuang
-Information Technology Co.,
-Ltd.",新疆北斗同创信息科技有限公司,2021/07/12,2,0,,内地企业,EL
-"Xinjiang Lianhai Chuangzhi
-Information Technology Co.,
-Ltd.",新疆联海创智信息科技有限公司,2021/07/12,1,0,,内地企业,EL
-"Xinjiang Sailing Information
-Technology Co., Ltd",新疆熙菱信息技术股份有限公司,2021/07/12,2,2,300588.0,内地企业,EL
-Wingel Zhang,,2021/07/12,.,.,,个人,EL
-"Shenzhen Cobber
-Information Technology Co.,
-Ltd.",深圳市科葩信息技术有限公司,2021/07/12;2021/11/26,1,0,,内地企业,EL
+National Supercomputing Center Tianjin,国家超级计算天津中心,2021/04/09;2022/10/13,.,.,,研究所,EL
+Shanghai High-Performance Integrated Circuit Design Center,国家高性能集成电路（上海）设计中心,2021/04/09;2022/10/13,.,.,,研究所,EL
+National Supercomputer Center Zhengzhou,国家超级计算郑州中心,2021/04/09;2022/10/13,.,.,,研究所,EL
+National Supercomputing Center Wuxi,国家超级计算无锡中心,2021/04/09;2022/10/13,.,.,,研究所,EL
+Tianjin Feiteng Information Technology,飞腾信息技术有限公司,2021/04/09;2022/10/13,2,0,,内地企业,EL
+Xinjiang Production and Construction Corps (XPCC),新疆生产建设兵团,2021/06/24,.,.,,机关,EL
+"Xinjiang GCL New Energy Material Technology, Co. Ltd",新疆戈恩斯能源科技有限公司,2021/06/24,1,0,,内地企业,EL
+Xinjiang East Hope Nonferrous Metals Co. Ltd,新疆东方希望有色金属有限公司,2021/06/24,1,0,,内地企业,EL
+"Xinjiang Daqo New Energy, Co. Ltd.",新疆大全新能源股份有限公司,2021/06/24,2,2,688303.0,内地企业,EL
+"Hoshine Silicon Industry (Shanshan) Co., Ltd.",合盛硅业（鄯善）有限公司,2021/06/24,1,1,603260.0,内地企业,EL
+"Kyland Technology Co., Ltd.",北京东土科技股份有限公司,2021/07/12,2,2,300353.0,内地企业,EL
 Info Rank Technologies,,2021/07/12,.,.,,港企,EL
-"Chengdu Xiwu Security
-System Alliance Co., Ltd",成都西物信安智能系统有限公司,2021/07/12,0,0,,内地企业,EL
+"Chengdu Xiwu Security System Alliance Co., Ltd",成都西物信安智能系统有限公司,2021/07/12,0,0,,内地企业,EL
 "Beijing Sinonet Science & Technology Co., Ltd.",北京中电兴发科技有限公司,2021/07/12,1,1,2298.0,内地企业,EL
 "Beijing Hileed Solutions Co., Ltd.",北京海力联合科技有限公司,2021/07/12,2,0,,内地企业,EL
-"Beijing Geling Shentong Information Technology Co., Ltd.",北京格灵深瞳信息技术股份有限公司,2021/07/12,2,2,688207.0,内地企业,EL
+China Academy of Electronics and Information Technology,中国信息通信研究院,2021/07/12,.,.,,研究所,EL
 "Beijing E-science Co., Ltd.",北京燕京电子有限公司,2021/07/12,1,0,,内地企业,EL
 Beijing Dongtu Junyue Technology,北京东土军悦科技有限公司,2021/07/12,1,1,300353.0,内地企业,EL
-"China Academy of
-Electronics and Information
-Technology",中国信息通信研究院,2021/07/12,.,.,,研究所,EL
-"Xinjiang Tangli Technology
-Co., Ltd",新疆汤立科技有限公司,2021/07/12,1,1,300603.0,内地企业,EL
-"Hangzhou Hualan
-Microelectronics Co., Ltd.",杭州华澜微电子股份有限公司,2021/07/12,2,0,,内地企业,EL
-"Kyland Technology Co., Ltd.",北京东土科技股份有限公司,2021/07/12,2,2,300353.0,内地企业,EL
-"Poly Asia Pacific Ltd., (PAPL)",,2021/11/26,,,,港企,Entity List
-Corad Technology (Shenzhen) Ltd,嘉兆科技（深圳）有限公司,2021/11/26,1,0,,内地企业,EL
-"Shanghai QuantumCTek Co.,
-Ltd.",上海国盾量子信息技术有限公司,2021/11/26,1,1,688027.0,内地企业,EL
-"Hefei National Laboratory for
-Physical Sciences at
-Microscale",合肥微尺度物质科学国家研究中心,2021/11/26,.,.,,研究所,EL
-"Hangzhou Zhongke
-Microelectronics Co., Ltd.",杭州中科微电子有限公司,2021/11/26,1,0,,内地企业,EL
-"New H3C Semiconductor
-Technologies Co., Ltd.",新华三半导体技术有限公司,2021/11/26;2022/10/13,1,1,938.0,内地企业,EL
-Peaktek Company Ltd.,,2021/11/26,.,.,,港企,EL
-"Hunan Goke
-Microelectronics",湖南国科微电子股份有限公司,2021/11/26,2,2,300672.0,内地企业,EL
-"Shaanxi Zhi En
-Electromechanical
-Technology Co., Ltd.,",陕西智恩机电科技有限公司,2021/11/26,1,0,,内地企业,EL
-"Xi'an Aerospace Huaxun
-Technology",西安航天华迅科技有限公司,2021/11/26,0,0,,内地企业,EL
-"Suzhou Yunxin
-Microelectronics Technology",苏州云芯微电子科技有限公司,2021/11/26,1,1,688709.0,内地企业,EL
+"Shenzhen Cobber Information Technology Co., Ltd.",深圳市科葩信息技术有限公司,2021/07/12;2021/11/26,1,0,,内地企业,EL
+"Hangzhou Hualan Microelectronics Co., Ltd.",杭州华澜微电子股份有限公司,2021/07/12,2,0,,内地企业,EL
+"Beijing Geling Shentong Information Technology Co., Ltd.",北京格灵深瞳信息技术股份有限公司,2021/07/12,2,2,688207.0,内地企业,EL
+"Xinjiang Tangli Technology Co., Ltd",新疆汤立科技有限公司,2021/07/12,1,1,300603.0,内地企业,EL
+"Xinjiang Sailing Information Technology Co., Ltd",新疆熙菱信息技术股份有限公司,2021/07/12,2,2,300588.0,内地企业,EL
+"Xinjiang Lianhai Chuangzhi Information Technology Co., Ltd.",新疆联海创智信息科技有限公司,2021/07/12,1,0,,内地企业,EL
+Kindroid,,2021/07/12,,,,内地企业,Entity List
+Armyfly,,2021/07/12,,,,内地企业,Entity List
+Wingel Zhang,,2021/07/12,.,.,,个人,EL
+"Shenzhen Hua'antai Intelligent Technology Co., Ltd.",深圳市华安泰智能科技有限公司,2021/07/12,1,0,,内地企业,EL
+"Leon Technology Co., Ltd.",立昂技术股份有限公司,2021/07/12,2,2,300603.0,内地企业,EL
+"Tongfang R.I.A. Co., Ltd",同方锐安科技有限公司,2021/07/12,1,1,600100.0,内地企业,EL
+Shanghai Jinzhou Technology,上海金卓科技有限公司,2021/07/12,1,0,,内地企业,EL
+"Urumqi Tianyao Weiye Information Technology Service Co., Ltd",乌鲁木齐天耀伟业信息技术服务有限公司,2021/07/12,0,0,,内地企业,EL
+"Wuhan Raycus Fiber Laser Technologies Co., Ltd.,",武汉锐科光纤激光技术股份有限公司,2021/07/12,2,2,300747.0,内地企业,EL
+"Xinjiang Beidou Tongchuang Information Technology Co., Ltd.",新疆北斗同创信息科技有限公司,2021/07/12,2,0,,内地企业,EL
+"Suzhou Keda Technology Co., Ltd",苏州科达科技股份有限公司,2021/07/12,2,2,603660.0,内地企业,EL
+Hunan Goke Microelectronics,湖南国科微电子股份有限公司,2021/11/26,2,2,300672.0,内地企业,EL
 "QuantumCTek Co., Ltd.",科大国盾量子技术股份有限公司,2021/11/26,2,2,688027.0,内地企业,EL
-"Beijing Oriental Vision
-Petroleum Technology
-Company Limited",北京东方远望石油科技有限公司,2021/11/26,0,0,,内地企业,EL
-"Shanghai Aoshi Control
-Technology Co., Ltd.",上海傲世控制科技股份有限公司,2021/12/17,2,0,,内地企业,EL
-"Changsha Jingjia
-Microelectronics Co.,
-Ltd",长沙景嘉微电子股份有限公司,2021/12/17;2022/10/13,2,2,300474.0,内地企业,EL
+Suzhou Yunxin Microelectronics Technology,苏州云芯微电子科技有限公司,2021/11/26,1,1,688709.0,内地企业,EL
+Beijing Oriental Vision Petroleum Technology Company Limited,北京东方远望石油科技有限公司,2021/11/26,0,0,,内地企业,EL
+"Shaanxi Zhi En Electromechanical Technology Co., Ltd.,",陕西智恩机电科技有限公司,2021/11/26,1,0,,内地企业,EL
+Peaktek Company Ltd.,,2021/11/26,.,.,,港企,EL
+Xi'an Aerospace Huaxun Technology,西安航天华迅科技有限公司,2021/11/26,0,0,,内地企业,EL
+"Hangzhou Zhongke Microelectronics Co., Ltd.",杭州中科微电子有限公司,2021/11/26,1,0,,内地企业,EL
+Hefei National Laboratory for Physical Sciences at Microscale,合肥微尺度物质科学国家研究中心,2021/11/26,.,.,,研究所,EL
+"Shanghai QuantumCTek Co., Ltd.",上海国盾量子信息技术有限公司,2021/11/26,1,1,688027.0,内地企业,EL
+Corad Technology (Shenzhen) Ltd,嘉兆科技（深圳）有限公司,2021/11/26,1,0,,内地企业,EL
+"Poly Asia Pacific Ltd., (PAPL)",,2021/11/26,,,,港企,Entity List
+"New H3C Semiconductor Technologies Co., Ltd.",新华三半导体技术有限公司,2021/11/26;2022/10/13,1,1,938.0,内地企业,EL
+Hong Kong Cheung Wah Electronics Technology Company Limited,,2021/12/17,.,.,,港企,EL
+"Fujian Torch Electron Technology Co., Ltd.",福建火炬电子科技股份有限公司,2021/12/17,2,2,603678.0,内地企业,EL
+Comtel Technology Limited,深圳市康泰尔科技有限公司,2021/12/17,0,0,,内地企业,EL
+China Electronics Technology HIK Group Co.,中电海康集团有限公司,2021/12/17,1,0,,内地企业,EL
+Aerosun Corporation,航天晨光股份有限公司,2021/12/17,2,2,600501.0,内地企业,EL
+"Academy of Military Medical Sciences, Military Veterinary Research Institute",中国人民解放军军事医学科学院军事兽医研究所,2021/12/17,.,.,,研究所,EL
+"Academy of Military Medical Sciences, Institute of Toxicology and Pharmacology",中国人民解放军军事医学科学院毒物药物研究所,2021/12/17,.,.,,研究所,EL
+HSJ Electronics,,2021/12/17;2022/12/19,.,.,,港企,EL
+"Academy of Military Medical Sciences, Institute of Microbiology and Epidemiology",中国人民解放军军事医学科学院微生物流行病研究所,2021/12/17,.,.,,研究所,EL
+Hyper Systems Union Limited,,2021/12/17,.,.,,港企,EL
+"Academy of Military Medical Sciences, Institute of Medical Equipment",中国人民解放军军事医学科学院卫生装备研究所,2021/12/17,.,.,,研究所,EL
+"Academy of Military Medical Sciences, Institute of Hygiene and Environmental Medicine",中国人民解放军军事医学科学院卫生环境医学研究所,2021/12/17,.,.,,研究所,EL
+"Jiangsu Hengtong Optic-Electric Co., Ltd",江苏亨通光电股份有限公司,2021/12/17,2,2,600487.0,内地企业,EL
+"Jiangsu Hengtong Marine Cable Systems Co., Ltd.",江苏亨通华海科技股份有限公司,2021/12/17,1,1,600487.0,内地企业,EL
+"Inner Mongolia First Machinery Group Co., Ltd.",内蒙古第一机械集团股份有限公司,2021/12/17,2,2,600967.0,内地企业,EL
+"Academy of Military Medical Sciences, Institute of Radiation and Radiation Medicine",中国人民解放军军事医学科学院放射与辐射医学研究所,2021/12/17,.,.,,研究所,EL
+"Shaanxi Reactor Microelectronics Co., Ltd",陕西亚成微电子股份有限公司,2021/12/17,2,2,430552.0,内地企业,EL
+Integrated Scientific Microwave Technology,,2021/12/17,.,.,,港企,EL
+"Academy of Military Medical Sciences, Institute of Disease Control and Prevention",中国人民解放军军事医学科学院疾病预防控制所,2021/12/17,.,.,,研究所,EL
+"Academy of Military Medical Sciences, Institute of Health Serviceand Medical Information",中国人民解放军军事医学科学院卫生勤务与医学情报研究所,2021/12/17,.,.,,研究所,EL
+"Changsha Jingjia Microelectronics Co., Ltd",长沙景嘉微电子股份有限公司,2021/12/17;2022/10/13,2,2,300474.0,内地企业,EL
 Wavelet Electronics,,2021/12/17;2022/02/14,.,.,,港企,EL
 Thundsea Electric Limited,,2021/12/17,.,.,,港企,EL
 Shenzhen Rion Technology,深圳市瑞芬科技有限公司,2021/12/17,0,0,,内地企业,EL
-"Shanghai Aisinochip
-Electronics Technology Co.,
-Ltd.",上海航芯电子科技股份有限公司,2021/12/17,2,0,,内地企业,EL
-"China Electronics Technology
-Group Corporation 52nd
-Research Institute",中国电子科技集团公司第五十二研究所,2021/12/17,.,.,,研究所,EL
-ROV Solutions,,2021/12/17,.,.,,港企,EL
-"Zhongtian Technology
-Submarine Cable Co., Ltd.",中天科技海缆股份有限公司,2021/12/17,1,1,600522.0,内地企业,EL
+"Shanghai Aisinochip Electronics Technology Co., Ltd.",上海航芯电子科技股份有限公司,2021/12/17,2,0,,内地企业,EL
+China Electronics Technology Group Corporation 52nd Research Institute,中国电子科技集团公司第五十二研究所,2021/12/17,.,.,,研究所,EL
+"Shanghai Aoshi Control Technology Co., Ltd.",上海傲世控制科技股份有限公司,2021/12/17,2,0,,内地企业,EL
+"Zhongtian Technology Submarine Cable Co., Ltd.",中天科技海缆股份有限公司,2021/12/17,1,1,600522.0,内地企业,EL
 "HMN International Co., Ltd.",,2021/12/17,.,.,,港企,EL
-"Hangzhou Hikmicro Sensing
-Technology Co., Ltd.",杭州海康微影传感科技有限公司,2021/12/17,1,1,2415.0,内地企业,EL
+"Hangzhou Hikmicro Sensing Technology Co., Ltd.",杭州海康微影传感科技有限公司,2021/12/17,1,1,2415.0,内地企业,EL
 Academy of Military Medical Sciences,中国人民解放军军事医学科学院,2021/12/17,.,.,,研究所,EL
 "Academy of Military Medical Sciences, Field Blood Transfusion Institution",中国人民解放军军事医学科学院野战输血研究所,2021/12/17,.,.,,研究所,EL
 "Academy of Military Medical Sciences, Institute of Basic Medicine",中国人民解放军军事医学科学院基础医学研究所,2021/12/17,.,.,,研究所,EL
 "Academy of Military Medical Sciences, Institute of Bioengineering",中国人民解放军军事医学科学院生物工程研究所,2021/12/17,.,.,,研究所,EL
-"Academy of Military Medical Sciences, Institute of Disease Control and Prevention",中国人民解放军军事医学科学院疾病预防控制所,2021/12/17,.,.,,研究所,EL
-"Academy of Military Medical Sciences, Institute of Health Serviceand Medical Information",中国人民解放军军事医学科学院卫生勤务与医学情报研究所,2021/12/17,.,.,,研究所,EL
-"Shaanxi Reactor
-Microelectronics Co., Ltd",陕西亚成微电子股份有限公司,2021/12/17,2,2,430552.0,内地企业,EL
-Hyper Systems Union Limited,,2021/12/17,.,.,,港企,EL
-"Hong Kong Cheung Wah
-Electronics Technology
-Company Limited",,2021/12/17,.,.,,港企,EL
-"Fujian Torch Electron
-Technology Co., Ltd.",福建火炬电子科技股份有限公司,2021/12/17,2,2,603678.0,内地企业,EL
-Comtel Technology Limited,深圳市康泰尔科技有限公司,2021/12/17,0,0,,内地企业,EL
-"China Electronics
-Technology HIK Group Co.",中电海康集团有限公司,2021/12/17,1,0,,内地企业,EL
-Aerosun Corporation,航天晨光股份有限公司,2021/12/17,2,2,600501.0,内地企业,EL
-"Academy of Military Medical Sciences, Military Veterinary Research Institute",中国人民解放军军事医学科学院军事兽医研究所,2021/12/17,.,.,,研究所,EL
-"Academy of Military Medical Sciences, Institute of Toxicology and Pharmacology",中国人民解放军军事医学科学院毒物药物研究所,2021/12/17,.,.,,研究所,EL
-"Academy of Military Medical Sciences, Institute of Radiation and Radiation Medicine",中国人民解放军军事医学科学院放射与辐射医学研究所,2021/12/17,.,.,,研究所,EL
-"Academy of Military Medical Sciences, Institute of Microbiology and Epidemiology",中国人民解放军军事医学科学院微生物流行病研究所,2021/12/17,.,.,,研究所,EL
-HSJ Electronics,,2021/12/17;2022/12/19,.,.,,港企,EL
-"Academy of Military Medical Sciences, Institute of Medical Equipment",中国人民解放军军事医学科学院卫生装备研究所,2021/12/17,.,.,,研究所,EL
-"Academy of Military Medical Sciences, Institute of Hygiene and Environmental Medicine",中国人民解放军军事医学科学院卫生环境医学研究所,2021/12/17,.,.,,研究所,EL
-"Jiangsu Hengtong Optic-Electric Co., Ltd",江苏亨通光电股份有限公司,2021/12/17,2,2,600487.0,内地企业,EL
-"Jiangsu Hengtong Marine
-Cable Systems Co., Ltd.",江苏亨通华海科技股份有限公司,2021/12/17,1,1,600487.0,内地企业,EL
-"Integrated Scientific
-Microwave Technology",,2021/12/17,.,.,,港企,EL
-"Inner Mongolia First
-Machinery Group Co., Ltd.",内蒙古第一机械集团股份有限公司,2021/12/17,2,2,600967.0,内地企业,EL
-"Jiangsu Tianyuan Metal
-Powder Co. Ltd.",江苏天元金属粉末有限公司,2022/02/14,0,0,,内地企业,EL
-"Sanya Highlander Huanyu
-Ocean Information
-Technology Corporation",三亚海兰寰宇海洋信息科技有限公司,2022/06/30,1,1,300065.0,内地企业,EL
-Chen Zhouqian,,2022/06/30,.,.,,个人,EL
-"China Academy of Science—Shenyang Institute
-of Automation",中国科学院沈阳自动化研究所,2022/06/30,.,.,,研究所,EL
-"China State Shipbuilding
-Corp.—Systems Engineering
-Research Institute",中国船舶集团有限公司系统工程研究院,2022/06/30,.,.,,研究所,EL
-At One Electronics,,2022/06/30,.,.,,港企,EL
-Blueschip Company Limited,,2022/06/30,.,.,,港企,EL
-"China State Shipbuilding
-Corp.",中国船舶集团有限公司,2022/06/30,2,1,600150.0,内地企业,EL
-Shenzhen Avanlane,,2022/06/30,,,,内地企业,Entity List
-Chipwinone Electronics Co.,,2022/06/30,.,.,,港企,EL
-"Chuangxinda Electronics Tech Co., Ltd.",深圳市创新达电子科技有限公司,2022/06/30,0,0,,内地企业,EL
-"Beijing Highlander Digital Technology Co. Ltd,",北京海兰信数据科技股份有限公司,2022/06/30,2,2,300065.0,内地企业,EL
-Connec Electronic Ltd,苏州柯奈柯特电子有限公司,2022/06/30,0,0,,内地企业,EL
-"Ehang International Trade
-Limited",,2022/06/30,.,.,,港企,EL
-Gaohui HK Electronics,,2022/06/30,.,.,,港企,EL
-"Highlander (Hong Kong)
-Maritime Navigation Science
-and Technology LLC",,2022/06/30,.,.,,港企,EL
-ICSOSO Electronics Co. Ltd,深圳市旺年华电子有限公司,2022/06/30,0,0,,内地企业,EL
+ROV Solutions,,2021/12/17,.,.,,港企,EL
+Jiangsu Tianyuan Metal Powder Co. Ltd.,江苏天元金属粉末有限公司,2022/02/14,0,0,,内地企业,EL
 "King Pai Technology Co., Ltd.",深圳市金派信息科技有限公司,2022/06/30;2022/09/16,0,0,,内地企业,EL
-"King-Pai Technology (HK)
-Co., Limited",,2022/06/30;2022/09/16,.,.,,港企,EL
-"Sansha Highlander Marine
-Information Technology Co.
-Ltd.,",三沙海兰信海洋信息科技有限公司,2022/06/30,1,1,300065.0,内地企业,EL
+"King-Pai Technology (HK) Co., Limited",,2022/06/30;2022/09/16,.,.,,港企,EL
+"Sansha Highlander Marine Information Technology Co. Ltd.,",三沙海兰信海洋信息科技有限公司,2022/06/30,1,1,300065.0,内地企业,EL
 Yiru Zhuang,,2022/06/30,.,.,,个人,EL
 Wayne Weipeng,,2022/06/30,.,.,,个人,EL
-"Vic-Zone Co., Limited",,2022/06/30;2023/09/27,.,.,,港企,EL
+Suntric Company Limited,,2022/06/30,.,.,,港企,EL
 Laurel Technologies Co. Ltd.,北京劳雷海洋仪器有限公司,2022/06/30,1,0,,内地企业,EL
 Winninc Electronic,,2022/06/30;2022/09/16,.,.,,港企,EL
-Suntric Company Limited,,2022/06/30,.,.,,港企,EL
 "Sinno Electronics Co., Ltd.",,2022/06/30;2022/09/16,.,.,,港企,EL
 CSSC Electronic Technology,中船电子科技有限公司,2022/06/30,2,0,,内地企业,EL
 World Jetta (H.K.) Logistics Limited,,2022/06/30;2022/09/16,.,.,,港企,EL
-"China Academy of Space
-Technology 502 Research
-Institute",中国空间技术研究院502研究所,2022/08/24,.,.,,研究所,EL
+ICSOSO Electronics Co. Ltd,深圳市旺年华电子有限公司,2022/06/30,0,0,,内地企业,EL
+"Vic-Zone Co., Limited",,2022/06/30;2023/09/27,.,.,,港企,EL
+Highlander (Hong Kong) Maritime Navigation Science and Technology LLC,,2022/06/30,.,.,,港企,EL
+"Chuangxinda Electronics Tech Co., Ltd.",深圳市创新达电子科技有限公司,2022/06/30,0,0,,内地企业,EL
+Ehang International Trade Limited,,2022/06/30,.,.,,港企,EL
+Sanya Highlander Huanyu Ocean Information Technology Corporation,三亚海兰寰宇海洋信息科技有限公司,2022/06/30,1,1,300065.0,内地企业,EL
+Gaohui HK Electronics,,2022/06/30,.,.,,港企,EL
+China Academy of Science—Shenyang Institute of Automation,中国科学院沈阳自动化研究所,2022/06/30,.,.,,研究所,EL
+China State Shipbuilding Corp.—Systems Engineering Research Institute,中国船舶集团有限公司系统工程研究院,2022/06/30,.,.,,研究所,EL
+At One Electronics,,2022/06/30,.,.,,港企,EL
+Chen Zhouqian,,2022/06/30,.,.,,个人,EL
+China State Shipbuilding Corp.,中国船舶集团有限公司,2022/06/30,2,1,600150.0,内地企业,EL
+Shenzhen Avanlane,,2022/06/30,,,,内地企业,Entity List
+Chipwinone Electronics Co.,,2022/06/30,.,.,,港企,EL
+"Beijing Highlander Digital Technology Co. Ltd,",北京海兰信数据科技股份有限公司,2022/06/30,2,2,300065.0,内地企业,EL
+Connec Electronic Ltd,苏州柯奈柯特电子有限公司,2022/06/30,0,0,,内地企业,EL
+Blueschip Company Limited,,2022/06/30,.,.,,港企,EL
+China Academy of Space Technology 513 Research Institute,中国空间技术研究院513研究所,2022/08/24,.,.,,研究所,EL
+China Academy of Space Technology 502 Research Institute,中国空间技术研究院502研究所,2022/08/24,.,.,,研究所,EL
 China Aerospace Science and Technology Corporation (CASC) 9th Academy 772 Research Institute,,2022/08/24,,,,研究所,Entity List
-"Zhuhai Orbita Control
-Systems",珠海航宇微科技股份有限公司,2022/08/24,2,2,300053.0,内地企业,EL
-"China Electronics Technology
-Group Corporation 58
-Research Institute","中国电子科技集团公司第五十八研究所
+Zhuhai Orbita Control Systems,珠海航宇微科技股份有限公司,2022/08/24,2,2,300053.0,内地企业,EL
+China Electronics Technology Group Corporation 58 Research Institute,"中国电子科技集团公司第五十八研究所
 无锡微电子科研中心",2022/08/24,.,.,,研究所,EL
-"China Electronics Technology
-Group Corporation 43
-Research Institute","中国电子科技集团公司第四十三研究所
+China Electronics Technology Group Corporation 43 Research Institute,"中国电子科技集团公司第四十三研究所
 华东微电子技术研究所",2022/08/24,.,.,,研究所,EL
-"Beijing Institute of
-Microelectronics Technology","北京微电子技术研究所
+Beijing Institute of Microelectronics Technology,"北京微电子技术研究所
 （中国航天科工九院772所）",2022/08/24,.,.,,研究所,EL
-"Xi'an Microelectronics
-Technology Institute","西安微电子技术研究所
+Xi'an Microelectronics Technology Institute,"西安微电子技术研究所
 （中国航天科工九院771所）",2022/08/24,.,.,,研究所,EL
-"China Academy of Space
-Technology 513 Research
-Institute",中国空间技术研究院513研究所,2022/08/24,.,.,,研究所,EL
 China Aerospace Science and Technology Corporation (CASC) 9th Academy 771 Research Institute,,2022/08/24,,,,研究所,Entity List
 "Nanjing LES Cybersecurity and Information Technology Research Institute Co., Ltd.",,2022/12/16,,,,研究所,Entity List
-"Yangtze Memory
-Technologies Co., Ltd.",长江存储科技有限责任公司,2022/12/19,2,0,,内地企业,EL
-"Xiong'an Cambricon
-Technology Co., Ltd.",雄安寒武纪科技有限公司,2022/12/19,1,1,688256.0,内地企业,EL
-"Zhongke Xinliang (Beijing)
-Technology Co., Ltd.",中科信联（北京）科技有限公司,2022/12/19,0,0,,内地企业,EL
-"Tianjin Tiandi Weiye
-Technologies Co., Ltd.",天地伟业技术有限公司,2022/12/19,1,0,,内地企业,EL
-"Shanghai Micro Electronics
-Equipment (Group) Co., Ltd.",上海微电子装备（集团）股份有限公司,2022/12/19,1,0,,内地企业,EL
-"Suzhou Cambricon
-Information Technology Co.,
-Ltd.",苏州寒武纪信息科技有限公司,2022/12/19,1,1,688256.0,内地企业,EL
+"Yangtze Memory Technologies Co., Ltd.",长江存储科技有限责任公司,2022/12/19,2,0,,内地企业,EL
+"CETC Cloud (Beijing) Technology Co., Ltd",电科云（北京）科技有限公司,2022/12/19,2,0,,内地企业,EL
+"CETC LES Information System Group Co., Ltd.,",中电莱斯信息系统有限公司,2022/12/19,1,0,,内地企业,EL
+"Guangdong Qinzhi Technology Research Institute Co., Ltd",广东琴智科技研究院有限公司,2022/12/19,1,0,,内地企业,EL
+Hefei Core Storage Electronic Ltd.,合肥兆芯电子有限公司,2022/12/19,1,0,,内地企业,EL
+Nanjing Aixi Information Technology,南京艾溪信息科技有限公司,2022/12/19,1,1,688256.0,内地企业,EL
+"Nanjing Laisi Netcom Technology Research Institute Co., Ltd.",南京莱斯网信技术研究院有限公司,2022/12/19,1,1,688631.0,内地企业,EL
+Cambricon Technologies Corporation Limited,中科寒武纪科技股份有限公司,2022/12/19,2,2,688256.0,内地企业,EL
+"Nanjing LES Electronic Equipment Co., Ltd",南京莱斯电子设备有限公司,2022/12/19,1,1,688631.0,内地企业,EL
+"PXW Semiconductor Manufactory Co., Ltd.",深圳市鹏芯微集成电路制造有限公司,2022/12/19,1,0,,内地企业,EL
+"Shanghai Cambricon Information Technology Co., Ltd",上海寒武纪信息科技有限公司,2022/12/19,1,1,688256.0,内地企业,EL
+"Beijing Machinery Industry Automation Research Institute Co., Ltd.",北京机械工业自动化研究所有限公司,2022/12/19,1,0,,内地企业,EL
+"Beijing HiFar Technology Co., Ltd.",北京华天海峰科技股份有限公司,2022/12/19,0,0,,内地企业,EL
+"System Equipment Co., Ltd. of the 28th Research Institute (Liyang)",溧阳二十八所系统装备有限公司,2022/12/19,1,0,,内地企业,EL
+"Shanghai Suowei Information Technology Co., Ltd.",上海索为信息科技有限公司,2022/12/19,1,0,,内地企业,EL
+"Nanjing LES Information Technology Co., Ltd",南京莱斯信息技术股份有限公司,2022/12/19,2,2,688631.0,内地企业,EL
+"Cambricon (Xi'an) Integrated Circuit Co., Ltd",西安寒武纪信息科技有限公司,2022/12/19,1,1,688256.0,内地企业,EL
+Shanghai Integrated Circuit Research and Development Center,上海集成电路研发中心有限公司,2022/12/19,0,0,,内地企业,EL
+"Cambricon (Kunshan) Information Technology Co., Ltd.",寒武纪（昆山）信息科技有限公司,2022/12/19,1,1,688256.0,内地企业,EL
+"Xiong'an Cambricon Technology Co., Ltd.",雄安寒武纪科技有限公司,2022/12/19,1,1,688256.0,内地企业,EL
+"Zhongke Xinliang (Beijing) Technology Co., Ltd.",中科信联（北京）科技有限公司,2022/12/19,0,0,,内地企业,EL
+"Tianjin Tiandi Weiye Technologies Co., Ltd.",天地伟业技术有限公司,2022/12/19,1,0,,内地企业,EL
+"Shanghai Micro Electronics Equipment (Group) Co., Ltd.",上海微电子装备（集团）股份有限公司,2022/12/19,1,0,,内地企业,EL
+"Suzhou Cambricon Information Technology Co., Ltd.",苏州寒武纪信息科技有限公司,2022/12/19,1,1,688256.0,内地企业,EL
 AVIC Research Institute for Special Structures of Aeronautical Composites,中国航空工业集团公司济南特种结构研究所,2022/12/19,.,.,,研究所,EL
-"China Electronics Technology
-Group Corporation No. 28
-Institute","中国电子科技集团公司第二十八研究所
+"Cambricon (Nanjing) Information Technology Co., Ltd.",寒武纪（南京）信息科技有限公司,2022/12/19,1,1,688256.0,内地企业,EL
+China Electronics Technology Group Corporation No. 28 Institute,"中国电子科技集团公司第二十八研究所
 南京电子工程研究所",2022/12/19,.,.,,研究所,EL
-"Chinese Academy of
-Sciences Institute of
-Computing Technology",中国科学院计算技术研究所,2022/12/19,.,.,,研究所,EL
-"Key Laboratory of
-Information Systems
-Engineering",信息系统工程重点实验室,2022/12/19,.,.,,研究所,EL
+Key Laboratory of Information Systems Engineering,信息系统工程重点实验室,2022/12/19,.,.,,研究所,EL
 "Anhui Cambricon Information Technology Co., Ltd.",安徽寒武纪信息科技有限公司,2022/12/19,1,1,688256.0,内地企业,EL
 "AZUP International Group Co., Ltd",北京安洲科技有限公司,2022/12/19,0,0,,内地企业,EL
 "Beijing UniStrong Science & Technology Co., Ltd.,",北京合众思壮科技股份有限公司,2022/12/19,2,2,2383.0,内地企业,EL
 "Beijing Vision Strategy Technology Co., Ltd.",北京银景科技有限公司,2022/12/19,0,0,,内地企业,EL
-"Cambricon (Hong Kong) Co.,
-Ltd",,2022/12/19,.,.,,港企,EL
-"Cambricon Jixingge
-(Nanjing) Technology Co.,
-Ltd",寒武纪行歌（南京）科技有限公司,2022/12/19,1,1,688256.0,内地企业,EL
-"Cambricon (Kunshan)
-Information Technology Co.,
-Ltd.",寒武纪（昆山）信息科技有限公司,2022/12/19,1,1,688256.0,内地企业,EL
-"Cambricon (Nanjing)
-Information Technology Co.,
-Ltd.",寒武纪（南京）信息科技有限公司,2022/12/19,1,1,688256.0,内地企业,EL
-"Cambricon (Xi'an) Integrated
-Circuit Co., Ltd",西安寒武纪信息科技有限公司,2022/12/19,1,1,688256.0,内地企业,EL
-"Cambricon Technologies
-Corporation Limited",中科寒武纪科技股份有限公司,2022/12/19,2,2,688256.0,内地企业,EL
-"CETC Cloud (Beijing)
-Technology Co., Ltd",电科云（北京）科技有限公司,2022/12/19,2,0,,内地企业,EL
-"CETC LES Information
-System Group Co., Ltd.,",中电莱斯信息系统有限公司,2022/12/19,1,0,,内地企业,EL
-"Guangdong Qinzhi
-Technology Research
-Institute Co., Ltd",广东琴智科技研究院有限公司,2022/12/19,1,0,,内地企业,EL
-"Hefei Core Storage Electronic
-Ltd.",合肥兆芯电子有限公司,2022/12/19,1,0,,内地企业,EL
-"Nanjing Aixi Information
-Technology",南京艾溪信息科技有限公司,2022/12/19,1,1,688256.0,内地企业,EL
-"Nanjing Laisi Netcom
-Technology Research
-Institute Co., Ltd.",南京莱斯网信技术研究院有限公司,2022/12/19,1,1,688631.0,内地企业,EL
-"Nanjing LES Electronic
-Equipment Co., Ltd",南京莱斯电子设备有限公司,2022/12/19,1,1,688631.0,内地企业,EL
-"Nanjing LES Information
-Technology Co., Ltd",南京莱斯信息技术股份有限公司,2022/12/19,2,2,688631.0,内地企业,EL
-"PXW Semiconductor
-Manufactory Co., Ltd.",深圳市鹏芯微集成电路制造有限公司,2022/12/19,1,0,,内地企业,EL
-"Shanghai Cambricon
-Information Technology Co.,
-Ltd",上海寒武纪信息科技有限公司,2022/12/19,1,1,688256.0,内地企业,EL
-"Shanghai Integrated Circuit
-Research and Development
-Center",上海集成电路研发中心有限公司,2022/12/19,0,0,,内地企业,EL
-"Beijing Machinery Industry Automation Research Institute Co., Ltd.",北京机械工业自动化研究所有限公司,2022/12/19,1,0,,内地企业,EL
-"Beijing HiFar Technology Co., Ltd.",北京华天海峰科技股份有限公司,2022/12/19,0,0,,内地企业,EL
-"System Equipment Co., Ltd.
-of the 28th Research Institute
-(Liyang)",溧阳二十八所系统装备有限公司,2022/12/19,1,0,,内地企业,EL
-"Shanghai Suowei Information
-Technology Co., Ltd.",上海索为信息科技有限公司,2022/12/19,1,0,,内地企业,EL
-"Shanxi Eagles Men Aviation
-Science and Technology
-Group Co., Ltd.",山西铱格斯曼航空科技有限公司,2023/02/14,1,0,,内地企业,EL
-"Guangzhou Tian-Hai-Xiang
-Aviation Technology Co., Ltd.",广州天海翔航空科技有限公司,2023/02/14,0,0,,内地企业,EL
-"Dongguan Lingkong Remote
-Sensing Technology Co., Ltd.",东莞凌空遥感科技有限公司,2023/02/14,1,0,,内地企业,EL
+"Cambricon (Hong Kong) Co., Ltd",,2022/12/19,.,.,,港企,EL
+"Cambricon Jixingge (Nanjing) Technology Co., Ltd",寒武纪行歌（南京）科技有限公司,2022/12/19,1,1,688256.0,内地企业,EL
+Chinese Academy of Sciences Institute of Computing Technology,中国科学院计算技术研究所,2022/12/19,.,.,,研究所,EL
+"Eagles Men Aviation Science and Technology Group Co., Ltd.",铱格斯曼航空科技集团股份有限公司,2023/02/14,1,0,,内地企业,EL
 "Beijing Nanjiang Aerospace Technology Co., Ltd.",北京南江空天科技股份有限公司,2023/02/14,1,1,600503.0,内地企业,EL
-"China Electronics Technology
-Group Corporation 48th
-Research Institute",中国电子科技集团公司第四十八研究所,2023/02/14,.,.,,研究所,EL
-"Eagles Men Aviation Science
-and Technology Group Co.,
-Ltd.",铱格斯曼航空科技集团股份有限公司,2023/02/14,1,0,,内地企业,EL
+China Electronics Technology Group Corporation 48th Research Institute,中国电子科技集团公司第四十八研究所,2023/02/14,.,.,,研究所,EL
+"Guangzhou Tian-Hai-Xiang Aviation Technology Co., Ltd.",广州天海翔航空科技有限公司,2023/02/14,0,0,,内地企业,EL
+"Shanxi Eagles Men Aviation Science and Technology Group Co., Ltd.",山西铱格斯曼航空科技有限公司,2023/02/14,1,0,,内地企业,EL
+"Dongguan Lingkong Remote Sensing Technology Co., Ltd.",东莞凌空遥感科技有限公司,2023/02/14,1,0,,内地企业,EL
 Beijing Ti-Tech Science and Technology Development Co.,北京天泰科技发展有限公司,2023/02/27,1,0,,内地企业,EL
 AOOK Technology Limited,,2023/02/27;2023/04/17,.,.,,港企,EL
 "Beijing Yunze Technology Co., Ltd.",北京昀泽科技有限公司,2023/02/27,0,0,,内地企业,EL
-"China HEAD Aerospace
-Technology Co.",北京和德宇航技术有限公司,2023/02/27,1,0,,内地企业,EL
+China HEAD Aerospace Technology Co.,北京和德宇航技术有限公司,2023/02/27,1,0,,内地企业,EL
 "Spacety Co., Ltd.",长沙天仪空间科技研究院有限公司,2023/02/27,2,0,,内地企业,EL
+"Hong Kong Huada Laboratory Co., Ltd.",,2023/03/06,.,.,,港企,EL
+Wuxi Institute of Advanced Technology,无锡先进技术研究院,2023/03/06,.,.,,研究所,EL
+"Suzhou Centec Technology Co., Ltd",苏州盛科科技有限公司,2023/03/06,1,1,688702.0,内地企业,EL
+"Suzhou Centec Communications Co., Ltd.,",苏州盛科通信股份有限公司,2023/03/06,2,2,688702.0,内地企业,EL
+Sunton Tech Hong Kong Ltd,,2023/03/06,.,.,,港企,EL
+"Rayscience Optoelectronics Innovation Co., Ltd.",上海瞬渺光电技术有限公司,2023/03/06,0,0,,内地企业,EL
+Qingdao National Laboratory of Marine Science and Technology,青岛国实科技集团有限公司,2023/03/06,2,0,,内地企业,EL
+"Inspur Group Co., Ltd.",浪潮集团有限公司,2023/03/06,2,1,977.0,内地企业,EL
+Korchina Logistics (HK) Ltd.,,2023/03/06,.,.,,港企,EL
+Jotrin Electronics Ltd.,,2023/03/06,.,.,,港企,EL
+Hongtai Electric Ltd.,,2023/03/06,.,.,,港企,EL
+"Baoding Kaituo Precision Instrument Manufacturing Co., Ltd",保定开拓精密仪器制造有限责任公司,2023/03/06,0,0,,内地企业,EL
+"Nanjing colpak Mechanical Equipment Co., Ltd.",南京哥伦巴机械设备有限公司,2023/03/06,0,0,,内地企业,EL
+Galaxy Electronics,,2023/03/06,.,.,,港企,EL
+Loongson Technology,龙芯中科技术股份有限公司,2023/03/06,2,2,688047.0,内地企业,EL
+Luo Dingwen,,2023/03/06,.,.,,个人,EL
+"Nanjing Jiuding Refrigeration & Air-conditioning Equipment Co., Ltd",南京久鼎冷暖设备工程有限公司,2023/03/06,1,0,,内地企业,EL
+"BGI Forensic Technology (Shenzhen) Co., Ltd",深圳华大法医科技有限公司,2023/03/06,1,1,300676.0,内地企业,EL
 Forensic Genomics International,,2023/03/06,,,,内地企业,Entity List
-"Gaobeidian Kaituo Precise Instrument Co., Ltd",,2023/03/06,,,,内地企业,Entity List
 "Hong Kong Huada Gene Technology Service Co., Ltd.",,2023/03/06,.,.,,港企,EL
 "BGI Tech Solutions (Hongkong) Co., Ltd.",,2023/03/06,.,.,,港企,EL
 "Beijing Zhengyuan Chuangshi Consulting Co., Ltd.",北京正远创势咨询有限公司,2023/03/06,0,0,,内地企业,EL
 "Baoding Shimaotong Enterprises Services Co., Ltd.,",保定市世贸通企业服务有限公司,2023/03/06,1,0,,内地企业,EL
 "Baoding Giant Import and Export Co., Ltd.",保定市小巨人进出口有限公司,2023/03/06,0,0,,内地企业,EL
-"4Paradigm Technology Co., Ltd.",第四范式（北京）技术有限公司,2023/03/06,1,0,,内地企业,EL
+Arttronix International (HK) Ltd.,,2023/03/06,.,.,,港企,EL
+"Gaobeidian Kaituo Precise Instrument Co., Ltd",,2023/03/06,,,,内地企业,Entity List
 Aispeed Industry Ltd.,,2023/03/06,.,.,,港企,EL
 "AIF Global Logistics Co., Ltd",全翔国际货运（中国）有限公司,2023/03/06,1,0,,内地企业,EL
-"National Research Center for
-Parallel Computer
-Engineering and Technology",国家并行计算机工程技术研究中心,2023/03/06,.,.,,研究所,EL
+National Research Center for Parallel Computer Engineering and Technology,国家并行计算机工程技术研究中心,2023/03/06,.,.,,研究所,EL
 BGI Research,,2023/03/06,,,,内地企业,Entity List
 Liang Ping Huang,,2023/03/06,.,.,,个人,EL
-"Shenzhen BGI Life Science
-Research Institute",深圳华大生命科学研究院,2023/03/06,.,.,,研究所,EL
-"BGI Forensic Technology
-(Shenzhen) Co., Ltd",深圳华大法医科技有限公司,2023/03/06,1,1,300676.0,内地企业,EL
-Arttronix International (HK) Ltd.,,2023/03/06,.,.,,港企,EL
-Luo Dingwen,,2023/03/06,.,.,,个人,EL
-Galaxy Electronics,,2023/03/06,.,.,,港企,EL
-"Hong Kong Huada Laboratory Co., Ltd.",,2023/03/06,.,.,,港企,EL
-"Wuxi Institute of Advanced
-Technology",无锡先进技术研究院,2023/03/06,.,.,,研究所,EL
-"Suzhou Centec Technology Co., Ltd",苏州盛科科技有限公司,2023/03/06,1,1,688702.0,内地企业,EL
-"Suzhou Centec Communications Co., Ltd.,",苏州盛科通信股份有限公司,2023/03/06,2,2,688702.0,内地企业,EL
-Sunton Tech Hong Kong Ltd,,2023/03/06,.,.,,港企,EL
-"Rayscience Optoelectronics
-Innovation Co., Ltd.",上海瞬渺光电技术有限公司,2023/03/06,0,0,,内地企业,EL
-"Qingdao National Laboratory
-of Marine Science and
-Technology",青岛国实科技集团有限公司,2023/03/06,2,0,,内地企业,EL
-"Nanjing Jiuding Refrigeration
-& Air-conditioning Equipment
-Co., Ltd",南京久鼎冷暖设备工程有限公司,2023/03/06,1,0,,内地企业,EL
-Loongson Technology,龙芯中科技术股份有限公司,2023/03/06,2,2,688047.0,内地企业,EL
-Korchina Logistics (HK) Ltd.,,2023/03/06,.,.,,港企,EL
-Jotrin Electronics Ltd.,,2023/03/06,.,.,,港企,EL
-"Inspur Group Co., Ltd.",浪潮集团有限公司,2023/03/06,2,1,977.0,内地企业,EL
-Hongtai Electric Ltd.,,2023/03/06,.,.,,港企,EL
-"Baoding Kaituo Precision
-Instrument Manufacturing
-Co., Ltd",保定开拓精密仪器制造有限责任公司,2023/03/06,0,0,,内地企业,EL
-"Nanjing colpak Mechanical
-Equipment Co., Ltd.",南京哥伦巴机械设备有限公司,2023/03/06,0,0,,内地企业,EL
-"Moyu Haishi Electronic
-Technology Co., Ltd.",墨玉海视电子技术有限公司,2023/03/30,1,1,2415.0,内地企业,EL
-"Luopu Haishi Dingxin
-Electronic Technology Co.,
-Ltd.",洛浦海视鼎鑫电子技术有限公司,2023/03/30,1,1,2415.0,内地企业,EL
-"Pishan Haishi Yong'an
-Electronic Technology Co.,
-Ltd.",皮山海视永安电子技术有限公司,2023/03/30,1,1,2415.0,内地企业,EL
-"Urumqi Haishi Xin'an
-Electronic Technology Co.,
-Ltd.,",乌鲁木齐海视新安电子技术有限公司,2023/03/30,1,1,2415.0,内地企业,EL
-"Yutian Haishi Meitian
-Electronic Technology Co.,
-Ltd",于田海视美阗电子技术有限公司,2023/03/30,1,1,2415.0,内地企业,EL
+Shenzhen BGI Life Science Research Institute,深圳华大生命科学研究院,2023/03/06,.,.,,研究所,EL
+"4Paradigm Technology Co., Ltd.",第四范式（北京）技术有限公司,2023/03/06,1,0,,内地企业,EL
+"Yutian Haishi Meitian Electronic Technology Co., Ltd",于田海视美阗电子技术有限公司,2023/03/30,1,1,2415.0,内地企业,EL
+"Urumqi Haishi Xin'an Electronic Technology Co., Ltd.,",乌鲁木齐海视新安电子技术有限公司,2023/03/30,1,1,2415.0,内地企业,EL
+"Pishan Haishi Yong'an Electronic Technology Co., Ltd.",皮山海视永安电子技术有限公司,2023/03/30,1,1,2415.0,内地企业,EL
+"Moyu Haishi Electronic Technology Co., Ltd.",墨玉海视电子技术有限公司,2023/03/30,1,1,2415.0,内地企业,EL
+"Luopu Haishi Dingxin Electronic Technology Co., Ltd.",洛浦海视鼎鑫电子技术有限公司,2023/03/30,1,1,2415.0,内地企业,EL
 "Maxtronic International Co., Ltd.",,2023/04/12,,,,内地企业,Entity List
-"Shenzhen Sanhe Technology Co., Ltd.",深圳市三合成科技有限公司,2023/04/17,1,0,,内地企业,EL
-"Yishang Network (Shenzhen)
-Co., Ltd",亿商网络（深圳）有限公司,2023/04/17,0,0,,内地企业,EL
-"Yongli Electronic
-Components (Shenzhen) Co.,
-Ltd.",永利电子元器件（深圳）有限公司,2023/04/17,0,0,,内地企业,EL
-"STK Electronics (HK) Co.,Ltd.",,2023/04/17,.,.,,港企,EL
-"Allparts Trading Co., Ltd.",,2023/04/17,.,.,,港企,EL
-Wynn Electronics Co. Ltd.,,2023/04/17,.,.,,港企,EL
-"3HC Semiconductors (HK) Co., Ltd.",,2023/04/17,,,,港企,Entity List
-Maxtronic Global Limited,,2023/04/17,.,.,,港企,EL
-"Shenzhen United Leadway
-Technology",深圳市联合利微科技有限公司,2023/04/17,0,0,,内地企业,EL
-Leadway Technology Limited,,2023/04/17,.,.,,港企,EL
-ETC Electronics Ltd.,,2023/04/17,.,.,,港企,EL
-Avtex Semiconductor Limited,,2023/04/17,.,.,,港企,EL
-"Newsuntech Electronics
-Limited,",,2023/04/17,.,.,,港企,EL
+Shenzhen United Leadway Technology,深圳市联合利微科技有限公司,2023/04/17,0,0,,内地企业,EL
 Xinnlinx Electronics Pte Ltd.,深圳市强诚达电子有限公司,2023/04/17,1,0,,内地企业,EL
-"Opturn Co., Ltd.",,2023/06/12,,,,内地企业,Entity List
+"Newsuntech Electronics Limited,",,2023/04/17,.,.,,港企,EL
+Avtex Semiconductor Limited,,2023/04/17,.,.,,港企,EL
+ETC Electronics Ltd.,,2023/04/17,.,.,,港企,EL
+Leadway Technology Limited,,2023/04/17,.,.,,港企,EL
+Maxtronic Global Limited,,2023/04/17,.,.,,港企,EL
+"3HC Semiconductors (HK) Co., Ltd.",,2023/04/17,,,,港企,Entity List
+Wynn Electronics Co. Ltd.,,2023/04/17,.,.,,港企,EL
+"Allparts Trading Co., Ltd.",,2023/04/17,.,.,,港企,EL
+"STK Electronics (HK) Co.,Ltd.",,2023/04/17,.,.,,港企,EL
+"Yongli Electronic Components (Shenzhen) Co., Ltd.",永利电子元器件（深圳）有限公司,2023/04/17,0,0,,内地企业,EL
+"Yishang Network (Shenzhen) Co., Ltd",亿商网络（深圳）有限公司,2023/04/17,0,0,,内地企业,EL
+"Shenzhen Sanhe Technology Co., Ltd.",深圳市三合成科技有限公司,2023/04/17,1,0,,内地企业,EL
 "Beijing China Aviation Technology Co., Ltd",,2023/06/12,,,,内地企业,Entity List
 Pera Global,,2023/06/12,,,,内地企业,Entity List
-"Shanghai Breeze Technology
-Co., Ltd",上海轻风科技有限公司,2023/06/14,2,0,,内地企业,EL
-"Guangzhou Anshi Asia-Pacific
-Technology Co., Ltd",广州安世亚太信息科技有限公司,2023/06/14,1,1,833714.0,内地企业,EL
-"Shanghai Breeze Technology
-Jiangsu Co., Ltd.",上海轻风科技江苏有限公司,2023/06/14,1,0,,内地企业,EL
-"Enhance International Trade
-Limited",,2023/06/14,.,.,,港企,EL
-"Shanghai Aerospace Science
-and Technology Development
-Co., Ltd",上海航天科创企业发展有限公司,2023/06/14,0,0,,内地企业,EL
-"Forward Enterprises (Hong
-Kong) Ltd",,2023/06/14,.,.,,港企,EL
-"Qianpu Technology Co., Ltd.",前普（北京）科技有限公司,2023/06/14,1,0,,内地企业,EL
-"Xi'an Anshi Asia-Pacific
-Technology Co., Ltd",安世亚太科技股份有限公司西安分公司,2023/06/14,1,1,833714.0,内地企业,EL
-"Shanghai Shark Sprite
-Technology Co., Ltd",上海鱼灵科技有限公司,2023/06/14,0,0,,内地企业,EL
-Luoyang Institute of Science and Technology,洛阳理工学院,2023/06/14,.,.,,高校,EL
-"Shenyang Anshi Asia-Pacific
-Technology Co., Ltd",沈阳安世亚太科技有限公司,2023/06/14,1,1,833714.0,内地企业,EL
-"Chengdu Anshi Asia-Pacific
-Technology Co., Ltd",成都安世亚太科技有限公司,2023/06/14,1,1,833714.0,内地企业,EL
-"Shanghai Anshi Asia-Pacific
-Technology Co., Ltd",上海安世亚太科技有限公司,2023/06/14,1,1,833714.0,内地企业,EL
-"Anshi Asia-Pacific
-Technology Co., Ltd",安世亚太科技股份有限公司,2023/06/14,2,2,833714.0,内地企业,EL
-"Beijing Outang Technology
-Co., Ltd",北京欧唐科技发展有限公司,2023/06/14,0,0,,内地企业,EL
-"New Faith Enterprise
-Investment Limited",,2023/06/14,.,.,,港企,EL
-"Nanjing Anshi Asia-Pacific
-Technology Co., Ltd",南京安世亚太信息科技有限公司,2023/06/14,1,1,833714.0,内地企业,EL
-General Technology Limited,,2023/06/14,.,.,,港企,EL
-"Shanghai Supercomputing
-Technology Co., Ltd",中科曙光信息产业（上海）有限公司,2023/06/14,1,1,603019.0,内地企业,EL
-United Vision Limited,,2023/06/14,.,.,,港企,EL
+"Opturn Co., Ltd.",,2023/06/12,,,,内地企业,Entity List
+Tiger Force Electronics Limited,,2023/06/14,.,.,,港企,EL
 Aviation Industry Corporation of China 612 Institute,中国航空工业集团612研究所,2023/06/14,.,.,,研究所,EL
-"Chinese Flight Test
-Establishment",中国飞行试验研究院,2023/06/14,.,.,,研究所,EL
+Chinese Flight Test Establishment,中国飞行试验研究院,2023/06/14,.,.,,研究所,EL
 "Aviation International Corporation of China International Simulation Technology Service Co., Ltd.",中航国际仿真科技服务有限公司,2023/06/14,1,0,,内地企业,EL
 "Beijing Zhongxun Technology Co., Ltd.",北京中讯四方科技股份有限公司,2023/06/14,2,2,430075.0,内地企业,EL
 Beijing Iwintall Technology Co. Ltd.,北京亿维讯同创科技有限公司,2023/06/14,0,0,,内地企业,EL
 "Beijing Luo Luo Technology Development Co., Limited",北京罗罗科技发展有限公司,2023/06/14,0,0,,内地企业,EL
-"Tiger Force Electronics
-Limited",,2023/06/14,.,.,,港企,EL
 "Beijing Ryan Wende Science and Technology Co., Ltd.",北京瑞源文德科技有限公司,2023/06/14,2,0,,内地企业,EL
-"Belt Consulting Co., Limited.",,2023/06/14,.,.,,港企,EL
-"Changzhou Utek Composite
-Co., Limited",常州联拓复合材料有限公司,2023/06/14,0,0,,内地企业,EL
-"Chengdu Poyotencon
-Technology",成都搏洋腾空科技有限公司,2023/06/14,0,0,,内地企业,EL
-"China Taly Aviation
-Technologies Corporation",中国天利航空科技实业公司,2023/06/14,2,0,,内地企业,EL
-"Xinjiang Kehua Hechang
-Biological Science and
-Technology Co., Ltd.",新疆科华和昶生物科技有限公司,2023/06/14,0,0,,内地企业,EL
+China Taly Aviation Technologies Corporation,中国天利航空科技实业公司,2023/06/14,2,0,,内地企业,EL
+"Changzhou Utek Composite Co., Limited",常州联拓复合材料有限公司,2023/06/14,0,0,,内地企业,EL
+Chengdu Poyotencon Technology,成都搏洋腾空科技有限公司,2023/06/14,0,0,,内地企业,EL
+United Vision Limited,,2023/06/14,.,.,,港企,EL
+"Xinjiang Kehua Hechang Biological Science and Technology Co., Ltd.",新疆科华和昶生物科技有限公司,2023/06/14,0,0,,内地企业,EL
 Universal Enterprise Limited,,2023/06/14,.,.,,港企,EL
+Frontier Services Group Limited,,2023/06/14,.,.,,港企,EL
 Beijing Transemic Information Technology Ltd.,北京天圣华信息技术有限责任公司,2023/06/14,2,0,,内地企业,EL
-"Frontier Services Group
-Limited",,2023/06/14,.,.,,港企,EL
-"China Aviation Development
-Harbin Bearing Co., Ltd.",中国航发哈尔滨轴承有限公司,2023/06/21,1,1,600391.0,内地企业,EL
-"Nanjing Institute of Astronomical
-Optics and Technology",中国科学院南京天文光学技术研究所,2023/09/25,.,.,,研究所,EL
-Well Fair International （Hong Kong） Ltd.,,2023/09/25,.,.,,港企,EL
-Sunrising Logistics （HK） Ltd.,,2023/09/25,.,.,,港企,EL
-Speed Business Trading （HK） Ltd.,,2023/09/25,.,.,,港企,EL
+"Belt Consulting Co., Limited.",,2023/06/14,.,.,,港企,EL
+"Shanghai Supercomputing Technology Co., Ltd",中科曙光信息产业（上海）有限公司,2023/06/14,1,1,603019.0,内地企业,EL
+"Guangzhou Anshi Asia-Pacific Technology Co., Ltd",广州安世亚太信息科技有限公司,2023/06/14,1,1,833714.0,内地企业,EL
+"Nanjing Anshi Asia-Pacific Technology Co., Ltd",南京安世亚太信息科技有限公司,2023/06/14,1,1,833714.0,内地企业,EL
+"Shanghai Breeze Technology Co., Ltd",上海轻风科技有限公司,2023/06/14,2,0,,内地企业,EL
+"Shanghai Breeze Technology Jiangsu Co., Ltd.",上海轻风科技江苏有限公司,2023/06/14,1,0,,内地企业,EL
+Enhance International Trade Limited,,2023/06/14,.,.,,港企,EL
+"Shanghai Aerospace Science and Technology Development Co., Ltd",上海航天科创企业发展有限公司,2023/06/14,0,0,,内地企业,EL
+General Technology Limited,,2023/06/14,.,.,,港企,EL
+"Qianpu Technology Co., Ltd.",前普（北京）科技有限公司,2023/06/14,1,0,,内地企业,EL
+"Xi'an Anshi Asia-Pacific Technology Co., Ltd",安世亚太科技股份有限公司西安分公司,2023/06/14,1,1,833714.0,内地企业,EL
+Forward Enterprises (Hong Kong) Ltd,,2023/06/14,.,.,,港企,EL
+Luoyang Institute of Science and Technology,洛阳理工学院,2023/06/14,.,.,,高校,EL
+"Shenyang Anshi Asia-Pacific Technology Co., Ltd",沈阳安世亚太科技有限公司,2023/06/14,1,1,833714.0,内地企业,EL
+"Chengdu Anshi Asia-Pacific Technology Co., Ltd",成都安世亚太科技有限公司,2023/06/14,1,1,833714.0,内地企业,EL
+"Shanghai Anshi Asia-Pacific Technology Co., Ltd",上海安世亚太科技有限公司,2023/06/14,1,1,833714.0,内地企业,EL
+"Anshi Asia-Pacific Technology Co., Ltd",安世亚太科技股份有限公司,2023/06/14,2,2,833714.0,内地企业,EL
+"Beijing Outang Technology Co., Ltd",北京欧唐科技发展有限公司,2023/06/14,0,0,,内地企业,EL
+New Faith Enterprise Investment Limited,,2023/06/14,.,.,,港企,EL
+"Shanghai Shark Sprite Technology Co., Ltd",上海鱼灵科技有限公司,2023/06/14,0,0,,内地企业,EL
+"China Aviation Development Harbin Bearing Co., Ltd.",中国航发哈尔滨轴承有限公司,2023/06/21,1,1,600391.0,内地企业,EL
+Yun Xia Yuan,,2023/09/25,.,.,,个人,EL
+Hangzhou Fuyang Koto Machinery Company Limited,杭州富阳科拓机械有限公司,2023/09/25,0,0,,内地企业,EL
+Guilin Alpha Rubber & Plastics Technology Company Limited,桂林阿尔法橡塑科技有限公司,2023/09/25,0,0,,内地企业,EL
+"Shenzhen Caspro Technology Co., Ltd",,2023/09/25,.,.,,港企,EL
+Raven International Trade Limited,,2023/09/25,.,.,,港企,EL
+"S&C Trade PTY Co., Ltd",,2023/09/25,.,.,,港企,EL
 Nanjing Institute of Astronomical Optics and Technology,南京天文光学技术研究所,2023/09/25,.,.,,研究所,EL
 Asia Pacific Links Ltd.,,2023/09/25,.,.,,港企,EL
-Raven International Trade Limited,,2023/09/25,.,.,,港企,EL
-S&C Trade PTY Co.， Ltd,,2023/09/25,.,.,,港企,EL
-Yun Xia Yuan,,2023/09/25,.,.,,个人,EL
-Shenzhen Caspro Technology Co.， Ltd,,2023/09/25,.,.,,港企,EL
-Guilin Alpha Rubber & Plastics Technology Company Limited,桂林阿尔法橡塑科技有限公司,2023/09/25,0,0,,内地企业,EL
-Hangzhou Fuyang Koto Machinery Company Limited,杭州富阳科拓机械有限公司,2023/09/25,0,0,,内地企业,EL
+Speed Business Trading (HK) Ltd.,,2023/09/25,.,.,,港企,EL
+Sunrising Logistics (HK) Ltd.,,2023/09/25,.,.,,港企,EL
+Well Fair International (Hong Kong) Ltd.,,2023/09/25,.,.,,港企,EL
+Nanjing Institute of Astronomical Optics and Technology,中国科学院南京天文光学技术研究所,2023/09/25,.,.,,研究所,EL
 S&C Trade PTY Company Limited,,2023/09/27,,,,内地企业,Entity List
+"Ace Electronics (HK) Co., Limited",,2023/10/11;2024/11/01,.,.,,港企,EL
+"Alliance Electro Tech Co., Limited",,2023/10/11;2024/11/01,.,.,,港企,EL
+Alpha Trading Investments Limited,,2023/10/11,.,.,,港企,EL
+"Asialink Shanghai Int’l Logistics Co., Ltd.",亚凌（上海）国际货物运输代理有限公司,2023/10/11,0,0,,内地企业,EL
+Benico Limited,,2023/10/11,.,.,,港企,EL
+"C & I Semiconductor Co., Ltd.",,2023/10/11,.,.,,港企,EL
+Check IC Solution Limited,,2023/10/11,.,.,,港企,EL
+China Shengshi International Trade Ltd.,,2023/10/11,.,.,,港企,EL
+E-Chips Solution Co. Ltd.,,2023/10/11,.,.,,港企,EL
+Global Broker Solutions Limited,,2023/10/11,.,.,,港企,EL
+"Glite Electronic Technology Co., Limited",,2023/10/11,.,.,,港企,EL
+Huayuanshitong Technology Co. Ltd.,,2023/10/11,.,.,,港企,EL
+Grants Promotion Service Limited,,2023/10/11,.,.,,港企,EL
+Guangdong Munpower Electronic Commerce Co. Ltd.,广州慕能电子科技有限公司,2023/10/11,0,0,,内地企业,EL
+UCreate Electronics Group,,2023/10/11,.,.,,港企,EL
+ZeYuan Technology Limited,,2023/10/11,.,.,,港企,EL
+"New Wally Target International Trade Co.,limited",,2023/10/11,.,.,,港企,EL
+Wargos Industry Limited,,2023/10/11,.,.,,港企,EL
+Farteco Limited,,2023/10/11,.,.,,港企,EL
+IMAXChip,,2023/10/11,.,.,,港企,EL
+Chengdu Jingxin Technology Co. Ltd.,成都菁芯科技有限公司,2023/10/11,1,0,,内地企业,EL
+Shaanxi Yingsaeir Electronic Technology Co.Ltd.,陕西英赛尔电子科技有限公司,2023/10/11,0,0,,内地企业,EL
+Insight Electronics,,2023/10/11,.,.,,港企,EL
 "Zone Chips Electronics Hong Kong Co., Limited.",,2023/10/11,.,.,,港企,EL
 Zixis Limited,,2023/10/11,.,.,,港企,EL
 Zhejiang Foso Electronics Technology Co. Ltd.,浙江孚硕电通股份有限公司,2023/10/11,2,0,,内地企业,EL
@@ -1314,10 +798,9 @@ Win Key Limited,,2023/10/11,.,.,,港企,EL
 "Xin Quan Electronics Hong Kong Co., Limited",,2023/10/11,.,.,,港企,EL
 Kobi International Company,,2023/10/11,.,.,,港企,EL
 Most Technology Limited,,2023/10/11,.,.,,港企,EL
-"Nuopuxun Electronic Technology Co., Limited",深圳市诺普迅电子科技有限公司,2023/10/11,0,0,,内地企业,EL
 Onstar Electronics Co. Ltd.,,2023/10/11,.,.,,港企,EL
 PT Technology Asia Limited,,2023/10/11,.,.,,港企,EL
-Robotronix Semiconductors Limited,,2023/10/11,.,.,,港企,EL
+"Nuopuxun Electronic Technology Co., Limited",深圳市诺普迅电子科技有限公司,2023/10/11,0,0,,内地企业,EL
 "Kingford PCB Electronics Co., Ltd.",深圳市鑫景福科技有限公司,2023/10/11,2,0,,内地企业,EL
 Rui En Koo Technology Co. Ltd,,2023/10/11,.,.,,港企,EL
 Shanghai IP3 Information Technology Co. Ltd.,上海英众信息科技有限公司,2023/10/11,2,0,,内地企业,EL
@@ -1326,84 +809,37 @@ Shvabe Opto-Electronics Co. LTD.,诗瓦贝光电（深圳）有限公司,2023/10
 "Suntop Semiconductor Co., LTD.",,2023/10/11,.,.,,港企,EL
 Tordan Industry Limited,,2023/10/11,.,.,,港企,EL
 TYT Electronics Co. Ltd.,泉州市南安特易通电子有限公司,2023/10/11,2,0,,内地企业,EL
-Shaanxi Yingsaeir Electronic Technology Co.Ltd.,陕西英赛尔电子科技有限公司,2023/10/11,0,0,,内地企业,EL
-Insight Electronics,,2023/10/11,.,.,,港企,EL
-IMAXChip,,2023/10/11,.,.,,港企,EL
-Huayuanshitong Technology Co. Ltd.,,2023/10/11,.,.,,港企,EL
-"Ace Electronics (HK) Co., Limited",,2023/10/11;2024/11/01,.,.,,港企,EL
-"Alliance Electro Tech Co., Limited",,2023/10/11;2024/11/01,.,.,,港企,EL
-Alpha Trading Investments Limited,,2023/10/11,.,.,,港企,EL
-"Asialink Shanghai Int’l Logistics Co., Ltd.",亚凌（上海）国际货物运输代理有限公司,2023/10/11,0,0,,内地企业,EL
-Benico Limited,,2023/10/11,.,.,,港企,EL
-"C & I Semiconductor Co., Ltd.",,2023/10/11,.,.,,港企,EL
-Check IC Solution Limited,,2023/10/11,.,.,,港企,EL
-Chengdu Jingxin Technology Co. Ltd.,成都菁芯科技有限公司,2023/10/11,1,0,,内地企业,EL
-China Shengshi International Trade Ltd.,,2023/10/11,.,.,,港企,EL
-E-Chips Solution Co. Ltd.,,2023/10/11,.,.,,港企,EL
-Farteco Limited,,2023/10/11,.,.,,港企,EL
-"Glite Electronic Technology Co., Limited",,2023/10/11,.,.,,港企,EL
-Global Broker Solutions Limited,,2023/10/11,.,.,,港企,EL
-Grants Promotion Service Limited,,2023/10/11,.,.,,港企,EL
-Guangdong Munpower Electronic Commerce Co. Ltd.,广州慕能电子科技有限公司,2023/10/11,0,0,,内地企业,EL
-UCreate Electronics Group,,2023/10/11,.,.,,港企,EL
-ZeYuan Technology Limited,,2023/10/11,.,.,,港企,EL
-"New Wally Target International Trade Co.,limited",,2023/10/11,.,.,,港企,EL
-Wargos Industry Limited,,2023/10/11,.,.,,港企,EL
-"Moore Thread Intelligent Technology (Shanghai) Co., Ltd.",摩尔线程智能科技（上海）有限责任公司,2023/10/19,1,0,,内地企业,EL
-"Beijing Biren Technology
-Development Co., Ltd.",北京壁仞科技开发有限公司,2023/10/19,1,0,,内地企业,EL
-"Shanghai Biren Intelligent
-Technology Co., Ltd",上海壁仞科技股份有限公司,2023/10/19,2,0,,内地企业,EL
-"Shanghai Biren Integrated Circuit Co., Ltd.",上海壁仞集成电路有限公司,2023/10/19,1,0,,内地企业,EL
-"Shanghai Biren Information
-Technology Co., Ltd",上海壁仞信息科技有限公司,2023/10/19,1,0,,内地企业,EL
-"Hangzhou Biren Technology
-Development Co., Ltd.",杭州壁仞科技开发有限公司,2023/10/19,1,0,,内地企业,EL
-"Zhuhai Biren Integrated Circuit Co.,Ltd.",珠海壁仞集成电路有限公司,2023/10/19,1,0,,内地企业,EL
-"Superburning Semiconductor
-(Nanjing) Co., Ltd.",超燃半导体（南京）有限公司,2023/10/19,2,0,,内地企业,EL
-"Guangzhou Biren Integrated Circuit Co., Ltd.",广州壁仞集成电路有限公司,2023/10/19,1,0,,内地企业,EL
-"Light Cloud (Hangzhou) Technology Co., Ltd.",光线云（杭州）科技有限公司,2023/10/19,2,0,,内地企业,EL
-"Moore Thread Intelligent Technology (Beijing) Co., Ltd.",摩尔线程智能科技（北京）有限责任公司,2023/10/19,2,0,,内地企业,EL
-"Moore Thread Intelligent Technology (Chengdu) Co., Ltd.",摩尔线程智能科技（成都）有限责任公司,2023/10/19,1,0,,内地企业,EL
+Robotronix Semiconductors Limited,,2023/10/11,.,.,,港企,EL
 "Suzhou Xinyan Holdings Co., Ltd.; and",上海新之砾企业发展有限公司,2023/10/19,1,0,,内地企业,EL
+"Guangzhou Biren Integrated Circuit Co., Ltd.",广州壁仞集成电路有限公司,2023/10/19,1,0,,内地企业,EL
+"Moore Thread Intelligent Technology (Chengdu) Co., Ltd.",摩尔线程智能科技（成都）有限责任公司,2023/10/19,1,0,,内地企业,EL
+"Moore Thread Intelligent Technology (Beijing) Co., Ltd.",摩尔线程智能科技（北京）有限责任公司,2023/10/19,2,0,,内地企业,EL
+"Light Cloud (Hangzhou) Technology Co., Ltd.",光线云（杭州）科技有限公司,2023/10/19,2,0,,内地企业,EL
+"Superburning Semiconductor (Nanjing) Co., Ltd.",超燃半导体（南京）有限公司,2023/10/19,2,0,,内地企业,EL
+"Shanghai Biren Intelligent Technology Co., Ltd",上海壁仞科技股份有限公司,2023/10/19,2,0,,内地企业,EL
+"Hangzhou Biren Technology Development Co., Ltd.",杭州壁仞科技开发有限公司,2023/10/19,1,0,,内地企业,EL
+"Shanghai Biren Information Technology Co., Ltd",上海壁仞信息科技有限公司,2023/10/19,1,0,,内地企业,EL
+"Shanghai Biren Integrated Circuit Co., Ltd.",上海壁仞集成电路有限公司,2023/10/19,1,0,,内地企业,EL
+"Beijing Biren Technology Development Co., Ltd.",北京壁仞科技开发有限公司,2023/10/19,1,0,,内地企业,EL
+"Moore Thread Intelligent Technology (Shanghai) Co., Ltd.",摩尔线程智能科技（上海）有限责任公司,2023/10/19,1,0,,内地企业,EL
+"Zhuhai Biren Integrated Circuit Co.,Ltd.",珠海壁仞集成电路有限公司,2023/10/19,1,0,,内地企业,EL
 Planet Technology.,,2023/12/07,.,.,,港企,EL
 "Pailai (Shanghai) Trading Co., Ltd.",派莱（上海）贸易有限公司,2023/12/07,0,0,,内地企业,EL
-"Chengdu Beizhan Electronics Co., Ltd.",,2024/02/27,,,,内地企业,Entity List
-"Bion Group Ic Ve Dis Ticaret Limited Sirketi,",,2024/02/27,.,.,,港企,EL
-"Dennex Enterprises Limited,",,2024/02/27,.,.,,港企,EL
-"Exeya Co., Limited,",,2024/02/27,.,.,,港企,EL
-"Kaili Industrial H.K. Limited,",,2024/02/27,.,.,,港企,EL
-"Most Development Limited,",,2024/02/27,.,.,,港企,EL
-"Shenzhen Speed Industrial Materials Co., Ltd.,",深圳斯彼得工业材料有限公司,2024/02/27,0,0,,内地企业,EL
-Sigma Technology Limited,,2024/02/27,.,.,,港企,EL
 United Electronics Group Company Limited.,,2024/02/27,.,.,,港企,EL
+Sigma Technology Limited,,2024/02/27,.,.,,港企,EL
+"Shenzhen Speed Industrial Materials Co., Ltd.,",深圳斯彼得工业材料有限公司,2024/02/27,0,0,,内地企业,EL
+"Most Development Limited,",,2024/02/27,.,.,,港企,EL
+"Bion Group Ic Ve Dis Ticaret Limited Sirketi,",,2024/02/27,.,.,,港企,EL
+"Exeya Co., Limited,",,2024/02/27,.,.,,港企,EL
+"Dennex Enterprises Limited,",,2024/02/27,.,.,,港企,EL
+"Chengdu Beizhan Electronics Co., Ltd.",,2024/02/27,,,,内地企业,Entity List
+"Kaili Industrial H.K. Limited,",,2024/02/27,.,.,,港企,EL
+"Beijing Anwise Technology Co., Ltd.",北京安怀信科技股份有限公司,2024/04/11,2,0,,内地企业,EL
+"LINKZOL (Beijing) Technology Co., Ltd.",联众集群（北京）科技有限责任公司,2024/04/11,0,0,,内地企业,EL
+"Jiangxi Xintuo Enterprise Co., Ltd.",江西新拓实业有限公司,2024/04/11,1,0,,内地企业,EL
 "Xi'an Like Innovative Information Technology Co., Ltd.",西安丽科创新信息技术有限公司,2024/04/11,0,0,,内地企业,EL
 "Shenzhen Jiasibo Technology Co., Ltd.",深圳嘉思博科技有限公司,2024/04/11,0,0,,内地企业,EL
 "SITONHOLY (Tianjin) Co., Ltd.",思腾合力（天津）科技有限公司,2024/04/11,2,0,,内地企业,EL
-"Jiangxi Xintuo Enterprise Co., Ltd.",江西新拓实业有限公司,2024/04/11,1,0,,内地企业,EL
-"Beijing Anwise Technology Co., Ltd.",北京安怀信科技股份有限公司,2024/04/11,2,0,,内地企业,EL
-"LINKZOL (Beijing) Technology Co., Ltd.",联众集群（北京）科技有限责任公司,2024/04/11,0,0,,内地企业,EL
-"Beijing Tianhaida Technology Co., Ltd.",北京天海达科技有限公司,2024/05/09,1,0,,内地企业,EL
-"AEE Shenzhen Yidian Aviation Technology Co., Ltd.",深圳一电航空技术有限公司,2024/05/09,1,0,,内地企业,EL
-Beijing Academy of Quantum Information Sciences,北京量子信息科学研究院,2024/05/09,.,.,,研究所,EL
-"Beijing Zhongshang Dingsheng Mechanical and Electrical Equipment Co., Ltd.",北京中商鼎盛机电设备有限公司,2024/05/09,2,0,,内地企业,EL
-"Beijing Leike Defense Technology Co., Ltd.",北京雷科防务科技股份有限公司,2024/05/09,2,2,2413.0,内地企业,EL
-Chinese Academy of Sciences’ Shanghai Institute of Microsystem and Information Technology,中国科学院上海微系统与信息技术研究所,2024/05/09,.,.,,研究所,EL
-"Chinese Academy of Sciences, Key Laboratory for Quantum Information",中国科学院量子信息重点实验室,2024/05/09,.,.,,研究所,EL
-"Beijing BDStar Navigation Co., Ltd",北京北斗星通导航技术股份有限公司,2024/05/09,2,2,2151.0,内地企业,EL
-"Chinese Academy of Science, Center for Excellence in Quantum Information and Quantum Physics",中国科学院量子信息与量子科技前沿卓越创新中心,2024/05/09,.,.,,研究所,EL
-"China Electronics Technology Group Corporation Electronic Equipment Group Co., Ltd.",中电科电子装备集团有限公司,2024/05/09,1,0,,内地企业,EL
-China Electronics Technology Group Corporation 45th Research Institute,中国电子科技集团公司第四十五研究所,2024/05/09,.,.,,研究所,EL
-"CSIC Pride (Nanjing) Cryogenic Technology Co., Ltd.",中船重工鹏力（南京）超低温技术有限公司,2024/05/09,0,0,,内地企业,EL
-China Electronics Technology Group Corporation 41st Research Institute,中国电子科技集团公司第四十一研究所,2024/05/09,.,.,,研究所,EL
-China Electronics Technology Group Corporation 32nd Research Institute,中国电子科技集团公司第三十二研究所,2024/05/09,.,.,,研究所,EL
-China Electronics Technology Group Corporation 16th Research Institute,中国电子科技集团公司第十六研究所,2024/05/09,.,.,,研究所,EL
-"Chengdu Zongheng Automation Technology Co., Ltd.",成都纵横自动化技术有限公司,2024/05/09,2,2,688070.0,内地企业,EL
-"Chengdu Day Communication Technology Co., Ltd.",成都华日通讯技术股份有限公司,2024/05/09,1,0,,内地企业,EL
-"Ceyear Technologies Co., Ltd.",中电科思仪科技股份有限公司,2024/05/09,1,0,,内地企业,EL
-"CETC Chip Technology Co., Ltd.",中电科芯片技术（集团）有限公司,2024/05/09,1,0,,内地企业,EL
-China Electronics Technology Group Corporation 36th Research Institute,中国电子科技集团公司第三十六研究所,2024/05/09,.,.,,研究所,EL
 "GEOVIS Technology Co., Ltd.",中科星图股份有限公司,2024/05/09,2,2,688568.0,内地企业,EL
 "Chinese Academy of Sciences, Institute of Physics",中国科学院物理研究所,2024/05/09,.,.,,研究所,EL
 "Hexin Xingtong Technology (Beijing) Co., Ltd.",和芯星通科技（北京）有限公司,2024/05/09,1,1,2151.0,内地企业,EL
@@ -1417,351 +853,366 @@ University of Science and Technology of China,中国科学技术大学,2024/05/0
 Shenzhen Institute of Quantum Science and Engineering,深圳量子科学与工程研究院,2024/05/09,.,.,,研究所,EL
 "Shenzhen Yidian Technology Co., Ltd.",深圳一电科技有限公司,2024/05/09,2,0,,内地企业,EL
 Jinan Institute of Quantum Technology,济南量子技术研究院,2024/05/09,.,.,,研究所,EL
-"Beijing Ruidakang Technology Co., Ltd.",北京瑞达康科技有限公司,2024/05/09,0,0,,内地企业,EL
 "Origin Quantum Computing Technology (Hefei) Co., Ltd.",本源量子计算科技（合肥）股份有限公司,2024/05/09,2,0,,内地企业,EL
 Shanghai Center for Quantum Science Research,上海量子科学研究中心,2024/05/09,.,.,,研究所,EL
 Quantum Science and Technology Yangtze River Delta Industrial Innovation Center,量子科技长三角产业创新中心,2024/05/09,.,.,,研究所,EL
-Address 08,,2024/06/12,,,,港企,Entity List
-"Shenzhen Daotong Intelligent Aviation Technology Co., Ltd.",,2024/06/12,,,,内地企业,Entity List
-Advantage Trading Company Limited,,2024/06/12,,,,港企,Entity List
-Address 05,,2024/06/12,,,,港企,Entity List
-Address 04,,2024/06/12,,,,港企,Entity List
+China Electronics Technology Group Corporation 36th Research Institute,中国电子科技集团公司第三十六研究所,2024/05/09,.,.,,研究所,EL
+"CETC Chip Technology Co., Ltd.",中电科芯片技术（集团）有限公司,2024/05/09,1,0,,内地企业,EL
+"Beijing Ruidakang Technology Co., Ltd.",北京瑞达康科技有限公司,2024/05/09,0,0,,内地企业,EL
+"Chengdu Day Communication Technology Co., Ltd.",成都华日通讯技术股份有限公司,2024/05/09,1,0,,内地企业,EL
+"Beijing Tianhaida Technology Co., Ltd.",北京天海达科技有限公司,2024/05/09,1,0,,内地企业,EL
+"AEE Shenzhen Yidian Aviation Technology Co., Ltd.",深圳一电航空技术有限公司,2024/05/09,1,0,,内地企业,EL
+Beijing Academy of Quantum Information Sciences,北京量子信息科学研究院,2024/05/09,.,.,,研究所,EL
+"Beijing Zhongshang Dingsheng Mechanical and Electrical Equipment Co., Ltd.",北京中商鼎盛机电设备有限公司,2024/05/09,2,0,,内地企业,EL
+"Beijing Leike Defense Technology Co., Ltd.",北京雷科防务科技股份有限公司,2024/05/09,2,2,2413.0,内地企业,EL
+Chinese Academy of Sciences’ Shanghai Institute of Microsystem and Information Technology,中国科学院上海微系统与信息技术研究所,2024/05/09,.,.,,研究所,EL
+"Ceyear Technologies Co., Ltd.",中电科思仪科技股份有限公司,2024/05/09,1,0,,内地企业,EL
+"Beijing BDStar Navigation Co., Ltd",北京北斗星通导航技术股份有限公司,2024/05/09,2,2,2151.0,内地企业,EL
+"Chinese Academy of Sciences, Key Laboratory for Quantum Information",中国科学院量子信息重点实验室,2024/05/09,.,.,,研究所,EL
+"China Electronics Technology Group Corporation Electronic Equipment Group Co., Ltd.",中电科电子装备集团有限公司,2024/05/09,1,0,,内地企业,EL
+China Electronics Technology Group Corporation 45th Research Institute,中国电子科技集团公司第四十五研究所,2024/05/09,.,.,,研究所,EL
+"CSIC Pride (Nanjing) Cryogenic Technology Co., Ltd.",中船重工鹏力（南京）超低温技术有限公司,2024/05/09,0,0,,内地企业,EL
+China Electronics Technology Group Corporation 41st Research Institute,中国电子科技集团公司第四十一研究所,2024/05/09,.,.,,研究所,EL
+China Electronics Technology Group Corporation 32nd Research Institute,中国电子科技集团公司第三十二研究所,2024/05/09,.,.,,研究所,EL
+China Electronics Technology Group Corporation 16th Research Institute,中国电子科技集团公司第十六研究所,2024/05/09,.,.,,研究所,EL
+"Chengdu Zongheng Automation Technology Co., Ltd.",成都纵横自动化技术有限公司,2024/05/09,2,2,688070.0,内地企业,EL
+"Chinese Academy of Science, Center for Excellence in Quantum Information and Quantum Physics",中国科学院量子信息与量子科技前沿卓越创新中心,2024/05/09,.,.,,研究所,EL
+Address 02,,2024/06/12,,,,港企,Entity List
+Address 06,,2024/06/12,,,,港企,Entity List
+Address 01,,2024/06/12,,,,港企,Entity List
 Address 07,,2024/06/12,,,,港企,Entity List
 Address 03,,2024/06/12,,,,港企,Entity List
-Address 01,,2024/06/12,,,,港企,Entity List
-Address 06,,2024/06/12,,,,港企,Entity List
-Address 02,,2024/06/12,,,,港企,Entity List
+Address 05,,2024/06/12,,,,港企,Entity List
+Advantage Trading Company Limited,,2024/06/12,,,,港企,Entity List
+"Shenzhen Daotong Intelligent Aviation Technology Co., Ltd.",,2024/06/12,,,,内地企业,Entity List
+Address 08,,2024/06/12,,,,港企,Entity List
+Address 04,,2024/06/12,,,,港企,Entity List
 Global Training Solutions Limited,,2024/07/03,,,,港企,Entity List
 Smartech Future Limited,,2024/07/03,,,,港企,Entity List
-Address 09,,2024/08/27,,,,港企,Entity List
-Lett Tronic Group Limited,,2024/08/27,.,.,,港企,EL
-LL Electronic Limited,,2024/08/27,.,.,,港企,EL
-MAK Logistics,,2024/08/27,.,.,,港企,EL
-Megatek Ltd.,,2024/08/27,.,.,,港企,EL
-Yusha Group Co. Ltd.,,2024/08/27,.,.,,港企,EL
-"Mei Xin Electronic (HK) Co., Limited",,2024/08/27,.,.,,港企,EL
-Midas Lighting Limited,,2024/08/27,.,.,,港企,EL
-Minhoo Logistics Limited,,2024/08/27,.,.,,港企,EL
-O-Nice Trading Co. Limited,,2024/08/27,.,.,,港企,EL
-Piraclinos Limited,,2024/08/27,.,.,,港企,EL
-RYX Electronic (HK) Limited,,2024/08/27,.,.,,港企,EL
-"Shenzhen Bailiansheng Electronic Science and Technology Co., Ltd",深圳市佰联升电子科技有限公司,2024/08/27,0,0,,内地企业,EL
-"Shenzhen BZ Space Technology Co., Ltd.",,2024/08/27,.,.,,港企,EL
-"Shenzhen Dongpengshang Electronics Co., Ltd.",深圳市东鹏尚电子有限公司,2024/08/27,0,0,,内地企业,EL
-"Shenzhen SCH Technology Co., Ltd.",深圳市深创辉科技有限公司,2024/08/27,0,0,,内地企业,EL
-Siliborn Technology Limited,,2024/08/27,.,.,,港企,EL
-Superchip Limited,,2024/08/27,.,.,,港企,EL
-Tehran Pishro Trading Co.,,2024/08/27,.,.,,港企,EL
-Tengxuxing Electronic Technology HK Limited,,2024/08/27,.,.,,港企,EL
-Wellgo International Industrial Limited,,2024/08/27,.,.,,港企,EL
-Yield Bright Industrial Limited,,2024/08/27,.,.,,港企,EL
-Kvantek Limited,,2024/08/27,.,.,,港企,EL
 Incomp Limited,,2024/08/27,.,.,,港企,EL
 ICsole Technology Limited,,2024/08/27,.,.,,港企,EL
 Hytera Communications Limited,海能达通信股份有限公司,2024/08/27,2,2,2583.0,内地企业,EL
-3-K Electronics Limited,,2024/08/27,.,.,,港企,EL
 AllChips Limited,,2024/08/27,.,.,,港企,EL
 BuyBest Electronic,,2024/08/27,.,.,,港企,EL
 Address 11,,2024/08/27,,,,港企,Entity List
 "Cinty Int'l (HK) Industry Co., Limited",,2024/08/27,.,.,,港企,EL
 "Cloudmax Tech Co., Limited",,2024/08/27,.,.,,港企,EL
 "DGT Technology (HK) Co., Limited",,2024/08/27,.,.,,港企,EL
-Chipgoo Electronics Limited,,2024/08/27,.,.,,港企,EL
-"Furuida Heilongjiang Supply Chain Management Co., Ltd.",福瑞达（黑龙江）供应链管理有限公司,2024/08/27,0,0,,内地企业,EL
 "Grun Group Co., Limited",,2024/08/27,.,.,,港企,EL
+"Furuida Heilongjiang Supply Chain Management Co., Ltd.",福瑞达（黑龙江）供应链管理有限公司,2024/08/27,0,0,,内地企业,EL
 Hong Kong Haiheng Electronics Co. Ltd.,,2024/08/27,.,.,,港企,EL
 Hong Kong Qisu Electronic Technology Co. Ltd.,,2024/08/27,.,.,,港企,EL
 Hong Kong Yayang Trading Ltd.,,2024/08/27,.,.,,港企,EL
 Hongkong Inkson Technology Limited,,2024/08/27,.,.,,港企,EL
 Eastech Electronics Limited,,2024/08/27,.,.,,港企,EL
 Address 10,,2024/08/27,,,,港企,Entity List
-"Beijing Moreget Creative Technology Co.,
-Ltd.",北京摩诘创新科技股份有限公司,2024/10/23,2,2,836008.0,内地企业,EL
-"Shenzhen Dragonfly Supply Chain Co.,
-Ltd.",深圳市蜻蜓供应链有限公司,2024/10/23,0,0,,内地企业,EL
-"Small Leopard Electronics Co., Limited",,2024/10/23,.,.,,港企,EL
-Detail Technology (HK) Limited,,2024/10/23,.,.,,港企,EL
-L-Tong Electronic Technology Company,,2024/10/23,.,.,,港企,EL
+Kvantek Limited,,2024/08/27,.,.,,港企,EL
+Chipgoo Electronics Limited,,2024/08/27,.,.,,港企,EL
+Yield Bright Industrial Limited,,2024/08/27,.,.,,港企,EL
+3-K Electronics Limited,,2024/08/27,.,.,,港企,EL
+Tengxuxing Electronic Technology HK Limited,,2024/08/27,.,.,,港企,EL
+Address 09,,2024/08/27,,,,港企,Entity List
+Lett Tronic Group Limited,,2024/08/27,.,.,,港企,EL
+LL Electronic Limited,,2024/08/27,.,.,,港企,EL
+MAK Logistics,,2024/08/27,.,.,,港企,EL
+Megatek Ltd.,,2024/08/27,.,.,,港企,EL
+"Mei Xin Electronic (HK) Co., Limited",,2024/08/27,.,.,,港企,EL
+Midas Lighting Limited,,2024/08/27,.,.,,港企,EL
+Minhoo Logistics Limited,,2024/08/27,.,.,,港企,EL
+O-Nice Trading Co. Limited,,2024/08/27,.,.,,港企,EL
+Yusha Group Co. Ltd.,,2024/08/27,.,.,,港企,EL
+RYX Electronic (HK) Limited,,2024/08/27,.,.,,港企,EL
+"Shenzhen Bailiansheng Electronic Science and Technology Co., Ltd",深圳市佰联升电子科技有限公司,2024/08/27,0,0,,内地企业,EL
+"Shenzhen BZ Space Technology Co., Ltd.",,2024/08/27,.,.,,港企,EL
+"Shenzhen Dongpengshang Electronics Co., Ltd.",深圳市东鹏尚电子有限公司,2024/08/27,0,0,,内地企业,EL
+Wellgo International Industrial Limited,,2024/08/27,.,.,,港企,EL
+"Shenzhen SCH Technology Co., Ltd.",深圳市深创辉科技有限公司,2024/08/27,0,0,,内地企业,EL
+Siliborn Technology Limited,,2024/08/27,.,.,,港企,EL
+Superchip Limited,,2024/08/27,.,.,,港企,EL
+Tehran Pishro Trading Co.,,2024/08/27,.,.,,港企,EL
+Piraclinos Limited,,2024/08/27,.,.,,港企,EL
 "Shenzhen Jiachuang Weiye Technology Company, Ltd.",深圳市佳创伟业科技有限公司,2024/10/23,0,0,,内地企业,EL
-Analog Technology Limited,,2024/11/01,.,.,,港企,EL
-Address 14,,2024/11/01,.,.,,港企,EL
-Address 13,,2024/11/01,.,.,,港企,EL
-"Beijing Aerospace Hill Test Technology Co., Ltd",北京航天希尔测试技术有限公司,2024/11/01,.,.,,内地企业,EL
-"Shenzhen True Price Technology Co., Ltd.",深圳市真价科技有限公司,2024/11/01,.,.,,内地企业,EL
-"Suzhou Tiangong Mechanics Testing Technology Co., Ltd.",苏州天工力学测试技术有限公司,2024/11/01,.,.,,内地企业,EL
+L-Tong Electronic Technology Company,,2024/10/23,.,.,,港企,EL
+Detail Technology (HK) Limited,,2024/10/23,.,.,,港企,EL
+"Beijing Moreget Creative Technology Co., Ltd.",北京摩诘创新科技股份有限公司,2024/10/23,2,2,836008.0,内地企业,EL
+"Shenzhen Dragonfly Supply Chain Co., Ltd.",深圳市蜻蜓供应链有限公司,2024/10/23,0,0,,内地企业,EL
+"Small Leopard Electronics Co., Limited",,2024/10/23,.,.,,港企,EL
 Address 15,,2024/11/01,.,.,,港企,EL
-Woke Trading H.K. Limited,,2024/11/01,.,.,,港企,EL
-"Shenzhen Woke Commerce and Trade Co., Ltd.",深圳市沃克商贸有限公司,2024/11/01,.,.,,内地企业,EL
-Address 12,,2024/11/01,.,.,,港企,EL
 "Suzhou Tiangong Testing Technology Co., Ltd.",苏州天工测试技术有限公司,2024/11/01,.,.,,内地企业,EL
-Si’En Qingdao Co. Ltd.,芯恩（青岛）集成电路有限公司,2024/12/02,1,0,,内地企业,EL
-"Ulanqab Nanda Microelectronics Materials Co., Ltd.",南大光电（乌兰察布）有限公司,2024/12/02,1,1,300346.0,内地企业,EL
-"Taiyuan Jinke Semiconductor Technology Co., Ltd.",太原晋科半导体科技有限公司,2024/12/02,1,1,688126.0,内地企业,EL
-"SwaySure Technology Co., Ltd.,",深圳市昇维旭技术有限公司,2024/12/02,1,0,,内地企业,EL
-"Suzhou Nanda Optoelectronic Materials Co., Ltd.",南大光电（苏州）有限公司,2024/12/02,1,1,300346.0,内地企业,EL
-SMIC Advanced Technology R&D (Shanghai) Corporation,中芯国际集成电路新技术研发（上海）有限公司,2024/12/02,1,1,688981.0,内地企业,EL
-Skyverse Limited,,2024/12/02,.,.,,港企,EL
-Skyverse,深圳中科飞测科技股份有限公司,2024/12/02,1,1,688361.0,内地企业,EL
-"Shenzhen Zhangge Instrument Co., Ltd.",深圳市章阁仪器有限公司,2024/12/02,1,0,,内地企业,EL
-"Shenzhen Pengxinxu Technology Co., Ltd.",深圳市鹏新旭技术有限公司,2024/12/02,1,0,,内地企业,EL
-"Shenzhen SiCarrier Technologies Co., Ltd.",深圳市新凯来技术有限公司,2024/12/02,.,.,,内地企业,EL
-"Shenzhen Qianhai Skyverse Semiconductor Technology Co., Ltd.",深圳前海中科飞测科技有限公司,2024/12/02,1,1,688361.0,内地企业,EL
-"Wingtech Technology Co., Ltd.",闻泰科技股份有限公司,2024/12/02,2,2,600745.0,内地企业,EL
-"Shenzhen Naura Microelectronics Equipment Co., Ltd.",深圳北方华创微电子装备有限公司,2024/12/02,1,1,2371.0,内地企业,EL
-"Shenzhen Jingyuan Information Technology Co., Ltd.",深圳晶源信息技术有限公司,2024/12/02,1,0,,内地企业,EL
-"Shenzhen Huada Jiutianke Technology Co., Ltd.",深圳华大九天科技有限公司,2024/12/02,1,1,301269.0,内地企业,EL
-"Shenzhen Guoweichip Technology Co., Ltd.",深圳国微芯科技有限公司,2024/12/02,1,0,,内地企业,EL
-"Shenzhen Guowei Sensing Technology Co., Ltd.",深圳国微感知技术有限公司,2024/12/02,1,0,,内地企业,EL
-"Shenzhen Xinkailai Industrial Machinery Co., Ltd.",深圳市新凯来工业机器有限公司,2024/12/02,.,.,,内地企业,EL
-Wise Road Capital,北京智路资产管理有限公司,2024/12/02,.,.,,内地企业,EL
-"Wuhan Yiguang Technology Co., Ltd.",武汉颐光科技有限公司,2024/12/02,1,1,300567.0,内地企业,EL
-"Wuhan Skyverse Semiconductor Technology Co., Ltd.",武汉中科飞测半导体科技有限公司,2024/12/02,1,1,688361.0,内地企业,EL
-Zibo Keyuanxin Fluorine Trading Ltd,淄博科源芯氟商贸有限公司,2024/12/02,1,1,300346.0,内地企业,EL
-"Zhuhai Skyverse Technology Co., Ltd.",珠海中科飞测科技有限公司,2024/12/02,1,1,688361.0,内地企业,EL
-"Zhuhai Cornerstone Technology Co., Ltd.",珠海基石科技有限公司,2024/12/02,.,.,,内地企业,EL
-Zhiyi High Purity Electronic Materials (Shanghai) Ltd.,至一高纯电子材料（上海）有限公司,2024/12/02,1,1,603690.0,内地企业,EL
-"Zhiwei Semiconductor (Shanghai) Co., Ltd.",至微半导体（上海）有限公司,2024/12/02,1,1,603690.0,内地企业,EL
-"Zhejiang Zhichun Precision Manufacturing Co., Ltd.",浙江至纯精密制造有限公司,2024/12/02,1,1,603690.0,内地企业,EL
-"Zhejiang Shenqihang Technology Co., Ltd.",浙江申启杭科技有限责任公司,2024/12/02,.,.,,内地企业,EL
-Zhangjiang Laboratory,张江实验室,2024/12/02,.,.,,研究所,EL
-"Wuhan Naura Microelectronics Equipment Co., Ltd.",武汉北方华创微电子装备有限公司,2024/12/02,1,1,2371.0,内地企业,EL
-"Yuwei Semiconductor Technology Co., Ltd.",合肥御微半导体技术有限公司,2024/12/02,2,0,,内地企业,EL
-"Xinlian Rongchuang Integrated Circuit Industry Development (Beijing) Co., Ltd.",芯链融创集成电路产业发展（北京）有限公司,2024/12/02,1,0,,内地企业,EL
-"Xi’an Naura Microelectronics Equipment Co., Ltd.",西安北方华创微电子装备有限公司,2024/12/02,1,1,2371.0,内地企业,EL
-"Xi’an Huada Jiutian Technology Co., Ltd.",西安华大九天科技有限公司,2024/12/02,1,1,301269.0,内地企业,EL
-"Xiamen Skyverse Technology Co., Ltd.",厦门中科飞测科技有限公司,2024/12/02,1,1,688361.0,内地企业,EL
-"Wuxi Naura Microelectronics Equipment Co., Ltd.",无锡北方华创微电子装备有限公司,2024/12/02,1,1,2371.0,内地企业,EL
-"Wuxi Kaishitong Technology Co., Ltd.",无锡凯世通科技有限公司,2024/12/02,1,1,600641.0,内地企业,EL
-"Shenzhen Guowei Hongbo Technology Co., Ltd.",深圳国微鸿博科技有限公司,2024/12/02,1,0,,内地企业,EL
-Wuhan Xinxin Semiconductor Manufacturing Company Limited,武汉新芯集成电路股份有限公司,2024/12/02,1,0,,内地企业,EL
-"Yusheng Micro Semiconductor (Shanghai) Co., Ltd.",御盛微半导体 （上海） 有限公司,2024/12/02,1,1,688082.0,内地企业,EL
-"Shenyang Xinyuan Microelectronic Equipment Co., Ltd.",沈阳芯源微电子设备股份有限公司,2024/12/02,2,2,688037.0,内地企业,EL
-"Guangzhou Huada Jiutian Technology Co., Ltd.",广州华大九天科技有限公司,2024/12/02,1,1,301269.0,内地企业,EL
-"Shengwei Semiconductor Equipment (Shanghai) Co., Ltd.",盛帷半导体设备（上海）有限公司,2024/12/02,2,2,688082.0,内地企业,EL
-"Beijing Sevenstar Integrated Circuit Equipment Co., Ltd.",北京七星华创集成电路装备有限公司,2024/12/02,1,1,2371.0,内地企业,EL
-"Beijing Sevenstar Flowmeter Co., Ltd.",北京华丞电子有限公司,2024/12/02,1,1,2371.0,内地企业,EL
-"Beijing Naura Semiconductor Equipment Co., Ltd.",北京北方华创半导体装备有限公司,2024/12/02,1,1,2371.0,内地企业,EL
-"Beijing Naura Microelectronics Equipment Co., Ltd.",北京北方华创微电子装备有限公司,2024/12/02,1,1,2371.0,内地企业,EL
-"Beijing Kaishitong Semiconductor Co., Ltd.",北京凯世通半导体有限公司,2024/12/02,.,.,,内地企业,EL
-"Beijing Jingyuan Microelectronics Technology Co., Ltd.",中科晶源微电子技术（北京）有限公司,2024/12/02,.,.,,内地企业,EL
-Kingstone Technology Hong Kong Limited,,2024/12/02,.,.,,港企,EL
-"Beijing Huafeng Test & Control Technology Co., Ltd.",北京华峰测控技术股份有限公司,2024/12/02,2,2,688200.0,内地企业,EL
-"Beijing Huafeng Electronic Equipment Co., Ltd.",北京华峰装备技术有限公司,2024/12/02,1,1,688200.0,内地企业,EL
-"Beijing Huada Jiutian Technology Co., Ltd.",北京华大九天科技股份有限公司,2024/12/02,2,2,301269.0,内地企业,EL
-"Beijing Guowei Integration Technology Co., Ltd.",北京国微集成技术有限公司,2024/12/02,.,.,,内地企业,EL
-"Beijing Guangke Xintu Technology Co., Ltd.",光科芯图（北京）科技有限公司,2024/12/02,.,.,,内地企业,EL
-"Nanda Optoelectronic Semiconductor Materials Co., Ltd.",南大光电半导体材料有限公司,2024/12/02,1,1,300346.0,内地企业,EL
-"Nanjing Huada Jiutianke Technology Co., Ltd.",南京华大九天科技有限公司,2024/12/02,1,1,301269.0,内地企业,EL
-"Naura Technology Group Co., Ltd.",北方华创科技集团股份有限公司,2024/12/02,.,.,,内地企业,EL
-Ningbo Nanda Optoelectronic Materials Ltd.,宁波南大光电材料有限公司,2024/12/02,.,.,,内地企业,EL
-"Northern Integrated Circuit Technology Innovation Center (Beijing) Co., Ltd.",北方集成电路技术创新中心（北京）有限公司,2024/12/02,.,.,,内地企业,EL
-"Oriental Crystal Microelectronics Technology (Qingdao) Co., Ltd.",东方晶源微电子科技（青岛）有限公司,2024/12/02,.,.,,内地企业,EL
-"Oriental Crystal Microelectronics Technology (Shanghai) Co., Ltd.",东方晶源微电子科技（上海）有限公司,2024/12/02,.,.,,内地企业,EL
-"Beijing Shuoke Zhongkexin Electronic Equipment Co., Ltd.",北京烁科中科信电子装备有限公司,2024/12/02,.,.,,内地企业,EL
-"Beijing Skyverse Technology Co., Ltd.",北京中科飞测科技有限公司,2024/12/02,1,1,688361.0,内地企业,EL
-Beijing Zhongke Xin Electronic Equipment,中电科烁科电子装备（北京）有限公司,2024/12/02,.,.,,内地企业,EL
-"Changguang Jizhi Optical Technology Co., Ltd.",长光集智光学科技有限公司,2024/12/02,.,.,,内地企业,EL
-"Jiangsu Qiwei Semiconductor Equipment Co., Ltd.",江苏启微半导体设备有限公司,2024/12/02,.,.,,内地企业,EL
-"Jiangsu Nata Optoelectronic Material Co., Ltd.",江苏南大光电材料股份有限公司,2024/12/02,2,2,300346.0,内地企业,EL
-JAC Capital,北京建广资产管理有限公司,2024/12/02,.,.,,内地企业,EL
-"Hwa Tsing Technology Co., Ltd.",华海清科股份有限公司,2024/12/02,1,1,688120.0,内地企业,EL
-"Hwa Tsing (Shanghai) Semiconductor Co., Ltd.",华海清科（上海）半导体有限公司,2024/12/02,1,1,688120.0,内地企业,EL
-"Hwa Tsing (Guangzhou) Semiconductor Co., Ltd.",华海清科（广州）半导体有限公司,2024/12/02,1,1,688120.0,内地企业,EL
-"Hwa Tsing (Beijing) Technology Co., Ltd.",华海清科（北京）科技有限公司,2024/12/02,1,1,688120.0,内地企业,EL
-"Huafeng Test & Control Technology (Tianjin) Co., Ltd.",华峰测控技术（天津）有限责任公司,2024/12/02,1,1,688200.0,内地企业,EL
-"Hefei Zhiwei Semiconductor Co., Ltd.",合肥至微半导体有限公司,2024/12/02,.,.,,内地企业,EL
-"Jiangsu Zhichun System Integration Co., Ltd.",江苏至纯系统集成有限公司,2024/12/02,.,.,,内地企业,EL
-"Hefei Zhiwei Microelectronics Co., Ltd.",合肥至微微电子有限公司,2024/12/02,.,.,,内地企业,EL
-"Hefei Naura Microelectronics Equipment Co., Ltd.",合肥北方华创微电子装备有限公司,2024/12/02,.,.,,内地企业,EL
-"Hefei Kaishitong Semiconductor Co., Ltd.",合肥凯世通半导体有限公司,2024/12/02,.,.,,内地企业,EL
-"Guowei Group (Shenzhen) Co., Ltd.",国微集团（深圳）有限公司,2024/12/02,2,0,,内地企业,EL
-"Guangzhou Skyverse Technology Co., Ltd.",广州中科飞测科技有限公司,2024/12/02,1,1,688361.0,内地企业,EL
-"Dongfang Jingyuan Electron Co., Ltd.",东方晶源微电子科技（北京）股份有限公司,2024/12/02,.,.,,内地企业,EL
-Chinese Academy of Sciences Institute of Microelectronics,中国科学院微电子研究所,2024/12/02,.,.,,研究所,EL
-"Chengdu Skyverse Technology Co., Ltd.",成都中科飞测科技有限公司,2024/12/02,1,1,688361.0,内地企业,EL
-"Chengdu Huada Jiutianke Technology Co., Ltd.",成都华大九天科技有限公司,2024/12/02,.,.,,内地企业,EL
-"Changsha Zhichun Application Technology Co., Ltd.",长沙至纯应用科技有限公司,2024/12/02,.,.,,内地企业,EL
+Address 12,,2024/11/01,.,.,,港企,EL
+"Shenzhen Woke Commerce and Trade Co., Ltd.",深圳市沃克商贸有限公司,2024/11/01,.,.,,内地企业,EL
+"Suzhou Tiangong Mechanics Testing Technology Co., Ltd.",苏州天工力学测试技术有限公司,2024/11/01,.,.,,内地企业,EL
+Woke Trading H.K. Limited,,2024/11/01,.,.,,港企,EL
+"Beijing Aerospace Hill Test Technology Co., Ltd",北京航天希尔测试技术有限公司,2024/11/01,.,.,,内地企业,EL
+Address 13,,2024/11/01,.,.,,港企,EL
+Address 14,,2024/11/01,.,.,,港企,EL
+Analog Technology Limited,,2024/11/01,.,.,,港企,EL
+"Shenzhen True Price Technology Co., Ltd.",深圳市真价科技有限公司,2024/11/01,.,.,,内地企业,EL
 "Hefei Zhihui Semiconductor Application Technology Co., Ltd.",合肥至汇半导体应用技术有限公司,2024/12/02,.,.,,内地企业,EL
 "Piotech (Beijing) Co., Ltd.",拓荆科技（北京）有限公司,2024/12/02,1,1,688072.0,内地企业,EL
 Piotech,拓荆科技股份有限公司,2024/12/02,2,2,688072.0,内地企业,EL
 "Piotech Chuangyi (Shenyang) Semiconductor Equipment Co., Ltd.",拓荆创益（沈阳）半导体设备有限公司,2024/12/02,1,1,688072.0,内地企业,EL
+"Hwa Tsing Technology Co., Ltd.",华海清科股份有限公司,2024/12/02,1,1,688120.0,内地企业,EL
 "Shanghai Skyverse Semiconductor Technology Co., Ltd.",上海中科飞测半导体科技有限公司,2024/12/02,1,1,688361.0,内地企业,EL
-"Shanghai Xinsheng Jingrui Semiconductor Technology Co., Ltd.",上海新昇晶睿半导体科技有限公司,2024/12/02,1,1,688126.0,内地企业,EL
-"Shanghai Xinsheng Jingtou Semiconductor Technology Co., Ltd.",上海新昇晶投半导体科技有限公司,2024/12/02,1,1,688126.0,内地企业,EL
 "Shanghai Xinsheng Jinko Semiconductor Technology Co., Ltd.",上海新昇晶科半导体科技有限公司,2024/12/02,1,1,688126.0,内地企业,EL
+"Shanghai Xinsheng Jingtou Semiconductor Technology Co., Ltd.",上海新昇晶投半导体科技有限公司,2024/12/02,1,1,688126.0,内地企业,EL
 "Shanghai Xinsheng Semiconductor Technology Co., Ltd.",上海新昇半导体科技有限公司,2024/12/02,1,1,688126.0,内地企业,EL
 "Shanghai Yanquan Technology Co., Ltd.",上海岩泉科技有限公司,2024/12/02,1,1,688072.0,内地企业,EL
 "Shanghai Yuliangsheng Technology Co., Ltd.",上海宇量昇科技有限公司,2024/12/02,.,.,,内地企业,EL
 "Shanghai Yuwei Semiconductor Technology Co., Ltd.",上海御微半导体技术有限公司,2024/12/02,1,0,,内地企业,EL
 "Shanghai Zhichun Alloy Manufacturing Co., Ltd.",上海诺同合金制造有限公司,2024/12/02,1,1,603690.0,内地企业,EL
+"Shanghai Xinsheng Jingrui Semiconductor Technology Co., Ltd.",上海新昇晶睿半导体科技有限公司,2024/12/02,1,1,688126.0,内地企业,EL
+"Changsha Zhichun Application Technology Co., Ltd.",长沙至纯应用科技有限公司,2024/12/02,.,.,,内地企业,EL
+"Chengdu Skyverse Technology Co., Ltd.",成都中科飞测科技有限公司,2024/12/02,1,1,688361.0,内地企业,EL
+Chinese Academy of Sciences Institute of Microelectronics,中国科学院微电子研究所,2024/12/02,.,.,,研究所,EL
+"Dongfang Jingyuan Electron Co., Ltd.",东方晶源微电子科技（北京）股份有限公司,2024/12/02,.,.,,内地企业,EL
+"Guangzhou Skyverse Technology Co., Ltd.",广州中科飞测科技有限公司,2024/12/02,1,1,688361.0,内地企业,EL
+"Guowei Group (Shenzhen) Co., Ltd.",国微集团（深圳）有限公司,2024/12/02,2,0,,内地企业,EL
+"Hefei Kaishitong Semiconductor Co., Ltd.",合肥凯世通半导体有限公司,2024/12/02,.,.,,内地企业,EL
+"Hefei Naura Microelectronics Equipment Co., Ltd.",合肥北方华创微电子装备有限公司,2024/12/02,.,.,,内地企业,EL
+"Hefei Zhiwei Microelectronics Co., Ltd.",合肥至微微电子有限公司,2024/12/02,.,.,,内地企业,EL
+"Jiangsu Zhichun System Integration Co., Ltd.",江苏至纯系统集成有限公司,2024/12/02,.,.,,内地企业,EL
+"Hefei Zhiwei Semiconductor Co., Ltd.",合肥至微半导体有限公司,2024/12/02,.,.,,内地企业,EL
+"Huafeng Test & Control Technology (Tianjin) Co., Ltd.",华峰测控技术（天津）有限责任公司,2024/12/02,1,1,688200.0,内地企业,EL
+"Hwa Tsing (Beijing) Technology Co., Ltd.",华海清科（北京）科技有限公司,2024/12/02,1,1,688120.0,内地企业,EL
+"Hwa Tsing (Guangzhou) Semiconductor Co., Ltd.",华海清科（广州）半导体有限公司,2024/12/02,1,1,688120.0,内地企业,EL
+"Hwa Tsing (Shanghai) Semiconductor Co., Ltd.",华海清科（上海）半导体有限公司,2024/12/02,1,1,688120.0,内地企业,EL
 "Shanghai Siwave Technology Co., Ltd.",上海芯物科技有限公司,2024/12/02,.,.,,内地企业,EL
+"Chengdu Huada Jiutianke Technology Co., Ltd.",成都华大九天科技有限公司,2024/12/02,.,.,,内地企业,EL
 "Shanghai Zhichun Electronic Technology Co., Ltd.",上海至纯电子科技有限公司,2024/12/02,1,1,603690.0,内地企业,EL
-"Shanghai Zhichun Precision Gas Co., Ltd.",上海至纯精密气体有限公司,2024/12/02,1,1,603690.0,内地企业,EL
+Quanjiao Nanda Optoelectronic Materials Ltd.,全椒南大光电材料有限公司,2024/12/02,1,1,300346.0,内地企业,EL
 "Shanghai Zhichun Precision Manufacturing Co., Ltd.",上海至纯精密制造有限公司,2024/12/02,1,1,603690.0,内地企业,EL
+"Shenyang Xinyuan Micro Business Development Co., Ltd.",上海芯源微企业发展有限公司,2024/12/02,1,1,688037.0,内地企业,EL
+"Shanghai AGM Gas Co., Ltd.",上海艾格姆气体有限公司,2024/12/02,1,1,300346.0,内地企业,EL
+"Shanghai Lizhi Technology Co., Ltd.",上海砺致科技有限公司,2024/12/02,1,1,603690.0,内地企业,EL
+"Shanghai Lingang Kaishitong Semiconductor Co., Ltd.",上海临港凯世通半导体有限公司,2024/12/02,1,1,600641.0,内地企业,EL
+"Shanghai Kaishitong Semiconductor Co., Ltd.",上海凯世通半导体股份有限公司,2024/12/02,1,1,600641.0,内地企业,EL
+"Shanghai Jingzhuo Information Technology Co., Ltd.",上海精卓信息技术有限公司,2024/12/02,1,1,300567.0,内地企业,EL
+"Shanghai Jingce Semiconductor Technology Co., Ltd.",上海精测半导体技术有限公司,2024/12/02,1,1,300567.0,内地企业,EL
+"Shanghai Integrated Circuit Equipment & Materials Industry Innovation Center Co., Ltd.",上海集成电路装备材料产业创新中心有限公司,2024/12/02,.,.,,内地企业,EL
+"Shanghai Huada Jiutian Information Technology Co., Ltd.",上海华大九天信息科技有限公司,2024/12/02,1,1,301269.0,内地企业,EL
+"Shanghai Feiai Technology Co., Ltd.",上海飞埃技术有限公司,2024/12/02,.,.,,内地企业,EL
+"Shanghai Aipusi Precision Equipment Co., Ltd.",上海艾璞思精密设备有限公司,2024/12/02,1,1,603690.0,内地企业,EL
+"Shandong Feiyuan Gas Co., Ltd.",南大光电（淄博）有限公司,2024/12/02,1,1,300346.0,内地企业,EL
+"Piotech (Shanghai) Co., Ltd.",拓荆科技（上海）有限公司,2024/12/02,1,1,688072.0,内地企业,EL
+"Ruili Microelectronics Equipment (Shanghai) Co., Ltd.",睿励微电子设备（上海）有限公司,2024/12/02,.,.,,内地企业,EL
+Raintree Scientific Instruments (Shanghai) Corporation,睿励科学仪器（上海）有限公司,2024/12/02,.,.,,内地企业,EL
+JAC Capital,北京建广资产管理有限公司,2024/12/02,.,.,,内地企业,EL
+"Qingxin Technology Co., Ltd.",青芯科技（上海）半导体有限公司,2024/12/02,.,.,,内地企业,EL
 "Shanghai Zhichun Purification System Technology Co., Ltd.",上海至纯洁净系统科技股份有限公司,2024/12/02,2,2,603690.0,内地企业,EL
 "Shanghai Zhichun Semiconductor Equipment Co., Ltd",上海至纯半导体设备有限公司,2024/12/02,1,1,603690.0,内地企业,EL
 "Shanghai Zhichun System Integration Co., Ltd.",上海至纯系统集成有限公司,2024/12/02,1,1,603690.0,内地企业,EL
 "Shanghai Zhijia Semiconductor Gas Co., Ltd.",上海至嘉半导体气体有限公司,2024/12/02,1,1,603690.0,内地企业,EL
 "Shanghai Zixi Optical Technology Co., Ltd.",上海紫锡光学技术有限公司,2024/12/02,1,1,603690.0,内地企业,EL
 "Shengmei Semiconductor Equipment (Beijing) Co., Ltd.",盛美半导体设备（北京）有限公司,2024/12/02,1,1,688082.0,内地企业,EL
+"Shanghai Zhichun Precision Gas Co., Ltd.",上海至纯精密气体有限公司,2024/12/02,1,1,603690.0,内地企业,EL
 "Shengmei Semiconductor Equipment Wuxi Co., Ltd.",盛美半导体设备无锡有限公司,2024/12/02,1,1,688082.0,内地企业,EL
-"Shanghai Zhichun Optoelectronic Equipment Co., Ltd.",上海泛楒立光电设备有限公司,2024/12/02,1,1,603690.0,内地企业,EL
 "Shanghai Naura Microelectronics Equipment Co., Ltd.",上海北方华创微电子装备有限公司,2024/12/02,1,1,2371.0,内地企业,EL
 "Shanghai Nanpre Mechanics Co., Ltd.",上海微高精密机械工程有限公司,2024/12/02,.,.,,内地企业,EL
-"Shanghai Modern Advanced Ultra-Precision Manufacturing Center Co., Ltd.",上海现代先进超精密制造中心有限公司,2024/12/02,.,.,,内地企业,EL
 "Beijing E-Town Semiconductor Technology Co., Ltd.",北京屹唐半导体科技股份有限公司,2024/12/02,.,.,,内地企业,EL
 ACM Research (Shanghai),盛美半导体设备（上海）股份有限公司,2024/12/02,.,.,,内地企业,EL
 "AccoTest Technology Co., Ltd. (Hong Kong)",,2024/12/02,.,.,,港企,EL
 "Piotech Jianke (Haining) Semiconductor Equipment Co., Ltd.",拓荆键科（海宁）半导体设备有限公司,2024/12/02,1,1,688072.0,内地企业,EL
-"Qingxin Technology Co., Ltd.",青芯科技（上海）半导体有限公司,2024/12/02,.,.,,内地企业,EL
-Quanjiao Nanda Optoelectronic Materials Ltd.,全椒南大光电材料有限公司,2024/12/02,1,1,300346.0,内地企业,EL
-Raintree Scientific Instruments (Shanghai) Corporation,睿励科学仪器（上海）有限公司,2024/12/02,.,.,,内地企业,EL
-"Ruili Microelectronics Equipment (Shanghai) Co., Ltd.",睿励微电子设备（上海）有限公司,2024/12/02,.,.,,内地企业,EL
-"Piotech (Shanghai) Co., Ltd.",拓荆科技（上海）有限公司,2024/12/02,1,1,688072.0,内地企业,EL
-"Shandong Feiyuan Gas Co., Ltd.",南大光电（淄博）有限公司,2024/12/02,1,1,300346.0,内地企业,EL
-"Shanghai Aipusi Precision Equipment Co., Ltd.",上海艾璞思精密设备有限公司,2024/12/02,1,1,603690.0,内地企业,EL
-"Shanghai Feiai Technology Co., Ltd.",上海飞埃技术有限公司,2024/12/02,.,.,,内地企业,EL
-"Shanghai Huada Jiutian Information Technology Co., Ltd.",上海华大九天信息科技有限公司,2024/12/02,1,1,301269.0,内地企业,EL
-"Shanghai Integrated Circuit Equipment & Materials Industry Innovation Center Co., Ltd.",上海集成电路装备材料产业创新中心有限公司,2024/12/02,.,.,,内地企业,EL
-"Shanghai Jingce Semiconductor Technology Co., Ltd.",上海精测半导体技术有限公司,2024/12/02,1,1,300567.0,内地企业,EL
-"Shanghai Jingzhuo Information Technology Co., Ltd.",上海精卓信息技术有限公司,2024/12/02,1,1,300567.0,内地企业,EL
-"Shanghai Kaishitong Semiconductor Co., Ltd.",上海凯世通半导体股份有限公司,2024/12/02,1,1,600641.0,内地企业,EL
-"Shanghai Lingang Kaishitong Semiconductor Co., Ltd.",上海临港凯世通半导体有限公司,2024/12/02,1,1,600641.0,内地企业,EL
-"Shanghai Lizhi Technology Co., Ltd.",上海砺致科技有限公司,2024/12/02,1,1,603690.0,内地企业,EL
-"Shanghai AGM Gas Co., Ltd.",上海艾格姆气体有限公司,2024/12/02,1,1,300346.0,内地企业,EL
-"Shenyang Xinyuan Micro Business Development Co., Ltd.",上海芯源微企业发展有限公司,2024/12/02,1,1,688037.0,内地企业,EL
+"Shanghai Zhichun Optoelectronic Equipment Co., Ltd.",上海泛楒立光电设备有限公司,2024/12/02,1,1,603690.0,内地企业,EL
+"Jiangsu Nata Optoelectronic Material Co., Ltd.",江苏南大光电材料股份有限公司,2024/12/02,2,2,300346.0,内地企业,EL
+"Shanghai Modern Advanced Ultra-Precision Manufacturing Center Co., Ltd.",上海现代先进超精密制造中心有限公司,2024/12/02,.,.,,内地企业,EL
+"Changguang Jizhi Optical Technology Co., Ltd.",长光集智光学科技有限公司,2024/12/02,.,.,,内地企业,EL
+"Wuhan Naura Microelectronics Equipment Co., Ltd.",武汉北方华创微电子装备有限公司,2024/12/02,1,1,2371.0,内地企业,EL
+Zhangjiang Laboratory,张江实验室,2024/12/02,.,.,,研究所,EL
+"Zhejiang Shenqihang Technology Co., Ltd.",浙江申启杭科技有限责任公司,2024/12/02,.,.,,内地企业,EL
+"Zhejiang Zhichun Precision Manufacturing Co., Ltd.",浙江至纯精密制造有限公司,2024/12/02,1,1,603690.0,内地企业,EL
+"Zhiwei Semiconductor (Shanghai) Co., Ltd.",至微半导体（上海）有限公司,2024/12/02,1,1,603690.0,内地企业,EL
+Zhiyi High Purity Electronic Materials (Shanghai) Ltd.,至一高纯电子材料（上海）有限公司,2024/12/02,1,1,603690.0,内地企业,EL
+"Zhuhai Cornerstone Technology Co., Ltd.",珠海基石科技有限公司,2024/12/02,.,.,,内地企业,EL
+"Zhuhai Skyverse Technology Co., Ltd.",珠海中科飞测科技有限公司,2024/12/02,1,1,688361.0,内地企业,EL
+Zibo Keyuanxin Fluorine Trading Ltd,淄博科源芯氟商贸有限公司,2024/12/02,1,1,300346.0,内地企业,EL
+"Wuhan Skyverse Semiconductor Technology Co., Ltd.",武汉中科飞测半导体科技有限公司,2024/12/02,1,1,688361.0,内地企业,EL
+Wise Road Capital,北京智路资产管理有限公司,2024/12/02,.,.,,内地企业,EL
+"Shenzhen Xinkailai Industrial Machinery Co., Ltd.",深圳市新凯来工业机器有限公司,2024/12/02,.,.,,内地企业,EL
+"Shenzhen Guowei Sensing Technology Co., Ltd.",深圳国微感知技术有限公司,2024/12/02,1,0,,内地企业,EL
+"Shenzhen Guoweichip Technology Co., Ltd.",深圳国微芯科技有限公司,2024/12/02,1,0,,内地企业,EL
+"Shenzhen Huada Jiutianke Technology Co., Ltd.",深圳华大九天科技有限公司,2024/12/02,1,1,301269.0,内地企业,EL
+"Shenzhen Jingyuan Information Technology Co., Ltd.",深圳晶源信息技术有限公司,2024/12/02,1,0,,内地企业,EL
+"Shenzhen Naura Microelectronics Equipment Co., Ltd.",深圳北方华创微电子装备有限公司,2024/12/02,1,1,2371.0,内地企业,EL
+"Jiangsu Qiwei Semiconductor Equipment Co., Ltd.",江苏启微半导体设备有限公司,2024/12/02,.,.,,内地企业,EL
+Si’En Qingdao Co. Ltd.,芯恩（青岛）集成电路有限公司,2024/12/02,1,0,,内地企业,EL
+"Ulanqab Nanda Microelectronics Materials Co., Ltd.",南大光电（乌兰察布）有限公司,2024/12/02,1,1,300346.0,内地企业,EL
+"Taiyuan Jinke Semiconductor Technology Co., Ltd.",太原晋科半导体科技有限公司,2024/12/02,1,1,688126.0,内地企业,EL
+"SwaySure Technology Co., Ltd.,",深圳市昇维旭技术有限公司,2024/12/02,1,0,,内地企业,EL
+"Suzhou Nanda Optoelectronic Materials Co., Ltd.",南大光电（苏州）有限公司,2024/12/02,1,1,300346.0,内地企业,EL
+"Yuwei Semiconductor Technology Co., Ltd.",合肥御微半导体技术有限公司,2024/12/02,2,0,,内地企业,EL
+SMIC Advanced Technology R&D (Shanghai) Corporation,中芯国际集成电路新技术研发（上海）有限公司,2024/12/02,1,1,688981.0,内地企业,EL
+Skyverse,深圳中科飞测科技股份有限公司,2024/12/02,1,1,688361.0,内地企业,EL
+"Shenzhen Zhangge Instrument Co., Ltd.",深圳市章阁仪器有限公司,2024/12/02,1,0,,内地企业,EL
+"Shenzhen Pengxinxu Technology Co., Ltd.",深圳市鹏新旭技术有限公司,2024/12/02,1,0,,内地企业,EL
+"Shenzhen SiCarrier Technologies Co., Ltd.",深圳市新凯来技术有限公司,2024/12/02,.,.,,内地企业,EL
+"Shenzhen Qianhai Skyverse Semiconductor Technology Co., Ltd.",深圳前海中科飞测科技有限公司,2024/12/02,1,1,688361.0,内地企业,EL
+"Wingtech Technology Co., Ltd.",闻泰科技股份有限公司,2024/12/02,2,2,600745.0,内地企业,EL
+Skyverse Limited,,2024/12/02,.,.,,港企,EL
+"Xinlian Rongchuang Integrated Circuit Industry Development (Beijing) Co., Ltd.",芯链融创集成电路产业发展（北京）有限公司,2024/12/02,1,0,,内地企业,EL
+"Wuhan Yiguang Technology Co., Ltd.",武汉颐光科技有限公司,2024/12/02,1,1,300567.0,内地企业,EL
+"Xi’an Huada Jiutian Technology Co., Ltd.",西安华大九天科技有限公司,2024/12/02,1,1,301269.0,内地企业,EL
+"Beijing Huafeng Electronic Equipment Co., Ltd.",北京华峰装备技术有限公司,2024/12/02,1,1,688200.0,内地企业,EL
+"Beijing Huada Jiutian Technology Co., Ltd.",北京华大九天科技股份有限公司,2024/12/02,2,2,301269.0,内地企业,EL
+"Beijing Guowei Integration Technology Co., Ltd.",北京国微集成技术有限公司,2024/12/02,.,.,,内地企业,EL
+"Beijing Guangke Xintu Technology Co., Ltd.",光科芯图（北京）科技有限公司,2024/12/02,.,.,,内地企业,EL
+"Nanda Optoelectronic Semiconductor Materials Co., Ltd.",南大光电半导体材料有限公司,2024/12/02,1,1,300346.0,内地企业,EL
+"Nanjing Huada Jiutianke Technology Co., Ltd.",南京华大九天科技有限公司,2024/12/02,1,1,301269.0,内地企业,EL
+"Beijing Huafeng Test & Control Technology Co., Ltd.",北京华峰测控技术股份有限公司,2024/12/02,2,2,688200.0,内地企业,EL
+"Naura Technology Group Co., Ltd.",北方华创科技集团股份有限公司,2024/12/02,.,.,,内地企业,EL
+"Northern Integrated Circuit Technology Innovation Center (Beijing) Co., Ltd.",北方集成电路技术创新中心（北京）有限公司,2024/12/02,.,.,,内地企业,EL
+"Xi’an Naura Microelectronics Equipment Co., Ltd.",西安北方华创微电子装备有限公司,2024/12/02,1,1,2371.0,内地企业,EL
+"Oriental Crystal Microelectronics Technology (Shanghai) Co., Ltd.",东方晶源微电子科技（上海）有限公司,2024/12/02,.,.,,内地企业,EL
+"Beijing Shuoke Zhongkexin Electronic Equipment Co., Ltd.",北京烁科中科信电子装备有限公司,2024/12/02,.,.,,内地企业,EL
+"Beijing Skyverse Technology Co., Ltd.",北京中科飞测科技有限公司,2024/12/02,1,1,688361.0,内地企业,EL
+Beijing Zhongke Xin Electronic Equipment,中电科烁科电子装备（北京）有限公司,2024/12/02,.,.,,内地企业,EL
+Ningbo Nanda Optoelectronic Materials Ltd.,宁波南大光电材料有限公司,2024/12/02,.,.,,内地企业,EL
+Kingstone Technology Hong Kong Limited,,2024/12/02,.,.,,港企,EL
+"Oriental Crystal Microelectronics Technology (Qingdao) Co., Ltd.",东方晶源微电子科技（青岛）有限公司,2024/12/02,.,.,,内地企业,EL
+"Beijing Kaishitong Semiconductor Co., Ltd.",北京凯世通半导体有限公司,2024/12/02,.,.,,内地企业,EL
+"Beijing Jingyuan Microelectronics Technology Co., Ltd.",中科晶源微电子技术（北京）有限公司,2024/12/02,.,.,,内地企业,EL
+"Wuxi Naura Microelectronics Equipment Co., Ltd.",无锡北方华创微电子装备有限公司,2024/12/02,1,1,2371.0,内地企业,EL
+"Wuxi Kaishitong Technology Co., Ltd.",无锡凯世通科技有限公司,2024/12/02,1,1,600641.0,内地企业,EL
+"Shenzhen Guowei Hongbo Technology Co., Ltd.",深圳国微鸿博科技有限公司,2024/12/02,1,0,,内地企业,EL
+"Yusheng Micro Semiconductor (Shanghai) Co., Ltd.",御盛微半导体 （上海） 有限公司,2024/12/02,1,1,688082.0,内地企业,EL
+"Shenyang Xinyuan Microelectronic Equipment Co., Ltd.",沈阳芯源微电子设备股份有限公司,2024/12/02,2,2,688037.0,内地企业,EL
+Wuhan Xinxin Semiconductor Manufacturing Company Limited,武汉新芯集成电路股份有限公司,2024/12/02,1,0,,内地企业,EL
+"Shengwei Semiconductor Equipment (Shanghai) Co., Ltd.",盛帷半导体设备（上海）有限公司,2024/12/02,2,2,688082.0,内地企业,EL
+"Beijing Sevenstar Integrated Circuit Equipment Co., Ltd.",北京七星华创集成电路装备有限公司,2024/12/02,1,1,2371.0,内地企业,EL
+"Xiamen Skyverse Technology Co., Ltd.",厦门中科飞测科技有限公司,2024/12/02,1,1,688361.0,内地企业,EL
+"Beijing Sevenstar Flowmeter Co., Ltd.",北京华丞电子有限公司,2024/12/02,1,1,2371.0,内地企业,EL
+"Beijing Naura Semiconductor Equipment Co., Ltd.",北京北方华创半导体装备有限公司,2024/12/02,1,1,2371.0,内地企业,EL
+"Beijing Naura Microelectronics Equipment Co., Ltd.",北京北方华创微电子装备有限公司,2024/12/02,1,1,2371.0,内地企业,EL
+"Guangzhou Huada Jiutian Technology Co., Ltd.",广州华大九天科技有限公司,2024/12/02,1,1,301269.0,内地企业,EL
 "Zhejiang Uniview Technologies Co., Ltd.",,2024/12/11,,,,内地企业,Entity List
 "Beijing Zhongdun Security Technology Group Co., Ltd.",,2024/12/11,,,,内地企业,Entity List
-"Hefei Starwave Communication Technology Co., Ltd.",,2025/01/06,,,,内地企业,Entity List
-"Chinese Academy of Sciences Changchun Institute of Optics, Fine Mechanics, and Physics",,2025/01/06,,,,研究所,Entity List
-"Yaguang Technology Group Co., Ltd.",,2025/01/06,,,,内地企业,Entity List
-"Chengdu Yaguang Electronics Co., Ltd.",,2025/01/06,,,,内地企业,Entity List
-Shanghai Institute of Optics and Fine Mechanics,,2025/01/06,,,,研究所,Entity List
-"Nanjing Simite Optical Instruments Co., Ltd.",,2025/01/06,,,,内地企业,Entity List
-"Wuhu Kewei Zhaofu Electronics Co., Ltd.",,2025/01/06,,,,内地企业,Entity List
 "Suzhou Ultranano Precision Optoelectronics Technology Co., Ltd.",,2025/01/06,,,,内地企业,Entity List
-Peng Cheng Laboratory,,2025/01/06,,,,研究所,Entity List
-Ji Hua Laboratory,,2025/01/06,,,,研究所,Entity List
 "Chengdu RML Technology Co., Ltd.",,2025/01/06,,,,内地企业,Entity List
-"Jiangsu Suanxin Technology Co., Ltd.",,2025/01/16,,,,内地企业,Entity List
-"Chengdu Suanze Technology Co., Ltd.",,2025/01/16,,,,内地企业,Entity List
-"Suanli (Fujian) Technology Co., Ltd.",,2025/01/16,,,,内地企业,Entity List
-"Beijing Lingxin Intelligent Technology Co., Ltd.",,2025/01/16,,,,内地企业,Entity List
-"Shanghai Zhipu Huanyu Technology Co., Ltd.",,2025/01/16,,,,内地企业,Entity List
-"Shenzhen Zhipu Future Technology Co., Ltd.",,2025/01/16,,,,内地企业,Entity List
-"Hangzhou Zhipu Huazhang Technology Co., Ltd.",,2025/01/16,,,,内地企业,Entity List
-"Fujian Suanxin Technology Co., Ltd.",,2025/01/16,,,,内地企业,Entity List
-"Beijing Zhipu Qingyan Technology Co., Ltd.",,2025/01/16,,,,内地企业,Entity List
-"Fujian Sophon Technology Co., Ltd.",,2025/01/16,,,,高校,Entity List
-"Tianjin Shunhua Technology Co., Ltd.",,2025/01/16,,,,内地企业,Entity List
-"Sophon Technology (Beijing) Co., Ltd.",,2025/01/16,,,,内地企业,Entity List
-"Beijing Yuanyin Intelligent Technology Co., Ltd.",,2025/01/16,,,,内地企业,Entity List
-"Nanjing Zhihu Information Technology Co., Ltd.",,2025/01/16,,,,内地企业,Entity List
+Ji Hua Laboratory,,2025/01/06,,,,研究所,Entity List
+Peng Cheng Laboratory,,2025/01/06,,,,研究所,Entity List
+"Wuhu Kewei Zhaofu Electronics Co., Ltd.",,2025/01/06,,,,内地企业,Entity List
+"Yaguang Technology Group Co., Ltd.",,2025/01/06,,,,内地企业,Entity List
+Shanghai Institute of Optics and Fine Mechanics,,2025/01/06,,,,研究所,Entity List
+"Chengdu Yaguang Electronics Co., Ltd.",,2025/01/06,,,,内地企业,Entity List
+"Chinese Academy of Sciences Changchun Institute of Optics, Fine Mechanics, and Physics",,2025/01/06,,,,研究所,Entity List
+"Hefei Starwave Communication Technology Co., Ltd.",,2025/01/06,,,,内地企业,Entity List
+"Nanjing Simite Optical Instruments Co., Ltd.",,2025/01/06,,,,内地企业,Entity List
 "Beijing Zhipu Future Technology Co., Ltd.",,2025/01/16,,,,内地企业,Entity List
 "Beijing Keyi Hongyuan Optoelectronics Co., Ltd.",,2025/01/16,,,,内地企业,Entity List
 "Quliang Electronics Co., Ltd.",,2025/01/16,,,,内地企业,Entity List
 Xiamen Sophgo Technologies Limited,,2025/01/16,,,,内地企业,Entity List
-"Wuhan Suanneng Technology Co., Ltd.",,2025/01/16,,,,内地企业,Entity List
-"Qingdao Sophgo Technology Co., Ltd.",,2025/01/16,,,,内地企业,Entity List
+"Nanjing Zhihu Information Technology Co., Ltd.",,2025/01/16,,,,内地企业,Entity List
 Sophgo Technologies Ltd.,,2025/01/16,,,,内地企业,Entity List
 "Beijing Zhipu Huazhang Technology Co., Ltd.",,2025/01/16,,,,内地企业,Entity List
 "Shanghai Suanhu Technology Co., Ltd.",,2025/01/16,,,,内地企业,Entity List
 "Beijing Zhipu Linghang Technology Co., Ltd.",,2025/01/16,,,,内地企业,Entity List
 "Wuxi Suanneng Technology Co., Ltd.",,2025/01/16,,,,内地企业,Entity List
-Beijing Academy of Artificial Intelligence,,2025/03/25,,,,研究所,Entity List
-"Nettrix Information Industry Co., Ltd.",,2025/03/25,,,,内地企业,Entity List
-"Inspur (HK) Electronics Co., Ltd.",,2025/03/25,,,,港企,Entity List
-Stratum FT Limited,,2025/03/25,,,,港企,Entity List
-"Suma Techology Co., Ltd.",,2025/03/25,,,,港企,Entity List
-"Suma-USI Electronics Co., Ltd.",,2025/03/25,,,,内地企业,Entity List
-"Henan Dingxin Information Industry Co., Ltd.",,2025/03/25,,,,内地企业,Entity List
+"Qingdao Sophgo Technology Co., Ltd.",,2025/01/16,,,,内地企业,Entity List
+"Beijing Yuanyin Intelligent Technology Co., Ltd.",,2025/01/16,,,,内地企业,Entity List
+"Wuhan Suanneng Technology Co., Ltd.",,2025/01/16,,,,内地企业,Entity List
+"Tianjin Shunhua Technology Co., Ltd.",,2025/01/16,,,,内地企业,Entity List
+"Sophon Technology (Beijing) Co., Ltd.",,2025/01/16,,,,内地企业,Entity List
+"Jiangsu Suanxin Technology Co., Ltd.",,2025/01/16,,,,内地企业,Entity List
+"Chengdu Suanze Technology Co., Ltd.",,2025/01/16,,,,内地企业,Entity List
+"Beijing Lingxin Intelligent Technology Co., Ltd.",,2025/01/16,,,,内地企业,Entity List
+"Shanghai Zhipu Huanyu Technology Co., Ltd.",,2025/01/16,,,,内地企业,Entity List
+"Suanli (Fujian) Technology Co., Ltd.",,2025/01/16,,,,内地企业,Entity List
+"Hangzhou Zhipu Huazhang Technology Co., Ltd.",,2025/01/16,,,,内地企业,Entity List
+"Fujian Suanxin Technology Co., Ltd.",,2025/01/16,,,,内地企业,Entity List
+"Beijing Zhipu Qingyan Technology Co., Ltd.",,2025/01/16,,,,内地企业,Entity List
+"Fujian Sophon Technology Co., Ltd.",,2025/01/16,,,,高校,Entity List
+"Shenzhen Zhipu Future Technology Co., Ltd.",,2025/01/16,,,,内地企业,Entity List
 Scikro (Hong Kong) Instruments Limited,,2025/03/25,,,,港企,Entity List
-"Beijing Innovation Wisdom Technology Co., Ltd.",,2025/03/25,,,,内地企业,Entity List
-"Inspur Software Co., Ltd.",,2025/03/25,,,,内地企业,Entity List
-"Inspur (Beijing) Electronic Information Industry Co., Ltd.",,2025/03/25,,,,内地企业,Entity List
-"Inspur Electronic Information (Hong Kong) Co., Ltd.",,2025/03/25,,,,港企,Entity List
 "Inspur Electronic Information Industry Co., Ltd.",,2025/03/25,,,,港企,Entity List
-Ningbo Institute of Materials Technology and Engineering,,2025/03/28,,,,研究所,Entity List
-China Academy of Launch Vehicle Technology Beijing Institute of Precision Mechatronics Control Equipment,,2025/03/28,,,,研究所,Entity List
-"Harbin Aerospace Star Data System Technology Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
-ORICAS Import and Export (Beijing) Corporation,,2025/03/28,,,,内地企业,Entity List
-"Beijing Guoke Tianxun Technology Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
-"Beijing Graphene Institute Co., Ltd",,2025/03/28,,,,研究所,Entity List
-"Singleton (Suzhou) Electronics Technology Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
-"Nanjing Chunhui Technology Industry Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
-"Suzhou Changfeng Avionics Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
-Chinese Academy of Sciences Technology and Engineering Center for Space Utilization,,2025/03/28,,,,研究所,Entity List
-"Anhui Kehua Sci-Tech Trading Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
-"Shanghai Aviation Electronic Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
-"Scikro (Shanghai) Instrument Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
-"National Inspection and Testing Holding Group Nanjing National Materials Testing Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
-"Jiangxi Hongdu Aviation Industry Group Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
-"Aerospace Star Technology Application Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
-Aeronautics Computing Technique Research Institute,,2025/03/28,,,,研究所,Entity List
-"Gyro Technology Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
-"Nanjing Panda Handa Technology Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
-"Xiâan Xiangteng Microelectronics Technology Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
-"Space Star Technology Co., Ltd.",,2025/03/28,,,,高校,Entity List
-Mohammad Reza Rajabi,,2025/03/28,,,,个人,Entity List
+"Inspur Electronic Information (Hong Kong) Co., Ltd.",,2025/03/25,,,,港企,Entity List
+"Inspur (Beijing) Electronic Information Industry Co., Ltd.",,2025/03/25,,,,内地企业,Entity List
+"Beijing Innovation Wisdom Technology Co., Ltd.",,2025/03/25,,,,内地企业,Entity List
+"Henan Dingxin Information Industry Co., Ltd.",,2025/03/25,,,,内地企业,Entity List
+"Inspur Software Co., Ltd.",,2025/03/25,,,,内地企业,Entity List
+"Suma Techology Co., Ltd.",,2025/03/25,,,,港企,Entity List
+Stratum FT Limited,,2025/03/25,,,,港企,Entity List
+"Inspur (HK) Electronics Co., Ltd.",,2025/03/25,,,,港企,Entity List
+"Nettrix Information Industry Co., Ltd.",,2025/03/25,,,,内地企业,Entity List
+Beijing Academy of Artificial Intelligence,,2025/03/25,,,,研究所,Entity List
+"Suma-USI Electronics Co., Ltd.",,2025/03/25,,,,内地企业,Entity List
 Chengdu Aircraft Design and Research Institute,,2025/03/28,,,,研究所,Entity List
 Zibo Topred International Trading Company,,2025/03/28,,,,内地企业,Entity List
 Silk Road Trading Company Ltd.,,2025/03/28,,,,内地企业,Entity List
 "Tianjin Aerospace Zhongwei Data System Technology Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
 "Zhejiang Aerospace Hengjia Data Technology Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
-China Aeronautical Radio Electronics Research Institute,,2025/03/28,,,,研究所,Entity List
+"Beijing Foundfresh Technology Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
 "Physike Technology Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
-"Xiâan Aerospace Tianhui Data Technology Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
-"Chongqing Southwest Integrated Circuit Design Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
+"Xi'an Aerospace Tianhui Data Technology Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
+"Xi'an Sunward Aeromat Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
 "Shaanxi Aerospace Science and Technology Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
-"Xiâan Sunward Aeromat Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
 Air Force Engineering University,,2025/03/28,,,,高校,Entity List
-"Xiâan Xiangxun Technology Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
+"Xi'an Xiangxun Technology Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
 "Associated Opto-electronics (Chongqing) Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
 Nanjing Fiberglass Research and Design Institute,,2025/03/28,,,,研究所,Entity List
 "Suzhou SIP Hi-Tech Precision Electronics Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
-"Xiâan Aerospace Automation Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
-"Beijing Foundfresh Technology Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
-"Sino IC Technology Co., Ltd.",,2025/09/12,,,,内地企业,Entity List
+"Xi'an Aerospace Automation Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
+Mohammad Reza Rajabi,,2025/03/28,,,,个人,Entity List
+"Chongqing Southwest Integrated Circuit Design Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
+"Space Star Technology Co., Ltd.",,2025/03/28,,,,高校,Entity List
+China Aeronautical Radio Electronics Research Institute,,2025/03/28,,,,研究所,Entity List
+"Nanjing Panda Handa Technology Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
+Ningbo Institute of Materials Technology and Engineering,,2025/03/28,,,,研究所,Entity List
+China Academy of Launch Vehicle Technology Beijing Institute of Precision Mechatronics Control Equipment,,2025/03/28,,,,研究所,Entity List
+"Harbin Aerospace Star Data System Technology Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
+"Beijing Guoke Tianxun Technology Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
+"Beijing Graphene Institute Co., Ltd",,2025/03/28,,,,研究所,Entity List
+"Singleton (Suzhou) Electronics Technology Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
+"Nanjing Chunhui Technology Industry Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
+"Suzhou Changfeng Avionics Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
+ORICAS Import and Export (Beijing) Corporation,,2025/03/28,,,,内地企业,Entity List
+"Anhui Kehua Sci-Tech Trading Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
+Chinese Academy of Sciences Technology and Engineering Center for Space Utilization,,2025/03/28,,,,研究所,Entity List
+"Gyro Technology Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
+Aeronautics Computing Technique Research Institute,,2025/03/28,,,,研究所,Entity List
+"Aerospace Star Technology Application Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
+"Xi'an Xiangteng Microelectronics Technology Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
+"Jiangxi Hongdu Aviation Industry Group Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
+"National Inspection and Testing Holding Group Nanjing National Materials Testing Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
+"Scikro (Shanghai) Instrument Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
+"Shanghai Aviation Electronic Co., Ltd.",,2025/03/28,,,,内地企业,Entity List
+"Chinese Academy of Sciences, National Time Service Center",,2025/09/12,,,,研究所,Entity List
+"Hong Kong DEMX Co., Ltd.",,2025/09/12,,,,港企,Entity List
+"Shanghai Fuwei Xunjie Digital Technology Co., Ltd.",,2025/09/12,,,,内地企业,Entity List
+"GMC Semiconductor Technology (Wuxi) Co., Ltd.",,2025/09/12,,,,内地企业,Entity List
+"Shenzhen Xinlikang Supply Chain Management Co., Limited",,2025/09/12,,,,港企,Entity List
+"Shanghai Fudan Microelectronics (HK) Co., Ltd.",,2025/09/12,,,,港企,Entity List
+"Shanghai Fudan Microelectronics Co., Ltd.",,2025/09/12,,,,高校,Entity List
+Hua Ke Logistics (HK) Limited,,2025/09/12,,,,港企,Entity List
+"Shenzhen Fudan Microelectronics Co., Ltd.",,2025/09/12,,,,内地企业,Entity List
+"Beijing Fudan Microelectronics Technology Co., Ltd.",,2025/09/12,,,,内地企业,Entity List
+"Shanghai Fukong Hualong Microsystem Technology Co., Ltd.",,2025/09/12,,,,内地企业,Entity List
+"Shenzhen NetForward Mircroelectronics Co., Ltd.",,2025/09/12,,,,内地企业,Entity List
+"Sangon Biotech (Shanghai) Co., Ltd.",,2025/09/12,,,,内地企业,Entity List
+Hua Ke Supply Chain (HK) Limited,,2025/09/12,,,,港企,Entity List
 "Shanghai Suochen Information Technology Co., Ltd.",,2025/09/12,,,,内地企业,Entity List
 "Beijing Tsingke Biotech Co., Ltd.",,2025/09/12,,,,高校,Entity List
 "Changzhou Netforward Microelectronics Co., Ltd.",,2025/09/12,,,,内地企业,Entity List
-"Jicun Semiconductor Technology (Shanghai) Co., Ltd.",,2025/09/12,,,,内地企业,Entity List
+"Sino IC Technology Co., Ltd.",,2025/09/12,,,,内地企业,Entity List
 Changsha NetForward Electronic Technology Co. Ltd.,,2025/09/12,,,,内地企业,Entity List
 "Chengdu NetForward Microelectronics Co., Ltd.",,2025/09/12,,,,内地企业,Entity List
 "Beijing Tianyi Huiyuan Biotechnology Co., Ltd.",,2025/09/12,,,,内地企业,Entity List
 "Aerospace Information Research Institute, Chinese Academy of Sciences",,2025/09/12,,,,研究所,Entity List
-"Sangon Biotech (Shanghai) Co., Ltd.",,2025/09/12,,,,内地企业,Entity List
-"Shenzhen NetForward Mircroelectronics Co., Ltd.",,2025/09/12,,,,内地企业,Entity List
-Hua Ke Supply Chain (HK) Limited,,2025/09/12,,,,港企,Entity List
-"Beijing Fudan Microelectronics Technology Co., Ltd.",,2025/09/12,,,,内地企业,Entity List
-"Shenzhen Fudan Microelectronics Co., Ltd.",,2025/09/12,,,,内地企业,Entity List
-Hua Ke Logistics (HK) Limited,,2025/09/12,,,,港企,Entity List
-"Shanghai Fudan Microelectronics Co., Ltd.",,2025/09/12,,,,高校,Entity List
-"Shanghai Fudan Microelectronics (HK) Co., Ltd.",,2025/09/12,,,,港企,Entity List
-"Shenzhen Xinlikang Supply Chain Management Co., Limited",,2025/09/12,,,,港企,Entity List
-"GMC Semiconductor Technology (Wuxi) Co., Ltd.",,2025/09/12,,,,内地企业,Entity List
-"Shanghai Fuwei Xunjie Digital Technology Co., Ltd.",,2025/09/12,,,,内地企业,Entity List
-"Hong Kong DEMX Co., Ltd.",,2025/09/12,,,,港企,Entity List
-"Shanghai Fukong Hualong Microsystem Technology Co., Ltd.",,2025/09/12,,,,内地企业,Entity List
-"Chinese Academy of Sciences, National Time Service Center",,2025/09/12,,,,研究所,Entity List
-"Beijing Rageflight Technology Co., Ltd.",,2025/10/08,,,,内地企业,Entity List
-"Shanghai Bitconn Electronics Co., Ltd.",,2025/10/08,,,,内地企业,Entity List
-Address 18,,2025/10/08,,,,港企,Entity List
-"Gansu Shuili Hoisting Equipment Co., Ltd.",,2025/10/08,,,,内地企业,Entity List
-"Easy Fly Intelligent Technology Co., Ltd",,2025/10/08,,,,内地企业,Entity List
-"Jinan Xin Yin Bo Electronic Equipment Co., Ltd.",,2025/10/08,,,,内地企业,Entity List
-Address 16,,2025/10/08,,,,港企,Entity List
-"Feng Bao Electronic Information Technology (Shanghai) Co., Ltd.",,2025/10/08,,,,内地企业,Entity List
-Shanghai Langqing Electronic Technology Co.,,2025/10/08,,,,内地企业,Entity List
+"Jicun Semiconductor Technology (Shanghai) Co., Ltd.",,2025/09/12,,,,内地企业,Entity List
 "Beijing Kevins Technology Development Co., Ltd.",,2025/10/08,,,,内地企业,Entity List
-Address 17,,2025/10/08,,,,港企,Entity List
-"Schmidt & Co., (HK) Ltd.",,2025/10/08,,,,港企,Entity List
-Feng Bao Trading Hong Kong Ltd,,2025/10/08,,,,港企,Entity List
-"Beijing Plenary Technology Co., Ltd.",,2025/10/08,,,,内地企业,Entity List
-Shanghai Sisheng Power Control Technology Co. Ltd.,,2025/10/08,,,,内地企业,Entity List
 "Shandong Xin Yin Bo IOT Technology Co., Ltd.",,2025/10/08,,,,内地企业,Entity List
+Shanghai Sisheng Power Control Technology Co. Ltd.,,2025/10/08,,,,内地企业,Entity List
+"Beijing Plenary Technology Co., Ltd.",,2025/10/08,,,,内地企业,Entity List
+Feng Bao Trading Hong Kong Ltd,,2025/10/08,,,,港企,Entity List
+"Schmidt & Co., (HK) Ltd.",,2025/10/08,,,,港企,Entity List
+Address 17,,2025/10/08,,,,港企,Entity List
+Shanghai Langqing Electronic Technology Co.,,2025/10/08,,,,内地企业,Entity List
+"Gansu Shuili Hoisting Equipment Co., Ltd.",,2025/10/08,,,,内地企业,Entity List
+Address 16,,2025/10/08,,,,港企,Entity List
+"Jinan Xin Yin Bo Electronic Equipment Co., Ltd.",,2025/10/08,,,,内地企业,Entity List
+"Easy Fly Intelligent Technology Co., Ltd",,2025/10/08,,,,内地企业,Entity List
+Address 18,,2025/10/08,,,,港企,Entity List
+"Shanghai Bitconn Electronics Co., Ltd.",,2025/10/08,,,,内地企业,Entity List
+"Beijing Rageflight Technology Co., Ltd.",,2025/10/08,,,,内地企业,Entity List
 Goodview Global,,2025/10/08,,,,内地企业,Entity List
+"Feng Bao Electronic Information Technology (Shanghai) Co., Ltd.",,2025/10/08,,,,内地企业,Entity List
 "Arrow Electronics (Hong Kong) Co., Ltd.",,2025/10/09,,,,港企,Entity List
-,,,.,.,,,
-,,,.,.,,,
-,,,.,.,,,
