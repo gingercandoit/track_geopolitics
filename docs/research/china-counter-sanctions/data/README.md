@@ -18,11 +18,11 @@ data/
     EL_实体清单.csv               # 1201条 Entity List (中国实体) ✅ 2026-04更新
     SDN_特别指定国民.csv           # 1031条 SDN List (中国实体) ✅ 2026-04更新
     UVL_未经核实清单.csv           # 221条 Unverified List (中国实体) ✅ 2026-04更新
-    CMC_中国军事企业.csv           # 586条 1260H CMC (全球)
-    UFLPA_维吾尔强迫劳动.csv       # 160条 UFLPA Entity List (全球)
+    CMC_中国军事企业.csv           # 76条 EO 14032 CMC (全球) ✅ 2026-04更新
+    UFLPA_维吾尔强迫劳动.csv       # 150条 UFLPA Entity List (全球) ✅ 2026-04更新
     CMIC_中国军工复合体.csv        # 69条 NS-CMIC List (中国实体) ✅ 2026-04更新
     MEU_军事最终用户.csv           # 75条 MEU List (中国实体) ✅ 2026-04更新
-    CMCC_中国军事企业.csv          # 44条 CMCC List (全球)
+    CMCC_中国军事企业.csv          # 134条 DoD 1260H CMCC (全球) ✅ 2026-04更新
     ISN_防扩散制裁.csv            # 39条 ISN List (中国实体) ✅ 2026-04更新
  美方DSCA对台军售通知.csv           # 42条 (2020-05 ~ 2025-12) 双边配对数据
  README.md
@@ -30,7 +30,7 @@ data/
 
 **两类 US 数据的区别**：
 - 汇总.csv：仅含中国实体（2265条），跨9个清单去重合并
-- 分清单文件：含中国实体（共 ~2000 条），2026-04 通过 CSL 交叉验证并补全（6个清单已更新）
+- 分清单文件：含全球实体（共 ~3000 条），2026-04 通过 CSL + DoD/DHS 原始数据源更新（9个清单全部更新）
 
 ---
 
@@ -122,18 +122,18 @@ data/
 
 ### 分清单 CSV（全球实体）
 
-9个分清单文件含中国实体，字段结构与汇总相同。2026-04 通过 [Consolidated Screening List (CSL)](https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv) 交叉验证并补全。
+9个分清单文件含全球实体，字段结构与汇总相同。2026-04 通过 CSL（6个清单）+ DoD Federal Register（CMCC）+ DHS 官网（UFLPA）+ EO 14032 审查（CMC）全部更新。
 
 | 清单 | 文件 | 条数 | 主管机构 | 状态 |
 |------|------|------|---------|------|
 | Entity List | EL_实体清单.csv | 1201 | BIS (商务部) | ✅ CSL 2026-04 |
 | SDN List | SDN_特别指定国民.csv | 1031 | OFAC (财政部) | ✅ CSL 2026-04 |
 | Unverified List | UVL_未经核实清单.csv | 221 | BIS (商务部) | ✅ CSL 2026-04 |
-| 1260H CMC | CMC_中国军事企业.csv | 586 | DOD (国防部) | 待更新 |
-| UFLPA | UFLPA_维吾尔强迫劳动.csv | 160 | DHS (国土安全部) | 待更新 |
+| 1260H CMC | CMC_中国军事企业.csv | 76 | DOD (国防部) | ✅ EO 14032 2026-04 |
+| UFLPA | UFLPA_维吾尔强迫劳动.csv | 150 | DHS (国土安全部) | ✅ DHS 2026-04 |
 | NS-CMIC | CMIC_中国军工复合体.csv | 69 | OFAC (财政部) | ✅ CSL 2026-04 |
 | MEU | MEU_军事最终用户.csv | 75 | BIS (商务部) | ✅ CSL 2026-04 |
-| CMCC | CMCC_中国军事企业.csv | 44 | DOD (国防部) | 待更新 |
+| CMCC | CMCC_中国军事企业.csv | 134 | DOD (国防部) | ✅ FR 2025-00070 2026-04 |
 | ISN | ISN_防扩散制裁.csv | 39 | State (国务院) | ✅ CSL 2026-04 |
 
 ---
@@ -158,7 +158,7 @@ data/
 
 - **CN/外交部清单**：中国外交部官网发言人记者会/声明，逐条核实URL
 - **CN/商务部清单**：中国商务部官网公告，逐条核实URL
-- **US/汇总+分清单**：原始 Stata .dta 文件来自用户前期研究，转为 CSV。**分清单已通过 CSL 更新至2026-04**（SDN/EL/UVL/CMIC/MEU/ISN 六个清单），CMCC/CMC/UFLPA 三个清单不在 CSL 中（需 DoD/DHS 原始数据源），汇总表尚未同步
+- **US/汇总+分清单**：原始 Stata .dta 文件来自用户前期研究，转为 CSV。**9个分清单已全部更新至2026-04**：CSL 更新6个（SDN/EL/UVL/CMIC/MEU/ISN），DoD/DHS 原始数据源更新3个（CMCC/CMC/UFLPA）。汇总表尚未同步
 - **DSCA数据**：42条全部经官方来源逐条核实（2026-04-10完成）
 
 ## 编码
