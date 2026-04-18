@@ -4,7 +4,7 @@
     "topic_name_zh": "技术竞争与规则制定",
     "period_start": "2026-04-01",
     "period_end": "2026-04-01",
-    "generated_at": "2026-04-11T10:44:19+08:00",
+    "generated_at": "2026-04-18T23:54:00+08:00",
     "version": "1.0",
     "digest_zh": "",
     "overview": ""
@@ -74,6 +74,21 @@
         "MoE = Mixture of Experts（混合专家架构）",
         "CUDA = NVIDIA的GPU并行计算平台"
       ]
+    },
+    {
+      "date": "2026-04-17",
+      "type": "企业动态",
+      "title_zh": "Anthropic CEO携新模型Mythos会见白宫，五角大楼对AI能力表达担忧",
+      "summary_zh": "Anthropic CEO Dario Amodei携其最新万亿参数模型Mythos与白宫官员会面，讨论模型能力及政策含义。\n- Mythos被描述为当前最强大的AI模型之一，Amodei主动向美国政府展示其能力\n- 五角大楼对该模型的超越人类水平的分析和决策能力表达关切\n- 会议发生在中美AI竞争加剧背景下，DeepSeek V4已部署华为昇腾芯片、美国收紧对华芯片出口管制",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-04-17/anthropic-ceo-meets-white-house-officials-to-discuss-mythos-ai"
+        }
+      ],
+      "metrics": {},
+      "week": 3
     }
   ]
 }

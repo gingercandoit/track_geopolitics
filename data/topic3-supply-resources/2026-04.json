@@ -4,7 +4,7 @@
     "topic_name_zh": "能源安全与资源角力",
     "period_start": "2026-04-01",
     "period_end": "2026-04-30",
-    "generated_at": "2026-04-11T10:44:19+08:00",
+    "generated_at": "2026-04-18T23:54:00+08:00",
     "version": "1.0",
     "digest_zh": "",
     "overview": ""
@@ -137,6 +137,42 @@
       "footnotes": [
         "IRGC = Islamic Revolutionary Guard Corps（伊朗伊斯兰革命卫队）"
       ]
+    },
+    {
+      "date": "2026-04-17",
+      "type": "外交动态",
+      "title_zh": "霍尔木兹海峡全面重新开放，特朗普宣布伊朗将暂停核计划",
+      "summary_zh": "特朗普宣布伊朗同意暂停核计划，霍尔木兹海峡全面重新开放，国际油价应声大幅下跌。\n- 特朗普在社交媒体宣布伊朗将暂停核活动最长五年，海峡恢复全面通航\n- 据报道伊朗提出暂停核活动以换取制裁解除的框架性方案\n- 国际油价在消息发布后大幅下跌，全球能源市场紧张态势显著缓解\n- 此前海峡经历了从2月底关闭→4月8日条件性重开→4月9日再次关闭→4月10日限量15艘/日→4月17日全面开放的反复过程",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-04-17/trump-says-iran-will-suspend-nuclear-program-as-hormuz-opens"
+        },
+        {
+          "name": "Steptoe（停火与谈判背景）",
+          "url": "https://www.steptoe.com/en/news-publications/stepwise-risk-outlook/sanctions-update-april-13-2026.html"
+        }
+      ],
+      "metrics": {
+        "nuclear_suspension_years": 5
+      },
+      "week": 3
+    },
+    {
+      "date": "2026-04-17",
+      "type": "数据发布",
+      "title_zh": "海峡重开后油价大幅下跌，保险商仍持观望态度",
+      "summary_zh": "霍尔木兹海峡全面重新开放后，国际油价和美国汽油价格显著下跌，但海运保险商对全面恢复承保持谨慎态度。\n- 油价在海峡开放消息后出现近期最大单日跌幅，结束了持续数周的高位运行\n- 美国汽油价格开始回落，但仍远高于冲突前水平\n- Lloyd's of London等主要保险商表示将逐步恢复波斯湾航运保险承保，但要求更高保费并设置更严格条款\n- 保险商担忧停火脆弱性——此前4月8日停火不到24小时即告破裂的先例令市场保持警惕",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/04/17/nx-s1-5785167/hormuz-reopens-but-insurers-arent-ready-to-sound-the-all-clear"
+        }
+      ],
+      "metrics": {},
+      "week": 3
     }
   ]
 }

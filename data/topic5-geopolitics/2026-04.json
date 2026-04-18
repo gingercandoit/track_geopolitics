@@ -4,7 +4,7 @@
     "topic_name_zh": "地缘政治信息池",
     "period_start": "2026-04-01",
     "period_end": "2026-04-30",
-    "generated_at": "2026-04-11T10:44:19+08:00",
+    "generated_at": "2026-04-18T23:54:00+08:00",
     "version": "1.0",
     "digest_zh": "",
     "overview": ""
@@ -190,6 +190,85 @@
       ],
       "metrics": {},
       "week": 2
+    },
+    {
+      "date": "2026-04-12",
+      "type": "外交动态",
+      "title_zh": "副总统彭斯率美方代表团赴巴基斯坦与伊朗谈判，高层会谈未能达成协议",
+      "summary_zh": "副总统 JD Vance率领美方代表团前往巴基斯坦与伊朗方面进行周末谈判，但双方未能达成协议，高层会谈似乎已暂停。\n- 谈判在两周停火框架下进行，伊朗已向美方提交十点停战清单\n- 伊朗核心诉求包括：美方解除所有初级和次级制裁、联合国安理会终止所有涉伊决议\n- 特朗普此前已确认美方正在与伊朗讨论「关税和制裁解除」\n- 谈判破裂后特朗普宣布对霍尔木兹海峡实施「全面封锁」，美军中央司令部澄清仅封锁进出伊朗港口的船只",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "NYT",
+          "url": "https://www.nytimes.com/2026/04/12/us/jd-vance-pakistan-iran-war-talks.html"
+        },
+        {
+          "name": "NYT（封锁宣布）",
+          "url": "https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan"
+        },
+        {
+          "name": "Steptoe Sanctions Update",
+          "url": "https://www.steptoe.com/en/news-publications/stepwise-risk-outlook/sanctions-update-april-13-2026.html"
+        }
+      ],
+      "metrics": {
+        "iran_demand_points": 10
+      },
+      "week": 2
+    },
+    {
+      "date": "2026-04-15",
+      "type": "外交动态",
+      "title_zh": "普京宣布俄乌冲突东正教复活节停火，泽连斯基表示怀疑",
+      "summary_zh": "俄罗斯总统普京宣布在俄乌冲突前线实施东正教复活节停火，但乌克兰方面对其诚意表示怀疑。\n- 普京以4月20日东正教复活节为由宣布临时停火\n- 泽连斯基对停火诚意表示怀疑，指出俄方此前多次违反停火承诺\n- 停火为持续近三年的冲突提供了短暂喝息窗口\n- 这是在美伊停火、泽连斯基宣布对等停火后，俄乌前线的又一降温信号",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://apnews.com/article/russia-ukraine-ceasefire-easter-putin"
+        }
+      ],
+      "metrics": {},
+      "week": 3
+    },
+    {
+      "date": "2026-04-17",
+      "type": "外交动态",
+      "title_zh": "特朗普宣布伊朗将暂停核计划，霍尔木兹海峡全面开放",
+      "summary_zh": "特朗普宣布伊朗同意暂停核计划最长五年，霍尔木兹海峡全面重新开放，标志着美伊危机出现重大转折。\n- 据报道伊朗提出暂停核活动最长五年的框架性方案，以换取制裁解除\n- 海峡全面开放结束了自2月28日以来近七周的通航中断/受限状态\n- 全球油价应声大幅下跌，股市上涨，但分析师警告停火脆弱性仍高\n- 这是继VP Vance巴基斯坦谈判破裂、4月12日「完全封锁」宣布后，美伊关系的又一次剧烈摆动",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-04-17/trump-says-iran-will-suspend-nuclear-program-as-hormuz-opens"
+        },
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/04/17/nx-s1-5785167/hormuz-reopens-but-insurers-arent-ready-to-sound-the-all-clear"
+        }
+      ],
+      "metrics": {
+        "nuclear_suspension_years": 5,
+        "hormuz_closure_weeks": 7
+      },
+      "week": 3
+    },
+    {
+      "date": "2026-04-17",
+      "type": "外交动态",
+      "title_zh": "美国向德国提供120亿美元海军装备，强化北约欧洲防务",
+      "summary_zh": "美国宣布向德国提供120亿美元海军装备，在俄乌冲突持续和中东局势动荡背景下强化北约欧洲防务能力。\n- 该协议是美国近期最大对欧军售之一\n- 德国正大幅增加国防开支，向北约GDP 2%目标迈进\n- 协议发布时间与俄乌复活节停火、美伊核协议等多条地缘线索叠加",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-04-17/us-12-billion-naval-equipment-germany"
+        }
+      ],
+      "metrics": {
+        "deal_value_usd_billion": 12
+      },
+      "week": 3
     }
   ]
 }

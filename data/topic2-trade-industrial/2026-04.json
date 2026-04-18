@@ -4,7 +4,7 @@
     "topic_name_zh": "贸易与产业政策",
     "period_start": "2026-04-01",
     "period_end": "2026-04-30",
-    "generated_at": "2026-04-11T10:44:19+08:00",
+    "generated_at": "2026-04-18T23:54:00+08:00",
     "version": "1.0",
     "digest_zh": "",
     "overview": ""
@@ -120,6 +120,82 @@
         "IEEPA = International Emergency Economic Powers Act（国际紧急经济权力法）",
         "CIT = Court of International Trade（美国国际贸易法院）"
       ]
+    },
+    {
+      "date": "2026-04-10",
+      "type": "政策发布",
+      "title_zh": "CBP公布IEEPA关税退税流程：CAPE系统4月20日上线",
+      "summary_zh": "美国海关与边境保护局（CBP）发布IEEPA关税退税操作指南，宣布统一退税处理系统CAPE于4月20日启动第一阶段。\n- CBP上线专题页面「IEEPA Duty Refunds」并发布CSMS # 68315804公告，详述退税流程\n- Phase 1仅处理未清算入境和清算80天内的入境，进口商须通过ACE系统提交CAPE申报（CSV格式）\n- 进口商和报关行必须拥有ACE账户并设置ACH电子收款，CBP将仅以电子方式发放退款\n- CAPE申报经CBP验证后，ACE系统将对入境记录进行清算或重新清算以移除IEEPA税则编码\n- 退款将在申报被接受后60至90天内发放，除非存在「合规问题需进一步CBP审查」",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "美国CBP",
+          "url": "https://www.cbp.gov/trade/programs-administration/trade-remedies/ieepa-duty-refunds"
+        },
+        {
+          "name": "CBP CSMS公告",
+          "url": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4126a9c"
+        },
+        {
+          "name": "Diaz Trade Law",
+          "url": "https://customsandinternationaltradelaw.com/2026/04/15/ieepa-tariff-refund-updates/"
+        }
+      ],
+      "metrics": {
+        "cape_launch_date": "2026-04-20",
+        "refund_timeline_days": "60-90"
+      },
+      "week": 2,
+      "footnotes": [
+        "CAPE = Consolidated Administration and Processing of Entries（统一入境管理和处理系统）",
+        "ACE = Automated Commercial Environment（自动化商业环境系统）",
+        "ACH = Automated Clearing House（自动化清算系统，电子转账）"
+      ]
+    },
+    {
+      "date": "2026-04-15",
+      "type": "贸易调查",
+      "title_zh": "IEEPA关税案原告退出后案件转移，退税流程不受影响",
+      "summary_zh": "IEEPA关税退税诉讼的锚定案件发生程序性变动，但退税流程本身不受影响。\n- 4月6日原告Atmus Filtration提交撤诉通知退出案件，但法官Eaton随即解除Euro-Notions Florida案的中止令，退税程序转入该案继续推进\n- 4月7日Eaton法官发布新命令，再次要求CBP对所有入境记录（未清算、异议中、终结清算）移除IEEPA关税进行清算或重新清算\n- Diaz Trade Law持续建议进口商主动提起CIT诉讼以确保退税权利，因被告方的退税承诺可能面临上诉",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "CIT法院文件（Atmus撤诉）",
+          "url": "https://diaztradelaw.com/wp-content/uploads/2026/04/Atmus-Filtration-Dismissal.pdf"
+        },
+        {
+          "name": "CIT法院命令（4月7日）",
+          "url": "https://diaztradelaw.com/wp-content/uploads/2026/04/CIT-Order-Dated-April-7-2026-1.pdf"
+        },
+        {
+          "name": "Diaz Trade Law",
+          "url": "https://customsandinternationaltradelaw.com/2026/04/15/ieepa-tariff-refund-updates/"
+        }
+      ],
+      "metrics": {},
+      "week": 3
+    },
+    {
+      "date": "2026-04-13",
+      "type": "政策发布",
+      "title_zh": "特朗普威胁对向伊朗供应武器的国家征收50%关税",
+      "summary_zh": "特朗普在与伊朗达成两周停火后数小时内威胁，向伊朗提供军事武器的国家将面临出口至美国商品50%的即时关税。此举被广泛解读为针对中国——有报道指控中国企业向伊朗提供导弹燃料前体（高氯酸钠）、AI情报能力和芯片制造设备。国家经济委员会主任Hassett表示可通过IEEPA实施，尽管最高法院近期已否决IEEPA关税。Steptoe分析指出，截至2026年1月，特朗普政府仅全面执行了其关税威胁的27%。此前对与伊朗有业务往来国家征收25%关税的威胁也未实施。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Truth Social",
+          "url": "https://truthsocial.com/@realDonaldTrump/posts/116368854361048135"
+        },
+        {
+          "name": "Steptoe Sanctions Update",
+          "url": "https://www.steptoe.com/en/news-publications/stepwise-risk-outlook/sanctions-update-april-13-2026.html"
+        }
+      ],
+      "metrics": {
+        "threatened_tariff_rate": "50%",
+        "tariff_implementation_rate": "27%"
+      },
+      "week": 2
     }
   ]
 }

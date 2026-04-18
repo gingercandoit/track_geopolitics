@@ -4,7 +4,7 @@
     "topic_name_zh": "制裁与经济管制",
     "period_start": "2026-04-01",
     "period_end": "2026-04-30",
-    "generated_at": "2026-04-04T22:00:00+08:00",
+    "generated_at": "2026-04-18T23:54:00+08:00",
     "version": "1.0",
     "digest_zh": "",
     "overview": ""
@@ -32,6 +32,107 @@
       ],
       "metrics": {},
       "week": 1
+    },
+    {
+      "date": "2026-04-08",
+      "type": "制裁管制",
+      "title_zh": "OFAC延长俄罗斯央行交易许可至7月9日",
+      "summary_zh": "OFAC发布修订版俄罗斯相关通用许可GL 13Q，授权与俄罗斯央行、国家财富基金和财政部之间的特定行政交易（纳税、费用缴纳、进口关税、许可证购买等），将许可到期日从4月9日延长至2026年7月9日。同步更新FAQ 999和FAQ 1118，明确GL 13Q不授权支付俄罗斯「退出税」。此举延续美方在维持对俄制裁框架的同时为企业合规操作保留空间的策略。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "OFAC GL 13Q",
+          "url": "https://ofac.treasury.gov/media/935451/download?inline"
+        },
+        {
+          "name": "Steptoe Sanctions Update",
+          "url": "https://www.steptoe.com/en/news-publications/stepwise-risk-outlook/sanctions-update-april-13-2026.html"
+        }
+      ],
+      "metrics": {
+        "previous_expiry": "2026-04-09",
+        "new_expiry": "2026-07-09"
+      },
+      "week": 2
+    },
+    {
+      "date": "2026-04-08",
+      "type": "政策发布",
+      "title_zh": "OFAC与FinCEN联合发布GENIUS Act稳定币制裁合规拟议规则",
+      "summary_zh": "OFAC与金融犯罪执法网络（FinCEN）联合发布拟议规则，为GENIUS Act框架下的稳定币发行方建立反洗钱和制裁合规要求。规则将许可支付稳定币发行方（PPSIs）视为银行保密法下的金融机构，要求建立包含高管承诺、风险评估、内部控制、审计测试和培训五要素的有效制裁合规计划。公众评论期截至2026年6月9日。GENIUS Act是美国首个全面稳定币监管框架。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "美国财政部",
+          "url": "https://home.treasury.gov/news/press-releases/sb0435"
+        },
+        {
+          "name": "Federal Register拟议规则",
+          "url": "https://www.federalregister.gov/public-inspection/2026-06963/permitted-payment-stablecoin-issuer-anti-money-launderingcountering-the-financing-of-terrorism"
+        },
+        {
+          "name": "Steptoe Sanctions Update",
+          "url": "https://www.steptoe.com/en/news-publications/stepwise-risk-outlook/sanctions-update-april-13-2026.html"
+        }
+      ],
+      "metrics": {
+        "comment_deadline": "2026-06-09"
+      },
+      "week": 2,
+      "footnotes": [
+        "GENIUS Act = Guiding and Establishing National Innovation for U.S. Stablecoins Act",
+        "PPSIs = Permitted Payment Stablecoin Issuers（许可支付稳定币发行方）",
+        "FinCEN = Financial Crimes Enforcement Network（金融犯罪执法网络）"
+      ]
+    },
+    {
+      "date": "2026-04-09",
+      "type": "政策发布",
+      "title_zh": "美国众议院提出《终止俄罗斯石油暴利法案》废除OFAC石油许可",
+      "summary_zh": "众议院外交事务委员会资深成员Meeks和Keating提出H.R. 8222法案，要求废除OFAC此前发放的两项俄罗斯石油销售通用许可（GL 133和GL 134A）。这两项许可在伊朗冲突期间发放，授权俄罗斯原油向印度交付以缓解市场压力。法案还将禁止OFAC未来发放类似授权俄罗斯石油交易的许可，并要求总统在30天内对从事石油开采、炼制和海运的俄罗斯实体实施制裁。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "美国国会",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/8222"
+        },
+        {
+          "name": "众议院外交事务委员会",
+          "url": "https://democrats-foreignaffairs.house.gov/2026/4/meeks-keating-introduce-bill-to-terminate-russian-oil-licenses-and-sanction-russian-oil-companies"
+        },
+        {
+          "name": "Steptoe Sanctions Update",
+          "url": "https://www.steptoe.com/en/news-publications/stepwise-risk-outlook/sanctions-update-april-13-2026.html"
+        }
+      ],
+      "metrics": {},
+      "week": 2
+    },
+    {
+      "date": "2026-04-13",
+      "type": "制裁管制",
+      "title_zh": "印度在美国制裁豁免下恢复接收伊朗原油，2019年来首次",
+      "summary_zh": "印度在美国制裁临时豁免框架下恢复接收伊朗原油，为2019年以来首次。印度航运部为信实工业（Reliance Industries）请求，向四艘运载伊朗原油的油轮发放西卡港（Sikka）一次性靠泊许可。油轮追踪数据显示，自3月20日OFAC发放通用许可GL U以来，约200万桶伊朗原油已抵达印度。此举发生在中东冲突导致全球原油供应紧张、各国对制裁合规与航运法规审查加强的背景下。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/west-asia-war-india-permits-iranian-oil-tankers-to-berth-for-reliance-sources-say/articleshow/130177432.cms"
+        },
+        {
+          "name": "Anadolu Agency",
+          "url": "https://www.aa.com.tr/en/economy/iranian-crude-reaches-india-under-sanctions-waiver-since-march-20-tankertrackers-data/3900808"
+        },
+        {
+          "name": "Steptoe Sanctions Update",
+          "url": "https://www.steptoe.com/en/news-publications/stepwise-risk-outlook/sanctions-update-april-13-2026.html"
+        }
+      ],
+      "metrics": {
+        "barrels_since_waiver": 2000000,
+        "waiver_start_date": "2026-03-20"
+      },
+      "week": 2
     }
   ]
 }
