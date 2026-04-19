@@ -26,6 +26,25 @@
       "week": 1
     },
     {
+      "date": "2026-04-02",
+      "type": "外交动态",
+      "title_zh": "中国外交部就霍尔木兹海峡危机连续表态",
+      "summary_zh": "中国外交部在一周内两次就霍尔木兹海峡局势公开表态，将通航受阻定性为美以军事行动后果。\n- 4月2日毛宁回应特朗普建议各国\"去霍尔木兹海峡抢石油\"：通航受阻根源是美国和以色列对伊朗的非法军事行动，只有停火止战才能从根本上维护国际航道安全畅通\n- 4月8日毛宁就伊朗拟对通过海峡的船只收取航运费表态：霍尔木兹海峡是重要能源贸易通道，维护这一地区安全稳定和畅通符合国际社会共同利益\n- 中方将危机根源归咎于美以军事行动，与美方\"航行自由\"叙事形成明确对照",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "外交部发言人办公室（环球时报转载4/2表态）",
+          "url": "https://mp.weixin.qq.com/s/entmuaeNvUxfRYx2bOW5fQ"
+        },
+        {
+          "name": "外交部发言人办公室（环球时报转载4/8表态）",
+          "url": "https://mp.weixin.qq.com/s/cIKRitidwNViW1iecFjhFA"
+        }
+      ],
+      "metrics": {},
+      "week": 1
+    },
+    {
       "date": "2026-04-05",
       "type": "国际机构",
       "title_zh": "OPEC+同意5月增产20.6万桶/日，附霍尔木兹海峡开放条件",
@@ -86,25 +105,6 @@
       "footnotes": [
         "EIA = Energy Information Administration（美国能源信息署，能源部下属）"
       ]
-    },
-    {
-      "date": "2026-04-02",
-      "type": "外交动态",
-      "title_zh": "中国外交部就霍尔木兹海峡危机连续表态",
-      "summary_zh": "中国外交部在一周内两次就霍尔木兹海峡局势公开表态，将通航受阻定性为美以军事行动后果。\n- 4月2日毛宁回应特朗普建议各国\"去霍尔木兹海峡抢石油\"：通航受阻根源是美国和以色列对伊朗的非法军事行动，只有停火止战才能从根本上维护国际航道安全畅通\n- 4月8日毛宁就伊朗拟对通过海峡的船只收取航运费表态：霍尔木兹海峡是重要能源贸易通道，维护这一地区安全稳定和畅通符合国际社会共同利益\n- 中方将危机根源归咎于美以军事行动，与美方\"航行自由\"叙事形成明确对照",
-      "source_tier": "A",
-      "sources": [
-        {
-          "name": "外交部发言人办公室（环球时报转载4/2表态）",
-          "url": "https://mp.weixin.qq.com/s/entmuaeNvUxfRYx2bOW5fQ"
-        },
-        {
-          "name": "外交部发言人办公室（环球时报转载4/8表态）",
-          "url": "https://mp.weixin.qq.com/s/cIKRitidwNViW1iecFjhFA"
-        }
-      ],
-      "metrics": {},
-      "week": 1
     },
     {
       "date": "2026-04-09",
@@ -169,6 +169,52 @@
         {
           "name": "NPR",
           "url": "https://www.npr.org/2026/04/17/nx-s1-5785167/hormuz-reopens-but-insurers-arent-ready-to-sound-the-all-clear"
+        }
+      ],
+      "metrics": {},
+      "week": 3
+    },
+    {
+      "date": "2026-04-18",
+      "type": "外交动态",
+      "title_zh": "霍尔木兹海峡重开不到24小时再度关闭，伊朗称美方“违背承诺”",
+      "summary_zh": "霍尔木兹海峡局势在24小时内急剧反转，伊朗宣布恢复对海峡的军事控制。据新华社报道，伊朗军方发言人4月18日称，因美国“屡次违背承诺”，对霍尔木兹海峡的控制权已恢复到此前状态，海峡处于伊朗武装部队的严格管理和控制之下。此前4月17日伊朗刚宣布全面开放海峡。FT报道伊朗声称对海峡拥有“严格控制”，称在美国解除封锁前不会完全重新开放。多家媒体报道有船只在海峡内遭遇枪击，IRGC被指攻击商船。美军据WSJ报道正准备在未来数日内登检伊朗关联船只。伊朗同时发布霍尔木兹海峡通行新规。油价在前一日大跌后重新承压。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "新华社",
+          "url": "https://mp.weixin.qq.com/s/s-dEP6kNHJs92AiCJLAsRg"
+        },
+        {
+          "name": "环球时报",
+          "url": "https://mp.weixin.qq.com/s/EmKSRCOD294oGew5cVsliQ"
+        },
+        {
+          "name": "FT",
+          "url": "https://www.ft.com/content/iran-strict-control-strait-of-hormuz"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-04-18/us-preparing-to-board-iran-linked-ships"
+        },
+        {
+          "name": "WSJ",
+          "url": "https://www.wsj.com/world/middle-east/u-s-military-prepares-to-board-iran-linked-ships"
+        }
+      ],
+      "metrics": {},
+      "week": 3
+    },
+    {
+      "date": "2026-04-18",
+      "type": "企业动态",
+      "title_zh": "中国与土库曼斯坦深化天然气合作，新管道项目破土动工",
+      "summary_zh": "中国在霍尔木兹海峡持续动荡背景下加速能源供应多元化，与土库曼斯坦的天然气合作取得实质进展。据Bloomberg报道，中国与土库曼斯坦天然气管道新项目破土动工，标志双方能源合作深化。土库曼斯坦是中国最大的管道天然气供应国，中亚天然气管道已运营多年。新项目将进一步扩大中国陆上天然气进口能力，降低对海上能源通道的依赖。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-04-18/china-turkmenistan-deepen-gas-ties"
         }
       ],
       "metrics": {},

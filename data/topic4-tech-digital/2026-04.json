@@ -89,6 +89,21 @@
       ],
       "metrics": {},
       "week": 3
+    },
+    {
+      "date": "2026-04-18",
+      "type": "企业动态",
+      "title_zh": "字节跳动和腾讯加大AI人才争夺，DeepSeek研究员据报离职",
+      "summary_zh": "中国AI行业人才竞争加剧，头部企业围绕大模型研发团队展开争夺。据SCMP报道，字节跳动和腾讯正加大AI人才招募力度，DeepSeek研究团队据报出现人员流动。此前DeepSeek V4成功部署华为昇腾950 PR（4月7日），证明中国AI生态可脱离NVIDIA CUDA运行，使得掌握国产芯片适配经验的研发人才身价倍增。人才争夺折射出中国AI产业在美国出口管制压力下加速自主化的底层驱动力。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "SCMP",
+          "url": "https://www.scmp.com/tech/big-tech/article/bytedance-tencent-ai-talent-battle-deepseek"
+        }
+      ],
+      "metrics": {},
+      "week": 3
     }
   ]
 }

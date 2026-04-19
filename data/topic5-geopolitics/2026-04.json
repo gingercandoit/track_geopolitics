@@ -98,6 +98,21 @@
       "week": 1
     },
     {
+      "date": "2026-04-07",
+      "type": "外交动态",
+      "title_zh": "中国否决安理会涉霍尔木兹海峡决议草案，称避免局势升级",
+      "summary_zh": "中国在联合国安理会对涉霍尔木兹海峡决议草案行使否决权，成为该轮危机中的关键外交节点。中国常驻联合国代表傅聪4月16日在联大关于否决权使用问题会议上解释：中方4月7日否决巴林代表海湾国家提出的决议草案，认为安理会行动应着眼于缓和局势，不能给未经授权的军事行动披上合法外衣、不能给使用武力开通行证。傅聪表示中方不认同伊朗对海湾国家的袭击，呼吁伊朗尽快恢复海峡正常通航，同时批评美国加码军事部署是危险和不负责任的行为。傅聪称否决守护了国际公平正义，为达成临时停火创造了条件——实际上4月8日美伊即达成两周停火。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "新华社WeChat",
+          "url": "https://mp.weixin.qq.com/s/ShpO8ikGn7rN3_15Rgr_Gg"
+        }
+      ],
+      "metrics": {},
+      "week": 1
+    },
+    {
       "date": "2026-04-08",
       "type": "外交动态",
       "title_zh": "美国与伊朗达成两周停火，霍尔木兹海峡将有条件重新开放",
@@ -268,6 +283,57 @@
       "metrics": {
         "deal_value_usd_billion": 12
       },
+      "week": 3
+    },
+    {
+      "date": "2026-04-18",
+      "type": "外交动态",
+      "title_zh": "法国驻黎巴嫩UNIFIL维和士兵在袭击中阵亡",
+      "summary_zh": "法国在黎巴嫩维和行动中首次出现士兵阵亡，标志冲突对联合国维和部队的威胁升级。一名隶属联合国驻黎巴嫩临时部队（UNIFIL）的法国士兵在黎巴嫩南部遭袭身亡。事件发生在以色列与黎巴嫩真主党冲突持续升级的背景下，UNIFIL部队多次报告遭受交火威胁。法国是UNIFIL的主要贡献国之一，此次阵亡可能影响法国国内对维和参与的政治支持。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/4/18/french-soldier-unifil-killed-lebanon"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/world-middle-east-french-peacekeeper-killed-lebanon"
+        }
+      ],
+      "metrics": {},
+      "week": 3
+    },
+    {
+      "date": "2026-04-18",
+      "type": "外交动态",
+      "title_zh": "秘鲁推迟20亿美元F-16交易，引发美国不满",
+      "summary_zh": "拉美地缘政治格局出现新变量，秘鲁推迟与美国的大额军购引发华盛顿强烈反应。据Bloomberg报道，秘鲁推迟了价值约20亿美元的F-16战斗机采购计划。此举引发美国不满，被视为拉美国家在大国竞争中保留战略灵活性的信号。秘鲁此前曾考虑多种战斗机方案，推迟决定可能与财政压力、替代供应商竞争或国内政治因素有关。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-04-18/peru-delays-f-16-deal-drawing-us-backlash"
+        }
+      ],
+      "metrics": {
+        "deal_value_usd": 2000000000
+      },
+      "week": 3
+    },
+    {
+      "date": "2026-04-18",
+      "type": "外交动态",
+      "title_zh": "巴西总统卢拉在联合国痛批安理会为“战争贩子”",
+      "summary_zh": "全球南方对现行国际秩序的批评力度升级，巴西总统卢拉在联合国公开抨击安理会。卢拉在联合国发言中将安理会常任理事国称为“战争贩子”（Lords of war），批评其在全球冲突中的角色。这一罕见的公开攻击反映了全球南方对安理会改革的持续诉求，以及新兴大国对现有多边机制失能的不满。巴西长期推动安理会改革，包括扩大常任理事国席位。",
+      "source_tier": "C",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/4/18/lords-of-war-brazil-president-condemns-un-security-council"
+        }
+      ],
+      "metrics": {},
       "week": 3
     }
   ]

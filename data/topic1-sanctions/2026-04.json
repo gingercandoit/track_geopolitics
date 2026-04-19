@@ -133,6 +133,73 @@
         "waiver_start_date": "2026-03-20"
       },
       "week": 2
+    },
+    {
+      "date": "2026-04-13",
+      "type": "政策发布",
+      "title_zh": "中国国务院颁布反域外适用法规，正式建立“恶意实体清单”制度",
+      "summary_zh": "中国反制裁法律工具箱完成重大制度升级，首次在行政法规层面正式建立“恶意实体清单”。国务院总理李强签署令，颁布《中华人民共和国反外国不当域外适用法规》，即日生效。法规共20条，建立识别、阻断、反制一体化框架，将此前散落在部门规章层级的阻断规则和“不可靠实体清单”整合为行政法规，标志中国从被动防御转向主动运用管制工具。列入“恶意实体清单”的外国实体可面临签证限制、资产冻结、禁止与中国实体交易、限制贸易投资、限制产品入境及罚款等综合措施。法规还首次限制数据和个人信息的跨境转移，扩大了反制裁工具的覆盖范围。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "中国国务院/司法部",
+          "url": ""
+        },
+        {
+          "name": "Geopolitechs",
+          "url": "https://www.geopolitechs.org/p/china-unveils-new-rules-to-crack"
+        }
+      ],
+      "metrics": {
+        "articles": 20
+      },
+      "week": 2
+    },
+    {
+      "date": "2026-04-14",
+      "type": "制裁管制",
+      "title_zh": "OFAC多线行动：制裁贩毒赌场网络+修订Lukoil许可+放宽委内瑞拉制裁",
+      "summary_zh": "OFAC在同一日发布反毒品、反恐、俄罗斯和委内瑞拉四条线的制裁行动。反毒品/反恐方面，新增3名个人和3家赌场实体至SDN名单，均关联墨西哥东北卡特尔（Cartel del Noreste），同时发布反恐通用许可GL35授权30天清仓交易。俄罗斯方面，发布GL 128C授权Lukoil在俄罗斯境外零售加油站交易，GL 130A授权Lukoil保加利亚实体交易，修订FAQ 1225。委内瑞拉方面，发布GL 56授权与委政府的商业谈判，GL 57授权与特定委内瑞拉银行的金融服务交易，移除一名委内瑞拉个人出SDN名单，并公布TSRA季度许可报告。四线并行显示OFAC高密度运转模式延续。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "OFAC",
+          "url": "https://ofac.treasury.gov/recent-actions/20260414"
+        },
+        {
+          "name": "OFAC",
+          "url": "https://ofac.treasury.gov/recent-actions/20260414_33"
+        },
+        {
+          "name": "Treasury Press Release",
+          "url": "https://home.treasury.gov/news/press-releases/sb0440"
+        },
+        {
+          "name": "GovPing/Steptoe",
+          "url": "https://changeflow.com/govping/trade-sanctions/ofac-sanctions-mexican-cartels-drug-trafficking-groups-2026-04-14"
+        }
+      ],
+      "metrics": {
+        "individuals_added": 3,
+        "entities_added": 3,
+        "general_licenses": 4
+      },
+      "week": 2
+    },
+    {
+      "date": "2026-04-17",
+      "type": "制裁管制",
+      "title_zh": "美国国务院就苏丹冲突三周年发布制裁并呼吁人道主义停火",
+      "summary_zh": "美国国务院在苏丹冲突爆发三周年之际发布新一轮制裁，同时呼吁冲突各方实施人道主义停火。制裁针对苏丹冲突相关责任方，旨在追究暴力行为和阻碍人道主义援助的责任人。此举延续了美国自2023年4月苏丹内战爆发以来的制裁压力策略，将制裁工具与人道主义外交结合使用。",
+      "source_tier": "A",
+      "sources": [
+        {
+          "name": "U.S. State Department",
+          "url": "https://www.state.gov/marking-three-years-of-conflict-in-sudan-with-sanctions-and-appeal-for-humanitarian-truce/"
+        }
+      ],
+      "metrics": {},
+      "week": 3
     }
   ]
 }

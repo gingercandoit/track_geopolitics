@@ -29,7 +29,7 @@ import requests
 # ─────────────────────────────────────────────────────
 
 BASE_URL = os.environ.get("WECHAT_ARTICLE_EXPORTER_BASE_URL", "https://down.mptext.top")
-AUTH_KEY = "3e0037adcad742ef8560d4d325bcc3d8"
+AUTH_KEY = "75d1c675ebbf487099b1830ff00c11c3"
 TAG_RE = re.compile(r"<[^>]+>")
 
 

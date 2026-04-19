@@ -219,7 +219,7 @@ https://www.ft.com/world?format=rss                   # FT World
 
 #### 微信公众号搜索（中方A/C层信源主力）
 
-- **API**：`https://down.mptext.top`，认证 key `3e0037adcad742ef8560d4d325bcc3d8`（`X-Auth-Key` header）
+- **API**：`https://down.mptext.top`，认证 key `75d1c675ebbf487099b1830ff00c11c3`（`X-Auth-Key` header）
 - **两个端点**：`/api/public/v1/account`（搜账号 → 获取 fakeid）、`/api/public/v1/article`（按 fakeid 搜文章）
 - **6个已配置账号**：
 
